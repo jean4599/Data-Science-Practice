@@ -1,0 +1,17 @@
+Dataset 1
+C:1
+kernel: RBF
+
+Dataset 2
+C:1
+kernel: RBF
+
+Dataset 3
+C:20
+kernel: RBF
+gamma=0.01
+
+Dataset 4
+C:10
+kernel: RBF
+gamma=0.03
