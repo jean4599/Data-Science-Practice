@@ -362,7 +362,7 @@ int main(int argc, char* argv[])
     min_support_percent = atof(argv[1]);
     input_file = argv[2];
     output_file = argv[3];
-    //cout << "min_support: " << min_support_percent << " input_file " << input_file << " output_file " << output_file;
+    cout << "min_support: " << min_support_percent << " input_file " << input_file << " output_file " << output_file;
     // Input Data and Build FList
     freopen(input_file.c_str (), "r", stdin);
     vector<vector<Item> > transactions;

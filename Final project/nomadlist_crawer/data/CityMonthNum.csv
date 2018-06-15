@@ -1,0 +1,11935 @@
+country,month,num
+New York City,8,2
+New York City,5,13
+New York City,2,3
+New York City,4,13
+New York City,6,3
+New York City,9,1
+New York City,12,1
+New York City,3,3
+New York City,1,3
+New York City,11,1
+New York City,10,3
+New York City,7,1
+Prague,7,47
+Prague,3,17
+Prague,6,40
+Prague,11,16
+Prague,10,28
+Prague,8,31
+Prague,9,30
+Prague,2,14
+Prague,12,14
+Prague,4,19
+Prague,5,33
+Prague,1,13
+Thessaloniki,6,2
+Thessaloniki,9,2
+Thessaloniki,10,5
+Thessaloniki,5,3
+Thessaloniki,12,2
+Thessaloniki,2,3
+Thessaloniki,3,1
+Thessaloniki,1,2
+Thessaloniki,7,1
+Thessaloniki,8,1
+Rome,6,20
+Rome,12,10
+Rome,9,20
+Rome,4,16
+Rome,7,22
+Rome,5,28
+Rome,1,16
+Rome,8,16
+Rome,10,16
+Rome,11,18
+Rome,2,13
+Rome,3,9
+Antwerp,6,4
+Antwerp,7,2
+Antwerp,11,3
+Antwerp,10,4
+Antwerp,5,3
+Antwerp,12,4
+Antwerp,9,2
+Antwerp,4,3
+Antwerp,3,2
+Antwerp,2,1
+Brussels,6,13
+Brussels,11,16
+Brussels,9,12
+Brussels,1,10
+Brussels,8,10
+Brussels,7,19
+Brussels,2,11
+Brussels,5,13
+Brussels,4,12
+Brussels,12,12
+Brussels,10,14
+Brussels,3,10
+Nairobi,6,7
+Nairobi,10,2
+Nairobi,2,1
+Nairobi,11,6
+Nairobi,1,2
+Nairobi,5,5
+Nairobi,12,2
+Nairobi,4,2
+Nairobi,7,4
+Nairobi,8,3
+Nairobi,3,1
+Kiev,6,10
+Kiev,4,10
+Kiev,1,4
+Kiev,8,12
+Kiev,7,9
+Kiev,10,6
+Kiev,5,10
+Kiev,12,5
+Kiev,9,6
+Kiev,2,3
+Kiev,11,4
+Kiev,3,5
+Amsterdam,5,48
+Amsterdam,11,40
+Amsterdam,3,36
+Amsterdam,12,46
+Amsterdam,9,49
+Amsterdam,10,41
+Amsterdam,6,55
+Amsterdam,1,39
+Amsterdam,2,40
+Amsterdam,4,55
+Amsterdam,7,36
+Amsterdam,8,44
+Panama City,4,2
+Panama City,2,5
+Panama City,3,8
+Panama City,10,13
+Panama City,6,4
+Panama City,7,2
+Panama City,9,3
+Panama City,1,5
+Panama City,11,4
+Panama City,5,2
+Panama City,8,1
+Panama City,12,3
+"New York City, NY",4,71
+"New York City, NY",11,57
+"New York City, NY",8,66
+"New York City, NY",7,61
+"New York City, NY",2,40
+"New York City, NY",6,65
+"New York City, NY",3,58
+"New York City, NY",1,61
+"New York City, NY",10,70
+"New York City, NY",9,64
+"New York City, NY",5,67
+"New York City, NY",12,74
+Avignon,3,1
+Avignon,12,2
+Avignon,8,1
+Avignon,7,2
+Santa Catalina,2,1
+Santa Catalina,12,1
+Santa Catalina,3,1
+San José Province,1,3
+San José Province,12,2
+San José Province,8,2
+San José Province,2,3
+San José Province,6,1
+San José Province,4,1
+San José Province,3,1
+Bocas del Toro,11,2
+Bocas del Toro,10,5
+Bocas del Toro,1,2
+Bocas del Toro,3,1
+Bocas del Toro,4,1
+Bocas del Toro,6,2
+Bocas del Toro,12,1
+Bocas del Toro,2,1
+Puerto Viejo,11,2
+Puerto Viejo,10,1
+Puerto Viejo,1,2
+Puerto Viejo,3,4
+Puerto Viejo,6,2
+Puerto Viejo,2,1
+Puerto Viejo,5,3
+Puerto Viejo,12,1
+Puerto Viejo,7,1
+San José,11,7
+San José,8,3
+San José,1,5
+San José,9,4
+San José,5,5
+San José,10,5
+San José,6,2
+San José,4,6
+San José,3,6
+San José,7,2
+San José,2,2
+San José,12,2
+Del Coco Beach,8,1
+Del Coco Beach,3,1
+Playas del Coco,8,1
+"Detroit, MI",2,3
+"Detroit, MI",9,3
+"Detroit, MI",11,4
+"Detroit, MI",10,5
+"Detroit, MI",6,3
+"Detroit, MI",5,4
+"Detroit, MI",3,2
+"Detroit, MI",1,4
+"Detroit, MI",8,6
+"Detroit, MI",12,3
+"Detroit, MI",7,3
+"Detroit, MI",4,4
+Seoul,2,20
+Seoul,10,21
+Seoul,6,18
+Seoul,3,29
+Seoul,9,17
+Seoul,12,15
+Seoul,5,35
+Seoul,4,25
+Seoul,8,19
+Seoul,1,10
+Seoul,7,13
+Seoul,11,18
+Bangkok,2,129
+Bangkok,12,114
+Bangkok,11,127
+Bangkok,7,57
+Bangkok,10,88
+Bangkok,3,103
+Bangkok,9,72
+Bangkok,1,126
+Bangkok,8,50
+Bangkok,5,60
+Bangkok,4,99
+Bangkok,6,50
+Luang Prabang,2,5
+Luang Prabang,12,2
+Luang Prabang,11,2
+Luang Prabang,10,3
+Luang Prabang,5,4
+Luang Prabang,6,3
+Luang Prabang,3,4
+Luang Prabang,1,2
+Luang Prabang,7,3
+Luang Prabang,4,1
+Luang Prabang,8,1
+Mueang Chiang Rai,2,6
+Mueang Chiang Rai,1,3
+Mueang Chiang Rai,4,1
+Mueang Chiang Rai,3,1
+Mueang Chiang Rai,5,1
+Mueang Chiang Rai,12,1
+Hanoi,1,23
+Hanoi,10,16
+Hanoi,6,12
+Hanoi,5,21
+Hanoi,12,25
+Hanoi,4,20
+Hanoi,2,21
+Hanoi,11,25
+Hanoi,8,7
+Hanoi,9,11
+Hanoi,7,5
+Hanoi,3,22
+Ho Chi Minh City,1,41
+Ho Chi Minh City,2,40
+Ho Chi Minh City,3,43
+Ho Chi Minh City,5,24
+Ho Chi Minh City,8,16
+Ho Chi Minh City,9,17
+Ho Chi Minh City,6,25
+Ho Chi Minh City,12,37
+Ho Chi Minh City,4,30
+Ho Chi Minh City,11,36
+Ho Chi Minh City,7,15
+Ho Chi Minh City,10,19
+Kuala Lumpur,1,52
+Kuala Lumpur,12,50
+Kuala Lumpur,4,48
+Kuala Lumpur,11,34
+Kuala Lumpur,9,30
+Kuala Lumpur,2,51
+Kuala Lumpur,7,38
+Kuala Lumpur,8,24
+Kuala Lumpur,3,63
+Kuala Lumpur,10,35
+Kuala Lumpur,6,40
+Kuala Lumpur,5,34
+Bali,1,4
+Bali,7,3
+Bali,10,3
+Bali,12,3
+Bali,3,7
+Bali,9,3
+Bali,8,4
+Bali,6,4
+Bali,11,2
+Bali,4,5
+Bali,2,1
+Singapore,1,58
+Singapore,11,41
+Singapore,7,26
+Singapore,3,45
+Singapore,10,35
+Singapore,9,32
+Singapore,2,52
+Singapore,6,36
+Singapore,4,41
+Singapore,12,41
+Singapore,5,46
+Singapore,8,22
+Ko Pha Ngan,12,19
+Ko Pha Ngan,10,8
+Ko Pha Ngan,1,15
+Ko Pha Ngan,5,8
+Ko Pha Ngan,7,7
+Ko Pha Ngan,4,8
+Ko Pha Ngan,2,14
+Ko Pha Ngan,3,23
+Ko Pha Ngan,9,6
+Ko Pha Ngan,11,9
+Ko Pha Ngan,8,10
+Ko Pha Ngan,6,3
+Phnom Penh,11,18
+Phnom Penh,9,7
+Phnom Penh,5,5
+Phnom Penh,12,17
+Phnom Penh,10,4
+Phnom Penh,1,15
+Phnom Penh,2,8
+Phnom Penh,4,10
+Phnom Penh,3,11
+Phnom Penh,6,7
+Phnom Penh,8,6
+Phnom Penh,7,3
+Vienna,11,14
+Vienna,5,28
+Vienna,10,16
+Vienna,6,23
+Vienna,3,13
+Vienna,7,28
+Vienna,1,15
+Vienna,12,14
+Vienna,2,6
+Vienna,8,13
+Vienna,4,15
+Vienna,9,22
+Paris,11,47
+Paris,9,47
+Paris,5,57
+Paris,8,57
+Paris,6,72
+Paris,1,36
+Paris,4,57
+Paris,12,51
+Paris,10,50
+Paris,3,53
+Paris,7,53
+Paris,2,33
+Beijing,10,15
+Beijing,1,9
+Beijing,11,12
+Beijing,6,12
+Beijing,5,12
+Beijing,3,12
+Beijing,8,9
+Beijing,7,7
+Beijing,2,11
+Beijing,9,5
+Beijing,12,8
+Beijing,4,5
+Ulaanbaatar,9,4
+Ulaanbaatar,6,1
+Ulaanbaatar,8,1
+Ulaanbaatar,4,2
+Ulaanbaatar,10,1
+Ulaanbaatar,5,1
+Ulaanbaatar,2,2
+Ulaanbaatar,3,1
+Ulaanbaatar,7,1
+Irkutsk,9,2
+Irkutsk,6,2
+Irkutsk,7,1
+Irkutsk,8,1
+Irkutsk,3,1
+Yekaterinburg,9,2
+Yekaterinburg,8,1
+Moscow,9,15
+Moscow,5,12
+Moscow,3,13
+Moscow,1,14
+Moscow,8,14
+Moscow,6,17
+Moscow,12,13
+Moscow,4,12
+Moscow,11,15
+Moscow,2,8
+Moscow,10,13
+Moscow,7,16
+Saint Petersburg,9,9
+Saint Petersburg,11,7
+Saint Petersburg,8,8
+Saint Petersburg,6,15
+Saint Petersburg,10,6
+Saint Petersburg,1,4
+Saint Petersburg,7,8
+Saint Petersburg,4,5
+Saint Petersburg,5,9
+Saint Petersburg,12,8
+Saint Petersburg,2,3
+Saint Petersburg,3,8
+Vilnius,9,5
+Vilnius,5,5
+Vilnius,6,7
+Vilnius,4,2
+Vilnius,2,4
+Vilnius,1,6
+Vilnius,10,3
+Vilnius,7,9
+Vilnius,3,2
+Vilnius,8,5
+Vilnius,11,4
+Vilnius,12,4
+Bialystok,9,1
+Bialystok,4,1
+Bialystok,5,1
+Warsaw,9,9
+Warsaw,2,11
+Warsaw,6,11
+Warsaw,10,9
+Warsaw,7,17
+Warsaw,11,10
+Warsaw,4,12
+Warsaw,3,14
+Warsaw,8,10
+Warsaw,1,3
+Warsaw,5,8
+Warsaw,12,7
+London,9,85
+London,1,81
+London,10,70
+London,11,58
+London,8,74
+London,6,100
+London,7,88
+London,4,86
+London,3,82
+London,5,85
+London,12,73
+London,2,61
+Liberia,4,1
+Liberia,2,1
+Liberia,10,2
+Liberia,9,2
+Liberia,8,1
+Liberia,6,1
+Liberia,3,1
+Liberia,1,3
+Asuncion,3,2
+Asuncion,8,3
+Asuncion,2,2
+Asuncion,7,1
+Asuncion,4,2
+Asuncion,10,1
+Foz do Iguaçu,3,3
+Foz do Iguaçu,12,1
+Foz do Iguaçu,9,1
+Foz do Iguaçu,5,1
+Foz do Iguaçu,11,1
+Puerto Iguazú,3,2
+Puerto Iguazú,12,2
+Puerto Iguazú,11,2
+Colonia Department,3,2
+Colonia Department,1,1
+Colonia Department,2,1
+Santiago,3,15
+Santiago,12,12
+Santiago,2,8
+Santiago,5,9
+Santiago,1,9
+Santiago,4,15
+Santiago,6,7
+Santiago,10,7
+Santiago,7,4
+Santiago,11,9
+Santiago,8,5
+Santiago,9,4
+Buenos Aires,3,29
+Buenos Aires,12,16
+Buenos Aires,1,30
+Buenos Aires,2,24
+Buenos Aires,4,21
+Buenos Aires,10,10
+Buenos Aires,9,13
+Buenos Aires,5,12
+Buenos Aires,6,6
+Buenos Aires,11,23
+Buenos Aires,8,6
+Buenos Aires,7,8
+Antarctica,2,1
+Antarctica,12,1
+Antarctica,3,1
+Juneau,11,1
+Juneau,4,1
+Juneau,5,1
+Juneau,9,1
+"San Francisco, CA",9,49
+"San Francisco, CA",6,52
+"San Francisco, CA",10,53
+"San Francisco, CA",2,54
+"San Francisco, CA",1,58
+"San Francisco, CA",5,69
+"San Francisco, CA",12,58
+"San Francisco, CA",8,50
+"San Francisco, CA",7,56
+"San Francisco, CA",11,65
+"San Francisco, CA",4,61
+"San Francisco, CA",3,69
+King Salmon,9,1
+Tbilisi,3,4
+Tbilisi,8,3
+Tbilisi,7,4
+Tbilisi,9,7
+Tbilisi,5,6
+Tbilisi,6,6
+Tbilisi,2,1
+Tbilisi,1,2
+Tbilisi,11,3
+Tbilisi,10,2
+Tbilisi,4,4
+Unawatuna,3,1
+Unawatuna,2,1
+Hikkaduwa,2,1
+Hikkaduwa,1,1
+Hikkaduwa,3,2
+Hikkaduwa,12,1
+Colombo,2,8
+Colombo,1,9
+Colombo,4,6
+Colombo,11,4
+Colombo,12,6
+Colombo,5,5
+Colombo,6,1
+Colombo,3,5
+Colombo,9,2
+Colombo,8,1
+Colombo,7,1
+"Canggu, Bali",4,42
+"Canggu, Bali",10,22
+"Canggu, Bali",3,45
+"Canggu, Bali",7,17
+"Canggu, Bali",2,34
+"Canggu, Bali",1,45
+"Canggu, Bali",12,26
+"Canggu, Bali",11,31
+"Canggu, Bali",6,18
+"Canggu, Bali",5,31
+"Canggu, Bali",9,15
+"Canggu, Bali",8,17
+Lisbon,11,52
+Lisbon,9,53
+Lisbon,8,35
+Lisbon,5,45
+Lisbon,4,41
+Lisbon,6,57
+Lisbon,2,29
+Lisbon,10,40
+Lisbon,3,22
+Lisbon,12,22
+Lisbon,1,32
+Lisbon,7,37
+Barcelona,9,59
+Barcelona,12,31
+Barcelona,6,73
+Barcelona,1,36
+Barcelona,5,48
+Barcelona,7,56
+Barcelona,3,41
+Barcelona,10,46
+Barcelona,4,37
+Barcelona,11,38
+Barcelona,8,56
+Barcelona,2,40
+Cordoba,12,3
+Cordoba,9,1
+Cordoba,7,4
+Cordoba,3,3
+Cordoba,1,4
+Cordoba,4,3
+Cordoba,8,2
+Cordoba,10,1
+Cordoba,2,3
+Cordoba,5,1
+Cusco,9,5
+Cusco,11,6
+Cusco,2,7
+Cusco,5,13
+Cusco,4,8
+Cusco,7,2
+Cusco,6,11
+Cusco,1,2
+Cusco,3,9
+Cusco,10,4
+Cusco,12,4
+Cusco,8,5
+Cuenca,9,1
+Cuenca,2,2
+Cuenca,6,2
+Cuenca,1,3
+Cuenca,3,1
+Cuenca,12,1
+Quito,7,1
+Quito,12,4
+Quito,5,2
+Quito,2,3
+Quito,1,5
+Quito,8,2
+Quito,9,4
+Quito,3,6
+Quito,11,4
+Quito,6,4
+Quito,4,6
+Quito,10,1
+Edinburgh,5,12
+Edinburgh,12,9
+Edinburgh,8,14
+Edinburgh,11,7
+Edinburgh,7,8
+Edinburgh,1,9
+Edinburgh,6,17
+Edinburgh,4,4
+Edinburgh,3,5
+Edinburgh,9,14
+Edinburgh,10,10
+Edinburgh,2,6
+Madrid,12,16
+Madrid,4,28
+Madrid,8,24
+Madrid,1,21
+Madrid,2,11
+Madrid,9,27
+Madrid,6,30
+Madrid,10,23
+Madrid,7,21
+Madrid,5,29
+Madrid,3,22
+Madrid,11,24
+Malaga,12,2
+Malaga,6,8
+Malaga,10,7
+Malaga,4,9
+Malaga,8,6
+Malaga,9,6
+Malaga,5,7
+Malaga,3,4
+Malaga,1,10
+Malaga,7,5
+Malaga,2,4
+Malaga,11,4
+Montreal,6,18
+Montreal,7,28
+Montreal,8,18
+Montreal,10,14
+Montreal,9,10
+Montreal,5,8
+Montreal,4,11
+Montreal,3,13
+Montreal,2,12
+Montreal,12,16
+Montreal,11,8
+Montreal,1,6
+Cancun,4,6
+Cancun,12,6
+Cancun,9,3
+Cancun,7,2
+Cancun,11,6
+Cancun,3,5
+Cancun,2,7
+Cancun,10,5
+Cancun,5,4
+Cancun,8,1
+Cancun,6,4
+Cancun,1,5
+Wellington,12,11
+Wellington,1,6
+Wellington,11,7
+Wellington,10,2
+Wellington,2,10
+Wellington,3,10
+Wellington,7,5
+Wellington,5,9
+Wellington,9,2
+Wellington,8,2
+Wellington,6,1
+Cartagena,12,7
+Cartagena,3,5
+Cartagena,5,20
+Cartagena,2,6
+Cartagena,4,7
+Cartagena,6,7
+Cartagena,1,8
+Cartagena,11,7
+Cartagena,7,2
+Cartagena,9,3
+Cartagena,10,4
+Cartagena,8,4
+Medellín,12,22
+Medellín,3,20
+Medellín,10,24
+Medellín,1,29
+Medellín,2,26
+Medellín,5,16
+Medellín,8,5
+Medellín,6,15
+Medellín,9,15
+Medellín,4,16
+Medellín,11,20
+Medellín,7,9
+Shanghai,12,25
+Shanghai,4,13
+Shanghai,9,14
+Shanghai,1,11
+Shanghai,5,14
+Shanghai,3,12
+Shanghai,10,19
+Shanghai,7,6
+Shanghai,8,11
+Shanghai,6,9
+Shanghai,11,10
+Shanghai,2,7
+Kathmandu,12,4
+Kathmandu,3,8
+Kathmandu,5,6
+Kathmandu,4,6
+Kathmandu,7,4
+Kathmandu,10,5
+Kathmandu,9,3
+Kathmandu,6,3
+Kathmandu,11,1
+Kathmandu,1,4
+Kathmandu,2,1
+Melbourne,12,35
+Melbourne,11,18
+Melbourne,6,17
+Melbourne,2,26
+Melbourne,10,17
+Melbourne,8,17
+Melbourne,9,11
+Melbourne,3,24
+Melbourne,1,22
+Melbourne,5,15
+Melbourne,4,18
+Melbourne,7,12
+Auckland,12,22
+Auckland,2,14
+Auckland,1,17
+Auckland,7,6
+Auckland,6,7
+Auckland,11,15
+Auckland,10,5
+Auckland,3,8
+Auckland,9,6
+Auckland,8,2
+Auckland,5,6
+Auckland,4,13
+Sydney,11,29
+Sydney,9,13
+Sydney,12,35
+Sydney,1,27
+Sydney,2,22
+Sydney,5,26
+Sydney,6,12
+Sydney,3,26
+Sydney,8,20
+Sydney,4,16
+Sydney,10,14
+Sydney,7,12
+Encinitas,10,2
+Encinitas,3,1
+Encinitas,1,1
+Encinitas,11,1
+Encinitas,9,1
+"Las Vegas, NV",10,17
+"Las Vegas, NV",12,12
+"Las Vegas, NV",5,19
+"Las Vegas, NV",1,18
+"Las Vegas, NV",6,14
+"Las Vegas, NV",9,7
+"Las Vegas, NV",7,12
+"Las Vegas, NV",11,11
+"Las Vegas, NV",4,18
+"Las Vegas, NV",3,20
+"Las Vegas, NV",8,10
+"Las Vegas, NV",2,13
+"Tampa, FL",10,2
+"Tampa, FL",2,3
+"Tampa, FL",12,2
+"Tampa, FL",7,2
+"Tampa, FL",6,2
+"Tampa, FL",9,1
+"Tampa, FL",8,1
+"Tampa, FL",11,1
+"Tampa, FL",4,1
+Brisbane,8,7
+Brisbane,2,9
+Brisbane,9,6
+Brisbane,1,11
+Brisbane,11,6
+Brisbane,5,7
+Brisbane,7,6
+Brisbane,4,4
+Brisbane,12,6
+Brisbane,3,6
+Brisbane,6,3
+Brisbane,10,4
+Maroochydore,7,1
+"Ubud, Bali",5,32
+"Ubud, Bali",1,43
+"Ubud, Bali",10,36
+"Ubud, Bali",11,43
+"Ubud, Bali",2,54
+"Ubud, Bali",6,29
+"Ubud, Bali",4,38
+"Ubud, Bali",3,62
+"Ubud, Bali",8,30
+"Ubud, Bali",7,21
+"Ubud, Bali",9,30
+"Ubud, Bali",12,19
+Ko Tao,6,4
+Ko Tao,7,3
+Ko Tao,10,6
+Ko Tao,12,9
+Ko Tao,11,4
+Ko Tao,1,9
+Ko Tao,5,3
+Ko Tao,9,4
+Ko Tao,4,4
+Ko Tao,8,6
+Ko Tao,3,4
+Ko Tao,2,3
+Corniglia,9,1
+Corniglia,7,1
+"Los Angeles, CA",1,39
+"Los Angeles, CA",12,35
+"Los Angeles, CA",9,26
+"Los Angeles, CA",5,30
+"Los Angeles, CA",6,39
+"Los Angeles, CA",3,40
+"Los Angeles, CA",8,28
+"Los Angeles, CA",11,36
+"Los Angeles, CA",10,30
+"Los Angeles, CA",2,36
+"Los Angeles, CA",4,33
+"Los Angeles, CA",7,27
+Havana,12,8
+Havana,3,7
+Havana,5,2
+Havana,4,8
+Havana,10,5
+Havana,8,4
+Havana,1,5
+Havana,2,4
+Havana,11,4
+Havana,9,2
+Havana,7,4
+Havana,6,3
+"Boston, MA",12,19
+"Boston, MA",6,15
+"Boston, MA",5,13
+"Boston, MA",3,12
+"Boston, MA",7,15
+"Boston, MA",2,11
+"Boston, MA",10,19
+"Boston, MA",8,12
+"Boston, MA",9,28
+"Boston, MA",11,16
+"Boston, MA",4,15
+"Boston, MA",1,9
+Chiang Mai,2,80
+Chiang Mai,1,130
+Chiang Mai,10,97
+Chiang Mai,9,37
+Chiang Mai,11,92
+Chiang Mai,12,77
+Chiang Mai,8,29
+Chiang Mai,3,53
+Chiang Mai,4,79
+Chiang Mai,7,36
+Chiang Mai,5,54
+Chiang Mai,6,35
+Budapest,4,29
+Budapest,7,42
+Budapest,6,51
+Budapest,8,43
+Budapest,10,32
+Budapest,5,33
+Budapest,3,35
+Budapest,11,24
+Budapest,9,42
+Budapest,2,19
+Budapest,1,18
+Budapest,12,19
+Leknes Vest,6,1
+Oslo,6,11
+Oslo,10,11
+Oslo,9,15
+Oslo,12,8
+Oslo,4,6
+Oslo,1,7
+Oslo,2,9
+Oslo,7,9
+Oslo,11,13
+Oslo,3,17
+Oslo,5,10
+Oslo,8,6
+Girona,5,1
+Girona,1,1
+Girona,12,1
+Girona,6,1
+Girona,7,1
+Stavanger,4,1
+Stavanger,1,1
+Stavanger,12,1
+Stavanger,9,1
+Stavanger,8,2
+Stavanger,11,1
+Stavanger,7,1
+Stavanger,6,1
+Stavanger,5,1
+Riga,12,4
+Riga,5,7
+Riga,9,4
+Riga,2,1
+Riga,6,6
+Riga,3,4
+Riga,11,5
+Riga,7,4
+Riga,4,2
+Riga,8,6
+Riga,10,2
+Riga,1,2
+Tallinn,12,9
+Tallinn,6,15
+Tallinn,7,10
+Tallinn,3,6
+Tallinn,11,11
+Tallinn,4,7
+Tallinn,10,7
+Tallinn,9,6
+Tallinn,2,4
+Tallinn,1,6
+Tallinn,8,14
+Tallinn,5,12
+Helsinki,11,10
+Helsinki,10,7
+Helsinki,7,10
+Helsinki,9,9
+Helsinki,12,6
+Helsinki,5,13
+Helsinki,2,8
+Helsinki,6,8
+Helsinki,8,13
+Helsinki,1,8
+Helsinki,4,5
+Helsinki,3,1
+Flores Timur,8,1
+Lombok Barat,8,1
+Lombok Barat,4,1
+Taipei,7,11
+Taipei,3,33
+Taipei,4,21
+Taipei,10,20
+Taipei,2,20
+Taipei,1,24
+Taipei,8,13
+Taipei,11,26
+Taipei,9,12
+Taipei,6,8
+Taipei,5,17
+Taipei,12,17
+Tainan,7,1
+Tainan,9,1
+Tainan,4,1
+Tainan,1,1
+Hualien City,7,2
+Hualien City,11,1
+Hualien City,10,1
+Hualien City,5,1
+Hualien City,12,1
+Hualien City,6,1
+Hualien City,4,2
+Møre og Romsdal County Municipality,6,1
+Southern Peninsula Region,4,2
+Hong Kong,2,32
+Hong Kong,11,39
+Hong Kong,10,44
+Hong Kong,3,47
+Hong Kong,8,26
+Hong Kong,5,39
+Hong Kong,4,48
+Hong Kong,6,24
+Hong Kong,1,37
+Hong Kong,9,26
+Hong Kong,12,40
+Hong Kong,7,18
+Bogota,4,13
+Bogota,2,11
+Bogota,10,8
+Bogota,9,8
+Bogota,7,2
+Bogota,6,12
+Bogota,5,9
+Bogota,1,6
+Bogota,12,6
+Bogota,3,8
+Bogota,8,3
+Bogota,11,5
+Cape Town,1,21
+Cape Town,2,16
+Cape Town,3,10
+Cape Town,4,10
+Cape Town,10,10
+Cape Town,12,10
+Cape Town,11,15
+Cape Town,5,13
+Cape Town,8,3
+Cape Town,6,5
+Cape Town,9,11
+Cape Town,7,5
+Athens,4,19
+Athens,9,11
+Athens,12,14
+Athens,5,16
+Athens,11,6
+Athens,6,20
+Athens,7,13
+Athens,2,9
+Athens,1,11
+Athens,10,14
+Athens,8,10
+Athens,3,14
+Puerto Vallarta,10,3
+Puerto Vallarta,2,3
+Puerto Vallarta,12,3
+Puerto Vallarta,1,3
+Puerto Vallarta,11,4
+Puerto Vallarta,9,2
+Puerto Vallarta,4,8
+Puerto Vallarta,3,4
+Puerto Vallarta,7,2
+Puerto Vallarta,8,1
+Puerto Vallarta,5,5
+Puerto Vallarta,6,5
+"Black Rock City, NV",9,1
+"Black Rock City, NV",8,10
+Southend-on-Sea,1,1
+Southend-on-Sea,9,1
+Southend-on-Sea,7,1
+Milan,12,8
+Milan,5,15
+Milan,10,18
+Milan,6,14
+Milan,9,6
+Milan,7,12
+Milan,8,15
+Milan,3,9
+Milan,2,5
+Milan,1,5
+Milan,4,9
+Milan,11,16
+Lausanne,11,1
+Lausanne,7,2
+Lausanne,5,1
+Lausanne,2,3
+Lausanne,12,3
+Lausanne,6,2
+Lausanne,9,2
+Lausanne,4,1
+Lausanne,1,1
+Lausanne,3,1
+Lausanne,10,1
+Lausanne,8,1
+Lugano,11,1
+Lugano,12,1
+Lugano,4,2
+Lugano,6,1
+Lugano,7,1
+Bordeaux,2,2
+Bordeaux,4,1
+Bordeaux,3,5
+Bordeaux,1,5
+Bordeaux,10,4
+Bordeaux,12,2
+Bordeaux,11,4
+Bordeaux,5,8
+Bordeaux,6,4
+Bordeaux,7,5
+Bordeaux,9,5
+Bordeaux,8,1
+Rio de Janeiro,2,19
+Rio de Janeiro,4,13
+Rio de Janeiro,9,6
+Rio de Janeiro,3,10
+Rio de Janeiro,8,7
+Rio de Janeiro,1,15
+Rio de Janeiro,6,5
+Rio de Janeiro,12,18
+Rio de Janeiro,7,6
+Rio de Janeiro,5,8
+Rio de Janeiro,10,10
+Rio de Janeiro,11,2
+Florianopolis,1,7
+Florianopolis,12,5
+Florianopolis,4,3
+Florianopolis,3,8
+Florianopolis,11,1
+Florianopolis,9,1
+Florianopolis,2,8
+Florianopolis,6,3
+Florianopolis,10,2
+Florianopolis,5,2
+Florianopolis,7,1
+Peru,3,3
+Peru,5,1
+Peru,1,1
+Peru,8,1
+Peru,10,1
+Nicaragua,2,2
+Nicaragua,1,1
+Nicaragua,10,1
+Honduras,2,1
+Belize,2,1
+Belize,3,1
+Belize,12,1
+Belize,4,3
+Belize,1,1
+Belize,8,1
+Mexico,2,1
+Mexico,3,3
+Mexico,12,2
+Mexico,1,2
+Mexico,10,2
+California,2,2
+California,9,1
+California,12,1
+California,10,2
+California,5,1
+Vietnam,1,3
+Vietnam,5,1
+Vietnam,3,3
+Vietnam,11,2
+Vietnam,12,4
+Vietnam,4,3
+Vietnam,9,1
+Vietnam,10,2
+Vietnam,6,1
+Vietnam,2,1
+Vietnam,8,1
+Philippines,9,1
+Philippines,2,3
+Philippines,3,4
+Philippines,4,1
+Philippines,12,1
+Philippines,8,1
+Philippines,5,1
+Dubai,9,14
+Dubai,7,10
+Dubai,10,13
+Dubai,6,13
+Dubai,11,11
+Dubai,1,19
+Dubai,12,12
+Dubai,3,14
+Dubai,8,10
+Dubai,5,11
+Dubai,4,14
+Dubai,2,9
+Malaysia,2,1
+Malaysia,8,1
+Malaysia,7,1
+Malaysia,5,1
+Malaysia,6,1
+Thailand,12,3
+Thailand,7,3
+Thailand,3,5
+Thailand,5,1
+Thailand,2,3
+Thailand,4,3
+Thailand,8,1
+Thailand,10,1
+Thailand,1,1
+Thailand,11,2
+Thailand,9,1
+China,10,1
+China,6,1
+China,12,1
+Taiwan,10,3
+Taiwan,2,1
+Taiwan,9,1
+Taiwan,8,1
+Taiwan,4,1
+South Korea,9,1
+South Korea,5,1
+South Korea,4,1
+South Korea,10,1
+Japan,9,2
+Japan,3,1
+Japan,1,1
+Japan,4,4
+Japan,5,2
+Romania,6,1
+Romania,4,1
+Colombia,5,1
+Colombia,12,2
+Colombia,6,1
+Colombia,7,2
+Bolivia,4,1
+Bolivia,1,1
+Bolivia,7,2
+Bolivia,6,2
+Bolivia,11,1
+Bolivia,9,1
+Chile,3,1
+Chile,2,1
+Chile,1,1
+Chile,8,1
+Argentina,2,2
+Argentina,8,1
+Argentina,4,2
+Argentina,3,1
+Argentina,1,1
+Brazil,1,2
+Brazil,12,1
+Brazil,7,1
+Brazil,6,1
+Brazil,10,1
+Ecuador,10,2
+Ecuador,7,1
+Ecuador,5,1
+Ecuador,11,1
+Szeged,9,1
+Ottawa,11,1
+Ottawa,12,2
+Ottawa,7,3
+Ottawa,8,3
+Ottawa,3,2
+Ottawa,5,2
+Ottawa,9,1
+Ottawa,2,1
+Ottawa,4,1
+Ottawa,1,1
+Ottawa,10,1
+Ottawa,6,1
+Toronto,10,10
+Toronto,4,14
+Toronto,5,16
+Toronto,8,18
+Toronto,3,10
+Toronto,2,8
+Toronto,1,10
+Toronto,7,24
+Toronto,6,18
+Toronto,12,10
+Toronto,9,11
+Toronto,11,9
+Basel,7,2
+Basel,5,3
+Basel,8,4
+Basel,9,4
+Basel,10,1
+Basel,4,4
+Basel,3,1
+Basel,11,4
+Basel,12,2
+Basel,1,1
+Basel,2,1
+Verona,4,3
+Verona,7,3
+Verona,8,1
+Verona,5,3
+Verona,10,4
+Verona,11,2
+Verona,2,1
+Bruges,11,3
+Bruges,8,2
+Bruges,6,3
+Bruges,4,1
+Bruges,7,2
+Bruges,10,4
+Bruges,3,2
+Bruges,9,1
+Bruges,5,1
+Bruges,12,1
+Bruges,1,1
+"Atlanta, GA",9,8
+"Atlanta, GA",11,10
+"Atlanta, GA",2,10
+"Atlanta, GA",4,8
+"Atlanta, GA",10,7
+"Atlanta, GA",8,8
+"Atlanta, GA",7,5
+"Atlanta, GA",5,8
+"Atlanta, GA",3,7
+"Atlanta, GA",1,9
+"Atlanta, GA",12,12
+"Atlanta, GA",6,3
+"Boulder, CO",8,4
+"Boulder, CO",7,2
+"Boulder, CO",3,1
+"Boulder, CO",6,4
+"Boulder, CO",10,3
+"Boulder, CO",2,1
+"Boulder, CO",9,5
+"Boulder, CO",4,2
+"Boulder, CO",5,4
+"Boulder, CO",12,3
+"Boulder, CO",1,2
+Vancouver,8,27
+Vancouver,5,21
+Vancouver,6,23
+Vancouver,4,10
+Vancouver,9,25
+Vancouver,12,19
+Vancouver,7,18
+Vancouver,10,15
+Vancouver,3,17
+Vancouver,11,11
+Vancouver,1,19
+Vancouver,2,10
+"Seattle, WA",8,16
+"Seattle, WA",1,23
+"Seattle, WA",9,12
+"Seattle, WA",6,19
+"Seattle, WA",5,26
+"Seattle, WA",4,17
+"Seattle, WA",2,16
+"Seattle, WA",3,19
+"Seattle, WA",10,17
+"Seattle, WA",12,11
+"Seattle, WA",7,22
+"Seattle, WA",11,18
+Granada,5,2
+Granada,8,4
+Granada,10,3
+Granada,6,4
+Granada,1,3
+Granada,12,2
+Granada,9,2
+Granada,3,5
+Granada,2,2
+Granada,7,2
+Granada,4,3
+Seville,5,4
+Seville,11,3
+Seville,10,5
+Seville,8,4
+Seville,9,8
+Seville,6,11
+Seville,1,8
+Seville,12,6
+Seville,3,3
+Seville,2,5
+Seville,7,3
+Seville,4,3
+Córdoba,5,2
+Córdoba,2,1
+Córdoba,11,1
+Córdoba,1,2
+Córdoba,10,1
+Córdoba,9,2
+Córdoba,8,1
+Córdoba,6,1
+Córdoba,4,1
+Dublin,4,13
+Dublin,6,18
+Dublin,10,16
+Dublin,9,20
+Dublin,11,21
+Dublin,5,16
+Dublin,1,22
+Dublin,12,16
+Dublin,2,13
+Dublin,8,13
+Dublin,7,17
+Dublin,3,9
+Berlin,3,47
+Berlin,12,53
+Berlin,9,65
+Berlin,5,78
+Berlin,2,43
+Berlin,1,36
+Berlin,11,43
+Berlin,10,57
+Berlin,7,92
+Berlin,6,71
+Berlin,4,63
+Berlin,8,63
+Nuremberg,12,2
+Nuremberg,7,2
+Nuremberg,11,2
+Nuremberg,10,1
+Nuremberg,5,1
+Nuremberg,6,1
+Nuremberg,9,2
+Nuremberg,8,1
+Cambodia,3,3
+Cambodia,10,1
+Cambodia,5,1
+Cambodia,12,2
+Cambodia,1,1
+Cambodia,4,1
+Cambodia,6,1
+Cambodia,8,1
+New Zealand,1,2
+New Zealand,2,3
+New Zealand,12,2
+New Zealand,8,2
+New Zealand,3,1
+New Zealand,4,1
+New Zealand,10,1
+Krabi,11,6
+Krabi,12,10
+Krabi,10,4
+Krabi,4,7
+Krabi,7,3
+Krabi,1,11
+Krabi,3,8
+Krabi,2,8
+Krabi,8,3
+Krabi,5,2
+Krabi,9,4
+Krabi,6,2
+Fubine,7,1
+Da Nang,6,5
+Da Nang,12,6
+Da Nang,3,16
+Da Nang,10,7
+Da Nang,2,9
+Da Nang,5,4
+Da Nang,11,2
+Da Nang,1,6
+Da Nang,4,6
+Da Nang,8,1
+Da Nang,7,2
+Da Nang,9,1
+Cologne,3,2
+Cologne,1,7
+Cologne,12,7
+Cologne,11,5
+Cologne,10,3
+Cologne,9,8
+Cologne,8,7
+Cologne,7,9
+Cologne,6,6
+Cologne,5,8
+Cologne,4,9
+Cologne,2,7
+Johannesburg,1,2
+Johannesburg,4,5
+Johannesburg,7,2
+Johannesburg,11,2
+Johannesburg,9,3
+Johannesburg,8,3
+Johannesburg,2,5
+Johannesburg,5,4
+Johannesburg,3,2
+Johannesburg,10,2
+Johannesburg,6,3
+Johannesburg,12,3
+Dundee,1,2
+Dundee,4,1
+Celle,10,1
+Hildesheim,10,2
+Stralsund,10,1
+Biesenthal,10,1
+Idra,9,1
+Hamburg,4,10
+Hamburg,5,5
+Hamburg,8,6
+Hamburg,3,5
+Hamburg,12,8
+Hamburg,9,9
+Hamburg,10,3
+Hamburg,1,5
+Hamburg,7,9
+Hamburg,11,6
+Hamburg,6,5
+Hamburg,2,5
+Copenhagen,12,14
+Copenhagen,8,21
+Copenhagen,7,20
+Copenhagen,2,9
+Copenhagen,9,23
+Copenhagen,11,16
+Copenhagen,1,17
+Copenhagen,5,26
+Copenhagen,10,19
+Copenhagen,4,11
+Copenhagen,3,10
+Copenhagen,6,19
+Bishop,12,1
+Joshua Tree,12,1
+Joshua Tree,9,1
+Joshua Tree,3,2
+Joshua Tree,1,1
+"Miami, FL",12,20
+"Miami, FL",5,10
+"Miami, FL",3,24
+"Miami, FL",8,17
+"Miami, FL",11,7
+"Miami, FL",2,17
+"Miami, FL",10,4
+"Miami, FL",6,12
+"Miami, FL",7,13
+"Miami, FL",1,8
+"Miami, FL",4,15
+"Miami, FL",9,10
+San Andrés and Providencia,9,1
+San Andrés and Providencia,5,1
+San Andrés and Providencia,10,1
+Karlsruhe,8,1
+Karlsruhe,12,3
+Karlsruhe,9,1
+Karlsruhe,10,1
+Karlsruhe,5,1
+Karlsruhe,6,1
+Karlsruhe,3,1
+Saint Moritz,8,1
+Saint Moritz,1,1
+Dusseldorf,8,3
+Dusseldorf,7,3
+Dusseldorf,12,5
+Dusseldorf,10,5
+Dusseldorf,6,1
+Dusseldorf,11,4
+Dusseldorf,4,7
+Dusseldorf,5,6
+Dusseldorf,3,3
+Dusseldorf,9,4
+Dusseldorf,1,4
+Dusseldorf,2,3
+Akko,8,1
+Jerusalem,8,5
+Jerusalem,5,6
+Jerusalem,6,1
+Jerusalem,11,3
+Jerusalem,3,3
+Jerusalem,9,3
+Jerusalem,2,2
+Jerusalem,1,3
+Jerusalem,7,1
+Jerusalem,4,2
+Tel Aviv,8,7
+Tel Aviv,9,12
+Tel Aviv,5,11
+Tel Aviv,3,12
+Tel Aviv,1,10
+Tel Aviv,12,7
+Tel Aviv,11,8
+Tel Aviv,4,8
+Tel Aviv,10,4
+Tel Aviv,2,6
+Tel Aviv,6,8
+Tel Aviv,7,6
+Ibiza,6,5
+Ibiza,8,5
+Ibiza,9,4
+Ibiza,11,1
+Ibiza,10,2
+Ibiza,7,5
+Ibiza,3,2
+Frankfurt,5,8
+Frankfurt,8,7
+Frankfurt,6,8
+Frankfurt,4,10
+Frankfurt,3,10
+Frankfurt,9,12
+Frankfurt,10,7
+Frankfurt,11,5
+Frankfurt,7,6
+Frankfurt,12,6
+Frankfurt,1,5
+Frankfurt,2,3
+Offenbach,3,1
+Oxford,12,1
+Oxford,9,1
+Oxford,5,1
+Oxford,11,1
+Oxford,4,1
+Oxford,10,1
+Oxford,1,1
+Oxford,3,1
+Stubaital,11,1
+Freiburg,11,2
+Freiburg,5,1
+Freiburg,12,1
+Creuzburg,8,1
+Bolzano,8,1
+Unsere Liebe Frau im Walde-St. Felix,8,1
+Çeşme,7,1
+Munich,6,11
+Munich,1,9
+Munich,2,11
+Munich,10,11
+Munich,7,12
+Munich,9,32
+Munich,12,14
+Munich,8,14
+Munich,3,12
+Munich,5,13
+Munich,4,14
+Munich,11,5
+Olten,8,1
+Lucerne,8,1
+Lucerne,9,1
+Lucerne,1,1
+Lucerne,12,1
+Lucerne,11,1
+Zurich,8,17
+Zurich,3,12
+Zurich,11,7
+Zurich,2,4
+Zurich,10,9
+Zurich,9,8
+Zurich,7,10
+Zurich,4,10
+Zurich,12,8
+Zurich,5,14
+Zurich,6,4
+Zurich,1,9
+Santiago de CompostelaSpain,9,1
+Tokyo,2,35
+Tokyo,3,44
+Tokyo,12,30
+Tokyo,6,38
+Tokyo,11,32
+Tokyo,4,54
+Tokyo,9,29
+Tokyo,5,47
+Tokyo,10,33
+Tokyo,7,19
+Tokyo,1,27
+Tokyo,8,21
+Porto,6,34
+Porto,2,8
+Porto,12,8
+Porto,9,12
+Porto,8,13
+Porto,7,12
+Porto,3,8
+Porto,10,10
+Porto,11,9
+Porto,5,9
+Porto,1,2
+Porto,4,5
+Siem Reap,11,20
+Siem Reap,12,20
+Siem Reap,9,9
+Siem Reap,1,23
+Siem Reap,3,17
+Siem Reap,2,14
+Siem Reap,4,11
+Siem Reap,10,5
+Siem Reap,6,8
+Siem Reap,5,7
+Siem Reap,8,10
+Siem Reap,7,8
+tp. Huế,10,1
+tp. Huế,3,2
+Cát Bà Island,10,1
+Cát Bà Island,4,1
+Cát Bà Island,11,1
+Cát Bà Island,6,1
+Cát Bà Island,2,1
+Cát Bà Island,5,1
+Bucharest,5,14
+Bucharest,4,7
+Bucharest,10,9
+Bucharest,7,9
+Bucharest,11,7
+Bucharest,6,9
+Bucharest,2,3
+Bucharest,12,7
+Bucharest,9,11
+Bucharest,8,7
+Bucharest,3,8
+Timisoara,5,2
+Timisoara,12,1
+Timisoara,9,2
+Timisoara,11,2
+Timisoara,6,2
+Timisoara,3,1
+Timisoara,2,1
+Timisoara,10,1
+Timisoara,4,1
+Paphos,4,3
+Paphos,9,1
+Paphos,6,1
+Paphos,8,1
+Paphos,1,1
+Paphos,12,1
+Paphos,10,1
+Sofia,3,3
+Sofia,2,4
+Sofia,10,10
+Sofia,7,12
+Sofia,8,8
+Sofia,9,19
+Sofia,6,9
+Sofia,12,6
+Sofia,5,7
+Sofia,1,4
+Sofia,4,8
+Sofia,11,4
+Harlech,9,1
+Glasgow,8,3
+Glasgow,11,2
+Glasgow,6,3
+Glasgow,7,6
+Glasgow,12,3
+Glasgow,10,9
+Glasgow,1,5
+Glasgow,2,1
+Glasgow,9,5
+Glasgow,4,3
+Glasgow,5,1
+Bristol,8,2
+Bristol,9,6
+Bristol,6,6
+Bristol,12,2
+Bristol,11,6
+Bristol,10,5
+Bristol,1,5
+Bristol,4,2
+Bristol,3,3
+Bristol,7,2
+Bristol,5,2
+Bristol,2,2
+Brighton,7,5
+Brighton,6,3
+Brighton,5,3
+Brighton,9,5
+Brighton,1,2
+Brighton,4,1
+Brighton,8,3
+Brighton,11,2
+Brighton,12,2
+Brighton,3,2
+Brighton,10,3
+Brighton,2,1
+Graz,6,1
+Graz,2,4
+Graz,1,1
+Graz,8,1
+Graz,7,2
+Graz,5,1
+Graz,9,1
+Graz,3,1
+Graz,4,1
+Ljubljana,5,7
+Ljubljana,3,2
+Ljubljana,6,10
+Ljubljana,7,4
+Ljubljana,10,1
+Ljubljana,12,5
+Ljubljana,2,4
+Ljubljana,8,7
+Ljubljana,1,1
+Ljubljana,11,5
+Ljubljana,9,2
+Ljubljana,4,1
+Zagreb,4,6
+Zagreb,9,13
+Zagreb,2,2
+Zagreb,7,11
+Zagreb,6,7
+Zagreb,1,4
+Zagreb,10,5
+Zagreb,12,2
+Zagreb,5,4
+Zagreb,8,13
+Zagreb,3,3
+Zagreb,11,3
+Glenaire,1,1
+"New Orleans, LA",4,13
+"New Orleans, LA",5,4
+"New Orleans, LA",2,10
+"New Orleans, LA",10,7
+"New Orleans, LA",1,4
+"New Orleans, LA",12,2
+"New Orleans, LA",6,4
+"New Orleans, LA",3,7
+"New Orleans, LA",7,2
+"New Orleans, LA",11,4
+"New Orleans, LA",9,3
+"New Orleans, LA",8,1
+Yerevan,3,2
+Yerevan,8,1
+Yerevan,7,3
+Yerevan,5,1
+Yerevan,6,2
+Yerevan,11,1
+Sochi,12,1
+Sochi,10,1
+Sochi,8,1
+Sochi,2,1
+Sochi,6,1
+"San Diego, CA",6,15
+"San Diego, CA",5,19
+"San Diego, CA",9,16
+"San Diego, CA",4,13
+"San Diego, CA",11,12
+"San Diego, CA",1,18
+"San Diego, CA",7,12
+"San Diego, CA",12,15
+"San Diego, CA",3,16
+"San Diego, CA",10,14
+"San Diego, CA",2,11
+"San Diego, CA",8,8
+São Paulo,5,8
+São Paulo,4,10
+São Paulo,3,9
+São Paulo,2,15
+São Paulo,12,10
+São Paulo,6,8
+São Paulo,11,14
+São Paulo,1,11
+São Paulo,9,7
+São Paulo,7,6
+São Paulo,10,7
+São Paulo,8,6
+Lapa,5,1
+Amman,6,3
+Amman,3,3
+Amman,8,2
+Amman,5,2
+Amman,4,2
+Amman,1,1
+Amman,12,1
+Amman,10,1
+Aqaba Governorate,5,1
+Madaba Governorate,5,1
+Krasnaya Polyana,4,1
+Peniche,9,1
+Peniche,10,1
+Peniche,7,1
+Peniche,6,1
+Peniche,2,1
+Stockholm,1,9
+Stockholm,11,12
+Stockholm,8,20
+Stockholm,7,17
+Stockholm,9,24
+Stockholm,5,18
+Stockholm,6,22
+Stockholm,2,17
+Stockholm,4,16
+Stockholm,3,14
+Stockholm,10,15
+Stockholm,12,12
+Lviv,4,3
+Lviv,5,4
+Lviv,8,2
+Lviv,12,1
+Lviv,9,3
+Lviv,2,1
+Lviv,6,5
+Lviv,1,1
+Lviv,10,1
+Crete,9,1
+Crete,4,2
+Crete,8,1
+Dmanisi,8,1
+Batumi,8,3
+Batumi,9,1
+Batumi,6,2
+Batumi,5,1
+Batumi,11,1
+Borjomi,6,1
+"San Jose, CA",2,2
+"San Jose, CA",11,4
+"San Jose, CA",8,3
+"San Jose, CA",6,7
+"San Jose, CA",9,3
+"San Jose, CA",1,3
+"San Jose, CA",5,1
+"San Jose, CA",7,4
+"San Jose, CA",3,1
+"San Jose, CA",12,2
+Lima,1,9
+Lima,10,7
+Lima,4,14
+Lima,5,18
+Lima,3,17
+Lima,12,6
+Lima,6,10
+Lima,11,6
+Lima,9,9
+Lima,7,3
+Lima,2,4
+Lima,8,3
+Managua,11,1
+Managua,1,2
+Managua,3,3
+Managua,2,1
+Managua,9,1
+Managua,6,3
+Managua,5,1
+Managua,4,1
+Managua,10,1
+Managua,12,2
+Malta,6,5
+Malta,4,5
+Malta,5,1
+Malta,8,5
+Malta,10,2
+Malta,9,2
+Malta,1,4
+Malta,11,1
+Malta,7,2
+Malta,12,1
+Belgrade,6,21
+Belgrade,10,17
+Belgrade,9,12
+Belgrade,7,17
+Belgrade,12,8
+Belgrade,4,10
+Belgrade,3,5
+Belgrade,5,5
+Belgrade,1,3
+Belgrade,8,15
+Belgrade,11,10
+Belgrade,2,2
+Pokhara,3,6
+Pokhara,4,2
+Pokhara,9,1
+Pokhara,5,3
+Pokhara,6,2
+Pokhara,11,1
+Pokhara,2,2
+Pokhara,10,2
+Mumbai,3,7
+Mumbai,12,6
+Mumbai,2,8
+Mumbai,1,15
+Mumbai,7,4
+Mumbai,4,3
+Mumbai,10,4
+Mumbai,6,6
+Mumbai,5,4
+Mumbai,9,2
+Mumbai,8,1
+Mumbai,11,8
+Ko Lanta,1,21
+Ko Lanta,4,18
+Ko Lanta,12,16
+Ko Lanta,11,15
+Ko Lanta,9,6
+Ko Lanta,3,24
+Ko Lanta,5,8
+Ko Lanta,6,8
+Ko Lanta,2,25
+Ko Lanta,7,3
+Ko Lanta,8,2
+Ko Lanta,10,3
+Manila,11,8
+Manila,12,11
+Manila,1,15
+Manila,8,12
+Manila,4,13
+Manila,10,10
+Manila,6,5
+Manila,2,16
+Manila,3,14
+Manila,5,7
+Manila,9,6
+Manila,7,6
+Jakarta,10,6
+Jakarta,11,7
+Jakarta,3,10
+Jakarta,12,7
+Jakarta,8,7
+Jakarta,9,5
+Jakarta,7,5
+Jakarta,2,9
+Jakarta,6,4
+Jakarta,4,9
+Jakarta,5,3
+Jakarta,1,6
+Kyoto,6,15
+Kyoto,4,9
+Kyoto,5,14
+Kyoto,10,12
+Kyoto,12,6
+Kyoto,1,10
+Kyoto,3,11
+Kyoto,11,6
+Kyoto,7,7
+Kyoto,9,7
+Kyoto,2,5
+Kyoto,8,6
+Abu Dhabi,6,4
+Abu Dhabi,12,5
+Abu Dhabi,10,1
+Abu Dhabi,9,2
+Abu Dhabi,4,2
+Abu Dhabi,3,2
+Abu Dhabi,1,5
+Abu Dhabi,8,2
+Abu Dhabi,5,3
+Abu Dhabi,2,1
+Abu Dhabi,11,1
+Abu Dhabi,7,1
+Liverpool,6,4
+Liverpool,12,3
+Liverpool,7,2
+Liverpool,9,4
+Liverpool,5,2
+Liverpool,10,2
+Liverpool,4,1
+Liverpool,1,1
+Sliema,5,8
+Sliema,4,9
+Sliema,8,3
+Sliema,2,5
+Sliema,11,5
+Sliema,10,4
+Sliema,9,2
+Sliema,7,3
+Sliema,6,2
+Sliema,12,2
+Sliema,1,2
+Sliema,3,4
+Doha,5,5
+Doha,11,2
+Doha,9,3
+Doha,6,3
+Doha,2,2
+Doha,1,5
+Doha,4,5
+Doha,3,2
+Doha,8,3
+Doha,7,4
+Doha,10,3
+Doha,12,2
+Yokohama,3,2
+"Denpasar, Bali",11,4
+"Denpasar, Bali",3,3
+"Denpasar, Bali",12,1
+"Denpasar, Bali",5,3
+"Denpasar, Bali",10,4
+"Denpasar, Bali",2,5
+"Denpasar, Bali",1,1
+"Denpasar, Bali",8,1
+"Denpasar, Bali",6,3
+"Denpasar, Bali",4,1
+"Denpasar, Bali",9,2
+"Philadelphia, PA",12,10
+"Philadelphia, PA",8,3
+"Philadelphia, PA",3,3
+"Philadelphia, PA",11,10
+"Philadelphia, PA",1,11
+"Philadelphia, PA",10,8
+"Philadelphia, PA",9,2
+"Philadelphia, PA",2,2
+"Philadelphia, PA",5,3
+"Philadelphia, PA",6,1
+"Philadelphia, PA",7,5
+Phuket,11,21
+Phuket,9,9
+Phuket,1,28
+Phuket,2,32
+Phuket,12,27
+Phuket,3,21
+Phuket,5,12
+Phuket,6,8
+Phuket,4,30
+Phuket,10,10
+Phuket,7,6
+Phuket,8,10
+Ko Lanta District,10,4
+Ko Lanta District,12,3
+Ko Lanta District,2,2
+Ko Lanta District,1,1
+Ko Lanta District,5,1
+Ko Lanta District,4,2
+Ko Lanta District,3,1
+Ko Lanta District,11,1
+Las Palmas,11,13
+Las Palmas,3,1
+Las Palmas,1,7
+Las Palmas,4,1
+Las Palmas,6,3
+Las Palmas,10,3
+Las Palmas,2,3
+Las Palmas,9,2
+Las Palmas,8,3
+Las Palmas,12,6
+Las Palmas,5,1
+Bratislava,10,11
+Bratislava,7,9
+Bratislava,6,12
+Bratislava,3,3
+Bratislava,2,2
+Bratislava,1,3
+Bratislava,8,6
+Bratislava,4,9
+Bratislava,5,7
+Bratislava,11,3
+Bratislava,9,1
+Bratislava,12,2
+Johor Bahru,12,1
+Johor Bahru,5,1
+Johor Bahru,10,1
+Johor Bahru,9,1
+Johor Bahru,2,2
+Johor Bahru,11,1
+Johor Bahru,6,1
+Johor Bahru,3,1
+Johor Bahru,4,1
+Cluj,11,1
+Cluj,9,1
+Cluj,5,3
+Cluj,7,2
+Cluj,4,3
+Cluj,12,1
+Bulgaria,8,1
+Bulgaria,2,1
+Essen,10,1
+Morschen,8,1
+Morschen,5,1
+Darmstadt,8,1
+Darmstadt,6,1
+Darmstadt,4,2
+Darmstadt,12,2
+Darmstadt,2,1
+Rotterdam,3,5
+Rotterdam,2,2
+Rotterdam,4,5
+Rotterdam,6,7
+Rotterdam,5,7
+Rotterdam,11,3
+Rotterdam,12,4
+Rotterdam,8,4
+Rotterdam,9,1
+Rotterdam,7,3
+Rotterdam,10,1
+Rotterdam,1,4
+Warminster,6,1
+Lofoten,4,2
+Lofoten,7,1
+Lofoten,5,1
+Nottingham,2,4
+Nottingham,6,3
+Nottingham,10,4
+Nottingham,7,4
+Nottingham,5,3
+Nottingham,4,4
+Nottingham,3,3
+Nottingham,12,3
+Nottingham,8,4
+Nottingham,9,3
+Nottingham,1,2
+Nottingham,11,2
+Hinterstoder,1,2
+Northampton,1,2
+Northampton,5,1
+Gili Air,11,7
+Gili Air,5,4
+Gili Air,7,3
+Gili Air,8,1
+Gili Air,10,1
+Gili Air,2,2
+Gili Air,3,2
+Gili Air,9,1
+Cabarete,8,1
+Cabarete,5,1
+Cabarete,4,1
+Cabarete,12,3
+Cabarete,11,2
+Cabarete,7,1
+Cabarete,2,1
+Salzburg,6,4
+Salzburg,5,4
+Salzburg,4,3
+Salzburg,1,3
+Salzburg,8,1
+Salzburg,10,2
+Salzburg,12,3
+Salzburg,7,4
+Salzburg,3,2
+Salzburg,2,1
+Salzburg,9,3
+Salzburg,11,2
+Sheffield,6,2
+Sheffield,5,3
+Sheffield,10,1
+Sheffield,9,2
+Sheffield,3,1
+Sheffield,2,1
+Sheffield,1,1
+Sheffield,11,5
+Sheffield,8,2
+Sheffield,7,1
+Sheffield,12,1
+The Hague,6,1
+The Hague,7,3
+The Hague,4,1
+The Hague,8,5
+The Hague,5,2
+The Hague,2,1
+The Hague,9,1
+The Hague,10,2
+The Hague,11,3
+The Hague,3,4
+The Hague,12,1
+Aberdeen,5,1
+Aberdeen,11,1
+Aberdeen,12,1
+Aberdeen,2,1
+Aberdeen,9,2
+Palawan,2,1
+Palawan,8,1
+Palawan,3,2
+Palawan,4,1
+Palawan,10,1
+Palawan,6,1
+Port Louis,1,1
+Port Louis,10,1
+Port Louis,6,1
+Port Louis,3,1
+Pai,1,9
+Pai,4,2
+Pai,5,2
+Pai,10,3
+Pai,9,2
+Pai,3,3
+Pai,7,2
+Pai,2,5
+Pai,12,2
+Pai,11,6
+Pai,8,1
+Pai,6,1
+Chiang Rai,1,2
+Chiang Rai,2,2
+Chiang Rai,5,1
+Chiang Rai,3,1
+Chiang Rai,11,1
+Phú Quốc,12,4
+Phú Quốc,2,1
+Phú Quốc,3,1
+Phú Quốc,1,2
+Phú Quốc,9,1
+Phú Quốc,7,1
+Phú Quốc,4,1
+Phú Quốc,5,1
+El Gouna,9,2
+El Gouna,8,1
+El Gouna,5,2
+El Gouna,12,2
+El Gouna,6,2
+El Gouna,2,1
+El Gouna,10,2
+El Gouna,3,2
+El Gouna,7,2
+El Gouna,4,1
+El Gouna,1,1
+El Gouna,11,1
+Luxor,7,1
+Luxor,3,1
+Luxor,1,2
+Luxor,8,1
+Luxor,11,1
+Luxor,10,1
+Luxor,12,2
+Luxor,4,1
+Luxor,2,1
+Luxor,9,1
+Necker Island,2,1
+Linz,3,1
+Linz,2,1
+Linz,9,1
+Linz,8,1
+Linz,5,2
+Linz,11,2
+Linz,7,1
+Ao Nang,1,7
+Ao Nang,12,8
+Ao Nang,10,2
+Ao Nang,3,7
+Ao Nang,5,4
+Ao Nang,4,3
+Ao Nang,2,1
+Ao Nang,7,1
+Ao Nang,9,1
+Ao Nang,11,4
+Ao Nang,8,1
+Fortaleza,9,3
+Fortaleza,1,1
+Fortaleza,12,1
+Fortaleza,3,2
+Fortaleza,5,1
+Fortaleza,6,1
+Fortaleza,4,1
+Leeds,10,2
+Leeds,7,3
+Leeds,4,3
+Leeds,5,3
+Leeds,9,3
+Leeds,3,2
+Leeds,8,1
+Leeds,1,1
+Leeds,11,1
+Leeds,2,1
+Valencia,6,16
+Valencia,7,12
+Valencia,12,6
+Valencia,4,6
+Valencia,10,6
+Valencia,8,8
+Valencia,11,9
+Valencia,9,11
+Valencia,1,8
+Valencia,5,10
+Valencia,2,6
+Valencia,3,7
+Oviedo,4,1
+Oviedo,6,1
+Manchester,3,6
+Manchester,4,6
+Manchester,12,6
+Manchester,8,7
+Manchester,10,8
+Manchester,6,5
+Manchester,5,10
+Manchester,9,7
+Manchester,7,5
+Manchester,1,2
+Manchester,11,2
+Manchester,2,1
+Reading,11,1
+Reading,7,1
+Reading,6,1
+Reading,5,1
+Reading,4,1
+Reading,9,1
+Geneva,5,8
+Geneva,1,9
+Geneva,3,4
+Geneva,12,6
+Geneva,7,5
+Geneva,4,7
+Geneva,9,5
+Geneva,8,3
+Geneva,2,5
+Geneva,10,2
+Geneva,6,5
+Geneva,11,4
+Newcastle Upon Tyne,4,2
+Newcastle Upon Tyne,6,2
+Newcastle Upon Tyne,2,2
+Newcastle Upon Tyne,12,1
+Newcastle Upon Tyne,8,1
+Newcastle Upon Tyne,11,1
+Newcastle Upon Tyne,3,1
+Newcastle Upon Tyne,9,2
+Boracay,12,4
+Boracay,2,4
+Boracay,10,2
+Boracay,8,1
+Boracay,1,3
+Boracay,11,3
+Boracay,5,1
+Boracay,4,1
+Valletta,6,1
+Prishtina,10,1
+Prishtina,11,1
+Prishtina,7,1
+Kotor,7,1
+Kotor,8,7
+Kotor,10,3
+Kotor,11,1
+Kotor,6,2
+Kotor,9,4
+Kotor,4,1
+Sri Lanka,11,1
+Sri Lanka,6,2
+Sri Lanka,4,5
+Sri Lanka,9,1
+Sri Lanka,5,1
+Sri Lanka,1,2
+Sri Lanka,2,1
+Sri Lanka,8,1
+Sri Lanka,3,1
+Sri Lanka,7,1
+Sri Lanka,12,1
+Pula,8,3
+Pula,4,1
+Pula,5,1
+Pula,7,1
+Pula,9,1
+Beirut,11,2
+Beirut,8,2
+Beirut,1,2
+Beirut,5,1
+Beirut,7,1
+Beirut,4,2
+Beirut,10,2
+Beirut,3,2
+Beirut,2,1
+Beirut,12,2
+Beirut,6,1
+Manama,9,1
+Manama,4,3
+Manama,5,1
+Manama,1,1
+Kochi,1,3
+Kochi,7,2
+Kochi,4,1
+Kochi,3,4
+Kochi,11,8
+Kochi,6,1
+Kochi,2,1
+Kochi,10,2
+Kochi,8,1
+Kochi,5,1
+Bangalore,1,6
+Bangalore,4,5
+Bangalore,9,2
+Bangalore,11,5
+Bangalore,8,2
+Bangalore,5,6
+Bangalore,3,7
+Bangalore,7,4
+Bangalore,2,6
+Bangalore,12,2
+Bangalore,10,4
+Bangalore,6,1
+Goa,1,4
+Goa,11,8
+Goa,2,3
+Goa,3,3
+Goa,12,5
+Goa,4,1
+Goa,9,1
+Goa,6,2
+Goa,7,2
+Goa,10,2
+Delhi,12,11
+Delhi,11,12
+Delhi,5,6
+Delhi,7,7
+Delhi,9,8
+Delhi,1,6
+Delhi,2,2
+Delhi,3,7
+Delhi,10,13
+Delhi,6,4
+Delhi,8,4
+Delhi,4,8
+Marrakesh,11,9
+Marrakesh,4,7
+Marrakesh,6,7
+Marrakesh,12,9
+Marrakesh,8,3
+Marrakesh,10,6
+Marrakesh,5,7
+Marrakesh,3,6
+Marrakesh,7,5
+Marrakesh,1,4
+Marrakesh,9,2
+Marrakesh,2,5
+Trinidad,5,2
+Trinidad,8,1
+Trinidad,11,1
+Trinidad,4,1
+Trinidad,12,1
+Vinales,4,2
+Vinales,5,1
+San Sebastián de La Gomera,2,1
+Novocherkassk,5,1
+Novocherkassk,4,1
+Novocherkassk,12,1
+Novocherkassk,10,1
+Novocherkassk,9,1
+Novocherkassk,8,1
+Novocherkassk,3,1
+Bryansk,5,1
+Grodno,5,1
+Kaunas,5,3
+Kaunas,6,1
+Kaunas,7,1
+Kaunas,1,1
+Kaunas,8,1
+Klaipeda,5,1
+Klaipeda,9,1
+Sigulda,5,1
+Sigulda,7,1
+Novosibirsk,3,2
+Novosibirsk,9,1
+Gudauri,12,1
+Gudauri,2,1
+Gudauri,3,1
+Stepantsminda,9,1
+Stepantsminda,7,1
+Stepantsminda,8,1
+Mestia,9,1
+Kutaisi,8,1
+Kutaisi,9,1
+Kutaisi,11,1
+Gyumri,8,1
+Goris,8,1
+Sevan,8,1
+Baku,8,1
+Baku,9,3
+Baku,7,1
+Baku,5,1
+Baku,4,1
+Baku,10,1
+Baku,12,1
+Yalta,5,1
+"George Town, Penang",2,23
+"George Town, Penang",4,14
+"George Town, Penang",12,8
+"George Town, Penang",10,13
+"George Town, Penang",3,17
+"George Town, Penang",11,8
+"George Town, Penang",6,9
+"George Town, Penang",9,8
+"George Town, Penang",7,13
+"George Town, Penang",1,13
+"George Town, Penang",8,7
+"George Town, Penang",5,6
+Vientiane,2,7
+Vientiane,1,7
+Vientiane,11,6
+Vientiane,5,6
+Vientiane,4,4
+Vientiane,12,3
+Vientiane,8,2
+Vientiane,9,3
+Vientiane,10,2
+Vientiane,3,2
+Vientiane,6,2
+Vientiane,7,1
+Heraklion,9,2
+Heraklion,4,2
+Heraklion,8,1
+Heraklion,10,1
+Marmaris,8,1
+Marmaris,5,1
+Lanzarote,3,1
+Lanzarote,9,2
+Lanzarote,6,2
+Lanzarote,12,2
+Lanzarote,11,1
+Lanzarote,7,2
+Lanzarote,4,1
+Lanzarote,5,1
+Pak Nam Pran,3,1
+Mui Ne,2,4
+Mui Ne,11,1
+Mui Ne,8,1
+Mui Ne,5,1
+Mui Ne,1,1
+Mui Ne,12,3
+Mui Ne,10,1
+Mui Ne,9,1
+Pranburi Beach,3,1
+Altenmarkt im Pongau,5,1
+Alexandria GovernorateEgypt,3,1
+Aswan,3,1
+Aswan,8,1
+Aswan,11,1
+Aswan,2,1
+Aswan,9,1
+Marsa Alam,3,1
+Marsa Alam,12,1
+Marsa Alam,10,1
+Schliersee,8,1
+Schliersee,11,1
+Sankt Peter-Ording,8,1
+Boom,7,2
+Valmorel,1,1
+Oostvoorne,8,1
+Portland,9,2
+Portland,1,1
+Portland,5,1
+Portland,12,2
+Portland,6,1
+Portland,10,1
+Portland,11,1
+Portland,3,1
+Portland,8,1
+Victoria,10,2
+Victoria,3,2
+Victoria,2,2
+Victoria,1,3
+Victoria,7,4
+Victoria,4,3
+Victoria,6,3
+Victoria,8,1
+Victoria,11,1
+Victoria,5,2
+Victoria,9,2
+New South Wales,9,1
+New South Wales,2,1
+Queensland,9,1
+Queensland,11,1
+Northern Territory,8,1
+"Kuta, Bali",8,3
+"Kuta, Bali",11,5
+"Kuta, Bali",4,7
+"Kuta, Bali",1,4
+"Kuta, Bali",10,4
+"Kuta, Bali",9,1
+"Kuta, Bali",6,4
+"Kuta, Bali",2,4
+"Kuta, Bali",5,3
+"Kuta, Bali",3,3
+"Kuta, Bali",12,2
+"Kuta, Bali",7,1
+Komodo,8,2
+"Gili Air, Bali",8,1
+"Gili Air, Bali",2,2
+Pulau Perhentian Besar,7,1
+Qesm Hurghada,9,1
+Hurghada,10,2
+Hurghada,7,1
+Hurghada,8,2
+Hurghada,12,2
+Hurghada,11,2
+Hurghada,2,1
+Pacific Coast Highway,6,1
+Pacific Coast Highway,9,1
+Napa Valley,6,1
+Napa Valley,11,1
+"Reno, NV",6,2
+"Reno, NV",9,7
+"Reno, NV",10,3
+"Reno, NV",2,2
+"Reno, NV",8,3
+"Reno, NV",1,2
+"Reno, NV",12,1
+"Reno, NV",11,1
+Yellowstone National Park,6,2
+Yellowstone National Park,8,1
+Yellowstone National Park,7,1
+"Salt Lake City, UT",6,5
+"Salt Lake City, UT",8,7
+"Salt Lake City, UT",2,7
+"Salt Lake City, UT",3,5
+"Salt Lake City, UT",12,6
+"Salt Lake City, UT",11,4
+"Salt Lake City, UT",7,3
+"Salt Lake City, UT",10,4
+"Salt Lake City, UT",5,3
+"Salt Lake City, UT",4,4
+"Salt Lake City, UT",9,3
+"Salt Lake City, UT",1,8
+Mesa Verde National Park,6,1
+Canyon de Chelly National Monument,6,1
+Grand Canyon National Park,6,1
+Grand Canyon National Park,7,1
+Grand Canyon National Park,4,1
+Hlavní město Praha,11,1
+Sukhothai,11,2
+Sukhothai,4,1
+Sukhothai,1,1
+Sukhothai,5,1
+Sequoia National Park,9,1
+Yosemite National Park,9,2
+Yosemite National Park,12,1
+Yosemite National Park,3,1
+Yosemite National Park,2,1
+Yosemite National Park,7,1
+Yosemite National Park,5,1
+Reit im Winkl,2,1
+Lake Powell,7,1
+Lake Powell,9,1
+Moab,7,1
+Moab,2,1
+Moab,12,1
+Moab,11,1
+Moab,8,1
+Moab,6,1
+Arches National Park Entrance Station,7,1
+Bryce Canyon National Park,6,1
+Bryce Canyon National Park,2,1
+Bryce Canyon National Park,8,1
+Zion National Park,6,1
+Zion National Park,12,1
+Zion National Park,8,1
+Le Touquet,5,1
+Le Touquet,6,1
+Le Touquet,7,1
+Cairo,8,3
+Cairo,1,2
+Cairo,6,1
+Cairo,5,1
+Cairo,3,4
+Cairo,12,2
+Cairo,2,2
+Cairo,9,1
+Cairo,4,1
+Istanbul,7,15
+Istanbul,5,11
+Istanbul,9,17
+Istanbul,6,20
+Istanbul,11,15
+Istanbul,4,11
+Istanbul,8,19
+Istanbul,2,10
+Istanbul,1,13
+Istanbul,10,13
+Istanbul,3,16
+Istanbul,12,10
+Metropolitan City of Venice,6,2
+Metropolitan City of Venice,5,1
+Metropolitan City of Venice,7,5
+Metropolitan City of Venice,4,4
+Metropolitan City of Venice,9,3
+Metropolitan City of Venice,2,2
+Metropolitan City of Venice,12,2
+Metropolitan City of Venice,8,1
+Metropolitan City of Venice,3,1
+Cayo Guillermo,7,1
+Punta Cana,9,3
+Punta Cana,7,1
+Punta Cana,10,1
+Balatonkenese,7,1
+Bergen,9,3
+Bergen,4,2
+Bergen,11,3
+Bergen,5,3
+Bergen,7,3
+Bergen,3,4
+Bergen,2,2
+Bergen,1,1
+Bergen,6,1
+Malmo,9,4
+Malmo,5,5
+Malmo,6,5
+Malmo,7,1
+Malmo,11,3
+Malmo,4,4
+Malmo,1,2
+Malmo,8,1
+Malmo,2,1
+Malmo,10,1
+Malmo,3,1
+Cuernavaca,10,1
+Cuernavaca,8,1
+Dubrovnik,4,8
+Dubrovnik,6,10
+Dubrovnik,7,2
+Dubrovnik,5,3
+Dubrovnik,9,7
+Dubrovnik,8,10
+Dubrovnik,10,2
+Dubrovnik,2,1
+Dubrovnik,11,1
+Dubrovnik,12,1
+Dubrovnik,3,2
+Dubrovnik,1,1
+Split,4,7
+Split,10,7
+Split,9,13
+Split,8,31
+Split,5,15
+Split,7,16
+Split,6,12
+Split,12,4
+Split,11,5
+Split,3,3
+Split,2,1
+Mexico City,11,26
+Mexico City,6,15
+Mexico City,2,24
+Mexico City,5,18
+Mexico City,1,10
+Mexico City,12,19
+Mexico City,10,19
+Mexico City,4,26
+Mexico City,3,28
+Mexico City,9,13
+Mexico City,7,8
+Mexico City,8,9
+Puebla,10,1
+Puebla,1,2
+Puebla,12,2
+Puebla,5,2
+"Colorado Springs, CO",6,2
+"Colorado Springs, CO",4,2
+"Colorado Springs, CO",12,3
+"Colorado Springs, CO",11,1
+"Colorado Springs, CO",5,2
+"Colorado Springs, CO",9,2
+"Colorado Springs, CO",8,2
+"Colorado Springs, CO",3,1
+"Colorado Springs, CO",1,1
+"Jacksonville, FL",6,1
+"Jacksonville, FL",11,1
+"Jacksonville, FL",5,2
+"Jacksonville, FL",3,1
+"Jacksonville, FL",4,1
+"Jacksonville, FL",2,1
+Chelmsford,5,2
+Chelmsford,7,2
+Pattaya,3,4
+Pattaya,12,2
+Pattaya,11,3
+Pattaya,1,4
+Pattaya,4,3
+Pattaya,2,4
+Pattaya,7,3
+Pattaya,10,2
+Pattaya,5,1
+Lampang,11,2
+Lampang,8,1
+Lampang,3,1
+Sinio,6,2
+San Raffaele Cimena,6,2
+"Austin, TX",4,15
+"Austin, TX",1,20
+"Austin, TX",12,20
+"Austin, TX",6,15
+"Austin, TX",10,17
+"Austin, TX",5,14
+"Austin, TX",3,30
+"Austin, TX",11,12
+"Austin, TX",9,14
+"Austin, TX",8,8
+"Austin, TX",2,12
+"Austin, TX",7,12
+"Portland, OR",1,10
+"Portland, OR",9,10
+"Portland, OR",5,18
+"Portland, OR",4,8
+"Portland, OR",12,11
+"Portland, OR",6,16
+"Portland, OR",3,20
+"Portland, OR",2,10
+"Portland, OR",7,17
+"Portland, OR",10,11
+"Portland, OR",11,9
+"Portland, OR",8,11
+"Chicago, IL",12,21
+"Chicago, IL",7,22
+"Chicago, IL",4,12
+"Chicago, IL",11,18
+"Chicago, IL",6,11
+"Chicago, IL",2,11
+"Chicago, IL",1,13
+"Chicago, IL",10,15
+"Chicago, IL",3,22
+"Chicago, IL",9,12
+"Chicago, IL",8,17
+"Chicago, IL",5,19
+Kosice,6,2
+Kosice,8,1
+Kosice,5,2
+Ždiar,6,2
+Angoulême,5,2
+"Boise, ID",5,1
+"Boise, ID",6,1
+"Boise, ID",8,2
+San Juan,12,3
+San Juan,8,1
+San Juan,5,4
+San Juan,4,1
+San Juan,2,2
+San Juan,1,3
+San Juan,11,4
+San Juan,9,1
+San Juan,7,1
+San Juan,3,1
+San Juan,6,2
+Guanajuato,6,2
+Guanajuato,10,1
+Guanajuato,4,1
+Guanajuato,11,2
+Guanajuato,8,1
+Guanajuato,1,1
+Guanajuato,5,1
+Guanajuato,3,2
+Český Krumlov,3,2
+Český Krumlov,4,1
+Český Krumlov,5,1
+Český Krumlov,7,1
+Český Krumlov,9,1
+Český Krumlov,10,1
+Las Cruces,11,1
+Las Cruces,8,1
+"Anchorage, AK",8,1
+"Anchorage, AK",3,1
+"Anchorage, AK",9,2
+"Anchorage, AK",7,4
+"Anchorage, AK",5,1
+"BrockvilleON, Canada",12,1
+Guangzhou,4,7
+Guangzhou,1,5
+Guangzhou,8,4
+Guangzhou,9,3
+Guangzhou,10,11
+Guangzhou,12,3
+Guangzhou,11,4
+Guangzhou,3,6
+Guangzhou,2,3
+Guangzhou,6,2
+Guangzhou,5,2
+Chiang Dao,12,1
+Chiang Dao,3,1
+Koh Phayam,12,1
+Zhuhai,1,2
+Zhuhai,7,1
+Zhuhai,2,1
+Yangshuo,8,1
+Yangshuo,10,2
+Yangshuo,6,1
+Yangshuo,1,1
+Sopot,7,1
+Sopot,8,1
+Chisinau,5,1
+Chisinau,8,1
+Chisinau,2,3
+Chisinau,7,1
+Chisinau,11,1
+Chisinau,6,1
+Odesa,5,2
+Odesa,7,4
+Odesa,11,1
+Odesa,6,1
+Odesa,8,2
+Odesa,4,2
+Chornobyl,5,1
+Nauplion,4,1
+Menorca,4,1
+Menorca,8,1
+"Las Palmas, Canary Islands",3,4
+"Las Palmas, Canary Islands",8,1
+"Las Palmas, Canary Islands",9,10
+"Las Palmas, Canary Islands",4,1
+"Las Palmas, Canary Islands",5,2
+"Las Palmas, Canary Islands",10,1
+"Las Palmas, Canary Islands",11,3
+"Las Palmas, Canary Islands",12,5
+"Las Palmas, Canary Islands",1,6
+"Las Palmas, Canary Islands",6,1
+"Las Palmas, Canary Islands",2,1
+Luleå,2,1
+Luleå,6,1
+Luleå,9,1
+Playa del Carmen,12,14
+Playa del Carmen,11,14
+Playa del Carmen,1,13
+Playa del Carmen,10,9
+Playa del Carmen,3,6
+Playa del Carmen,2,9
+Playa del Carmen,9,6
+Playa del Carmen,5,7
+Playa del Carmen,8,6
+Playa del Carmen,4,6
+Playa del Carmen,6,3
+Playa del Carmen,7,4
+Negril,11,1
+Negril,2,1
+Negril,12,1
+Negril,7,1
+Montego Bay,11,3
+Montego Bay,3,1
+Montego Bay,1,2
+Montego Bay,6,1
+Montego Bay,7,1
+Montego Bay,5,2
+Montego Bay,10,1
+Montego Bay,9,1
+Miami Beach,11,1
+Miami Beach,12,3
+Miami Beach,1,2
+Miami Beach,6,1
+Miami Beach,7,1
+Miami Beach,10,1
+Miami Beach,2,1
+Isla Mujeres,11,2
+Isla Mujeres,1,1
+Manuel Antonio Mesones Muro District,10,1
+Dominical,10,1
+Dominical,1,1
+Dominical,3,1
+Dominical,12,1
+Aruba,10,9
+Aruba,3,2
+Aruba,5,1
+Aruba,8,1
+Aruba,7,1
+Curaçao,10,10
+Curaçao,11,1
+Curaçao,8,1
+Saint Kitts and Nevis,10,3
+Saint Kitts and Nevis,9,1
+Dunas de Maspalomas,9,1
+Åre,5,1
+Åre,7,1
+Åre,8,1
+Goiania,4,1
+Goiania,11,1
+Goiania,7,1
+Goiania,1,1
+Goiania,5,1
+Goiania,6,1
+Santa Elena Province,2,1
+Santa Marta,2,4
+Santa Marta,11,2
+Santa Marta,3,2
+Santa Marta,12,1
+Santa Marta,4,2
+Santa Marta,1,3
+Santa Marta,5,1
+Santa Marta,10,1
+Santa Marta,7,3
+Puntarenas Province,1,1
+Puntarenas Province,4,1
+Puntarenas Province,3,1
+"Fort Lauderdale, FL",12,7
+"Fort Lauderdale, FL",1,9
+"Fort Lauderdale, FL",3,2
+"Fort Lauderdale, FL",11,5
+"Fort Lauderdale, FL",10,8
+"Fort Lauderdale, FL",5,2
+"Fort Lauderdale, FL",7,2
+"Fort Lauderdale, FL",2,2
+"Fort Lauderdale, FL",6,1
+"Fort Lauderdale, FL",8,3
+"Fort Lauderdale, FL",4,3
+"Fort Lauderdale, FL",9,1
+Sälen,5,1
+Sälen,4,1
+Umeå,5,2
+Umeå,3,2
+Umeå,2,1
+Cầu Ngang,1,1
+Bình Thuận,1,1
+Da Lat,1,4
+Da Lat,3,3
+Da Lat,12,1
+Da Lat,4,5
+Da Lat,2,3
+Da Lat,6,2
+Da Lat,10,1
+Da Lat,9,1
+Huyện Lắk,1,1
+Nha Trang,1,4
+Nha Trang,2,5
+Nha Trang,12,3
+Nha Trang,9,1
+Nha Trang,11,3
+Nha Trang,3,2
+Nha Trang,5,1
+Nha Trang,4,2
+Nha Trang,6,1
+Nha Trang,10,1
+Koh Rong,12,1
+Koh Rong,4,1
+Koh Rong,1,1
+Koh Rong,8,1
+Koh Rong,5,1
+Ko Phi Phi,10,2
+Ko Phi Phi,12,3
+Ko Phi Phi,6,2
+Ko Phi Phi,3,2
+Ko Phi Phi,1,8
+Ko Phi Phi,5,1
+Ko Phi Phi,11,2
+Ko Phi Phi,8,2
+Ko Phi Phi,9,2
+Ko Phi Phi,2,6
+Ko Phi Phi,4,3
+Haad Rin Beach,10,1
+Ko Samui,10,3
+Ko Samui,1,12
+Ko Samui,12,11
+Ko Samui,2,15
+Ko Samui,5,7
+Ko Samui,11,8
+Ko Samui,8,5
+Ko Samui,9,3
+Ko Samui,4,9
+Ko Samui,3,8
+Ko Samui,7,4
+Ko Samui,6,1
+Gothenburg,8,2
+Gothenburg,9,3
+Gothenburg,10,2
+Gothenburg,3,4
+Gothenburg,5,3
+Gothenburg,11,2
+Gothenburg,7,4
+Gothenburg,6,5
+Gothenburg,2,1
+Gothenburg,4,1
+Gothenburg,1,2
+Gothenburg,12,2
+Island of Hawai'i,2,1
+Kauai,2,1
+Kauai,10,1
+Kauai,1,1
+Kauai,3,1
+Vang Vieng,12,2
+Vang Vieng,1,1
+Vang Vieng,5,3
+Vang Vieng,2,2
+Vang Vieng,6,1
+Vang Vieng,4,1
+Vang Vieng,7,1
+"Ann Arbor, MI",11,1
+"Ann Arbor, MI",1,2
+"Ann Arbor, MI",6,3
+"Ann Arbor, MI",8,2
+Bismarck,9,1
+Bismarck,2,1
+Rockville,9,1
+Rockville,6,1
+Fraser Island,9,2
+Cairns,8,3
+Cairns,5,4
+Cairns,1,1
+Cairns,3,1
+Cairns,6,3
+Cairns,2,1
+Cairns,7,3
+Cairns,10,3
+Cairns,4,2
+Cairns,11,2
+Cairns,12,1
+"Nashville, TN",8,3
+"Nashville, TN",1,3
+"Nashville, TN",4,6
+"Nashville, TN",2,2
+"Nashville, TN",10,3
+"Nashville, TN",7,3
+"Nashville, TN",12,3
+"Nashville, TN",3,2
+"Nashville, TN",11,5
+"Nashville, TN",6,3
+"Nashville, TN",5,1
+Playa Larga,8,1
+Playa Larga,6,1
+"Washington, DC",7,10
+"Washington, DC",12,17
+"Washington, DC",11,20
+"Washington, DC",10,15
+"Washington, DC",6,16
+"Washington, DC",2,4
+"Washington, DC",5,16
+"Washington, DC",3,13
+"Washington, DC",9,15
+"Washington, DC",4,12
+"Washington, DC",8,13
+"Washington, DC",1,13
+Middletown,7,1
+Calistoga,7,1
+Calistoga,11,1
+Calistoga,9,1
+Durban,4,1
+Durban,5,1
+Durban,3,1
+Durban,12,1
+Durban,1,2
+Durban,6,1
+Lesotho,4,1
+Man-O-War Cay,4,1
+Boquete,3,2
+Boquete,6,1
+Montevideo,3,9
+Montevideo,5,3
+Montevideo,9,3
+Montevideo,4,6
+Montevideo,2,4
+Montevideo,6,1
+Montevideo,7,1
+Montevideo,12,2
+Montevideo,11,6
+Montevideo,8,2
+Montevideo,1,6
+Montevideo,10,5
+Colonia Del Sacramento,3,1
+Colonia Del Sacramento,10,1
+Colonia Del Sacramento,1,1
+Ushaia,3,1
+Ushaia,2,2
+Ushaia,12,2
+Ushaia,5,1
+Ushaia,1,1
+Alexander Island,2,1
+Avalon,11,1
+Avalon,4,1
+Avalon,12,1
+Cincinnati,10,1
+Cincinnati,5,2
+Cincinnati,9,1
+Cincinnati,6,2
+Cincinnati,4,1
+Cincinnati,11,2
+Cincinnati,8,1
+Cincinnati,3,1
+Cincinnati,7,1
+Cincinnati,2,1
+Sihanoukville,9,2
+Sihanoukville,10,2
+Sihanoukville,4,3
+Sihanoukville,6,1
+Sihanoukville,3,1
+Sihanoukville,12,2
+Sihanoukville,2,2
+Sihanoukville,8,1
+Can Tho,9,2
+Can Tho,12,2
+Can Tho,1,1
+Can Tho,2,2
+Atlantic City,8,2
+Atlantic City,3,1
+Atlantic City,11,1
+Atlantic City,9,1
+Atlantic City,6,1
+Palma De Mallorca,7,3
+Palma De Mallorca,10,1
+Palma De Mallorca,12,1
+Palma De Mallorca,8,1
+Palma De Mallorca,5,1
+Rehoboth Beach,7,1
+"Baltimore, MD",6,2
+"Baltimore, MD",1,3
+"Baltimore, MD",2,1
+"Baltimore, MD",3,1
+"Baltimore, MD",8,3
+"Baltimore, MD",5,2
+"Baltimore, MD",12,3
+"Baltimore, MD",11,1
+"Baltimore, MD",9,1
+"Baltimore, MD",7,1
+"Baltimore, MD",10,1
+Lake Tahoe,6,1
+Lake Tahoe,11,2
+Lake Tahoe,3,1
+Lake Tahoe,4,1
+Lake Tahoe,7,1
+Lake Tahoe,12,1
+Lake Tahoe,2,1
+Lake Tahoe,10,1
+Lake Tahoe,1,1
+Vatican City,5,5
+Vatican City,3,1
+Vatican City,9,1
+Vatican City,6,1
+Vatican City,8,1
+Vatican City,11,1
+Vatican City,7,1
+Vatican City,2,2
+Florence,5,15
+Florence,1,7
+Florence,3,7
+Florence,8,9
+Florence,7,14
+Florence,10,9
+Florence,6,11
+Florence,9,11
+Florence,2,6
+Florence,11,3
+Florence,4,8
+Florence,12,5
+San Marino,5,1
+San Marino,10,2
+San Marino,6,1
+Como,5,3
+Como,3,2
+Como,10,3
+Como,7,2
+Como,4,1
+Como,2,2
+Como,1,1
+Como,12,1
+Como,9,1
+Como,8,1
+Como,11,2
+Lembongan,4,1
+Lembongan,12,1
+Whistler,2,2
+Whistler,6,1
+Whistler,7,3
+Whistler,12,2
+Whistler,1,1
+Whistler,9,2
+Whistler,10,1
+Whistler,11,1
+Ann Arbor,11,1
+Ann Arbor,10,1
+La Paz Department,11,2
+La Paz Department,4,3
+La Paz Department,5,1
+La Paz Department,2,1
+Puno,11,1
+Puno,2,1
+Puno,5,1
+Puno,3,1
+Puno,7,1
+Puno,10,1
+Puno,1,1
+Puno,9,1
+Arequipa,10,1
+Arequipa,4,1
+Arequipa,1,1
+Arequipa,5,3
+Arequipa,11,1
+Arequipa,9,2
+Arequipa,8,1
+Arequipa,2,2
+Arequipa,7,1
+Arequipa,12,1
+Arequipa,3,1
+Arequipa,6,1
+Huacachina,10,1
+Huacachina,4,2
+Huacachina,5,2
+Huacachina,12,1
+Ica,10,1
+Paraty,9,1
+Paraty,12,1
+Paraty,10,1
+Bonito,9,1
+Bonito,2,1
+Bonito,4,1
+Larnaca,8,1
+Larnaca,4,1
+Larnaca,7,3
+Larnaca,6,2
+Duck,7,1
+Maui,4,2
+Maui,10,1
+Maui,1,2
+Maui,8,1
+Maui,7,1
+Maui,3,1
+Maui,2,1
+Maui,9,1
+Maui,11,1
+Cabo San Lucas,1,4
+Cabo San Lucas,12,2
+Cabo San Lucas,2,2
+Cabo San Lucas,6,2
+Cabo San Lucas,3,1
+Cabo San Lucas,11,1
+Cabo San Lucas,10,1
+Cabo San Lucas,4,2
+Kailua-Kona,11,2
+Kailua-Kona,10,1
+Kailua-Kona,1,1
+Kailua-Kona,12,1
+Kailua-Kona,3,2
+Kailua-Kona,7,2
+"Honolulu, Hawaii",11,5
+"Honolulu, Hawaii",10,4
+"Honolulu, Hawaii",6,6
+"Honolulu, Hawaii",1,5
+"Honolulu, Hawaii",3,11
+"Honolulu, Hawaii",12,5
+"Honolulu, Hawaii",8,4
+"Honolulu, Hawaii",2,6
+"Honolulu, Hawaii",7,4
+"Honolulu, Hawaii",4,2
+"Honolulu, Hawaii",5,1
+"Honolulu, Hawaii",9,1
+Kilimanjaro,10,1
+Black Rock City,8,7
+"Houston, TX",7,2
+"Houston, TX",12,10
+"Houston, TX",6,5
+"Houston, TX",4,4
+"Houston, TX",3,5
+"Houston, TX",5,5
+"Houston, TX",9,1
+"Houston, TX",1,4
+"Houston, TX",10,4
+"Houston, TX",2,6
+"Houston, TX",11,1
+Roatán,5,1
+Roatán,3,1
+Roatán,6,1
+Roatán,8,1
+Roatán,7,1
+Roatán,12,1
+Monterey,4,1
+Monterey,7,1
+Monterey,11,2
+Galway,1,3
+Galway,10,1
+Galway,5,5
+Galway,12,1
+Galway,11,3
+Galway,7,1
+Galway,9,1
+Galway,8,1
+Galway,3,1
+Cork,12,1
+Cork,10,2
+Cork,2,1
+Cork,1,1
+Cork,7,1
+Cork,11,1
+Cork,6,1
+Cork,8,1
+Cork,3,1
+Belfast,12,3
+Belfast,7,3
+Belfast,6,3
+Belfast,10,2
+Belfast,9,2
+Belfast,5,1
+Belfast,3,2
+Belfast,8,2
+Belfast,11,1
+Belfast,2,1
+Belfast,4,1
+Taghazout,10,5
+Taghazout,1,8
+Taghazout,2,3
+Taghazout,12,1
+Taghazout,11,7
+Taghazout,6,1
+Taghazout,8,1
+Taghazout,3,2
+Taghazout,4,2
+Taghazout,5,3
+Taghazout,9,1
+Sligo,6,1
+Sligo,2,1
+Krathi,12,1
+Gaborone,12,1
+Gaborone,5,1
+Venice,8,14
+Venice,3,6
+Venice,5,11
+Venice,10,6
+Venice,7,10
+Venice,9,8
+Venice,4,7
+Venice,6,7
+Venice,12,5
+Venice,11,3
+Venice,2,1
+Venice,1,2
+Lech,8,1
+Lech,1,2
+Wuppertal,7,1
+Minsk,11,5
+Minsk,12,2
+Minsk,2,3
+Minsk,7,7
+Minsk,6,2
+Minsk,5,3
+Minsk,9,1
+Minsk,8,2
+Minsk,3,2
+Minsk,10,1
+Minsk,1,1
+Kampot,4,1
+Kampot,9,1
+Kampot,2,1
+Bogor,5,1
+Bogor,1,1
+Yogyakarta,4,2
+Yogyakarta,3,2
+Yogyakarta,7,2
+Yogyakarta,11,2
+Yogyakarta,5,4
+Yogyakarta,12,3
+Yogyakarta,1,1
+Yogyakarta,10,2
+Yogyakarta,6,1
+Yogyakarta,9,2
+Yogyakarta,2,1
+Yogyakarta,8,1
+Langkawi,4,3
+Langkawi,12,4
+Langkawi,3,4
+Langkawi,9,1
+Langkawi,7,2
+Langkawi,5,2
+Langkawi,2,3
+Langkawi,10,1
+Langkawi,11,2
+Langkawi,1,1
+Bohol,10,1
+Bohol,6,1
+Bohol,11,2
+Bohol,2,1
+Bohol,3,1
+Bohol,12,1
+Big Sur,9,1
+Big Sur,3,2
+Yosemite Valley,9,1
+Yosemite Valley,6,1
+Yosemite Valley,8,1
+Yosemite Valley,2,1
+Death Valley,9,1
+Death Valley,12,1
+Sequoia National Forest,9,1
+South Lake Tahoe,9,2
+South Lake Tahoe,1,1
+South Lake Tahoe,3,2
+South Lake Tahoe,2,2
+South Lake Tahoe,11,2
+South Lake Tahoe,12,1
+South Lake Tahoe,8,1
+South Lake Tahoe,4,1
+South Lake Tahoe,7,1
+Leeuwarden,8,1
+Leeuwarden,12,1
+Leeuwarden,7,1
+Leeuwarden,6,1
+Leeuwarden,5,1
+Leeuwarden,11,1
+Utrecht,8,9
+Utrecht,9,9
+Utrecht,4,5
+Utrecht,7,5
+Utrecht,2,5
+Utrecht,5,4
+Utrecht,3,5
+Utrecht,12,4
+Utrecht,10,4
+Utrecht,11,3
+Utrecht,6,5
+Utrecht,1,5
+Zadar,6,4
+Zadar,9,4
+Zadar,5,4
+Zadar,8,8
+Zadar,4,1
+Zadar,10,1
+Zadar,7,3
+Reykjavik,4,7
+Reykjavik,9,8
+Reykjavik,7,11
+Reykjavik,5,11
+Reykjavik,12,4
+Reykjavik,6,15
+Reykjavik,8,7
+Reykjavik,2,4
+Reykjavik,1,6
+Reykjavik,10,5
+Reykjavik,3,8
+Reykjavik,11,4
+Maceió,2,1
+Maceió,6,1
+Maceió,7,1
+Maceió,3,2
+Maceió,12,1
+Mokrin,1,1
+Mokrin,9,1
+Mokrin,4,1
+South Kuta,11,1
+South Kuta,10,1
+South Kuta,8,1
+Sarajevo,5,2
+Sarajevo,10,4
+Sarajevo,11,5
+Sarajevo,8,7
+Sarajevo,7,5
+Sarajevo,4,2
+Sarajevo,1,1
+Sarajevo,3,3
+Sarajevo,9,3
+Sarajevo,6,2
+Sarajevo,12,1
+Sintra,5,2
+Sintra,10,2
+Sintra,7,2
+Sintra,4,1
+Sintra,2,1
+Lagos,5,3
+Lagos,9,2
+Lagos,12,3
+Lagos,3,2
+Lagos,2,2
+Lagos,10,2
+Lagos,6,2
+Lagos,8,1
+Lagos,4,1
+"Columbus, OH",9,4
+"Columbus, OH",8,1
+"Columbus, OH",12,1
+"Columbus, OH",2,1
+"Columbus, OH",1,1
+"Columbus, OH",4,2
+"Columbus, OH",10,1
+"Columbus, OH",11,1
+"Columbus, OH",7,1
+"Columbus, OH",6,1
+"Columbus, OH",5,1
+Kazan,8,1
+Kazan,2,1
+Kazan,6,2
+Kazan,4,1
+Kazan,9,1
+Kazan,7,1
+Davos,6,1
+Davos,10,1
+Davos,7,1
+Tórshavn,5,1
+Tórshavn,4,1
+Tórshavn,10,1
+Guimaraes,4,1
+Abisko,4,1
+Tromso,4,1
+Tromso,1,3
+Tromso,12,3
+Tromso,2,4
+Tromso,10,1
+Tromso,3,2
+Guadalajara,2,7
+Guadalajara,11,7
+Guadalajara,10,1
+Guadalajara,3,5
+Guadalajara,4,2
+Guadalajara,5,2
+Guadalajara,1,5
+Guadalajara,7,3
+Guadalajara,8,3
+Guadalajara,9,2
+Guadalajara,6,1
+San Miguel de Allende,1,2
+San Miguel de Allende,9,2
+San Miguel de Allende,12,1
+San Miguel de Allende,8,1
+San Miguel de Allende,2,2
+San Miguel de Allende,6,1
+San Miguel de Allende,5,1
+San Miguel de Allende,3,1
+San Cristobal de las Casas,1,3
+San Cristobal de las Casas,4,2
+San Cristobal de las Casas,2,3
+San Cristobal de las Casas,3,2
+San Cristobal de las Casas,12,1
+San Cristobal de las Casas,11,1
+San Cristobal de las Casas,9,1
+Bacalar,1,1
+Bacalar,2,1
+Bacalar,12,1
+Tulum,12,6
+Tulum,10,2
+Tulum,9,4
+Tulum,11,4
+Tulum,4,4
+Tulum,2,4
+Tulum,3,3
+Tulum,8,1
+Tulum,6,1
+Tulum,1,7
+Tulum,5,3
+Tulum,7,3
+Lansing,10,1
+Lansing,7,1
+Gran Canaria,9,4
+Vis,9,1
+Vis,7,1
+Vis,8,1
+"Palma, Mallorca",7,3
+"Palma, Mallorca",11,1
+"Palma, Mallorca",6,4
+"Palma, Mallorca",5,2
+"Palma, Mallorca",4,4
+"Palma, Mallorca",1,2
+"Palma, Mallorca",12,2
+"Palma, Mallorca",3,4
+"Palma, Mallorca",10,1
+Vila Do Porto,5,1
+Gijón,5,1
+Gijón,9,1
+Gijón,7,1
+Gijón,10,1
+Ponferrada,12,1
+Ponferrada,8,1
+Ponferrada,11,1
+Kanazawa,11,2
+Kanazawa,12,1
+Kanazawa,4,1
+Kanazawa,1,1
+Kanazawa,10,1
+Kanazawa,6,1
+Osaka,11,8
+Osaka,3,11
+Osaka,2,8
+Osaka,4,11
+Osaka,5,19
+Osaka,1,8
+Osaka,9,6
+Osaka,10,9
+Osaka,8,8
+Osaka,6,10
+Osaka,12,7
+Osaka,7,6
+Little Rock,11,1
+Little Rock,2,1
+Hakodate,9,2
+Sapporo,9,2
+Sapporo,4,2
+Sapporo,2,1
+Sapporo,5,2
+Sapporo,6,2
+Sapporo,8,1
+Sapporo,7,1
+Sapporo,1,1
+Sitka,9,2
+Rincon,8,1
+Rincon,2,1
+Pensacola Beach,7,1
+Pensacola Beach,12,1
+"Indianapolis, IN",6,2
+"Indianapolis, IN",12,2
+"Indianapolis, IN",1,2
+"Indianapolis, IN",8,1
+"Indianapolis, IN",11,1
+"Indianapolis, IN",7,1
+Monterrey,5,1
+Monterrey,9,1
+Monterrey,6,1
+Monterrey,2,3
+Monterrey,4,1
+"Denver, CO",5,6
+"Denver, CO",8,8
+"Denver, CO",9,9
+"Denver, CO",2,9
+"Denver, CO",12,14
+"Denver, CO",7,4
+"Denver, CO",3,8
+"Denver, CO",10,5
+"Denver, CO",11,6
+"Denver, CO",6,6
+"Denver, CO",1,4
+"Denver, CO",4,7
+Estes Park,4,1
+Estes Park,6,1
+Guernsey,4,1
+Guernsey,5,1
+Deadwood,4,1
+Deadwood,8,1
+"Fargo, ND",4,1
+"Fargo, ND",5,1
+"Fargo, ND",8,2
+"Madison, WI",4,1
+"Madison, WI",7,1
+"Madison, WI",9,2
+"Madison, WI",1,1
+"Madison, WI",12,1
+"Madison, WI",8,3
+"Madison, WI",10,1
+Cozumel,3,1
+Cozumel,8,1
+Cozumel,12,1
+Cozumel,4,1
+Grand Cayman,3,1
+Grand Cayman,11,1
+Grand Cayman,4,1
+Grand Cayman,8,1
+Grand Cayman,6,1
+Ocho Rios,3,1
+Ocho Rios,2,1
+Byron Bay,12,4
+Byron Bay,2,4
+Byron Bay,5,4
+Byron Bay,8,1
+Byron Bay,11,1
+Byron Bay,1,1
+Lido di Jesolo,9,1
+Lido di Jesolo,8,1
+Amalfi,9,2
+Amalfi,6,1
+Amalfi,4,2
+Naples,9,3
+Naples,6,3
+Naples,11,2
+Naples,3,2
+Naples,5,3
+Naples,8,1
+Naples,7,2
+Naples,4,3
+Bari,9,4
+Bari,7,2
+Bari,10,1
+Bari,4,1
+Bari,3,1
+Bari,1,1
+Bari,12,1
+Galápagos Islands,5,2
+Galápagos Islands,7,1
+Galápagos Islands,6,2
+Galápagos Islands,2,1
+Galápagos Islands,11,1
+Galápagos Islands,3,1
+Baños,4,1
+Nice,6,8
+Nice,5,7
+Nice,10,5
+Nice,7,12
+Nice,3,3
+Nice,9,5
+Nice,4,5
+Nice,8,10
+Nice,1,5
+Nice,11,3
+Nice,12,1
+"Orlando, FL",2,9
+"Orlando, FL",1,9
+"Orlando, FL",4,8
+"Orlando, FL",8,8
+"Orlando, FL",11,6
+"Orlando, FL",3,4
+"Orlando, FL",5,10
+"Orlando, FL",12,7
+"Orlando, FL",10,7
+"Orlando, FL",6,7
+"Orlando, FL",7,1
+"Orlando, FL",9,3
+"Dallas, TX",2,6
+"Dallas, TX",4,6
+"Dallas, TX",7,3
+"Dallas, TX",3,5
+"Dallas, TX",10,5
+"Dallas, TX",9,4
+"Dallas, TX",11,5
+"Dallas, TX",12,9
+"Dallas, TX",8,2
+"Dallas, TX",1,5
+"Dallas, TX",6,2
+"Dallas, TX",5,3
+Spain,1,1
+Spain,6,3
+Spain,10,3
+Spain,8,1
+Spain,7,1
+Spain,12,1
+Spain,5,1
+Spain,4,1
+Morocco,12,2
+Morocco,1,1
+Morocco,6,2
+Turkey,11,3
+Turkey,3,1
+India,8,2
+India,12,1
+India,1,4
+India,9,1
+India,3,1
+India,2,1
+Laos,7,1
+Laos,2,2
+Laos,1,1
+Laos,3,2
+Laos,12,1
+Laos,5,1
+Laos,8,1
+Sean Monorom,6,1
+Kratié,6,1
+Cát Bà,5,1
+Cát Bà,10,1
+Sa Pa,5,2
+Sa Pa,8,1
+Sa Pa,10,2
+Sa Pa,12,2
+Sa Pa,2,1
+Sa Pa,4,1
+Sa Pa,6,1
+Sa Pa,3,2
+Bad Bentheim,4,1
+Bad Bentheim,3,1
+Bad Bentheim,2,1
+Bad Bentheim,9,1
+Bad Bentheim,8,1
+Buren,3,1
+Mainz,3,2
+Mainz,12,1
+Mainz,7,1
+Mainz,5,1
+Osnabrück,1,1
+Osnabrück,11,1
+Osnabrück,10,1
+Osnabrück,6,1
+Bremerhaven,12,1
+Hannover,11,3
+Hannover,4,3
+Hannover,1,1
+Hannover,12,2
+Hannover,9,1
+Hannover,6,2
+Hannover,3,1
+La Paz,8,3
+La Paz,4,7
+La Paz,10,2
+La Paz,2,2
+La Paz,12,1
+La Paz,5,3
+La Paz,6,3
+La Paz,1,3
+La Paz,9,3
+La Paz,7,1
+La Paz,11,3
+Uyuni (Thola Pampa),7,1
+Tupiza,7,1
+Potosí,7,1
+Sucre,7,1
+Sucre,1,1
+Sucre,5,2
+Sucre,6,2
+Sucre,4,1
+Sucre,8,1
+Monaco,5,3
+Monaco,3,2
+Monaco,8,5
+Monaco,4,2
+Monaco,7,3
+Monaco,9,4
+Monaco,2,1
+Monaco,6,2
+Antibes,5,1
+Antibes,12,1
+Antibes,7,1
+Antibes,11,1
+Antibes,6,1
+Sylt,4,1
+Sylt,7,1
+Iceland,8,3
+Iceland,5,1
+Iceland,9,3
+Iceland,11,1
+Iceland,2,1
+Stuttgart,5,5
+Stuttgart,2,5
+Stuttgart,8,1
+Stuttgart,3,2
+Stuttgart,12,6
+Stuttgart,10,4
+Stuttgart,6,5
+Stuttgart,4,3
+Stuttgart,9,4
+Stuttgart,1,3
+Stuttgart,11,2
+Stuttgart,7,1
+Heidelberg,5,3
+Heidelberg,12,2
+Heidelberg,11,2
+Heidelberg,10,1
+Heidelberg,3,2
+Heidelberg,9,2
+Heidelberg,4,2
+Heidelberg,6,1
+Heidelberg,2,1
+Fiji,4,1
+Fiji,3,2
+Fiji,5,1
+Freiburg im Breisgau,4,1
+Freiburg im Breisgau,3,1
+Bolsterlang,1,1
+Enschede,9,1
+Enschede,8,1
+San Juan del Sur,10,2
+San Juan del Sur,1,4
+San Juan del Sur,12,1
+San Juan del Sur,8,2
+San Juan del Sur,5,3
+San Juan del Sur,3,2
+San Juan del Sur,6,2
+San Juan del Sur,4,2
+San Juan del Sur,7,3
+Mendoza,4,3
+Mendoza,2,5
+Mendoza,10,2
+Mendoza,12,1
+Mendoza,3,2
+Mendoza,11,3
+Mendoza,1,2
+Mendoza,9,1
+San Pedro de Atacama,3,2
+San Pedro de Atacama,4,2
+San Pedro de Atacama,8,1
+San Pedro de Atacama,9,1
+Montañita,5,1
+Montañita,6,1
+Montañita,12,1
+Montañita,1,1
+"Oakland, CA",10,2
+"Oakland, CA",12,2
+"Oakland, CA",9,2
+"Oakland, CA",2,1
+"Oakland, CA",3,3
+"Oakland, CA",7,1
+"Oakland, CA",11,4
+"Oakland, CA",1,2
+"Oakland, CA",5,3
+"Oakland, CA",4,2
+"Oakland, CA",8,1
+"Oakland, CA",6,1
+Puerto de la Cruz,1,3
+Puerto de la Cruz,4,1
+Puerto de la Cruz,9,1
+Puerto de la Cruz,11,1
+"St. Louis, MO",12,2
+"St. Louis, MO",11,2
+"St. Louis, MO",3,2
+"St. Louis, MO",9,2
+"St. Louis, MO",8,1
+"St. Louis, MO",1,1
+Urbana,8,1
+Marbella,4,2
+Marbella,9,1
+Marbella,7,1
+Marbella,12,2
+Marbella,10,2
+Marbella,6,1
+Queenstown,2,4
+Queenstown,6,2
+Queenstown,11,4
+Queenstown,12,6
+Queenstown,7,4
+Queenstown,9,1
+Queenstown,1,2
+Queenstown,10,3
+Queenstown,8,1
+Queenstown,4,2
+Queenstown,3,3
+Queenstown,5,2
+Milltown Malbay,3,1
+Kells,1,1
+Kraków,12,6
+Kraków,7,16
+Kraków,6,15
+Kraków,9,13
+Kraków,1,2
+Kraków,4,7
+Kraków,11,6
+Kraków,8,7
+Kraków,3,3
+Kraków,2,7
+Kraków,5,6
+Kraków,10,3
+Iowa,8,1
+Iowa,5,1
+KoHUB,4,1
+Hua Hin,11,3
+Hua Hin,10,1
+Hua Hin,6,2
+Hua Hin,3,1
+Hua Hin,4,2
+Hua Hin,9,1
+Hua Hin,2,2
+Hua Hin,7,1
+Hua Hin,12,1
+Grimentz,1,1
+San Carlos de Bariloche,9,2
+San Carlos de Bariloche,7,1
+San Carlos de Bariloche,5,1
+San Carlos de Bariloche,6,1
+San Carlos de Bariloche,1,1
+San Carlos de Bariloche,12,1
+Campo Grande,7,1
+Campo Grande,12,1
+Campo Grande,3,1
+Chennai,1,2
+Chennai,6,2
+Chennai,2,1
+Chennai,3,2
+Chennai,10,2
+Chennai,4,1
+Chennai,7,2
+Chennai,11,1
+Chennai,9,1
+Chennai,5,1
+Jaipur,12,2
+Jaipur,7,3
+Jaipur,9,3
+Jaipur,3,3
+Jaipur,11,3
+Jaipur,4,2
+Jaipur,10,2
+Jaipur,6,1
+Jaipur,1,2
+Agra,12,2
+Agra,7,3
+Agra,9,1
+Agra,2,1
+Agra,11,3
+Agra,10,3
+Agra,4,1
+Agra,6,2
+Agra,1,1
+Agra,3,1
+Puducherry,11,1
+Puducherry,3,1
+Puducherry,12,1
+Shenzhen,9,4
+Shenzhen,12,8
+Shenzhen,5,5
+Shenzhen,11,6
+Shenzhen,10,6
+Shenzhen,6,5
+Shenzhen,8,5
+Shenzhen,2,2
+Shenzhen,7,4
+Shenzhen,3,4
+Shenzhen,1,2
+Shenzhen,4,4
+Maine,6,1
+Maine,9,1
+Homer,5,1
+Whitehorse,4,1
+Whitehorse,2,1
+Whitehorse,3,1
+Dawson Creek,4,1
+"Whitefish, MT, United States",4,1
+"Provo, UT",4,1
+"Provo, UT",11,1
+Gila,3,1
+Belo Horizonte,1,3
+Belo Horizonte,12,3
+Belo Horizonte,7,2
+Belo Horizonte,4,2
+Belo Horizonte,2,1
+Belo Horizonte,6,1
+Belo Horizonte,11,4
+Belo Horizonte,10,1
+Belo Horizonte,5,1
+Belo Horizonte,3,1
+Belo Horizonte,8,1
+Ilhabela,1,1
+Ilhabela,11,1
+Santa Cruz,4,4
+Santa Cruz,7,2
+Santa Cruz,8,3
+Santa Cruz,3,2
+Santa Cruz,12,1
+Santa Cruz,2,2
+Santa Cruz,9,2
+Santa Cruz,10,2
+Santa Cruz,5,1
+Tamarindo,2,1
+Tamarindo,1,5
+Tamarindo,6,2
+Tamarindo,4,2
+Tamarindo,3,1
+Tamarindo,8,2
+Tamarindo,9,2
+Tamarindo,10,1
+Tamarindo,5,1
+Tamarindo,12,1
+Niterói,8,1
+Niterói,4,1
+"RosarioSanta Fé, Argentina",5,1
+Harrisonburg,7,3
+Harrisonburg,5,1
+Harrisonburg,11,2
+Harrisonburg,6,2
+Harrisonburg,2,1
+Harrisonburg,8,1
+Harrisonburg,1,1
+Bethesda,7,1
+Regina,7,1
+Regina,12,1
+Regina,3,1
+Regina,4,1
+Winnipeg,6,2
+Winnipeg,8,1
+Winnipeg,10,1
+Winnipeg,12,1
+Winnipeg,9,1
+Winnipeg,7,1
+Princeton,1,1
+Princeton,9,1
+Princeton,4,1
+Skara,6,1
+Riccione,6,1
+Hakuba,3,1
+Hakuba,2,1
+Busan,2,1
+Busan,10,4
+Busan,1,3
+Busan,7,3
+Busan,3,2
+Busan,8,3
+Busan,6,1
+Busan,12,2
+Busan,4,2
+Busan,5,4
+Busan,11,3
+Fuerteventura,1,1
+Fuerteventura,9,3
+Fuerteventura,4,1
+Fuerteventura,8,1
+Fuerteventura,12,2
+Fuerteventura,7,1
+Fuerteventura,10,1
+Kata Beach,10,1
+Kata Beach,1,1
+Khao Lak,10,1
+Khao Lak,5,1
+Sassari,4,1
+Sassari,9,1
+Sassari,6,1
+Sassari,2,1
+Sassari,10,1
+Sassari,7,1
+Oaxaca,1,8
+Oaxaca,11,4
+Oaxaca,4,6
+Oaxaca,10,3
+Oaxaca,9,1
+Oaxaca,3,4
+Oaxaca,2,2
+Oaxaca,12,5
+Oaxaca,5,1
+Bantayan Island,1,1
+Cebu,1,7
+Cebu,2,7
+Cebu,8,3
+Cebu,4,8
+Cebu,6,5
+Cebu,11,7
+Cebu,9,1
+Cebu,5,9
+Cebu,10,3
+Cebu,7,2
+Cebu,3,6
+Cebu,12,2
+Lyon,10,5
+Lyon,5,6
+Lyon,9,2
+Lyon,8,4
+Lyon,4,2
+Lyon,3,3
+Lyon,2,7
+Lyon,7,6
+Lyon,12,6
+Lyon,6,6
+Lyon,11,2
+Lyon,1,4
+Hội An,3,1
+Hội An,11,1
+Changzhou,8,1
+Changzhou,7,1
+Changzhou,10,1
+Macau,8,2
+Macau,2,4
+Macau,6,2
+Macau,1,2
+Macau,12,6
+Macau,10,2
+Macau,9,4
+Macau,4,2
+Macau,11,6
+Macau,7,1
+Macau,3,2
+Macau,5,2
+Krong Battambang,3,1
+Krong Battambang,11,1
+Krong Battambang,1,1
+Krong Battambang,8,1
+New Haven,2,1
+New Haven,1,1
+New Haven,5,1
+New Haven,4,1
+New Haven,7,1
+New Haven,9,1
+Midigama Beach,3,1
+Weligama,2,1
+Weligama,1,1
+Santiago de Compostela,7,1
+Santiago de Compostela,6,3
+Santiago de Compostela,8,2
+Santiago de Compostela,10,1
+Santiago de Compostela,12,1
+Santiago de Compostela,2,1
+Santiago de Compostela,9,1
+Santiago de Compostela,5,1
+Bran,8,1
+Bran,4,1
+Komotini,1,1
+Birmingham,4,5
+Birmingham,9,6
+Birmingham,6,3
+Birmingham,8,4
+Birmingham,5,5
+Birmingham,11,2
+Birmingham,10,1
+Birmingham,12,2
+Birmingham,2,2
+Birmingham,7,4
+Birmingham,1,1
+Palma de Mallorca,5,1
+Palma de Mallorca,6,1
+Palma de Mallorca,9,1
+Palma de Mallorca,8,1
+Palma de Mallorca,7,4
+Palma de Mallorca,2,1
+Palma de Mallorca,4,1
+Palma de Mallorca,12,1
+Palma de Mallorca,3,1
+Gozo,4,1
+Los Angeles,1,1
+Mostar,7,1
+Mostar,6,1
+Mostar,10,1
+Mostar,11,2
+Mostar,8,1
+Mostar,9,2
+Mostar,3,1
+Makarska,7,2
+Makarska,4,1
+Makarska,8,2
+Općina Krk,7,1
+Christchurch,1,5
+Christchurch,6,2
+Christchurch,11,5
+Christchurch,3,3
+Christchurch,5,3
+Christchurch,12,5
+Christchurch,4,3
+Christchurch,10,2
+Christchurch,2,5
+Christchurch,7,1
+Christchurch,8,1
+Bishkek,9,4
+Bishkek,1,1
+Bishkek,8,3
+Bishkek,5,1
+Bishkek,4,1
+Bishkek,7,2
+Bishkek,10,2
+Tehran,7,1
+Tehran,12,1
+Tehran,11,1
+Tehran,9,1
+Tehran,2,3
+Tehran,4,2
+Tehran,10,1
+Lexington,12,2
+Lexington,11,1
+Lexington,4,1
+Lexington,8,2
+Lexington,1,2
+Lexington,10,2
+Lexington,5,1
+Hakone,10,1
+Hakone,5,1
+Hakone,6,2
+Hakone,12,1
+Freeport,4,1
+Freeport,6,1
+Freeport,11,1
+Positano,9,2
+Positano,5,1
+Positano,4,1
+Torquay,1,1
+Torquay,7,1
+Wrocław,1,2
+Wrocław,7,4
+Wrocław,11,1
+Wrocław,10,5
+Wrocław,9,4
+Wrocław,5,3
+Wrocław,12,2
+Wrocław,8,5
+Wrocław,3,4
+Wrocław,4,3
+Wrocław,2,2
+Wrocław,6,3
+Eindhoven,2,2
+Eindhoven,9,3
+Eindhoven,5,4
+Eindhoven,3,2
+Eindhoven,1,2
+Eindhoven,11,1
+Eindhoven,12,1
+Eindhoven,4,1
+Fort Walton Beach,10,1
+Hoi An,11,4
+Hoi An,5,6
+Hoi An,2,8
+Hoi An,9,2
+Hoi An,4,10
+Hoi An,12,10
+Hoi An,6,4
+Hoi An,3,10
+Hoi An,1,5
+Hoi An,8,5
+Hoi An,7,2
+Hoi An,10,3
+Koh Rong Sanloem,10,1
+Koh Rong Sanloem,1,1
+Koh Chang,10,1
+Koh Chang,12,1
+Koh Chang,11,1
+Koh Chang,9,1
+Sayulita,12,3
+Sayulita,5,5
+Sayulita,3,2
+Sayulita,4,1
+Sayulita,1,4
+Sayulita,6,1
+Sayulita,9,2
+Merida,9,3
+Merida,10,3
+Merida,11,1
+Merida,1,1
+Merida,2,3
+Merida,3,1
+Merida,4,1
+Merida,8,2
+Merida,6,2
+Merida,5,1
+Merida,12,2
+Toledo,9,2
+Toledo,4,1
+Toledo,10,1
+Toledo,12,1
+Toledo,11,1
+Toledo,7,1
+Toledo,2,1
+Bilbao,9,4
+Bilbao,6,5
+Bilbao,3,3
+Bilbao,12,5
+Bilbao,7,5
+Bilbao,11,3
+Bilbao,10,4
+Bilbao,5,4
+Bilbao,2,4
+Bilbao,8,1
+Bilbao,1,2
+Brasov,5,1
+Brasov,6,5
+Brasov,1,1
+Brasov,10,1
+Brasov,3,1
+Brasov,11,1
+Brasov,8,1
+Pretoria,5,1
+Pretoria,10,1
+Toamasina,5,1
+Antananarivo,2,1
+Antananarivo,5,1
+Antananarivo,4,1
+Antananarivo,1,1
+Missoula,8,1
+Missoula,2,1
+Missoula,6,1
+Missoula,10,2
+Missoula,9,1
+Missoula,7,1
+Missoula,5,1
+Missoula,4,1
+Missoula,1,1
+Missoula,12,1
+Punta Gorda,7,2
+Caye Caulker,7,1
+Caye Caulker,12,3
+Caye Caulker,5,1
+Caye Caulker,6,2
+Caye Caulker,2,1
+Caye Caulker,10,1
+Lihue,9,1
+Lake Bled,3,2
+Lake Bled,9,1
+Lake Bled,8,1
+Province of Verona,3,1
+Province of Verona,11,1
+Metropolitan City of Genoa,3,1
+Metropolitan City of Genoa,2,1
+Metropolitan City of Genoa,6,1
+Metropolitan City of Genoa,4,1
+Saint-Tropez,3,1
+Saint-Tropez,8,2
+Verdon Gorge,3,1
+Saint-Rémy-de-Provence,3,1
+Tongatapu,7,1
+Nessebar,7,1
+Varna,7,2
+Varna,6,1
+Varna,5,2
+Varna,8,3
+Varna,10,1
+Varna,9,1
+Cannes,5,3
+Cannes,6,1
+Cannes,8,2
+Cannes,3,1
+Cannes,2,1
+Cannes,9,2
+Cannes,4,1
+Haifa,10,1
+Haifa,5,1
+Haifa,1,1
+Haifa,9,1
+Santorini,10,2
+Santorini,7,8
+Santorini,2,2
+Santorini,8,3
+Santorini,6,3
+Santorini,3,1
+Santorini,9,2
+Santorini,4,3
+Santorini,5,2
+Wales,10,1
+Wales,11,1
+Wales,7,1
+Wales,3,1
+Wales,9,1
+Wales,6,2
+Lake Balaton,7,1
+Tignes,3,1
+Tignes,5,2
+Tignes,2,1
+Hue,2,3
+Hue,4,1
+Hue,9,1
+Hue,10,1
+El Nido,2,4
+El Nido,4,2
+El Nido,8,1
+El Nido,11,1
+El Nido,6,2
+El Nido,5,1
+El Nido,3,1
+El Nido,12,1
+Puerto Princesa,1,2
+Puerto Princesa,3,2
+Puerto Princesa,5,1
+Puerto Princesa,2,2
+Puerto Princesa,4,1
+Krong Preah Sihanouk,1,2
+Krong Preah Sihanouk,4,1
+Krong Preah Sihanouk,12,1
+Krong Preah Sihanouk,3,1
+Krong Preah Sihanouk,8,1
+Krong Preah Sihanouk,11,1
+Krong Preah Sihanouk,9,1
+Sorrento,4,2
+Sorrento,11,1
+Sorrento,7,2
+Sorrento,1,1
+Sorrento,5,1
+Helensburgh,8,1
+Siena,8,1
+Siena,10,2
+Siena,12,1
+Siena,2,1
+Siena,7,1
+Mar del Plata,2,1
+Cavtat,8,6
+Cavtat,9,1
+Addis Ababa,2,1
+Addis Ababa,11,2
+Addis Ababa,10,1
+Addis Ababa,1,2
+Addis Ababa,3,1
+Krong Kampot,10,1
+Krong Kampot,1,2
+Lycian Way Trail,4,1
+Poznan,5,1
+Poznan,12,1
+Poznan,3,3
+Poznan,6,4
+Poznan,7,1
+Poznan,11,2
+Poznan,8,1
+Poznan,9,1
+Osaka Prefecture,10,1
+Osaka Prefecture,4,4
+Osaka Prefecture,3,2
+Osaka Prefecture,5,2
+Osaka Prefecture,12,1
+Jioufen,2,1
+Jioufen,4,1
+Cat Ba,5,1
+Cat Ba,8,1
+Kiruna,3,1
+Gujo Hachiman,11,1
+Hangzhou,11,2
+Hangzhou,7,2
+Hangzhou,10,1
+Hangzhou,12,1
+Hangzhou,9,1
+Hangzhou,1,1
+Hangzhou,3,1
+Hangzhou,2,1
+Jeonju-si,1,1
+Central Region,12,1
+Central Region,4,1
+Dresden,8,4
+Dresden,5,1
+Dresden,9,4
+Dresden,6,4
+Dresden,1,1
+Dresden,10,2
+Dresden,7,1
+Dresden,4,1
+Dresden,11,3
+Dresden,3,1
+Dresden,12,1
+Garmisch-Partenkirchen,7,1
+Cuxhaven,7,1
+Haltwhistle,7,1
+Isle Of Islay,7,1
+Lake Atitlán,2,1
+Lake Atitlán,12,1
+Lake Atitlán,6,2
+Antigua,2,3
+Antigua,3,3
+Antigua,12,5
+Antigua,5,4
+Antigua,7,3
+Antigua,1,3
+Antigua,8,2
+Antigua,10,2
+Antigua,6,4
+Antigua,4,2
+Granada Department,2,1
+Granada Department,5,1
+Granada Department,1,1
+Ometepe,2,1
+Ometepe,7,1
+Ometepe,11,1
+Ometepe,6,1
+Ometepe,12,1
+Socorro Island,1,1
+Todos Santos,12,1
+Todos Santos,3,1
+Portugal,7,1
+Portugal,3,1
+Portugal,6,1
+Portugal,10,1
+Portugal,9,1
+Portugal,11,1
+Portugal,5,1
+São Miguel Island,6,1
+Utila,3,1
+Utila,11,1
+Utila,1,1
+Utila,5,1
+Veysonnaz,1,2
+Veysonnaz,3,1
+Veysonnaz,2,2
+Lima Region,4,3
+Lima Region,6,4
+Lima Region,7,2
+Lima Region,2,5
+Lima Region,3,3
+Lima Region,1,2
+Lima Region,12,3
+Lima Region,5,1
+Lima Region,9,1
+Lima Region,8,2
+Nanjing,4,2
+Nanjing,6,1
+Nanjing,10,1
+Nanjing,5,1
+Puerto Galera,8,1
+Puerto Galera,3,1
+Puerto Galera,1,1
+Puerto Galera,10,2
+Kota Kinabalu,7,2
+Kota Kinabalu,11,3
+Kota Kinabalu,1,2
+Kota Kinabalu,10,3
+Kota Kinabalu,5,1
+Kota Kinabalu,3,2
+Kota Kinabalu,6,3
+Kota Kinabalu,9,1
+Kota Kinabalu,4,1
+Kota Kinabalu,12,2
+Kota Kinabalu,2,3
+Kuching,6,4
+Kuching,11,1
+Kuching,1,3
+Kuching,9,3
+Kuching,4,4
+Kuching,8,1
+Kuching,7,3
+Kuching,12,2
+Kuching,2,3
+Kuching,3,1
+Phang-nga,1,1
+Phang-nga,11,1
+Khao Sok National Park,1,1
+Khao Sok National Park,5,1
+Vermont,12,1
+Vermont,6,1
+Berkeley,3,3
+Berkeley,6,2
+Berkeley,4,1
+Berkeley,1,2
+Berkeley,2,1
+Berkeley,12,1
+Blacksburg,7,1
+Blacksburg,1,1
+Blacksburg,12,1
+Cayman Islands,4,1
+Cayman Islands,6,1
+Cayman Islands,12,1
+"Rochester, NY",8,1
+"Rochester, NY",12,1
+"Rochester, NY",6,1
+"Rochester, NY",10,1
+"Rochester, NY",3,1
+"Rochester, NY",9,1
+Kemerovo,12,1
+Tomsk,8,1
+Valparaíso,2,3
+Valparaíso,1,1
+Valparaíso,12,1
+Valparaíso,4,3
+Valparaíso,3,4
+Valparaíso,6,1
+Valparaíso,8,1
+Moalboal,4,1
+Moalboal,12,1
+Moalboal,1,1
+Moalboal,2,1
+Moalboal,10,1
+Broadford,8,1
+Plitvička Jezera,6,1
+Plitvička Jezera,7,1
+Plitvička Jezera,5,1
+Pemenang,3,1
+Pemenang,4,1
+Sukapura,3,1
+Hạ Long Bay,8,1
+Hạ Long Bay,10,1
+Hạ Long Bay,12,1
+Hạ Long Bay,6,1
+Hạ Long Bay,3,1
+Hạ Long Bay,5,1
+Udaipur,7,1
+Udaipur,1,1
+Udaipur,4,1
+Udaipur,10,1
+Udaipur,12,3
+Udaipur,2,1
+Jodhpur,7,1
+Jodhpur,1,2
+Jodhpur,9,1
+Jodhpur,3,1
+Jodhpur,10,1
+Salawas,7,1
+Malpura,7,1
+Varanasi,7,1
+Varanasi,4,1
+Varanasi,3,2
+Varanasi,5,2
+Varanasi,6,1
+Varanasi,8,1
+Varanasi,12,1
+Lumbini,7,1
+Lumbini,1,1
+Itapema,11,1
+Itapema,10,1
+Curitiba,11,1
+Curitiba,10,3
+Curitiba,4,1
+Curitiba,2,1
+Curitiba,1,1
+Curitiba,9,1
+Curitiba,5,1
+Curitiba,3,3
+Curitiba,8,2
+Curitiba,6,2
+Curitiba,7,1
+Joinville,10,1
+León,9,1
+Pamplona,8,1
+Pamplona,3,1
+Pamplona,5,1
+Pamplona,10,1
+Pamplona,7,2
+Pamplona,12,1
+Pamplona,1,1
+Rovaniemi,2,2
+Rovaniemi,9,1
+Andorra la Vella,1,2
+Andorra la Vella,7,2
+Andorra la Vella,5,1
+Andorra la Vella,2,1
+Andorra la Vella,10,1
+Andorra la Vella,8,1
+Andorra la Vella,6,1
+Fátima,12,1
+Lourdes,12,1
+Gdansk,10,2
+Gdansk,1,6
+Gdansk,2,3
+Gdansk,11,2
+Gdansk,7,5
+Gdansk,3,1
+Gdansk,6,2
+Gdansk,8,2
+Gdansk,9,1
+Gdansk,12,1
+Chamonix,9,2
+Chamonix,2,4
+Chamonix,3,6
+Chamonix,12,2
+Chamonix,5,2
+Chamonix,10,1
+Chamonix,7,1
+Chamonix,1,1
+Kemer,7,2
+Harstad,7,1
+Torres del Paine,4,1
+Torres del Paine,1,1
+Torres del Paine,3,1
+Torres del Paine,11,1
+Lodz,1,2
+Lodz,6,2
+Lodz,10,2
+Lodz,5,1
+Lodz,4,1
+Lodz,2,1
+Lodz,11,1
+Lodz,9,1
+Lodz,8,1
+Lodz,3,1
+Lodz,12,1
+Lodz,7,1
+Zakopane,1,1
+Zakopane,6,2
+Zakopane,7,1
+Zakopane,4,1
+Zakopane,11,1
+Sisimiut,9,1
+Kangerlussuaq,8,1
+Rothbury,6,1
+Muskegon,6,1
+Acadia National Park,5,1
+Winter Harbor,5,1
+Standish,5,1
+Hampton,5,1
+Trenton,5,1
+Minamiboso Shi,4,1
+Minamiboso Shi,3,1
+Maradu,1,1
+Courtallam,1,1
+Kanyakumari,1,1
+Varkala,1,2
+Varkala,3,1
+Varkala,11,1
+Varkala,12,1
+Kannur,1,1
+Kundapura,1,1
+Palolem,1,2
+Morjim,1,1
+Morjim,3,1
+Chiplun,1,1
+Chiplun,11,1
+Navi Mumbai,1,1
+Vapi,1,1
+Ankleshwar,1,1
+Ahmedabad,1,2
+Ahmedabad,7,1
+Ahmedabad,6,1
+Ahmedabad,12,1
+Jaisalmer,12,1
+Jaisalmer,9,2
+Jaisalmer,10,1
+Jaisalmer,1,1
+Arusha,11,1
+Arusha,10,1
+Arusha,9,1
+Arusha,8,4
+Arusha,7,1
+Arusha,6,1
+Kilimanjaro International Airport,11,1
+Lake Eyasi,11,1
+Karatu,11,1
+Serengeti National Park,11,1
+Serengeti National Park,8,1
+Dickinson,9,1
+Dickinson,8,1
+Dickinson,7,1
+Dickinson,6,1
+Cody,9,1
+Cody,8,1
+Idaho Falls,9,1
+Fallon,8,1
+Bozeman,8,1
+Bozeman,11,3
+Bozeman,10,1
+Casper,8,1
+Hill City,8,1
+Camas,7,1
+Sisters,7,1
+Eugene,7,3
+Eugene,3,1
+Eugene,8,1
+Eugene,11,1
+Eugene,5,2
+Eugene,6,2
+Eugene,12,1
+Eugene,9,1
+Kellogg,7,1
+Banff,7,3
+Banff,6,2
+Banff,5,4
+Banff,3,2
+Banff,9,1
+Banff,8,2
+Banff,4,2
+Radium Hot Springs,7,1
+Calgary,7,9
+Calgary,12,3
+Calgary,10,4
+Calgary,5,2
+Calgary,3,2
+Calgary,8,3
+Calgary,11,1
+Calgary,4,2
+Calgary,2,1
+Calgary,6,4
+Calgary,9,2
+Calgary,1,1
+Warner,6,1
+"Minneapolis, MN",6,4
+"Minneapolis, MN",8,7
+"Minneapolis, MN",9,3
+"Minneapolis, MN",5,5
+"Minneapolis, MN",7,5
+"Minneapolis, MN",3,4
+"Minneapolis, MN",10,5
+"Minneapolis, MN",11,1
+"Minneapolis, MN",4,3
+"Minneapolis, MN",1,2
+"Minneapolis, MN",12,3
+Kalamazoo,5,1
+Kalamazoo,3,1
+Baie Lazare,5,1
+Morondava,5,1
+Bekopaka,5,1
+Belo Tsiribihina,5,1
+Masoarivo,5,1
+Anosimena,5,1
+Miandrivazo,5,1
+Antsirabe,4,1
+Hachijō-jima,3,1
+"Milwaukee, WI",1,1
+Pak Chong,11,1
+Lagonisi,9,1
+Porto Koufo,9,1
+Porto Koufo,7,1
+"Buffalo, NY",8,1
+"Buffalo, NY",9,3
+"Buffalo, NY",1,1
+"Buffalo, NY",11,1
+"Buffalo, NY",6,2
+"Buffalo, NY",7,1
+Tilburg,7,1
+Tilburg,10,1
+Ko Samet,5,2
+Ko Samet,6,1
+Ko Samet,1,2
+Ko Samet,12,1
+Amed Beach,5,1
+Amed Beach,9,2
+Amed Beach,2,1
+Amed Beach,1,1
+Amed Beach,7,1
+Gili Trawangan,5,1
+Gili Trawangan,8,3
+Gili Trawangan,1,1
+Gili Trawangan,3,1
+Ogasawara,4,1
+Sendai,4,1
+Sendai,6,1
+Nagano,4,1
+Matsumoto,4,1
+Matsumoto,11,1
+Matsumoto,2,1
+Kashgar,12,1
+Shiraz,11,1
+Shiraz,4,1
+Dikanak,11,1
+Isfahan,11,1
+Isfahan,4,1
+Isfahan,10,1
+Yazd,11,1
+Yazd,4,1
+Bandar Seri Begawan,11,1
+Yangon,10,6
+Yangon,9,3
+Yangon,6,4
+Yangon,5,3
+Yangon,1,13
+Yangon,12,3
+Yangon,4,3
+Yangon,11,2
+Yangon,2,7
+Yangon,3,5
+Yangon,8,1
+Ngapali Beach,10,1
+Ngwesaung,10,1
+Granville Ferry,8,1
+Halifax,8,2
+Halifax,7,3
+Halifax,6,3
+Halifax,1,2
+Halifax,5,2
+Halifax,12,1
+Port Hood,8,1
+Baddeck,8,1
+Charlottetown,8,1
+Charlottetown,7,1
+Saint John,8,2
+Bar Harbor,8,1
+Cinisi,7,1
+Mikonos,7,1
+Mikonos,4,3
+Mikonos,5,1
+Mikonos,9,1
+Hvar,7,4
+Hvar,4,1
+Hvar,9,3
+Hvar,10,1
+Hvar,8,5
+Hvar,6,1
+Bol,7,1
+Bol,8,1
+Bol,9,1
+Brač,7,1
+Brač,9,1
+Antalya,6,4
+Antalya,4,2
+Antalya,11,1
+Antalya,9,1
+Antalya,1,1
+Antalya,2,1
+Antalya,5,1
+Antalya,3,1
+Kaş,6,1
+Kaş,7,1
+Fethiye,6,1
+Fethiye,7,1
+Pamukkale,6,1
+Pamukkale,2,1
+Bodrum,6,1
+Bodrum,7,1
+Bodrum,5,1
+Bodrum,4,1
+Kalymnos,6,1
+Kalymnos,7,1
+Kalymnos,5,1
+Leipsoi,6,1
+Patmos,6,1
+Leros,6,1
+Kos,6,2
+Kos,7,1
+Kos,9,1
+Plitvice Lakes National Park,5,1
+Plitvice Lakes National Park,10,1
+Tangier,5,1
+Tangier,6,2
+Tangier,4,1
+Tangier,9,1
+Tangier,12,2
+Tangier,2,1
+Tetouan,5,1
+Tetouan,4,1
+Chefchaouen,5,2
+Chefchaouen,12,1
+Chefchaouen,4,1
+Chefchaouen,9,1
+Chefchaouen,11,1
+Chefchaouen,2,1
+Chefchaouen,1,1
+Fes,4,3
+Fes,5,2
+Fes,6,2
+Fes,2,3
+Fes,3,1
+Fes,9,2
+Fes,10,1
+Fes,12,1
+Ouarzazate,4,1
+Ouarzazate,5,1
+Ouarzazate,3,1
+Imlil,4,1
+Imlil,3,1
+Huaraz,4,1
+Huaraz,2,1
+Huaraz,6,1
+Huaraz,9,1
+Machu Picchu,4,2
+Machu Picchu,7,1
+Machu Picchu,6,1
+Machu Picchu,3,1
+Iquitos,3,1
+Iquitos,7,1
+Iquitos,2,1
+Iquitos,5,1
+Iquitos,6,1
+Iquitos,4,1
+Iquitos,12,1
+Comstock Park,2,1
+Maafushi,1,2
+Maafushi,3,1
+Male,1,4
+Male,12,4
+Male,3,2
+Male,8,1
+Male,2,1
+Rangali,1,1
+Muscat,1,3
+Muscat,12,1
+Muscat,3,2
+Muscat,8,1
+Muscat,5,2
+Muscat,9,1
+Muscat,2,1
+Sur,1,1
+Al Khaluf,1,1
+Hasik,1,1
+Mirbat,1,1
+Salalah,12,1
+Salalah,3,1
+Haima,12,1
+Jeddah,12,1
+Jeddah,4,2
+Jeddah,8,1
+Jeddah,2,1
+Jeddah,7,1
+Jeddah,6,1
+Madain Saleh,12,1
+Ngorongoro Crater,11,1
+Ngorongoro Crater,10,1
+Sant Celoni,9,1
+Mandalay,5,2
+Mandalay,11,1
+Mandalay,1,3
+Mandalay,9,1
+Mandalay,3,2
+Mandalay,6,2
+Mandalay,4,1
+Puta-O,5,1
+Old Bagan,5,1
+Old Bagan,1,4
+Old Bagan,12,1
+Old Bagan,2,2
+Old Bagan,11,2
+Old Bagan,4,1
+Old Bagan,6,1
+Shillong,4,1
+Shillong,9,1
+Kaziranga National Park,4,1
+Birpara,4,1
+Gangtok,4,1
+Jorethang,4,1
+Darjeeling,4,1
+Darjeeling,10,1
+Siliguri,4,1
+Siliguri,9,1
+Malda,4,1
+Kolkata,4,4
+Kolkata,8,1
+Kolkata,5,2
+Kolkata,2,2
+Kolkata,12,2
+Kolkata,6,1
+Kolkata,11,1
+Bhubaneswar,4,1
+Visakhapatnam,4,1
+Ongole,4,1
+Valparai,4,1
+Beppu,3,1
+Kagoshima,3,1
+Kagoshima,1,1
+Kagoshima,10,1
+Kagoshima,2,1
+Kagoshima,7,1
+Fukuoka,3,1
+Fukuoka,6,1
+Fukuoka,9,2
+Fukuoka,1,1
+Fukuoka,5,2
+Fukuoka,7,2
+Fukuoka,2,1
+Fukuoka,12,1
+Okayama,3,1
+Okayama,12,1
+Okayama,7,1
+Kanchanaburi,2,1
+Kanchanaburi,5,1
+Kanchanaburi,9,1
+Cha-am,2,1
+"Phoenix, AZ",1,3
+"Phoenix, AZ",2,6
+"Phoenix, AZ",3,1
+"Phoenix, AZ",5,7
+"Phoenix, AZ",11,1
+"Phoenix, AZ",4,5
+"Phoenix, AZ",12,2
+"Phoenix, AZ",9,2
+"Phoenix, AZ",10,3
+"Phoenix, AZ",8,1
+"Phoenix, AZ",6,1
+"Phoenix, AZ",7,1
+Cali,12,2
+Cali,1,2
+Cali,3,1
+Cali,11,4
+Cali,10,2
+Cali,2,1
+Cali,9,2
+Cali,4,1
+Palomino,12,1
+Palomino,3,1
+Palomino,5,1
+La Guajira,12,2
+Clearwater,12,1
+Clearwater,10,1
+Clearwater,6,1
+Wilmington,11,1
+Wilmington,7,1
+Mauritius,10,1
+Mauritius,12,2
+Mauritius,11,1
+Mauritius,9,1
+Mauritius,1,1
+Mauritius,7,1
+Brigantine,9,1
+Davenport,9,1
+Grand Junction,9,1
+Fernley,8,1
+"Des Moines, IA",8,2
+"Des Moines, IA",5,1
+"Des Moines, IA",11,1
+"Des Moines, IA",4,1
+"Des Moines, IA",9,1
+"Des Moines, IA",10,1
+"Des Moines, IA",3,1
+Montebello,8,1
+Wendover,8,1
+Schenectady,8,1
+Corona,7,1
+Corona,3,1
+Manhattan Beach,7,1
+Manhattan Beach,10,1
+San Luis Obispo,7,2
+San Luis Obispo,3,1
+San Luis Obispo,8,1
+San Luis Obispo,9,2
+San Luis Obispo,4,1
+San Luis Obispo,11,1
+San Luis Obispo,12,2
+San Luis Obispo,2,1
+Crescent City,7,1
+Chemult,7,1
+Blue Lagoon,6,1
+Ölfus,6,1
+Holmur,6,1
+Gunnarshólmi,6,1
+Selfoss,6,1
+Akureyri,5,2
+Akureyri,10,2
+Akureyri,2,1
+Stykkishólmur,5,1
+Stykkishólmur,7,1
+Stykkishólmur,8,1
+Aarhus,4,1
+Aarhus,10,2
+Aarhus,7,4
+Aarhus,5,1
+Aarhus,1,1
+'s-Hertogenbosch,4,1
+Norwalk,2,1
+Eden Prairie,2,1
+Southampton,12,1
+Southampton,7,2
+Southampton,9,2
+Southampton,3,1
+Reunion,11,1
+Reunion,10,1
+Springbok,11,1
+Keetmanshoop,11,1
+Swakopmund,11,1
+Swakopmund,12,1
+Swakopmund,7,1
+Windhoek,11,1
+Windhoek,2,2
+Windhoek,8,1
+Windhoek,12,2
+Windhoek,10,1
+Windhoek,5,1
+Windhoek,7,1
+Windhoek,1,1
+Maun,11,1
+Maun,7,1
+Maun,6,1
+Masuma,11,1
+Victoria Falls,11,1
+Victoria Falls,2,1
+Victoria Falls,6,1
+Livingstone,11,1
+Choma,11,1
+Lilongwe,10,1
+Nkhata Bay,10,1
+Livingstonia,10,1
+Mbeya,10,1
+Mbeya,6,1
+Dodoma,10,1
+Serengeti,10,1
+Serengeti,8,1
+Serengeti,6,1
+Serengeti,5,1
+Isiolo,10,1
+Marsabit,10,1
+Moyale,10,1
+Harar,10,1
+Hargeisa,9,1
+Lalibela,9,1
+Lalibela,11,1
+Debre Zeyit,9,1
+Gondor Terara,9,1
+Gorgora,9,1
+Al Qadarif,9,1
+Khartoum,9,1
+Meroë,9,1
+Dongola,9,1
+Wadi Halfa,9,1
+Ibrim,9,1
+Assiut Governorate,8,1
+Cairo Governorate,8,3
+Cairo Governorate,1,2
+Cairo Governorate,10,1
+Cairo Governorate,11,1
+Cairo Governorate,12,2
+Tobruk,8,1
+Shahat,8,1
+Benghazi,8,1
+Sirte,8,1
+Misrata,8,1
+Leptis Magna,8,1
+Tripoli,8,1
+Tripoli,2,1
+Sabratah,8,1
+Poste-Frontière Tunisien,7,1
+Tataouine,7,1
+Sfax,7,1
+Tunis,7,2
+Tunis,3,3
+Tunis,8,1
+Tunis,11,1
+Tunis,10,1
+Tunis,4,1
+Salerno,7,1
+Bologna,7,2
+Bologna,5,3
+Bologna,10,5
+Bologna,8,3
+Bologna,11,2
+Bologna,6,3
+Bologna,4,2
+Bologna,2,1
+Bologna,9,2
+Bologna,3,1
+Zwiesel,7,1
+Klenová,7,2
+Dunkirk,7,1
+Dunkirk,8,1
+Dunkirk,11,1
+Dunkirk,3,1
+Franz Josef Glacier,6,1
+Franz Josef Glacier,12,1
+Franz Josef Glacier,10,1
+Franz Josef Glacier,4,2
+Franz Josef Glacier,3,1
+Cambridge,6,2
+Cambridge,1,1
+Cambridge,10,2
+Cambridge,4,2
+Cambridge,11,2
+Cambridge,3,1
+Cambridge,5,2
+Cambridge,9,1
+Cambridge,8,2
+Cape Tribulation,6,1
+Port Douglas,6,1
+Port Douglas,7,1
+Uluru,6,1
+Uluru,4,1
+Alice Springs,5,1
+Alice Springs,4,1
+Alice Springs,10,1
+Adelaide,5,4
+Adelaide,3,3
+Adelaide,4,3
+Adelaide,10,1
+Adelaide,9,3
+Adelaide,1,3
+Adelaide,12,2
+Adelaide,11,6
+Adelaide,6,1
+Adelaide,7,1
+Adelaide,2,3
+"Richmond, VA",4,3
+"Richmond, VA",2,1
+"Richmond, VA",12,1
+"Richmond, VA",3,2
+"Richmond, VA",7,1
+"Richmond, VA",6,1
+"Richmond, VA",5,1
+Sedona,2,2
+Sedona,12,1
+Sedona,11,1
+Zion Nature Park,2,1
+Bryce,2,1
+Bryce,3,1
+Phe,10,1
+Klaeng,10,1
+Moradabad,9,1
+Bhimdatta,9,1
+Nepalgunj,9,1
+Hetauda,9,1
+Itahari,9,1
+Bilasipara,9,1
+Bongaigaon,9,1
+Guwahati,9,1
+Guwahati,12,1
+Guwahati,1,1
+Paro,9,1
+Paro,12,1
+Wangdue Phodrang,9,1
+Wangdue Phodrang,12,1
+Punakha,9,1
+Dochula,8,1
+Thimphu,8,1
+Thimphu,12,1
+Thimphu,10,1
+Thimphu,4,1
+Izmir,7,2
+Izmir,5,1
+Izmir,10,1
+Izmir,2,2
+Izmir,12,1
+Izmir,6,1
+Izmir,1,2
+Izmir,9,1
+Yanartas Dagi,7,1
+Kabak,7,1
+Symi,7,1
+Rhodes,7,3
+Rhodes,5,1
+Rhodes,9,2
+Rhodes,10,1
+Rhodes,8,1
+Rhodes,6,1
+Rhodes,4,2
+Tilos,7,1
+Nisyros,7,1
+Kuşadası,7,1
+Kuşadası,5,1
+Boyne City,5,1
+Traverse City,4,1
+Traverse City,6,1
+Traverse City,9,1
+Clarkston,4,1
+Taos,4,1
+Taos,2,1
+"Springdale / Zion, UT",3,1
+Sunnyvale,3,1
+Sunnyvale,2,1
+Sunnyvale,1,1
+Sunnyvale,10,1
+Needles,2,1
+Williams,2,2
+Flagstaff,2,1
+Flagstaff,11,1
+Flagstaff,1,1
+Flagstaff,3,1
+Flagstaff,6,1
+"Tucson, AZ",2,3
+"Tucson, AZ",6,1
+"Tucson, AZ",11,1
+"Tucson, AZ",3,1
+"Tucson, AZ",12,2
+"Tucson, AZ",9,1
+El Paso,2,1
+Tainan City,11,2
+Tainan City,3,2
+Tainan City,12,1
+Tainan City,4,2
+Kaohsiung,11,1
+Kaohsiung,9,2
+Kaohsiung,1,5
+Kaohsiung,4,1
+Kaohsiung,12,1
+Kaohsiung,5,2
+Moshi,9,1
+Moshi,8,1
+Moshi,1,1
+Moshi,5,1
+Mount Kilimanjaro,8,2
+Stone Town,8,2
+Stone Town,4,1
+Stone Town,5,1
+Nungwi,8,1
+Wallaceburg,7,1
+Bonaire,5,1
+Frankenmuth,5,1
+Phra Nakhon Si Ayutthaya,1,1
+Phra Nakhon Si Ayutthaya,5,2
+Phra Nakhon Si Ayutthaya,4,1
+Angkor Wat,1,1
+Mandalgovi,9,1
+Flaming Cliffs,9,1
+Khyagt,9,1
+Almaty,9,2
+Almaty,8,2
+Almaty,6,1
+Almaty,11,1
+Almaty,12,1
+Almaty,4,1
+Almaty,7,1
+Almaty,10,2
+Dushanbe,8,1
+Dushanbe,7,1
+Khorog,8,1
+Murghab,8,1
+Kalaikhum,8,1
+Obigarm,8,1
+Buragen,8,1
+Samarkand,8,2
+Samarkand,9,1
+Bukhara,8,1
+Bukhara,9,1
+Nukus,8,1
+Karakalpakiya,8,1
+Beyneu,8,1
+Atyrau,8,1
+Kotyayevka,7,1
+Elista,7,1
+Volgograd,7,2
+Volgograd,9,1
+Volgograd,8,2
+Volgograd,1,1
+Volgograd,11,1
+Volgograd,6,1
+Volgograd,5,1
+Volgograd,2,2
+Melitopol',7,1
+Reni,7,1
+Chichester,7,1
+Eton,7,1
+Kenilworth,6,1
+Marion,4,1
+Rothenburg,6,1
+Delft,6,1
+Delft,11,1
+Delft,3,1
+Delft,7,1
+Schiedam,6,1
+Chemnitz,5,1
+Chemnitz,8,1
+Göcek Köyü,5,1
+Denizli,5,1
+Salihli,4,1
+Ayvalık,4,1
+Çanakkale,4,1
+Çanakkale,7,1
+Bursa,4,1
+Fort Wayne,3,1
+Silverthorne,2,1
+San Gerardo,1,1
+Quepos,1,2
+Quepos,5,1
+Quepos,10,1
+Monte Verde,1,1
+Monte Verde,3,2
+Tilaran,1,1
+"Omaha, NE",4,2
+"Omaha, NE",5,1
+"Omaha, NE",11,1
+Ushuaia,1,2
+Ushuaia,11,1
+Ushuaia,2,2
+Ushuaia,3,1
+Ushuaia,12,1
+Antarctic Great Wall Station,1,1
+Base Yelcho,1,1
+"Chania, Crete",4,3
+"Chania, Crete",10,1
+"Chania, Crete",3,1
+"Chania, Crete",9,1
+"Chania, Crete",2,1
+Thira,4,3
+Thira,7,1
+Thira,3,1
+Thira,9,1
+Thira,5,2
+Barcelona Province,4,1
+Barcelona Province,12,1
+Dar es Salaam,8,1
+Dar es Salaam,6,5
+Dar es Salaam,1,1
+Dar es Salaam,9,1
+Dar es Salaam,7,1
+Dar es Salaam,11,2
+Okinawa,4,1
+Okinawa,12,1
+Okinawa,9,1
+Okinawa,2,1
+Interlaken,10,1
+Interlaken,1,2
+Interlaken,5,3
+Interlaken,2,2
+Interlaken,4,1
+Interlaken,7,1
+Interlaken,9,1
+Interlaken,6,1
+Interlaken,8,1
+Interlaken,11,1
+Innsbruck,7,1
+Innsbruck,3,4
+Innsbruck,2,3
+Innsbruck,1,5
+Innsbruck,6,2
+Innsbruck,12,3
+Innsbruck,8,4
+Innsbruck,9,2
+Innsbruck,5,2
+Perugia,11,1
+Città di San Marino,10,1
+Hamilton,6,1
+Hamilton,7,1
+Hamilton,3,1
+Hamilton,8,1
+Hamilton,12,1
+Hamilton,10,2
+Hamilton,11,3
+Petit Bourg,1,1
+Faro,8,2
+Faro,12,1
+Faro,3,1
+Faro,1,1
+Faro,2,1
+Faro,6,1
+Faro,5,1
+Turin,7,6
+Turin,11,3
+Turin,8,1
+Turin,2,2
+Turin,10,2
+Turin,4,2
+Turin,5,2
+Turin,3,1
+Luxembourg,5,4
+Luxembourg,9,5
+Luxembourg,1,5
+Luxembourg,6,3
+Luxembourg,4,3
+Luxembourg,7,2
+Luxembourg,3,4
+Luxembourg,2,2
+Luxembourg,12,1
+Luxembourg,11,3
+Luxembourg,8,2
+Green Bay,8,1
+Green Bay,5,1
+Cardiff,7,1
+Cardiff,1,2
+Cardiff,9,3
+Cardiff,6,2
+Cardiff,8,1
+Cardiff,5,1
+Cardiff,12,1
+York,7,2
+York,8,3
+York,11,1
+York,10,1
+McCall,7,1
+McCall,1,1
+Aosta,2,2
+Aosta,11,1
+Vladivostok,9,1
+Vladivostok,4,1
+Vladivostok,6,1
+Mandalay Region,12,1
+Mandalay Region,7,1
+Kigali,1,2
+Kigali,2,1
+Kigali,4,1
+Kigali,5,1
+Kigali,3,1
+Kigali,9,1
+Kigali,6,2
+Kigali,8,1
+"Naha, Okinawa",11,3
+"Naha, Okinawa",10,2
+"Naha, Okinawa",9,1
+"Naha, Okinawa",3,2
+"Naha, Okinawa",6,1
+"Naha, Okinawa",7,1
+Djibouti City,7,1
+Rabat,8,2
+Rabat,11,3
+Rabat,5,1
+Rabat,10,1
+Rabat,3,2
+Rabat,7,3
+Rabat,6,1
+Rabat,9,3
+Rabat,4,1
+Rabat,1,1
+Port of Spain,4,1
+Port of Spain,3,1
+Port of Spain,1,1
+Thomonde,4,1
+Ballstädt,5,3
+Malacca,2,3
+Malacca,5,1
+Malacca,3,2
+Malacca,11,2
+Malacca,6,2
+Malacca,4,3
+Malacca,8,1
+Malacca,1,1
+Malacca,10,1
+Malacca,12,1
+Belize City,12,3
+Belize City,6,1
+Belize City,9,1
+Belize City,7,1
+Belize City,1,2
+Belize City,10,1
+Taipei City,7,3
+Taipei City,1,2
+Taipei City,6,3
+Taipei City,2,1
+Taipei City,11,1
+Taipei City,8,1
+Taipei City,3,1
+Taipei City,10,1
+Taipei City,5,1
+Taipei City,4,2
+"Pittsburgh, PA",9,3
+"Pittsburgh, PA",4,3
+"Pittsburgh, PA",2,3
+"Pittsburgh, PA",12,1
+"Pittsburgh, PA",6,2
+"Pittsburgh, PA",1,2
+"Pittsburgh, PA",8,1
+"Pittsburgh, PA",11,2
+Los Cabos,3,2
+Saint Thomas,11,1
+Saint Thomas,1,1
+Punta del Este,10,1
+Punta del Este,12,3
+Punta del Este,2,2
+Punta del Este,3,1
+Punta del Este,1,1
+Punta del Este,11,1
+Santa Barbara,7,1
+Santa Barbara,10,2
+Santa Barbara,5,2
+Santa Barbara,9,1
+Santa Barbara,6,1
+Santa Barbara,8,1
+Santa Barbara,2,1
+Santa Barbara,11,1
+Santa Barbara,1,1
+Ramona,10,1
+Ferrara,5,3
+Volterra,5,1
+San Gimignano,5,1
+San Gimignano,9,2
+Volpaia,5,1
+Panzano In Chianti,5,1
+Greve in Chianti,5,2
+Greve in Chianti,12,1
+Lastra A Signa,5,1
+Roz-sur-Couesnon,5,1
+Clisson,5,1
+Clisson,6,1
+Mont Saint-Michel,5,1
+Nantes,5,2
+Nantes,12,3
+Nantes,6,1
+Nantes,8,1
+Nantes,7,1
+Nantes,3,1
+Nantes,10,1
+Nantes,1,1
+Ferrugem,1,1
+San Rafael,10,1
+San Martín de los Andes,8,1
+Puerto Madryn,10,1
+Sunshine Coast,10,1
+Sunshine Coast,12,1
+Sunshine Coast,1,1
+Red Hill,4,1
+Bunbury,4,1
+Fremantle,4,2
+Fremantle,2,1
+Dharavandhoo,11,1
+Phoenix,2,3
+Phoenix,12,4
+Phoenix,3,2
+Phoenix,1,1
+Phoenix,10,2
+Amersfoort,7,2
+Amersfoort,5,1
+Amersfoort,4,1
+Amersfoort,2,2
+Amersfoort,1,1
+Amersfoort,12,1
+Amersfoort,9,1
+Zell am Ziller,3,1
+Janské Lázně,2,1
+Groningen,11,1
+Groningen,1,2
+Groningen,10,1
+Groningen,8,3
+Groningen,4,1
+Groningen,12,2
+Groningen,5,1
+Groningen,7,1
+Groningen,9,1
+Alanya,8,1
+Alanya,4,1
+Alanya,11,2
+Estepona,1,1
+Estepona,5,1
+Estepona,9,1
+Edmonton,7,2
+Edmonton,8,2
+Edmonton,12,1
+Edmonton,4,2
+Edmonton,11,1
+Edmonton,5,3
+San Sebastián,6,5
+San Sebastián,5,4
+San Sebastián,7,3
+San Sebastián,11,1
+San Sebastián,2,1
+San Sebastián,9,1
+San Sebastián,3,1
+San Sebastián,10,2
+San Sebastián,4,2
+Roberval,8,1
+Sudbury,8,2
+Wells,8,1
+Haida Gwaii,7,1
+Windsor,10,1
+Windsor,6,1
+Windsor,12,1
+Windsor,3,1
+Esteli,12,1
+Happy Valley-Goose Bay,7,1
+Annapurna Base Camp,9,1
+Leh,5,1
+Leh,7,1
+Manali,5,2
+Manali,6,1
+Manali,4,1
+Bulembu,8,1
+Bulembu,2,1
+Mara Triangle - Maasai Mara National Reserve,8,1
+Mpigi,8,1
+Kibale,4,1
+Kampala,11,1
+Kampala,7,1
+Kampala,6,1
+Kampala,5,1
+Kampala,8,2
+Kampala,12,1
+Kampala,10,1
+Conakry,7,1
+Culiacán,2,1
+Culiacán,12,1
+Bath,6,2
+Bath,3,1
+Bath,9,1
+Bath,5,2
+Bath,1,1
+Bath,12,2
+Bath,4,1
+Bath,11,2
+Bath,10,1
+Taichung,9,3
+Taichung,2,2
+Taichung,1,2
+Taichung,8,1
+Taichung,6,1
+Taichung,3,2
+Taichung,12,2
+Taichung,7,2
+Komatsu,5,1
+Pyongyang,12,2
+Pyongyang,4,1
+Pyongyang,8,1
+Pyongyang,6,1
+Pyongyang,3,1
+Dandong,12,1
+Dandong,6,1
+Yamanashi Prefecture,12,1
+Karuizawa,12,1
+Hiroshima,6,3
+Hiroshima,4,2
+Hiroshima,1,1
+Hiroshima,11,3
+Hiroshima,12,5
+Hiroshima,9,3
+Hiroshima,3,1
+Hiroshima,10,2
+Hiroshima,5,3
+Puerto del Rosario,8,1
+Puerto del Rosario,7,1
+Shrewsbury,5,2
+Shrewsbury,4,1
+Shrewsbury,3,1
+Shrewsbury,2,1
+Shrewsbury,1,1
+Shrewsbury,12,1
+Shrewsbury,10,1
+Shrewsbury,9,1
+Shrewsbury,8,1
+Shrewsbury,7,1
+Shrewsbury,6,1
+Wakefield,5,1
+Wakefield,4,1
+Wakefield,3,1
+Wakefield,1,1
+Wakefield,12,1
+Wakefield,11,1
+Wakefield,9,1
+Wakefield,8,1
+Wakefield,6,1
+Providence County,10,1
+Killarney,10,2
+Killarney,8,1
+Killarney,4,2
+Killarney,5,1
+Sunny Beach,6,2
+Sunny Beach,8,1
+Sunny Beach,9,1
+Plovdiv,6,3
+Plovdiv,9,1
+Plovdiv,3,1
+Plovdiv,5,1
+Plovdiv,7,1
+Plovdiv,12,1
+Plovdiv,8,1
+Tyne and Wear,6,1
+Zhongli District,10,1
+Changhua City,10,1
+"Saint Louis, MO",8,1
+"Saint Louis, MO",3,3
+"Saint Louis, MO",12,1
+Vigan City,2,1
+Portmeirion,9,1
+La Jolla Ranch,5,1
+Brno,7,3
+Brno,9,3
+Brno,10,1
+Brno,5,4
+Brno,8,2
+Brno,4,2
+Brno,12,2
+Brno,1,1
+Brno,2,1
+Brno,6,2
+Brno,3,1
+Ostrava,7,1
+Santander,6,2
+Santander,11,2
+Santander,7,1
+Santander,1,1
+United Kingdom,6,2
+United Kingdom,12,2
+United Kingdom,11,1
+Northern Ireland,1,1
+Leipzig,5,3
+Leipzig,10,1
+Leipzig,2,1
+Leipzig,7,2
+Leipzig,3,1
+Leipzig,12,2
+Leipzig,11,1
+Leipzig,9,1
+Leipzig,8,2
+Tirana,5,7
+Tirana,7,4
+Tirana,1,2
+Tirana,4,3
+Tirana,10,1
+Tirana,12,1
+Tirana,11,1
+Tirana,8,1
+Tirana,9,1
+Palermo,3,1
+Palermo,7,3
+Palermo,10,1
+Palermo,12,1
+Palermo,6,1
+Palermo,4,1
+Palermo,8,1
+Netherlands,3,3
+Netherlands,9,2
+Netherlands,12,1
+Netherlands,8,2
+Netherlands,6,1
+Netherlands,5,1
+Netherlands,4,1
+Netherlands,10,1
+Islamabad,3,1
+Ko Chang,11,1
+Ko Chang,2,1
+Ko Chang,3,1
+Ko Chang,1,2
+Ko Chang,12,1
+Sibiu,1,1
+Sibiu,4,1
+Sibiu,6,1
+Korčula,4,1
+Korčula,8,1
+Korčula,7,1
+Livermore,3,1
+Taupo,10,1
+Taupo,12,2
+Taupo,2,2
+Taupo,11,2
+Taupo,5,1
+Taupo,3,1
+Rotorua,10,1
+Rotorua,3,3
+Rotorua,11,1
+Rotorua,5,2
+Rotorua,2,1
+La Tremblade,5,1
+La Tremblade,10,1
+Piran,9,1
+Rostov-on-Don,7,2
+Iguazu Falls,2,2
+Iguazu Falls,11,2
+Iguazu Falls,7,1
+Iguazu Falls,4,2
+Iguazu Falls,12,1
+Kep Province,2,2
+Kep Province,3,1
+Kep Province,1,1
+Zakinthos,7,1
+Nettuno,5,1
+"Cagliari, Sardinia",8,1
+"Cagliari, Sardinia",5,2
+"Cagliari, Sardinia",12,1
+Perth,6,9
+Perth,5,5
+Perth,2,7
+Perth,11,4
+Perth,12,5
+Perth,9,6
+Perth,8,5
+Perth,1,6
+Perth,10,5
+Perth,7,6
+Perth,3,7
+Perth,4,4
+Kalbarri,6,1
+Denham,6,1
+Carnarvon,6,1
+Exmouth,6,1
+Exmouth,7,1
+Karratha,6,1
+Ramada Eco Beach Resort,6,1
+Broome,6,1
+Broome,7,1
+Port Hedland,5,1
+Karijini National Park,5,1
+Newman,5,1
+Western Australia,5,1
+Geraldton,5,1
+Cervantes,5,1
+Margaret River,5,2
+Margaret River,11,1
+Margaret River,2,1
+Perth Airport,5,1
+Ko Racha Yai,4,1
+Negombo,3,1
+Negombo,2,1
+Anuradhapura,3,1
+Anuradhapura,1,1
+Jaffna,3,1
+Jaffna,4,1
+Jaffna,1,1
+Trincomalee,3,2
+Polonnaruwa,3,1
+Sigiriya,3,1
+Sigiriya,5,1
+Sigiriya,2,1
+Sigiriya,1,1
+Kandy,3,2
+Kandy,5,2
+Kandy,7,1
+Kandy,2,3
+Kandy,10,1
+Kandy,1,1
+Ella,3,1
+Ella,10,1
+Ella,8,1
+Ella,2,2
+Ella,1,1
+Yala,3,1
+Tangalle,3,1
+Tangalle,2,1
+Galle,2,2
+Galle,12,1
+Galle,7,1
+Galle,1,1
+Galle,4,1
+Oslo Airport,2,1
+Rueda,2,1
+Rueda,9,1
+Rueda,3,1
+Rueda,6,1
+Stockholm Arlanda Airport,12,1
+Peratallada,12,1
+Bern,12,2
+Bern,5,3
+Bern,7,2
+Bern,10,2
+Bern,3,1
+Bern,2,1
+Bern,4,2
+Bern,1,1
+Bern,11,3
+Bern,8,1
+Mývatn,10,1
+Mývatn,7,1
+Nuuk,10,1
+Ilulissat,9,1
+Podgorica,9,2
+Podgorica,12,1
+Podgorica,8,2
+Podgorica,4,1
+Podgorica,7,2
+Podgorica,6,1
+Umag,8,1
+Motovun,8,1
+Hull,4,1
+La Palma,3,1
+Coimbra,3,1
+Coimbra,7,2
+Coimbra,2,1
+Coimbra,12,1
+Pitlochry,2,1
+Pitlochry,8,1
+Kyrenia Harbour,7,1
+Pontevedra,6,1
+Alicante,6,1
+Alicante,9,6
+Alicante,3,2
+Alicante,10,6
+Alicante,11,3
+Alicante,7,2
+Alicante,5,1
+Alicante,2,1
+Alicante,1,1
+Alicante,12,1
+Alicante,8,3
+Alicante,4,1
+Bornholm,5,1
+Picton,11,1
+Picton,1,1
+Picton,2,2
+Picton,4,2
+Picton,3,2
+Wanaka,11,2
+Wanaka,2,2
+Wanaka,10,1
+Wanaka,3,1
+Wanaka,8,1
+Wanaka,4,1
+Wanaka,12,1
+Halong Bay Vietnam,9,1
+Ha Giang,9,1
+Ha Giang,2,1
+Sapa Vietnam,9,1
+Jambiani,8,1
+Erg Chigaga Luxury Desert Camp Morocco,4,1
+Agdz,4,1
+Suez Canal,4,1
+Sharm El-Sheikh,4,1
+Sharm El-Sheikh,10,1
+"Safaga, Qesm Safaga, Red Sea Governorate, Egypt",4,1
+Aqaba,4,1
+Aqaba,6,1
+Aqaba,8,1
+Aqaba,3,1
+Aqaba,9,2
+Aqaba,2,1
+Red Sea,4,1
+Red Sea,3,1
+Fujairah,3,1
+Fujairah,4,1
+Madonna di Campiglio,3,2
+Madonna di Campiglio,5,1
+Zermatt,3,3
+Zermatt,5,1
+Zermatt,2,1
+Zermatt,1,1
+Zermatt,8,1
+Saint Anton am Arlberg,2,1
+Saint Anton am Arlberg,1,1
+Snowshoe,2,1
+El Calafate,12,2
+El Calafate,3,1
+El Calafate,2,1
+El Calafate,9,1
+El Chaltén,12,2
+El Chaltén,1,1
+Torres del Paine National Park,12,1
+Torres del Paine National Park,9,2
+Puerto Natales,12,2
+Puerto Natales,5,1
+Puerto Natales,9,1
+Brown Bluff,11,1
+Jackson,2,3
+Jackson,8,1
+Sun Valley,2,1
+Breckenridge,2,1
+Breckenridge,12,4
+Vail,1,1
+Vail,8,2
+Vail,6,1
+Vail,2,1
+Vail,12,1
+Lehi,2,1
+Ensenada,5,1
+Ensenada,6,1
+Ensenada,11,1
+Ensenada,12,1
+Ensenada,1,2
+Ensenada,3,1
+"LehiUT, United States",8,1
+"Raleigh, NC",3,3
+"Raleigh, NC",1,2
+"Raleigh, NC",10,4
+"Raleigh, NC",7,2
+"Raleigh, NC",5,3
+"Raleigh, NC",4,3
+"Raleigh, NC",12,5
+"Raleigh, NC",9,2
+"Raleigh, NC",8,5
+"Raleigh, NC",11,3
+"Raleigh, NC",2,3
+Quebec City,10,1
+Quebec City,9,2
+Quebec City,6,1
+Quebec City,4,2
+Quebec City,2,3
+Quebec City,8,1
+Quebec City,3,2
+Quebec City,5,2
+Quebec City,1,3
+Quebec City,7,4
+Australia,9,1
+Australia,5,2
+Australia,12,1
+Australia,3,1
+Australia,8,2
+"Tallinn, Tallinna linn, Estonia",8,1
+Manhattan,7,1
+Manhattan,4,1
+Manhattan,12,1
+Ross,2,1
+Richmond,2,1
+Richmond,11,1
+Richmond,9,1
+Palmerston North,2,1
+Palmerston North,6,1
+Raglan,2,2
+Denée,6,1
+Key West,1,1
+Key West,7,1
+Huế,4,2
+Huế,3,1
+Huế,12,2
+Huế,1,1
+Huế,7,1
+Huế,6,1
+Huế,8,2
+Huế,5,1
+Kingston,12,2
+Kingston,10,1
+Kingston,2,1
+Kingston,5,3
+Kingston,1,1
+Kingston,9,1
+Kingston,4,1
+Kingston,6,1
+Long Beach,11,3
+Long Beach,1,2
+Long Beach,3,1
+Long Beach,4,1
+Long Beach,12,1
+Long Beach,10,1
+Portimão,9,1
+Portimão,6,2
+Portimão,7,2
+Portimão,2,1
+Portimão,12,1
+Dhaka,3,2
+Dhaka,5,2
+Dhaka,7,1
+Armenia,12,1
+Armenia,10,1
+Armenia,5,1
+Playa Flamingo,4,1
+Madagascar,9,1
+Tibet,9,1
+Tibet,7,1
+Hawaii,7,1
+Hawaii,6,1
+Hawaii,1,2
+Hawaii,3,2
+Hawaii,4,2
+Hawaii,8,1
+Costa Rica,2,3
+Costa Rica,10,1
+Costa Rica,3,3
+Costa Rica,8,2
+Costa Rica,6,1
+Costa Rica,1,1
+France,12,2
+France,8,2
+France,6,2
+France,7,1
+France,9,2
+France,11,1
+France,2,2
+France,5,1
+Ho Chi Minh,12,1
+Ho Chi Minh,6,2
+Sumberkima,12,1
+Banyuwangi,11,1
+Banyuwangi,12,1
+Banyuwangi,7,1
+Lovina Beach,11,1
+Lovina Beach,10,1
+Lovina Beach,1,1
+Gili Meno,11,1
+Gili Meno,8,1
+"Seminyak, Bali",9,3
+"Seminyak, Bali",10,2
+"Seminyak, Bali",8,2
+"Seminyak, Bali",11,3
+"Seminyak, Bali",12,4
+"Seminyak, Bali",4,3
+"Seminyak, Bali",1,3
+"Seminyak, Bali",2,5
+"Seminyak, Bali",3,2
+"Seminyak, Bali",5,1
+León Department,11,1
+León Department,6,1
+León Department,10,1
+Cartago,10,1
+Sitges,10,2
+Sitges,7,1
+Sitges,6,1
+Sitges,11,1
+Sitges,2,1
+Sitges,9,1
+Sitges,1,1
+Hobart,1,2
+Hobart,12,3
+Hobart,2,1
+Hobart,8,1
+Hobart,6,1
+Hobart,9,2
+Hobart,4,1
+Hobart,3,2
+Hobart,10,1
+Hobart,11,1
+Hobart,5,1
+Canberra,2,1
+Canberra,10,1
+Canberra,9,1
+Canberra,1,3
+Canberra,6,1
+Krong Svay Rieng,6,1
+Novocheboksarsk,12,1
+Novocheboksarsk,6,1
+Ghandruk,5,1
+Ghode Pani,5,1
+Ulleri,5,1
+Arambol,1,1
+Arambol,2,2
+Arambol,11,2
+Arambol,6,1
+Gokarna,1,2
+Gokarna,2,1
+Ayia Napa,8,1
+Ayia Napa,6,1
+Ayia Napa,4,1
+Ayia Napa,5,1
+Icaria,8,2
+Samos,7,1
+Samos,6,1
+Mykonos,7,3
+Mykonos,9,5
+Mykonos,10,3
+Mykonos,8,3
+Mykonos,6,1
+Mykonos,5,1
+Naxos,7,2
+Naxos,8,2
+Naxos,9,1
+Paripueira,5,1
+Ouro Preto,4,1
+Ouro Preto,6,1
+Ouro Preto,9,1
+Ouro Preto,2,1
+Aracaju,3,1
+Aracaju,12,2
+Salvador,3,4
+Salvador,9,2
+Salvador,10,1
+Salvador,6,4
+Salvador,5,2
+Salvador,11,6
+Salvador,4,1
+Salvador,2,1
+Salvador,7,2
+Salvador,12,1
+Salvador,8,2
+"Okanagan Valley, BC",5,1
+Moncton,8,1
+Moncton,7,1
+Paros,8,3
+Paros,5,3
+Paros,6,1
+Paros,9,2
+Kilimanjaro Region,8,1
+Kilimanjaro Region,6,1
+Kilimanjaro Region,7,1
+Lake Louise,7,2
+Lake Louise,10,1
+Cienfuegos,3,1
+Cienfuegos,11,1
+Cienfuegos,4,1
+Cienfuegos,5,1
+Guatemala City,3,2
+Guatemala City,1,1
+Guatemala City,4,1
+Guatemala City,8,1
+Guatemala City,2,1
+Guatemala City,12,2
+Guadeloupe,2,1
+Guadeloupe,1,1
+Guadeloupe,11,1
+Guadeloupe,5,1
+Lake Como,6,2
+Lake Como,8,2
+Lake Como,10,2
+Lake Como,5,2
+Lake Como,3,1
+Lake Como,4,1
+Lake Como,9,1
+Poggibonsi,6,1
+Maddalena Island,5,1
+Manuel Antonio Beach,8,1
+Kings Mountain,12,1
+Caracas,1,2
+Caracas,5,1
+Caracas,8,1
+Zug,4,2
+Rouen,4,1
+Gibraltar,3,1
+Gibraltar,8,1
+Gibraltar,4,3
+Gibraltar,1,2
+Gibraltar,10,3
+Gibraltar,9,1
+Alpes-Maritimes,3,1
+Papua New Guinea,8,1
+Papua New Guinea,2,1
+La Plagne,3,1
+La Plagne,1,2
+Croatia,7,4
+Croatia,8,1
+Tampa,1,2
+Tampa,6,1
+Tampa,4,2
+Pune,3,2
+Pune,2,1
+Pune,12,2
+Pune,11,2
+Pune,10,2
+Pune,8,2
+Pune,5,2
+Pune,4,1
+Pune,1,2
+Pune,9,2
+Pune,7,2
+Pune,6,1
+Hyderabad,12,1
+Hyderabad,8,1
+Hyderabad,11,3
+Hyderabad,5,2
+Hyderabad,3,2
+Hyderabad,6,1
+Hyderabad,10,1
+Londonderry,10,1
+Londonderry,2,1
+Liscannor,10,1
+Ballymackey,10,1
+Ephesus Archaeological Museum,9,1
+Tijuana,5,1
+Tijuana,1,2
+Tijuana,10,1
+Tijuana,11,1
+Tijuana,2,1
+Tijuana,9,1
+Cal Visó,9,1
+Puerto Morelos,10,1
+Puerto Morelos,11,1
+Puerto Morelos,1,1
+Santa Maria,11,1
+Santa Maria,10,1
+North Island,5,1
+South Island,4,1
+South Island,3,1
+Ireland,12,1
+Ireland,8,2
+Ireland,6,2
+Ireland,5,1
+Ireland,7,1
+Napili-Honokowai,3,1
+Lahaina,4,1
+Lahaina,9,1
+Lahaina,7,1
+Key Largo,4,2
+Key Largo,3,1
+Key Largo,5,1
+Saransk,12,1
+Saransk,4,1
+Tarifa,10,5
+Tarifa,9,4
+Tarifa,6,2
+Tarifa,5,2
+Tarifa,2,1
+Tarifa,1,1
+Anapa,6,1
+Sanur,1,1
+Sanur,11,1
+Sanur,10,1
+Sanur,4,1
+Sanur,12,1
+Sanur,6,1
+Ubatuba,5,1
+Aguas Calientes,4,1
+Aguas Calientes,9,1
+Paracas,4,2
+Paracas,10,1
+Paracas,2,1
+Praia da Baleia,2,1
+Ilha Grande,12,1
+Ilha Grande,2,1
+Jeju Island,5,13
+Jeju Island,10,1
+Jeju Island,9,9
+Jeju Island,3,2
+Jeju Island,12,1
+Jeju Island,6,2
+Jeju Island,4,4
+Jeju Island,2,2
+Jeju Island,8,1
+Jeju Island,11,2
+Jeju Island,7,1
+Risoul,2,1
+Essaouira,12,2
+Essaouira,2,1
+Essaouira,8,1
+Essaouira,10,2
+Essaouira,3,2
+Essaouira,11,1
+Essaouira,1,1
+Essaouira,4,1
+Kralendijk,6,1
+Mountain View,4,1
+Mountain View,3,1
+Mountain View,8,1
+Mountain View,6,2
+Mountain View,5,4
+Mountain View,1,4
+Mountain View,12,1
+Mountain View,10,1
+Mountain View,7,1
+Dahab,2,1
+Dahab,9,2
+Dahab,5,1
+Dahab,4,4
+Dahab,12,1
+Dahab,7,3
+Dahab,3,3
+Dahab,6,1
+New England,5,1
+Kingston upon Thames,12,1
+Kingston upon Thames,11,1
+New Delhi,1,2
+New Delhi,3,1
+New Delhi,10,1
+New Delhi,4,1
+Bremen,10,1
+Bremen,6,1
+Bremen,3,1
+Bremen,4,1
+Bremen,7,1
+Bremen,12,1
+Bremen,9,1
+Korday,5,1
+Similan Islands,1,1
+Phu Khao Lak,12,1
+Poreč,10,1
+Poreč,4,1
+Bosnia and Herzegovina,5,1
+Bosnia and Herzegovina,8,1
+Bosnia and Herzegovina,6,1
+Cala Millor,2,1
+Cala Millor,3,1
+Cala Millor,10,1
+Qena,11,1
+Sharm El Sheikh,11,1
+Sharm El Sheikh,6,1
+Sharm El Sheikh,5,1
+Sharm El Sheikh,2,1
+Playa Puerto de Pollensa,8,1
+Playa Puerto de Pollensa,7,1
+Playa Puerto de Pollensa,5,1
+Playa Puerto de Pollensa,4,1
+Playa Puerto de Pollensa,3,1
+Magaluf,7,1
+Magaluf,5,1
+Magaluf,4,1
+Sousse Governorate,6,1
+Sousse Governorate,3,1
+Sousse Governorate,5,1
+Rukatunturintie,12,1
+Oulu,12,1
+St. Johann in Tirol,12,1
+St. Johann in Tirol,11,1
+Kaprun,12,1
+Kaprun,8,1
+Söll,11,1
+Luton,1,1
+Luton,11,1
+Taba,9,1
+Taba,6,1
+Eilat,6,1
+Eilat,5,1
+Eilat,1,1
+Petra,6,1
+Petra,1,1
+Petra,2,1
+Ein Bokek,6,1
+Sharm el-Sheikh,5,1
+Sharm el-Sheikh,11,1
+Ceuta,8,1
+Garda,7,1
+Garda,10,1
+Budva,4,1
+Budva,6,3
+Budva,5,4
+Budva,7,4
+Budva,8,1
+Novi Sad,3,1
+Novi Sad,8,3
+Novi Sad,9,1
+Novi Sad,4,1
+Novi Sad,2,1
+Novi Sad,12,1
+Novi Sad,11,3
+Novi Sad,7,2
+Novi Sad,1,1
+Casablanca,2,2
+Casablanca,3,2
+Casablanca,12,2
+Casablanca,7,6
+Casablanca,8,4
+Casablanca,4,1
+Casablanca,11,1
+Casablanca,6,1
+Casablanca,9,3
+Casablanca,1,2
+Casablanca,10,1
+Marseille,1,1
+Marseille,3,3
+Marseille,5,4
+Marseille,9,2
+Marseille,4,3
+Marseille,6,7
+Marseille,12,2
+Marseille,7,4
+Marseille,10,2
+Marseille,8,7
+Marseille,11,1
+Toulouse,12,8
+Toulouse,6,4
+Toulouse,11,2
+Toulouse,4,4
+Toulouse,5,3
+Toulouse,8,3
+Toulouse,2,1
+Toulouse,7,2
+Toulouse,10,3
+Toulouse,1,2
+"Funchal, Madeira",6,1
+"Funchal, Madeira",2,1
+"Funchal, Madeira",10,1
+"Funchal, Madeira",3,1
+"Funchal, Madeira",1,1
+"Tenerife, Canary Islands",5,2
+"Tenerife, Canary Islands",9,1
+"Tenerife, Canary Islands",8,2
+"Tenerife, Canary Islands",1,1
+"Tenerife, Canary Islands",6,1
+"Tenerife, Canary Islands",11,3
+"Tenerife, Canary Islands",10,1
+Vitebsk,9,1
+Palanga,7,1
+Palanga,6,1
+Liepāja,7,2
+Jūrmala,7,1
+Groeningen,11,1
+Ohrid,5,1
+Ohrid,4,1
+Skopje,10,3
+Skopje,11,1
+Skopje,7,5
+Skopje,8,4
+Skopje,5,4
+Skopje,2,2
+Skopje,1,2
+Skopje,9,1
+Skopje,12,1
+London Borough of Hammersmith and Fulham,10,1
+Juan Dolio,10,1
+Boca Chica,10,1
+Stoke-on-Trent,8,1
+Stoke-on-Trent,10,1
+Şanlıurfa,7,1
+Selçuk,7,1
+Ankara,7,1
+Ankara,6,1
+Ankara,8,1
+Kayseri,7,1
+Kołobrzeg,11,1
+Crest,12,1
+Colorado,9,1
+Colorado,2,1
+Arizona,4,2
+Arizona,9,1
+Leiden,7,2
+Leiden,2,2
+Leiden,4,1
+Leiden,1,1
+Leiden,9,1
+Grand Canyon North Rim Lodge,6,1
+Hamamatsu,8,1
+Hamamatsu,3,1
+Hamamatsu,7,1
+Hamamatsu,6,1
+Tonga,6,1
+Seventeen Seventy,2,1
+Seventeen Seventy,8,1
+Parga,4,1
+Parga,8,1
+Scotland,8,1
+Scotland,6,2
+Scotland,7,2
+Scotland,10,2
+Scotland,9,1
+Scotland,5,1
+Scotland,12,1
+Kalimantan,9,1
+Cahors,3,1
+Belgium,8,1
+Belgium,6,1
+Belgium,3,1
+Belgium,2,1
+"Ashland, OR",4,1
+Volta Mantovana,3,1
+West Hollywood,2,1
+Austin,10,1
+Denver,5,1
+Denver,1,1
+Gwangju,9,1
+Gwangju,2,1
+Gwangju,10,1
+Nakhon Sawan,1,1
+Kukup,5,1
+Xian,7,2
+Xian,8,1
+Xian,6,1
+Xian,10,2
+Xian,4,1
+Suzhou,6,1
+Suzhou,10,3
+Wuxi,6,1
+Wuxi,8,1
+Chengdu,2,1
+Chengdu,11,2
+Chengdu,6,2
+Chengdu,8,1
+Chengdu,7,2
+Chengdu,5,1
+Chengdu,12,3
+Chengdu,9,1
+Chengdu,10,1
+Chengdu,4,1
+Chengdu,3,2
+Mianyang,11,1
+Estosadok,3,1
+"Las Palmas, Gran Canaria",2,4
+"Las Palmas, Gran Canaria",4,4
+"Las Palmas, Gran Canaria",12,2
+"Las Palmas, Gran Canaria",5,1
+"Las Palmas, Gran Canaria",8,2
+"Las Palmas, Gran Canaria",3,1
+"Las Palmas, Gran Canaria",11,1
+"Las Palmas, Gran Canaria",9,2
+"Las Palmas, Gran Canaria",6,1
+Ericeira,11,1
+Perast,10,1
+Somo,10,1
+Matara,2,1
+Matara,1,1
+Quezon City,9,1
+St-Malo,6,1
+Road Town,2,1
+Road Town,5,1
+Road Town,1,1
+Saint Peter,9,1
+Les Deux Alpes,1,2
+Majorca,7,3
+Majorca,9,1
+Majorca,12,2
+Majorca,6,1
+Majorca,1,1
+Mayrhofen,12,1
+Mayrhofen,4,1
+Mayrhofen,1,2
+Mayrhofen,3,1
+Carpinteria,12,1
+Carpinteria,1,1
+Province of Ascoli Piceno,4,1
+Bend,12,2
+Bend,9,1
+Bend,6,1
+Bend,3,1
+Bend,7,1
+The Bahamas,2,2
+The Bahamas,5,1
+The Bahamas,6,1
+The Bahamas,1,1
+The Bahamas,10,1
+The Bahamas,3,1
+Colorado Springs,11,1
+Colorado Springs,6,1
+Colorado Springs,5,1
+Colorado Springs,4,1
+Colorado Springs,12,1
+Colorado Springs,9,1
+Colorado Springs,8,1
+Boise,5,1
+Trento,7,1
+Trento,9,1
+Sutton Benger,5,1
+Hereford,2,1
+Hereford,1,1
+Hereford,5,1
+Hereford,4,1
+Santa Clara,11,1
+Santa Clara,4,2
+Santa Clara,1,1
+Santa Clara,10,1
+Santa Clara,3,1
+Viñales,11,1
+Viñales,12,1
+Gloucestershire,9,1
+Kendal,8,1
+Kendal,10,1
+Churchstoke,6,1
+Churchstoke,5,1
+Churchstoke,4,1
+Churchstoke,3,1
+Churchstoke,2,1
+Barnsley,4,1
+Prachuap Khiri Khan,1,1
+Prachuap Khiri Khan,11,1
+Surat Thani,1,1
+Surat Thani,7,1
+Surat Thani,10,1
+Surat Thani,12,1
+Surat Thani,3,1
+Lembongan Island,8,1
+"Sanur, Bali",8,1
+"Sanur, Bali",1,1
+"Sanur, Bali",12,2
+"Sanur, Bali",4,2
+Les Gets,1,1
+Cape Canaveral,6,2
+Cape Canaveral,5,1
+Cape Canaveral,1,1
+Cape Canaveral,7,1
+Mars City,12,1
+Mars City,1,1
+Tachileik,7,1
+Tachileik,12,1
+Tachileik,1,1
+Mombasa,12,1
+Mombasa,1,1
+Mombasa,6,2
+Mombasa,7,1
+Mombasa,2,1
+Diani Beach,1,2
+Diani Beach,9,1
+Colón Province,10,1
+Caribbean Sea,10,1
+Caribbean Sea,9,3
+Sint Maarten,10,2
+Sint Maarten,5,5
+Sint Maarten,9,1
+Trier,3,1
+Trier,4,1
+Trier,9,1
+Dhaka Division,10,1
+San Francisco,9,1
+San Francisco,2,2
+San Francisco,6,1
+San Francisco,7,1
+Lençóis,6,1
+Lençóis,3,1
+Brasilia,5,1
+Brasilia,10,2
+Brasilia,6,1
+Brasilia,4,2
+Brasilia,1,1
+Recife,1,2
+Recife,12,2
+Recife,2,3
+Recife,5,2
+Recife,9,1
+Recife,8,2
+Recife,6,2
+Recife,3,2
+Visconde de Mauá,11,1
+Sugar Land,6,1
+Ostend,10,2
+Ostend,1,1
+Indio,4,6
+Indio,11,1
+Metropolitan City of Naples,7,3
+Metropolitan City of Naples,5,1
+Metropolitan City of Naples,11,1
+Metropolitan City of Naples,12,2
+Metropolitan City of Naples,4,3
+Metropolitan City of Naples,6,2
+Metropolitan City of Naples,1,1
+Metropolitan City of Naples,10,2
+Metropolitan City of Naples,9,2
+Santo Domingo Este,6,1
+Metropolitan City of Bari,4,1
+Metropolitan City of Bari,6,1
+Brest,3,1
+Brest,7,2
+Brest,11,1
+Montpellier,3,2
+Montpellier,6,4
+Montpellier,5,3
+Montpellier,7,2
+Montpellier,2,1
+Montpellier,11,1
+Montpellier,8,4
+Montpellier,10,2
+Montpellier,4,1
+Montpellier,9,1
+Strasbourg,1,2
+Strasbourg,6,2
+Strasbourg,12,3
+Strasbourg,10,1
+Strasbourg,9,1
+Strasbourg,5,1
+Strasbourg,7,1
+Strasbourg,3,2
+Strasbourg,8,1
+Chester,12,1
+Xàbia,6,1
+Xàbia,5,1
+Xàbia,7,1
+Javea,6,2
+Javea,5,1
+Javea,3,2
+Javea,10,1
+Javea,11,1
+"Sacramento, CA",4,2
+"Sacramento, CA",12,1
+"Sacramento, CA",6,2
+"Sacramento, CA",2,2
+"Sacramento, CA",8,2
+"Sacramento, CA",3,1
+"Sacramento, CA",10,2
+"Sacramento, CA",5,1
+"Sacramento, CA",11,1
+Siesta Key,10,1
+Siesta Key,5,1
+Siesta Key,3,1
+Siesta Key,2,1
+Siesta Key,8,1
+"Asheville, NC",8,1
+"Asheville, NC",11,2
+"Asheville, NC",10,2
+"Asheville, NC",5,1
+"Asheville, NC",4,1
+"Asheville, NC",12,1
+TaipeiTaiwan,12,1
+TaipeiTaiwan,3,1
+TaipeiTaiwan,11,1
+Funchal,6,1
+Funchal,3,1
+Funchal,1,1
+Funchal,5,1
+Funchal,10,1
+"San Juan, PR",7,1
+Tarragona,10,2
+Tarragona,5,1
+Tarragona,9,1
+Tarragona,6,1
+Zamberk,8,1
+Kruscica,8,1
+Veszprém,8,1
+Vranov nad Dyjí,7,1
+Sargans,6,1
+Halle (Saale),6,1
+Malá Fatra,7,1
+Görlitz,6,1
+Žamberk,6,1
+Selk,6,1
+Køge,6,1
+Ängelholm,6,1
+Vitlycke Museum,6,1
+Oppdal,6,1
+Trondheim,6,1
+Trondheim,12,1
+Trondheim,7,1
+Trondheim,8,2
+Trondheim,3,1
+Formofoss,6,1
+Tärnaby,6,1
+Arvidsjaur,6,1
+Kalix,6,1
+Pyhäjärvi,6,1
+Pyhä-Häkki National Park,6,1
+Kunda,6,1
+Pärnu,6,1
+Pärnu,8,3
+Kryziu Kalnas,6,1
+Augustów,6,1
+Avebury,11,1
+Stonehenge,11,1
+Salisbury,11,1
+Salisbury,6,1
+Dakar,8,2
+Dakar,12,1
+Dakar,5,2
+Dakar,2,1
+Dakar,6,1
+Accra,7,2
+Yaounde,12,2
+Yaounde,2,1
+"Panamá City, Panama",7,1
+"Santa Monica, CA",5,4
+"Santa Monica, CA",3,1
+"Santa Monica, CA",12,2
+"Santa Monica, CA",10,1
+"Santa Monica, CA",2,1
+"Santa Monica, CA",9,2
+"Santa Monica, CA",7,1
+"Santa Monica, CA",8,3
+"Santa Monica, CA",6,1
+"Santa Monica, CA",11,2
+"Santa Monica, CA",1,1
+Palo Alto,5,2
+Palo Alto,2,1
+Palo Alto,1,1
+Palo Alto,12,1
+San Marcos La Laguna,3,1
+San Marcos La Laguna,12,1
+San Cristóbal de las Casas,2,1
+San Cristóbal de las Casas,3,2
+Puerto Escondido,1,2
+Puerto Escondido,9,1
+Puerto Escondido,4,1
+Puerto Escondido,8,1
+Puerto Escondido,10,1
+Puerto Escondido,5,1
+Puerto Escondido,2,1
+Puerto Escondido,12,1
+Juba,11,1
+Lake Garda,6,1
+Sankt Johann,1,1
+Prince Edward Island,10,1
+Kusadasi,8,1
+Kusadasi,4,1
+Tunisia,8,2
+Trieste,10,1
+Trieste,5,1
+Trieste,9,1
+Zanzibar City,1,1
+Masai Mara Kenya,12,1
+Danakil Depression,11,1
+Luanda,3,1
+Baton Rouge,8,1
+Baton Rouge,4,2
+Tupungato,2,1
+Santa Cruz Island,2,1
+Isabela Island,2,1
+San Cristóbal Island,2,1
+San Cristóbal Island,3,1
+Cotopaxi,1,1
+Barichara,1,1
+Barichara,8,1
+Guna Yala,1,1
+Jaibalito,12,1
+Panajachel,12,1
+Panajachel,5,1
+Flores,12,2
+Flores,10,1
+Flores,6,1
+San Pedro,12,2
+San Pedro,10,1
+San Pedro,7,1
+Ames,12,1
+Ames,6,1
+Lombok Tengah,4,1
+Lombok Tengah,6,1
+Luang Prabang Province,2,1
+Luang Prabang Province,10,1
+Danang,12,1
+Danang,1,1
+Danang,4,1
+Danang,3,1
+Koh Jum,4,1
+Koh Jum,2,1
+Fairfield,12,1
+Fairfield,6,1
+Noord,11,2
+Jan Thiel,10,1
+Jan Thiel,11,1
+Ocean City,9,1
+Ocean City,7,1
+Ocean City,6,1
+New Smyrna Beach,4,1
+Bangor,7,1
+Bangor,6,1
+Moyogalpa,8,1
+Moyogalpa,4,1
+Lake Titicaca,7,1
+Colca Canyon,7,1
+"Tenerife, Gran Canaria",9,2
+"Tenerife, Gran Canaria",12,2
+"Tenerife, Gran Canaria",11,2
+"Tenerife, Gran Canaria",5,1
+"Tenerife, Gran Canaria",10,1
+"Tenerife, Gran Canaria",6,1
+Sombor,5,1
+Sombor,6,1
+Nelson,1,1
+Nelson,12,1
+Nelson,4,2
+Nelson,3,2
+Nelson,11,1
+Nelson,10,1
+Hokkaido Prefecture,4,1
+Porto Alegre,4,1
+Porto Alegre,5,3
+Porto Alegre,2,2
+Porto Alegre,7,1
+Porto Alegre,8,1
+Porto Alegre,10,1
+Veranópolis,7,1
+Salamanca,10,2
+Salamanca,5,2
+Salamanca,2,1
+Perhentian Islands,7,1
+Perhentian Islands,3,1
+Perhentian Islands,5,1
+Perhentian Islands,9,1
+Chandigarh,3,3
+Chandigarh,7,1
+McLeod Ganj,3,1
+McLeod Ganj,6,1
+McLeod Ganj,10,1
+McLeod Ganj,12,1
+Camden,1,1
+Greymouth,12,1
+Greymouth,4,1
+Waitakere,12,1
+Eloy,12,1
+Telegraph Cove,7,1
+Ourense,11,1
+Anaheim,6,1
+Anaheim,1,1
+Anaheim,7,1
+Anaheim,3,1
+South Africa,11,1
+Cuba,9,1
+Canada,6,1
+Canada,8,1
+Canada,3,1
+Canada,4,1
+Texas,3,1
+Cascais,7,1
+Cascais,10,2
+Virginia Beach,4,1
+Virginia Beach,1,1
+Virginia Beach,7,1
+Virginia Beach,6,1
+Virginia Beach,12,1
+Savannah,12,1
+Savannah,4,2
+Savannah,9,1
+Savannah,3,2
+Savannah,8,1
+"Key West, FL",12,5
+"Key West, FL",10,2
+"Key West, FL",3,2
+"Key West, FL",6,3
+"Key West, FL",2,1
+"Key West, FL",4,1
+"Key West, FL",11,1
+"Norfolk, VA",6,1
+"Norfolk, VA",11,1
+"Norfolk, VA",10,1
+"Norfolk, VA",12,1
+"Norfolk, VA",3,1
+"Norfolk, VA",9,1
+"Norfolk, VA",5,2
+Mönchengladbach,6,1
+Rethymno,11,1
+Rethymno,5,1
+Rethymno,7,1
+Andorra,6,1
+Andorra,12,1
+Andorra,1,1
+Atlantic Ocean,9,1
+Atlantic Ocean,10,1
+Atlantic Ocean,12,1
+Atlantic Ocean,5,1
+Corbara,7,1
+Kapas Island,7,2
+Malang,7,1
+Malang,11,1
+Bansko,2,3
+Bansko,1,2
+Bansko,5,1
+Bansko,4,2
+Bansko,12,2
+Bansko,11,1
+Bansko,9,1
+Bansko,7,1
+"Riverside, CA",4,1
+Mammoth Lakes,4,1
+Mammoth Lakes,5,1
+"Lake Tahoe, CA",4,1
+"Lake Tahoe, CA",8,1
+"Lake Tahoe, CA",7,1
+Gemeinde Kitzbühel,1,1
+Niseko,1,3
+Serre Chevalier,3,1
+Soldeu,1,1
+Santarem,10,1
+Santarem,5,1
+Phu Quoc,5,2
+Phu Quoc,3,2
+Phu Quoc,1,1
+Saint Kitts,10,2
+Kumlinge,9,1
+Ruidoso,8,1
+Madeira,5,3
+Madeira,10,1
+Madeira,6,1
+Madeira,12,1
+Madeira,2,1
+Itō,4,1
+Kurashiki,4,1
+Kurashiki,7,1
+Genoa,10,2
+Genoa,8,3
+Genoa,5,1
+Genoa,6,1
+Genoa,12,1
+Riomaggiore,10,2
+Riomaggiore,7,1
+Pisa,10,1
+Pisa,6,2
+Pisa,8,3
+Pisa,7,3
+Pisa,5,2
+Pisa,2,1
+Pisa,9,2
+Pisa,11,1
+Pisa,4,1
+Pomarance,10,1
+Kuwait City,12,1
+Kuwait City,3,1
+Toyama,12,1
+Toyama,11,1
+Tsukuba,11,1
+Tofo,12,1
+Plettenberg Bay,9,1
+Plettenberg Bay,8,1
+Port Elizabeth,9,2
+Port Elizabeth,1,1
+Port Elizabeth,10,1
+Port Elizabeth,2,1
+Yucatan,11,1
+Yucatan,1,1
+"Salem, MA",12,1
+Khanom,2,1
+Khanom,4,1
+Khanom,8,1
+Araranguá,4,1
+Araranguá,11,1
+Araranguá,12,1
+Fort Collins,3,1
+Thun,9,1
+Nara,1,1
+Nara,12,2
+Nara,9,1
+Nara,7,1
+Nara,5,1
+Nara,6,1
+Cao Lãnh,1,1
+Illinois,12,1
+Illinois,10,1
+Regensburg,8,2
+Regensburg,4,1
+Regensburg,3,1
+Regensburg,5,1
+Regensburg,1,1
+Astana,6,1
+Astana,12,1
+Astana,10,1
+Astana,7,1
+Astana,8,1
+Nelson New Zealand,2,1
+Ko Phangan,7,2
+Ko Phangan,8,1
+Ko Phangan,12,1
+Guillaumes,1,1
+Frome,5,1
+Derby,12,1
+Derby,4,1
+Peterborough,12,1
+Peterborough,6,1
+Kitchener,9,1
+Kitchener,7,2
+Kitchener,4,1
+Great Malvern,7,1
+Figeac,7,1
+Guatemala,12,1
+Guatemala,5,1
+Guatemala,2,1
+San Isidro de El General,8,2
+Vung Tau,9,1
+Surat,7,1
+Surat,6,1
+Surat,9,1
+Surat,12,1
+Vashist,6,1
+Kasol,6,1
+Kasol,10,1
+Kasol,5,1
+Bir,5,1
+Bhagalpur,4,1
+Bhagalpur,10,1
+Jaigaon,12,1
+Phuentsholing,12,1
+Tosh ,10,1
+Dharamshala,9,1
+Vellore,7,1
+Kota,7,1
+Allahabad,3,1
+Mirzapur,1,1
+Robertsganj,11,1
+Jaunpur,12,1
+Trat,4,2
+Trat,3,1
+Thap Sakae,4,1
+"West Palm Beach, FL",11,1
+"West Palm Beach, FL",1,1
+"West Palm Beach, FL",8,1
+Praia da Areia Branca,7,1
+Lake Placid,6,1
+Lake Placid,7,1
+Lake Placid,8,1
+Vinnytsia,2,1
+Vinnytsia,10,1
+Boussens,5,1
+Le Cannet,5,1
+Desenzano del Garda,5,1
+Castellón de la Plana,5,1
+Castellón de la Plana,7,1
+Altea,5,1
+Balerma,5,1
+Conil de la Frontera,5,1
+Sevilla,5,1
+Sevilla,9,1
+Sevilla,2,1
+Portalegre,5,1
+Galapagos,4,1
+Salem,1,1
+Salem,5,1
+Salem,8,1
+Ghent,4,1
+Ghent,12,3
+Ghent,1,5
+Ghent,11,3
+Ghent,7,2
+Ghent,3,3
+Ghent,10,1
+Ghent,6,4
+Ghent,5,3
+Ghent,2,2
+Ghent,9,1
+Skye,3,1
+Skye,10,1
+Skye,1,1
+Skye,5,1
+Skye,6,1
+Lille,8,3
+Lille,6,2
+Lille,12,4
+Lille,10,2
+Lille,5,2
+Lille,3,2
+Lille,1,1
+Lille,9,1
+Lille,11,1
+Lille,4,2
+Pilani,1,1
+Nice Côte d'Azur Airport,7,1
+Talalla,10,1
+Vézac,10,1
+Narbonne,2,1
+"Cleveland, OH",5,3
+"Cleveland, OH",1,1
+"Cleveland, OH",9,3
+"Cleveland, OH",3,1
+"Cleveland, OH",10,1
+Bethlehem,4,1
+Bethlehem,11,1
+Bethlehem,5,1
+Bethlehem,7,1
+Caen,11,1
+Caen,9,1
+Limón,3,2
+Malaysia National Park,3,1
+Langkawi Island,2,2
+Langkawi Island,11,1
+Lamezia Terme,9,1
+Tropea,9,1
+Tropea,8,1
+Tropea,7,1
+Armação dos Búzios,2,1
+Armação dos Búzios,8,1
+Armação dos Búzios,4,1
+San Pedrito Beach,11,1
+"Townsend, Montana",6,1
+Bled,4,1
+Bled,12,1
+Bled,11,1
+Dnipro,1,1
+Dnipro,5,1
+Dnipro,6,1
+Adrasan,6,1
+Adrasan,5,1
+Chernivtsi,9,1
+Chernivtsi,6,1
+Liscarroll,5,1
+Dundalk,5,1
+Pittsburgh,12,1
+Pittsburgh,11,3
+Pittsburgh,2,1
+Pittsburgh,9,1
+Pittsburgh,8,1
+Pittsburgh,10,1
+Tenerife,9,1
+Tenerife,7,1
+Tenerife,6,1
+Tenerife,3,1
+Bocas del Toro Province,6,1
+Bocas del Toro Province,10,4
+Bocas del Toro Province,3,1
+Bocas del Toro Province,9,1
+Totnes,6,1
+Everglades,3,1
+Jezerce,11,1
+Almería,1,1
+Almería,9,2
+Almería,3,1
+Almería,11,1
+Almería,8,1
+Jordan,1,1
+Jordan,5,1
+Bradford,7,1
+Rotherham,1,1
+Loughborough,9,1
+Devon,8,1
+Devon,11,2
+Devon,6,1
+Devon,12,1
+Temecula,4,1
+Braga,9,1
+Braga,6,1
+Braga,10,1
+Durham,11,1
+Durham,1,2
+Durham,8,1
+Durham,3,1
+Durham,4,1
+Durham,5,1
+"Charleston, SC",1,1
+"Charleston, SC",5,1
+"Charleston, SC",10,2
+"Charleston, SC",3,1
+"Charleston, SC",11,1
+"Charleston, SC",4,2
+"Charleston, SC",2,1
+"Charleston, SC",8,1
+Lucca,6,1
+Lucca,10,1
+Lucca,5,1
+Lucca,4,1
+Lucca,3,1
+Dalkey,8,1
+Dalkey,1,1
+Lagoa,7,1
+Gourette,1,1
+Grenoble,12,3
+Grenoble,8,1
+Grenoble,5,2
+Grenoble,10,2
+Grenoble,1,3
+Grenoble,11,1
+Grenoble,2,1
+Grenoble,9,3
+Grenoble,6,1
+Alès,9,1
+Breda,5,1
+Breda,8,1
+Figueira da Foz,6,2
+Figueira da Foz,7,1
+Biarritz,5,4
+Biarritz,4,1
+Biarritz,3,1
+Biarritz,8,1
+Biarritz,7,2
+Biarritz,1,1
+"Albuquerque, NM",12,2
+"Albuquerque, NM",3,1
+"Albuquerque, NM",6,2
+"Albuquerque, NM",1,2
+"Albuquerque, NM",4,3
+"Albuquerque, NM",8,2
+"Albuquerque, NM",5,1
+"Albuquerque, NM",11,2
+"Albuquerque, NM",9,1
+"Albuquerque, NM",7,2
+Naha,9,3
+Naha,1,1
+Makati,4,3
+Makati,5,1
+Makati,12,1
+Makati,11,1
+Makati,10,1
+Makati,8,1
+Makati,6,1
+Makati,3,1
+Makati,2,1
+Aomori Prefecture,8,1
+Patagonia,3,1
+North Carolina,11,1
+North Carolina,12,1
+Provincetown,5,1
+Provincetown,4,1
+Seririt,1,1
+Prizren,11,1
+Rasno,11,1
+Shimizu,7,1
+"San Antonio, TX",1,2
+"San Antonio, TX",2,3
+"San Antonio, TX",11,3
+"San Antonio, TX",7,2
+"San Antonio, TX",6,3
+"San Antonio, TX",5,1
+"San Antonio, TX",10,4
+"San Antonio, TX",8,2
+"San Antonio, TX",3,2
+"San Antonio, TX",4,1
+"Corralejo, Canary Islands",9,1
+"Corralejo, Canary Islands",5,1
+"Corralejo, Canary Islands",1,2
+Maspalomas,8,1
+Maspalomas,3,1
+Samaná Province,7,1
+Samaná Province,1,1
+Koblenz,4,1
+Koblenz,12,2
+Jönköping,11,1
+Mersin,7,1
+Titusville,5,1
+Herndon,8,1
+Mount Bromo,8,1
+Surabaya,8,1
+Surabaya,6,1
+Surabaya,9,1
+Special Region of Yogyakarta,8,2
+Special Region of Yogyakarta,5,1
+Taizé,6,1
+Taizé,8,1
+San Blas Islands,3,1
+Salento,3,1
+Salento,5,1
+Salento,2,1
+Salento,12,2
+Piura,2,1
+Piura,6,1
+Piura,9,1
+Piura,4,1
+Manaus,12,1
+Manaus,9,1
+Manaus,2,1
+Manaus,7,1
+Manaus,4,1
+Tiradentes,11,1
+Santa Rosa,3,1
+Santa Rosa,7,1
+Santa Rosa,11,1
+Eureka,3,1
+Medford,3,1
+Lake Atitlan,8,1
+Lake Atitlan,6,1
+Louangphabang,5,1
+Louangphabang,12,1
+Rasdhoo,11,1
+Rasdhoo,1,1
+Östersund,1,1
+Ripatransone,7,1
+Matosinhos,6,1
+"StromboliLipari, Province of Messina, Italy",6,1
+"StromboliLipari, Province of Messina, Italy",5,1
+Milazzo,5,2
+Milazzo,7,1
+Province of Catania,5,1
+"Oklahoma City, OK",11,2
+"Oklahoma City, OK",8,1
+"Oklahoma City, OK",5,1
+"Oklahoma City, OK",7,1
+Dauphin Island,8,1
+Versailles,11,1
+Versailles,6,1
+Versailles,4,1
+Versailles,1,1
+Versailles,12,1
+Versailles,10,1
+Versailles,5,1
+Versailles,7,1
+Versailles,8,1
+"Palo Alto, CA",8,1
+"Palo Alto, CA",12,1
+"Palo Alto, CA",2,1
+"Palo Alto, CA",6,1
+"Palo Alto, CA",4,1
+"Palo Alto, CA",1,1
+Brittany,5,1
+Brittany,12,1
+Brittany,9,1
+Brittany,4,1
+Brittany,6,1
+Uriangato,2,1
+Pilsen,9,1
+Pilsen,8,1
+Pilsen,6,1
+Valladolid,9,1
+Valladolid,3,2
+Valladolid,2,1
+Valladolid,11,1
+Valladolid,1,1
+Mannheim,8,1
+Mannheim,6,1
+Mexico CityMexico,10,1
+Barranquilla,2,2
+Barranquilla,6,1
+Barranquilla,1,1
+Barranquilla,12,1
+Barranquilla,3,1
+Barranquilla,10,1
+Barranquilla,5,1
+Porto Venere,9,1
+Montalcino,9,1
+Maiori,9,1
+Maiori,4,1
+Dossenheim,8,1
+Makassar,12,1
+Viroinval,10,1
+Jasper,5,1
+Jasper,6,1
+Jasper,10,1
+Jasper,7,1
+Jasper,8,1
+Hart im Zillertal,12,1
+"Park City, UT",12,3
+"Park City, UT",9,1
+"Park City, UT",8,1
+"Park City, UT",1,3
+"Park City, UT",3,1
+"Park City, UT",11,2
+"Park City, UT",2,2
+Ventura,11,1
+Marina,11,1
+Yosemite Village,11,1
+Shady Cove,11,1
+Yantzaza,12,1
+Guayaquil,11,4
+Guayaquil,6,3
+Guayaquil,5,1
+Guayaquil,12,2
+Guayaquil,10,1
+Guayaquil,9,1
+Guayaquil,2,1
+Italy,4,1
+Italy,7,3
+Italy,10,2
+Italy,8,1
+Italy,5,1
+Italy,9,1
+Sant'Elpidio a Mare,12,1
+"Copacabana, Puno, Bolivia",6,1
+Glyfada,6,1
+Valdivia,12,1
+Valdivia,3,1
+Greece,7,3
+Greece,6,1
+Greece,12,1
+Greece,9,1
+Greece,4,1
+Germany,6,2
+Germany,9,1
+Germany,10,1
+Germany,2,2
+Germany,8,1
+Germany,7,2
+San Jose,6,2
+San Jose,5,2
+San Jose,1,1
+San Jose,8,1
+San Jose,11,1
+San Jose,9,2
+San Jose,2,1
+San Jose,4,1
+San Jose,3,1
+Rennes,4,2
+Rennes,2,2
+Rennes,1,1
+Rennes,9,1
+Rennes,10,1
+Bridgetown,5,1
+Bridgetown,12,2
+Bridgetown,11,1
+Auckland Region,3,1
+Hamilton Island,5,1
+Newark,2,1
+Newark,6,1
+Newark,5,1
+Newark,12,1
+Newark,11,1
+Province of Pisa,1,1
+Rancho Palos Verdes,7,1
+Praia,10,1
+Sao Filipe,10,1
+Sal,10,1
+Cervera,8,1
+Praia de Montalvo,8,1
+Vigo,8,2
+Vigo,12,1
+A Coruna,8,1
+A Coruna,5,1
+Ortigueira,8,1
+Ribadeo,7,1
+Arenas de Cabrales,7,1
+Picos de Europa,7,1
+Parroquia de Ajo,7,1
+Bodenwöhr,4,1
+Hilversum,4,1
+Isla Grande,1,1
+Minca,1,1
+Minca,5,1
+Minca,2,1
+Pulau Gili Gede,8,1
+Minorca,7,2
+Minorca,4,1
+Minorca,10,1
+Koufonisia,8,1
+Amorgos,8,1
+Meerhout,5,1
+Aachen,4,2
+Aachen,6,1
+Aachen,5,1
+Aachen,3,1
+Aachen,1,1
+Aachen,12,1
+Aachen,11,1
+Aachen,10,2
+Aachen,9,1
+Aachen,8,1
+Šolta,8,1
+Srebrenica,8,1
+Banja Luka,8,3
+Banja Luka,2,1
+Banja Luka,7,1
+Cheltenham,7,3
+Cheltenham,6,1
+Cheltenham,5,1
+Cheltenham,4,1
+Cheltenham,1,1
+Cheltenham,12,1
+Cheltenham,11,1
+Cheltenham,9,1
+Cheltenham,3,1
+Cheltenham,8,1
+"Kuala Lumpur, Malaysia",11,1
+Cameron Highlands,11,1
+Cameron Highlands,2,1
+Cameron Highlands,10,1
+Cameron Highlands,5,1
+Cameron Highlands,12,2
+Cameron Highlands,1,1
+Cameron Highlands,9,1
+Baguio Philippines,6,1
+Karachi,5,1
+Nijmegen,9,2
+Nijmegen,12,1
+Nijmegen,5,2
+Nijmegen,10,1
+Nijmegen,8,2
+Nijmegen,4,1
+Nijmegen,7,2
+Nijmegen,1,1
+Zaragoza,9,1
+Zaragoza,7,2
+Zaragoza,6,2
+Zaragoza,10,1
+Zaragoza,8,1
+Montbéliard,5,1
+Montbéliard,1,1
+Montbéliard,12,1
+Albi,12,1
+Biel/Bienne,1,1
+Biel/Bienne,6,1
+Besançon,8,1
+Besançon,7,1
+Besançon,9,1
+Portsmouth,9,1
+Portsmouth,11,2
+Portsmouth,6,1
+Portsmouth,5,1
+Belfort,9,1
+El Chorro,8,1
+El Chorro,5,1
+Fort William,8,1
+Fort William,1,1
+Fort William,6,2
+Fort William,7,1
+Fort William,2,1
+County Donegal,3,1
+Nilaveli,5,1
+Nilaveli,2,1
+Badulla District,5,1
+Nuwara Eliya,5,1
+Nuwara Eliya,2,1
+Nuwara Eliya,1,2
+Nuwara Eliya,4,2
+Nallathanniya,5,1
+Darwin,5,1
+Darwin,9,2
+Darwin,7,1
+Darwin,1,1
+Darwin,12,1
+Darwin,11,1
+Darwin,10,1
+Darwin,3,1
+Jabiru,5,1
+Katherine,5,1
+Tennant Creek,5,1
+Yulara,4,1
+Coober Pedy,4,1
+San Simeon,3,1
+"Monterey, CA",3,2
+"Monterey, CA",6,1
+"Monterey, CA",10,1
+"Monterey, CA",11,1
+Madera,3,1
+Three Rivers,3,1
+Ridgecrest,2,1
+Amargosa Valley,2,1
+Mesquite,2,1
+Springdale,2,1
+Springdale,10,2
+Hanksville,2,1
+Monument Valley,2,1
+Page,2,1
+Ilhéus,4,1
+Ilhéus,2,1
+Ilhéus,9,1
+Sarandë,6,2
+Sarandë,11,1
+Sarandë,9,1
+Kirkwood,3,1
+Yosemite Junction,5,1
+Baja California,1,1
+Nayarit,12,1
+Ponta Delgada,5,1
+Ponta Delgada,9,1
+Ponta Delgada,12,2
+Ponta Delgada,11,1
+Ponta Delgada,8,1
+Ponta Delgada,6,1
+Coron,3,2
+Coron,11,2
+Coron,6,1
+Coron,2,1
+Coron,1,1
+Igatpuri,6,1
+Dehradun,5,1
+Idukki,5,1
+Alappuzha,5,1
+Munnar,4,1
+Amritsar,3,2
+Amritsar,12,1
+Lucknow,3,1
+Addu City,1,1
+Mysuru,7,1
+Mysuru,2,1
+Mysuru,11,1
+Bikaner,1,2
+Longyearbyen,2,1
+Longyearbyen,6,1
+Longyearbyen,1,1
+Longyearbyen,12,1
+Longyearbyen,11,1
+Longyearbyen,9,1
+Philadelphia,11,1
+Hai Phong,2,1
+Chamonix-Mont-Blanc,2,1
+Chamonix-Mont-Blanc,3,1
+O‘ahu,8,1
+O‘ahu,5,2
+O‘ahu,9,1
+O‘ahu,12,1
+Balneário Camboriú,12,1
+Balneário Camboriú,3,1
+Balneário Camboriú,2,1
+Balneário Camboriú,11,2
+Balneário Camboriú,10,1
+Zakynthos,7,2
+Zakynthos,9,1
+Vitória,1,3
+Vitória,2,1
+Vitória,9,1
+Zaandam,10,1
+Zaandam,4,1
+Ibiza Town,6,1
+Ibiza Town,3,1
+Ibiza Town,11,1
+Riyadh,4,2
+Riyadh,3,1
+Riyadh,2,1
+Riyadh,12,1
+Riyadh,11,1
+Riyadh,9,1
+Riyadh,8,2
+Riyadh,7,1
+Riyadh,5,2
+Riyadh,6,1
+Riyadh,10,1
+Mecca,4,1
+Seychelles,12,1
+Seychelles,11,1
+Seychelles,7,1
+Yanbu,5,1
+Milford,5,1
+Milford,4,1
+Ulsan,4,1
+Geoje-si,4,1
+Rayong,4,1
+Santanyí,1,1
+Zwolle,1,1
+Zwolle,12,1
+Zwolle,9,1
+Zwolle,5,1
+Zwolle,4,1
+Zwolle,2,1
+Zwolle,11,1
+Zwolle,7,1
+Zwolle,8,1
+Zwolle,3,1
+Nis,9,1
+Nis,5,1
+Iran,11,1
+Iran,4,1
+Iran,7,1
+Sierre,3,1
+Sierre,2,1
+Uyuni,6,1
+Uyuni,4,1
+Uyuni,8,1
+Maella,10,1
+Maella,9,1
+Maella,8,1
+Maella,7,1
+Maella,5,1
+Maella,3,1
+Maella,2,1
+Saaremaa,6,1
+Koh Lanta.,3,1
+Velbert,12,1
+Velbert,6,1
+Velbert,9,1
+Velbert,8,1
+Velbert,7,1
+Velbert,11,1
+Velbert,4,1
+Velbert,1,1
+Velbert,3,1
+Velbert,2,1
+"Busan, South Korea",11,1
+Gyeongju-si,11,1
+Gyeongju-si,4,1
+Calama,4,1
+Uyuni Salt Flat,4,2
+Uyuni Salt Flat,1,1
+Copacabana,4,1
+Copacabana,8,1
+Juliaca,4,1
+Riohacha,3,1
+Mazatlan,12,1
+Mazatlan,6,1
+Mazatlan,5,1
+Mazatlan,3,1
+Mazatlan,7,1
+Hradec KraloveCzech Republic,7,1
+Neuhausen ob Eck,6,1
+Hradec Kralove,6,1
+Belek Belediyesi,3,1
+Rimini,8,1
+Rimini,7,1
+Rimini,5,3
+Rimini,4,1
+Rimini,3,2
+Rimini,2,1
+Rimini,12,2
+Rimini,11,1
+Rimini,10,1
+Rimini,9,2
+Rimini,6,2
+Rimini,1,2
+Pompeii,7,1
+Pompeii,9,1
+Pompeii,6,1
+Pompeii,4,1
+San Siro Stadium,7,1
+Province of Rimini,6,1
+Province of Rimini,2,2
+Province of Rimini,7,1
+Province of Rimini,10,1
+Seceda,6,1
+"San Quirico d'OrciaProvince of Siena, Italy",5,1
+Funes,5,1
+San Quirico d'Orcia,4,1
+Reine,2,1
+"Saint Martin, Marigot",12,1
+Saint Barthelemy,12,1
+Sandy Ground,11,1
+Sandy Ground,3,1
+Albufeira,10,1
+Albufeira,11,1
+Albufeira,5,2
+Albufeira,7,1
+Albufeira,6,1
+Expo 2015 Village,10,1
+Le Tofane,9,1
+Monte Cristallo,9,1
+Colle Santa Lucia,9,1
+Tre Cime di Lavaredo,9,1
+Rifugio Scoiattoli,9,1
+Black Canyon of the Gunnison National Park,8,1
+Bonneville Salt Flats,8,1
+Grand Teton National Park,8,1
+Sturgis,8,1
+Hot Springs,8,1
+Vik,7,1
+Vik,11,1
+Höfn,7,1
+Stöðvarfjörður,7,1
+Húsavík,7,1
+Dalvik,7,1
+Borðeyri,7,1
+Ísafjörður,7,1
+Patreksfjörður,7,1
+Cortina d'Ampezzo,6,1
+Cortina d'Ampezzo,3,1
+Asiago,5,1
+Gouda,4,1
+Gustavia,3,2
+Gustavia,5,1
+Grand Case,3,1
+Nyalam,1,1
+Tingri,1,1
+Xigaze,1,1
+"ShigatseTibet, China",1,1
+Zedangzhen,1,1
+Lhasa,1,1
+Xining,1,1
+Xining,2,1
+Liechtenstein,12,1
+Lübeck,12,2
+Fredrikstad,11,1
+Kristiansand,11,1
+Kristiansand,4,1
+Flåm,11,1
+Flåm,5,1
+Flåm,7,1
+Florø,11,1
+Måløy,11,1
+Aalesund,11,1
+Kristiansund,11,1
+Lillehammer,11,1
+Fredericia,11,1
+Valdobbiadene,5,1
+Ko Ngai,2,1
+Koh Mook Sivalai Beach Resort,1,1
+Ko Lipe,1,3
+Ko Lipe,2,1
+Ko Lipe,12,1
+Ko Lipe,5,1
+Ko Lipe,10,1
+Mae Hong Son,1,1
+Mae Hong Son,11,1
+Mae Hong Son,12,1
+Mae Hong Son,6,1
+Barbados,12,1
+Barbados,1,1
+Barbados,7,1
+Barbados,4,1
+Göreme,11,1
+Göreme,2,1
+Göreme,8,1
+Göreme,10,1
+Göreme,9,1
+Bagno Vignoni,10,1
+Orta San Giulio,10,2
+Peschici,10,1
+Asolo,6,1
+Castelluccio,6,1
+Spoleto,5,1
+Spoleto,4,1
+Valeggio Sul Mincio,4,1
+Norcia,4,1
+Ko Yao Noi,2,2
+Ko Yao Noi,12,1
+Ko Yao Noi,3,1
+Ko Phi Phi Lee,2,1
+Railay Beach,2,2
+Railay Beach,11,1
+Kingman,11,1
+Albuquerque,11,2
+Albuquerque,1,2
+Albuquerque,3,2
+Albuquerque,10,1
+Albuquerque,12,1
+Santa Fe,11,3
+Santa Fe,4,1
+Santa Fe,3,1
+Amarillo,11,1
+Amarillo,3,1
+Tulsa,11,1
+Tulsa,10,1
+Tulsa,3,1
+Passo dello Stelvio,10,1
+Vipiteno,10,1
+Civitavecchia Port,2,1
+Ashdod,2,1
+Katakolo,2,1
+Katakolo,4,1
+Savona,2,1
+Savona,9,1
+Maldives,12,1
+Maldives,2,1
+Maldives,6,1
+Qasr Al Sarab Desert Resort by Anantara,12,1
+Atacama Desert,11,1
+Salinas Grandes,11,1
+Salta,11,2
+Salta,1,1
+Salta,7,1
+Salta,10,1
+Salta,2,1
+Brunico,10,1
+Amboseli National Park,1,1
+Taita Hills,1,1
+Tsavo West National Park,1,1
+Tsavo East National Park,1,1
+Leukerbad,1,1
+Liège,11,1
+Liège,10,1
+Liège,8,1
+Liège,1,1
+Saturnia,10,1
+Olbia,12,1
+Daegu,3,1
+Daegu,10,1
+Daegu,6,1
+Jeju-si,10,1
+Haarlem,10,1
+Haarlem,9,1
+Haarlem,8,1
+Haarlem,7,3
+Haarlem,6,1
+Haarlem,5,3
+Haarlem,4,2
+Haarlem,1,2
+Haarlem,2,1
+Roskilde,4,1
+Roskilde,9,1
+Kruså,4,1
+Bad Gandersheim,7,1
+Lindau,7,1
+Egnach,7,1
+Ribeauvillé,7,1
+Dransfeld,6,1
+Ribe,6,1
+Lidköping,10,1
+Norwich,1,2
+Norwich,6,1
+Dominican Republic,3,2
+Dominican Republic,11,1
+Dominican Republic,9,1
+Dominican Republic,12,1
+Dominican Republic,6,1
+Kunming,12,2
+Kunming,10,1
+Kunming,4,1
+Kunming,5,1
+Kunming,8,1
+Kunming,9,1
+Kunming,11,1
+Dali,11,2
+Dali,4,1
+Deqen,11,1
+Lijiang,11,2
+Lijiang,10,1
+Lijiang,12,1
+Chongqing,11,1
+Chongqing,10,1
+Chongqing,5,1
+Chongqing,9,1
+Chongqing,4,1
+Chongqing,1,1
+Chongqing,7,1
+Zhangjiajie,11,1
+Zhangjiajie,10,1
+Zhangjiajie,3,1
+Zhangjiajie,2,1
+Guilin,10,1
+Guilin,6,2
+Guilin,3,1
+Guilin,12,1
+Guilin,7,1
+Potosi,5,1
+Nassau,1,2
+Nassau,12,1
+Nassau,8,1
+Nassau,6,3
+Nassau,5,2
+Nassau,7,3
+Nassau,4,1
+Nassau,11,1
+Nassau,2,1
+Nassau,9,1
+"Louisville, KY",7,2
+"Louisville, KY",8,1
+"Louisville, KY",1,2
+"Louisville, KY",10,1
+Puerto Rico,2,1
+Puerto Rico,10,2
+Puerto Rico,7,1
+Puerto Rico,8,1
+Puerto Rico,5,1
+Puerto Rico,3,1
+Mount Naeba,7,1
+Kenting,6,1
+Kenting,2,2
+Vientiane Province,5,1
+Vientiane Province,4,1
+Batam Island,7,1
+Lamai Beach,4,1
+Comandatuba,10,1
+"João Pessoa, Paraíba",10,1
+Trancoso,8,1
+Ribeirão Preto,8,1
+Cuiabá,7,1
+Svendborg,7,1
+Cádiz,9,2
+Cádiz,7,1
+Cádiz,4,1
+Cádiz,10,1
+Olympia,3,1
+Olympia,5,1
+Laguna Niguel,12,1
+Laguna Niguel,4,1
+Big Summit Prairie,8,1
+Bellwald,8,1
+Uttendorf,8,2
+Saint Andrews,9,2
+Saint Andrews,4,1
+Saint Andrews,8,1
+Saint Andrews,3,1
+Saint Andrews,12,1
+Zell,9,1
+Plymouth,12,1
+Plymouth,11,1
+Plymouth,10,1
+Cavalière,6,1
+Sicily,5,1
+Sicily,3,1
+Sicily,12,1
+Sicily,7,2
+Sicily,9,1
+Sicily,4,1
+Kuta,7,1
+Uluwatu Surf Break,7,1
+Krabi Town Thailand,5,1
+Mechelen,11,1
+Bodegraven,9,1
+Hagen,11,1
+Hagen,8,1
+Hagen,10,1
+Hagen,9,1
+Hagen,7,1
+Hagen,4,1
+Hagen,12,2
+Hagen,3,1
+Camrose,8,1
+Cranbrook,8,1
+Cranbrook,11,1
+Cranbrook,4,1
+Cranbrook,7,1
+Sparwood,8,1
+Oswiecim,5,1
+Katowice,4,2
+Katowice,7,1
+Katowice,1,1
+Katowice,11,2
+Katowice,8,1
+Katowice,5,1
+Rzeszow,10,1
+Zamość,10,1
+Berdyszcze,10,1
+Chełm,10,1
+Kumów Plebański,10,1
+Haliczany,10,1
+Przeworsk,10,1
+Jawornik Polski,10,1
+Dynów,10,1
+Szklary,10,1
+Dortmund,8,2
+Dortmund,4,1
+Dortmund,12,1
+Dortmund,11,1
+Arnhem,3,1
+Arnhem,6,1
+Maastricht,6,2
+Maastricht,3,2
+Maastricht,4,1
+Maastricht,2,1
+Maastricht,11,1
+Wiesbaden,7,1
+Wiesbaden,3,1
+Wiesbaden,8,1
+Zandvoort,5,1
+Wageningen,5,1
+Wageningen,6,1
+Wageningen,4,1
+IJmuiden,2,1
+Moyie,11,1
+Muiden,10,1
+Duisburg,9,1
+Duisburg,11,1
+Kamloops,7,1
+Grundarfjörður,8,1
+Naivasha,6,1
+Nakuru,6,1
+Nyahururu,6,1
+Narok,5,1
+Kemptville,9,1
+Jerome,8,1
+Jerome,11,1
+Kimball,8,1
+Gibbon,8,1
+Sidney,8,1
+Sidney,6,1
+Bradshaw,8,1
+Butte,8,1
+Butte,3,1
+Grande Prairie,4,1
+Grande Prairie,8,1
+Grande Prairie,1,1
+Vallendar,12,1
+Oświęcim,12,1
+Oświęcim,6,1
+Prato,12,1
+Prato,11,1
+Prato,10,1
+Cortona,12,1
+Cortona,2,1
+Cortona,9,1
+Cortona,5,1
+Assisi,10,1
+Assisi,7,1
+Assisi,9,1
+Redding,4,1
+Redding,11,1
+Port Orford,5,1
+Mendocino,4,1
+Santa Clarita,4,1
+Yreka,4,1
+Nanaimo,2,1
+Nanaimo,6,1
+Duncan,2,1
+Guelph,10,1
+Guelph,5,1
+Guelph,3,1
+Guelph,11,1
+Guelph,12,1
+Kitimat,7,1
+Prince Rupert,7,1
+Jersey City,7,1
+Jersey City,3,1
+Songpan,6,1
+Xiahe,6,1
+Mu Tian Yu,6,1
+Dunmore Town,5,1
+Carmel-by-the-Sea,5,1
+Palm Springs,4,3
+Palm Springs,12,2
+Palm Springs,3,5
+Palm Springs,7,1
+Palm Springs,8,1
+Palm Springs,2,1
+Palm Springs,11,1
+Palm Springs,1,1
+Vaduz,3,1
+Vaduz,5,1
+Vaduz,7,1
+Montreux,2,2
+Montreux,4,1
+Montreux,12,1
+Montreux,9,1
+Montreux,7,1
+Exeter,1,1
+Monte Compatri,7,1
+Capri,7,1
+Capri,4,2
+Capri,9,1
+Èze,7,1
+Aix-en-Provence,7,1
+Aix-en-Provence,6,1
+Nimes,7,1
+Nimes,9,1
+Carcassonne,7,2
+Carcassonne,5,2
+Carcassonne,9,1
+Carcassonne,8,1
+Carcassonne,1,1
+Carcassonne,11,1
+Carcassonne,3,1
+Carcassonne,2,1
+Carcassonne,10,1
+Carcassonne,4,2
+Abbotsford,8,1
+"Ogden, UT",2,1
+"Ogden, UT",11,1
+Escondido,10,1
+Ashland,10,1
+Ashland,9,1
+La Manzanilla,1,1
+Padova,1,1
+Padova,9,2
+Padova,6,1
+Padova,12,1
+Sarzana,9,1
+Carrara,7,1
+Campina Grande,7,1
+Blumenau,10,1
+Condrieu,9,1
+Bergamo,6,1
+Bergamo,10,1
+Bergamo,7,1
+Asti,6,1
+Toulon,12,2
+Saint-Raphaël,5,1
+Saint-Raphaël,8,2
+Sagres,7,1
+Sagres,4,1
+Sagres,10,1
+Redang Island,8,1
+Mangsit,6,1
+Attica Region,4,1
+Palaiochora,11,1
+Palaiochora,5,1
+Palaiochora,10,1
+Douarnenez,7,1
+Quimper,7,1
+Gavdos,10,1
+Wörthersee,6,1
+Frisco,8,1
+Frisco,6,1
+Beaumont,11,1
+Boca Raton,9,1
+Boca Raton,10,1
+Boca Raton,12,1
+Great Smoky Mountains,9,1
+Mammoth Cave,9,1
+Inle Lake,1,2
+Inle Lake,3,1
+Inle Lake,11,1
+Inle Lake,4,1
+Inle Lake,2,1
+Pingyao,10,1
+Datong,10,1
+Carlsbad,5,2
+Carlsbad,11,1
+Carlsbad,1,1
+Carlsbad,9,1
+Carlsbad,12,1
+St. George,5,1
+Heroica Veracruz,8,1
+Medan,8,1
+Medan,4,1
+Medan,6,1
+Medan,2,1
+Porto Cervo,9,1
+Mount Maunganui,2,1
+Miami International Airport,9,1
+Poland,7,2
+Poland,5,1
+Florida,10,1
+Florida,1,1
+Slovenia,6,1
+Slovenia,9,2
+Slovenia,5,1
+Slovenia,8,1
+Tartu,10,1
+Tartu,8,1
+Puerto Varas,3,1
+Nagoya,4,1
+Nagoya,5,1
+Nagoya,9,1
+Nagoya,8,2
+Nagoya,2,1
+Nagoya,7,1
+Nagoya,6,2
+Nagoya,11,1
+Nagoya,12,1
+Nepal,11,3
+Nepal,7,1
+Nepal,4,1
+Nepal,3,1
+Calais,9,1
+State of Rio de Janeiro,12,2
+State of Rio de Janeiro,2,1
+Guidel,5,1
+La Rochelle,12,1
+La Rochelle,3,1
+La Rochelle,10,1
+La Rochelle,6,1
+La Rochelle,4,1
+La Rochelle,7,1
+Saint-Jean-de-Monts,11,1
+Clermont-Ferrand,9,1
+Vittel,5,1
+Les Sables-d'Olonne,4,1
+Parco Nazionale delle Cinque Terre,9,1
+Tours,8,1
+Tours,5,1
+Tours,6,1
+Central Coast,4,1
+Santa Teresa Beach,11,1
+Santa Teresa Beach,6,1
+Santa Teresa Beach,7,2
+Santa Teresa Beach,3,1
+Santa Teresa Beach,2,1
+Santa Teresa Beach,1,2
+Bocas del Toro Archipelago,10,1
+Kerala,12,1
+Kerala,2,1
+Kerala,3,1
+Kerala,7,1
+Kerala,4,2
+Santa Teresa,7,2
+Santa Teresa,9,1
+Santa Teresa,12,2
+Hossegor,5,2
+Hossegor,8,1
+Hossegor,7,1
+Hossegor,11,1
+Madiha Beach,2,1
+Vieux-Boucau-les-Bains,9,1
+Seignosse,5,1
+Luz,3,1
+Mirissa,2,1
+Mirissa,7,1
+Morro Jable,11,1
+Morro Jable,1,1
+Arugam Bay,8,2
+Arugam Bay,7,1
+Jimbaran,2,1
+Playa Guiones,9,1
+Paignton,7,1
+Paignton,6,1
+Paignton,5,1
+Paignton,11,1
+Murcia,6,2
+Ko Yao Yai,3,2
+Ko Yao Yai,8,1
+Ko Yao Yai,6,1
+West Nusa Tenggara,4,1
+Punta Arenas,2,1
+Punta Arenas,1,1
+Punta Arenas,9,1
+Punta Arenas,11,1
+Punta Arenas,12,1
+Grindelwald,6,1
+Grindelwald,9,1
+Montenegro,8,1
+Montenegro,5,3
+Montenegro,9,3
+Montenegro,10,1
+Ko TaoSurat Thani Thailand,7,1
+Koya,11,1
+Aalborg,6,1
+Aalborg,5,1
+Aalborg,1,1
+Aalborg,12,1
+Aalborg,10,1
+Dumaguete,8,1
+Dumaguete,2,1
+Dumaguete,4,1
+Oberkirch,8,1
+"Grand Rapids, MI",5,1
+"Grand Rapids, MI",9,1
+"Grand Rapids, MI",3,1
+"Grand Rapids, MI",7,1
+"Grand Rapids, MI",6,1
+"Grand Rapids, MI",10,1
+"Grand Rapids, MI",12,1
+South Bend,5,1
+South Bend,11,1
+South Bend,9,1
+Fremont,11,1
+"Memphis, TN",9,1
+"Memphis, TN",11,2
+"Memphis, TN",4,2
+"Memphis, TN",10,1
+"Memphis, TN",8,1
+"Memphis, TN",3,1
+"Memphis, TN",12,1
+"Memphis, TN",5,1
+Laguna Beach,2,1
+Laguna Beach,12,1
+Laguna Beach,9,1
+Union Glacier,1,1
+"Concord, New Hampshire, United States",10,1
+Cumberland County,10,1
+Hood River,8,1
+Mahé,1,1
+Jarabacoa,4,1
+Jarabacoa,8,1
+Jarabacoa,1,2
+Jarabacoa,7,1
+South Padre Island Drive,1,1
+Oranjestad,7,2
+Oranjestad,9,1
+Oranjestad,2,2
+Oranjestad,11,1
+Oranjestad,10,1
+Ouanaminthe Arrondissement,8,1
+Durango,7,1
+Durango,2,1
+Durango,1,1
+Dunedin,2,2
+Dunedin,8,1
+Dunedin,7,1
+Dunedin,4,1
+Apia,2,1
+Nicoya,7,1
+Concepción,11,1
+Concepción,3,1
+Ribes de Freser,6,1
+Shikoku Kawabejinnai,5,1
+Lapland,12,1
+Taman Negara National Park Malaysia,5,1
+Pangkor Island,12,1
+Pangkor Island,6,1
+Pangkor Island,9,1
+Ipoh,12,2
+Ipoh,9,2
+Ipoh,3,1
+Ipoh,1,1
+Pihtipudas,9,1
+Poitiers,6,1
+Poitiers,9,1
+Šibenik,8,1
+Bielefeld,6,1
+Bielefeld,4,1
+Bielefeld,11,1
+Bielefeld,5,1
+Bielefeld,1,1
+Münster,6,1
+Münster,1,1
+Münster,8,1
+Münster,12,1
+Niagara Falls,5,2
+Niagara Falls,7,1
+Niagara Falls,6,2
+Niagara Falls,10,1
+Niagara Falls,4,1
+Niagara Falls,8,2
+Campeche,3,1
+San Miguel de Cozumel,2,1
+San Miguel de Cozumel,1,1
+Usedom,5,1
+Agadir,8,1
+Agadir,3,2
+Agadir,2,1
+Agadir,12,1
+Gold Coast,7,1
+Gold Coast,3,1
+Gold Coast,5,3
+Gold Coast,1,4
+Gold Coast,10,2
+Gold Coast,2,3
+Gold Coast,11,4
+Gold Coast,6,2
+Gold Coast,9,1
+Gold Coast,12,3
+Noosa Heads,7,1
+Noosa Heads,12,1
+Noosa Heads,1,1
+Noosa Heads,9,1
+Hervey Bay,7,1
+Hervey Bay,5,1
+Airlie Beach,7,1
+Airlie Beach,8,1
+Airlie Beach,2,1
+Waukesha,5,1
+Chapel Hill,5,2
+Chapel Hill,11,1
+Les Marécottes,1,2
+Les Marécottes,12,2
+Albania,6,2
+Albania,9,1
+Albania,4,1
+Kosovo,6,2
+Kosovo,11,1
+La Serena,11,2
+La Serena,10,1
+La Serena,12,1
+La Serena,9,1
+La Serena,8,1
+La Serena,6,1
+La Serena,2,1
+Antofagasta,11,2
+Antofagasta,10,2
+Antofagasta,12,1
+Antofagasta,9,1
+Antofagasta,8,1
+Antofagasta,6,1
+Antofagasta,3,1
+Washington,3,1
+Washington,8,1
+Oregon,3,1
+Idaho,3,1
+Montana,3,1
+Wyoming,3,1
+North Dakota,3,1
+North Dakota,9,1
+Mount Rushmore National Memorial,3,1
+Estevan,3,1
+Truckee,10,1
+Truckee,2,1
+Truckee,8,1
+Fort McMurray,4,1
+Chon Buri,5,1
+Ban Amphoe,3,1
+Ban Amphoe,1,1
+Ubon Ratchathani,3,1
+Pakse,3,2
+Pakse,2,2
+Pakse,11,1
+Tad tayicsua,3,1
+Tad Lo Village,3,1
+PakBeng,2,1
+Huay Xai,2,1
+Onjuku,9,1
+Kalpitiya,7,1
+Kalpitiya,2,1
+Syracuse,2,1
+Syracuse,10,1
+Syracuse,8,2
+Syracuse,6,1
+Sámara,9,1
+Sámara,4,1
+Sámara,11,1
+Esbjerg,9,1
+Herning,3,1
+Ringkobing,9,1
+Odense,9,2
+Odense,1,1
+Oceanside,3,1
+Oceanside,9,1
+Tehachapi,3,1
+Dunsmuir,3,1
+São José dos Campos,11,1
+São José dos Campos,8,1
+Rarotonga,4,1
+Rarotonga,10,1
+Fishers,1,1
+Bayeux,3,1
+Klosters Dorf,12,1
+Chetumal,4,1
+Cabo Pulmo National Park,2,1
+Ripon,11,1
+Aspen,8,1
+Aspen,9,1
+Aspen,7,1
+Aspen,11,1
+Panama,10,2
+Panama,4,1
+Panama,8,1
+Panama,12,2
+Panama,11,2
+Panama,2,2
+Panama,1,1
+Arles,4,1
+Barèges,4,1
+Walt Disney World Resort,3,1
+Baguio,5,1
+Baguio,2,3
+Baguio,1,1
+Baguio,3,1
+Angeles,2,3
+Angeles,12,1
+Kasimov,7,1
+Anjuna,3,1
+Anjuna,2,1
+Anjuna,1,1
+Santa Eulària des Riu,6,1
+Santa Eulària des Riu,2,1
+Benalmádena,1,1
+Sweden,10,1
+Sweden,1,1
+Siquijor,2,1
+Siquijor,1,1
+Azores,4,1
+Azores,9,1
+Azores,7,1
+Ziro,9,1
+Canet de Mar,1,1
+Inverness,9,2
+Inverness,10,1
+Inverness,12,1
+Inverness,7,1
+Inverness,1,1
+Inverness,5,1
+Huldenberg,8,1
+Blenheim,4,2
+Blenheim,2,1
+Blenheim,1,1
+Beloi,2,1
+Borgarnes,3,1
+Destin,8,2
+Kuantan,4,1
+Haleiwa,10,1
+Israel,8,1
+Israel,9,1
+Israel,4,1
+Israel,5,1
+Frederick,5,1
+Frederick,3,1
+Komiža,4,1
+Komiža,5,1
+Guaimaca,2,1
+Whangarei,9,1
+Whangarei,6,1
+Whangarei,12,1
+Ischgl,12,1
+Fondo,6,1
+Fribourg,9,2
+Fribourg,4,1
+Nancy,3,1
+Nancy,8,1
+Uppsala,6,1
+Uppsala,7,1
+Uppsala,4,1
+Aurillac,9,1
+Apt,7,1
+Apt,6,1
+N'Djamena,9,1
+Port-au-Prince,10,1
+Spokane,10,1
+Spokane,12,1
+Spokane,8,1
+Spokane,11,1
+Holland,7,1
+Grand Forks,1,1
+Grand Forks,10,1
+Grand Forks,5,1
+Grand Forks,2,1
+Grand Forks,11,1
+Kobe,12,1
+Kobe,6,1
+Kobe,10,1
+Kobe,1,1
+Kobe,4,1
+Grand Rapids,9,1
+Grand Rapids,12,1
+Grand Rapids,6,2
+Grand Rapids,5,1
+Grand Rapids,3,1
+Grand Rapids,2,2
+Grand Rapids,7,1
+Grand Rapids,10,1
+Subic Bay,7,1
+Swan Lake,6,1
+Rancho Mirage,4,1
+Scotts Valley,3,1
+Böblingen,7,1
+Böblingen,6,1
+Neuschwanstein Castle,7,1
+Ulm,7,1
+Ulm,4,1
+Sanremo,6,1
+Koyasan,5,1
+Koyasan,6,1
+Koyasan,7,1
+Miyajima Island,5,1
+Miyajima Island,6,1
+Taganrog,11,1
+Taganrog,8,1
+Loket,8,1
+"TaganrogRostov Oblast, Russia",7,1
+San Pedro Sula,1,1
+Ringe,11,1
+Jiquilillo,4,1
+South Beach,4,1
+Rusutsu,1,1
+Rusutsu,12,1
+Chitose,1,1
+Poughkeepsie,11,1
+Poughkeepsie,10,1
+Poughkeepsie,5,1
+Poughkeepsie,8,1
+Poughkeepsie,1,1
+Bodo,10,2
+Bodo,5,1
+Lahinch,8,1
+Lahinch,11,1
+Bundoran,7,1
+Bundoran,8,1
+St. John's,7,2
+St. John's,8,1
+St. John's,5,1
+St. John's,6,2
+Glacier National Park of Canada,7,1
+Big White Mountain,7,1
+Revelstoke,7,1
+Revelstoke,10,1
+Kelowna,7,2
+Kelowna,8,2
+Kelowna,9,1
+Kelowna,6,1
+Kelowna,5,1
+Colón Island,5,1
+Charlottesville,5,1
+Charlottesville,12,1
+playa buen hombre,4,1
+"CabaretePuerto Plata Province, Dominican Republic",4,1
+Verbier,3,1
+Cemoro Lawang,12,1
+Mont-Tremblant,8,1
+Rosario,3,1
+Rosario,2,1
+Cappadocia,9,1
+Zanzibar Town,6,1
+Erg Chebbi,4,1
+Lafayette,12,1
+Lafayette,4,1
+Lafayette,5,1
+Lafayette,1,1
+Lafayette,11,1
+Napier,10,1
+Napier,4,1
+Napier,12,2
+Napier,11,2
+Shreveport,1,1
+Brunswick,1,2
+Brunswick,12,1
+Brunswick,10,1
+Forest,1,1
+Pāhoa,12,1
+Princeville,12,2
+Apple Valley,9,1
+Scottsdale,9,1
+Scottsdale,12,1
+Scottsdale,10,1
+Scottsdale,11,1
+Scottsdale,8,1
+Scottsdale,1,1
+Krušetnica,12,1
+Playas de Tijuana,8,1
+Hat Yai,1,1
+Hat Yai,2,1
+Bandung,3,3
+Bandung,6,2
+Bandung,1,1
+Bandung,12,1
+Bandung,9,2
+Bandung,8,1
+Bandung,7,1
+Bandung,4,2
+Bandung,5,1
+Bandung,10,1
+"Mataram, Lombok",5,1
+Vieques,11,1
+Vieques,1,1
+Ranong,2,1
+Banlung,3,1
+Padangbai,2,1
+Wissembourg,2,1
+Wissembourg,1,1
+Wissembourg,12,1
+Wissembourg,11,1
+Kronplatz,1,1
+Châtel,1,1
+Kilkenny,11,2
+Kilkenny,12,1
+Zgornje Gorje,7,1
+Palolem Beach,11,1
+Furtwangen im Schwarzwald,9,1
+Vama,4,1
+Oradea,4,1
+Banská Bystrica,4,1
+Banská Bystrica,7,1
+Budens,2,1
+Sleaford,2,1
+Sleaford,11,1
+Sleaford,9,1
+Sleaford,3,1
+Sleaford,1,1
+Sleaford,8,1
+Sleaford,6,1
+Sleaford,4,1
+Delray Beach,1,2
+Oakham,7,1
+Ewerby,7,1
+Folkestone,6,1
+Bury Saint Edmunds,9,1
+Milton Keynes,8,1
+Milton Keynes,4,1
+Valrico,6,1
+"Kansas City, MO",6,4
+"Kansas City, MO",12,2
+"Kansas City, MO",2,2
+"Kansas City, MO",5,3
+"Kansas City, MO",11,2
+"Kansas City, MO",8,2
+"Kansas City, MO",1,1
+"Kansas City, MO",4,1
+Louny,4,1
+Karlovy Vary,4,1
+Ischia,6,1
+Ischia,11,1
+Providenciales,3,1
+Preston,12,1
+Lancaster,3,1
+Lancaster,4,1
+Lancaster,2,1
+Andalusia,12,1
+Fukuoka Prefecture,6,2
+Rizhao,6,1
+Guararema,4,1
+Rochester Hills,12,1
+Gotland,8,1
+Ko Lanta Yai,2,1
+Ko Lanta Yai,12,1
+Amman Governorate,3,1
+Loulé,4,1
+Tauranga,2,1
+Tauranga,1,1
+Tekapo,2,1
+Nazca,5,1
+Easter Island,4,2
+Easter Island,3,2
+Easter Island,5,1
+Pichilemu,3,1
+Pampanga,1,1
+Uzès,9,1
+Uzès,6,1
+Höllviken,8,1
+Cavite City,3,1
+Banaue,2,1
+Sagada,2,1
+Jelsa,8,1
+Palma,8,1
+Nevada,8,1
+Takayama,5,1
+Takayama,6,1
+Takayama,11,1
+Syros,8,1
+Tortola,12,1
+Tortola,2,1
+Chaweng Beach,1,1
+Karon Beach,1,1
+Arkhangelsk,12,1
+Talamanca,4,1
+Bluefields,3,1
+Sonoma County,9,1
+Pocono Mountains,6,1
+Death Valley National Park,3,1
+Rosenheim,9,1
+Laholm,9,1
+Locarno,8,1
+Visalia,12,1
+Tomorrowland,7,1
+Port d'Alcúdia,10,1
+Alkmaar,11,1
+Cornwall,9,2
+"Princeton, NJ",1,1
+"Princeton, NJ",2,1
+Mirissa Beach,1,1
+Mirissa Beach,3,1
+"Hilo, Hawaii",7,1
+Pocono Laurel Lake,5,1
+Kassel,2,1
+Kassel,8,1
+Kassel,6,1
+Bolton-Est,4,1
+Geilo,3,1
+Annecy,5,1
+Annecy,12,1
+Annecy,1,1
+Kokkola,1,1
+Kokkola,10,1
+Tampere,1,1
+Tampere,10,1
+Tampere,2,1
+Tampere,12,1
+Tampere,6,1
+Tampere,4,1
+Tampere,3,1
+Modena,7,1
+Modena,1,1
+Manzanillo,4,1
+Manzanillo,3,2
+Manzanillo,11,1
+Comala,4,1
+Colima,3,1
+Naousa,8,1
+Gais,6,1
+East London,11,1
+Port Alfred,11,1
+Grahamstown,10,1
+Grahamstown,5,1
+Jeffreys Bay,8,1
+Jeffreys Bay,12,1
+South Cape DC,8,1
+Sedgefield,7,1
+Swellendam,7,1
+Still Bay,4,1
+Saint Helena,2,1
+Saint Helena,5,1
+Uluwatu Temple,6,1
+Uluwatu Temple,7,1
+Uluwatu Temple,11,1
+Nizhny,3,1
+Kharkiv,10,2
+Kharkiv,11,2
+Kharkiv,9,1
+Kharkiv,8,1
+Kharkiv,1,2
+Kharkiv,12,2
+Kharkiv,6,2
+Kharkiv,5,1
+Kharkiv,2,1
+Oryol,8,1
+Oryol,6,1
+Oryol,7,1
+Oryol,9,1
+Tivat,6,2
+Calella de Palafrugell,6,1
+Bonn,6,1
+Bonn,3,1
+Bonn,11,1
+Puerto Aventuras,11,1
+Puerto Aventuras,12,1
+Polignano a Mare,6,1
+Polignano a Mare,9,1
+Huelva,12,1
+Siurana,11,1
+Kure Beach,7,1
+Kailua,6,1
+Kailua,4,2
+Kailua,10,1
+Kailua,8,1
+Kailua,3,1
+Allenspark,8,1
+Corfu,3,1
+Corfu,7,2
+Corfu,6,1
+Corfu,5,2
+Corfu,9,1
+Berat,5,1
+Berat,4,1
+Berat,9,1
+Kiel,9,1
+Jekyll Island,3,1
+Marfa,11,2
+White Stone,5,1
+Potomac,5,1
+Versano,6,1
+Negrar,6,1
+Province of Imperia,6,1
+Cáceres,6,1
+Jerez,6,1
+Long Island,7,1
+Long Island,2,1
+Dingle,6,1
+Dingle,9,1
+Varkala Beach,11,1
+Hampi,11,1
+Hampi,12,1
+Hampi,2,1
+Ajanta caves,11,1
+Ellora,11,1
+Aurangabad,11,1
+Apulia,8,2
+Mauthausen,3,1
+Corsica,8,1
+Corsica,6,1
+Ayacucho,6,1
+Ayacucho,9,1
+Pisco,6,1
+Varadero,3,1
+Varadero,1,1
+Varadero,5,1
+Rivas,3,1
+Sierpe,3,1
+Mérida,3,2
+Mérida,11,1
+Mérida,2,1
+Matagalpa,3,1
+Bijagua,2,1
+La Fortuna,2,1
+La Fortuna,1,2
+La Fortuna,4,1
+Alajuela,2,1
+Isla Holbox,2,1
+Isla Holbox,4,1
+Palenque,2,2
+Palenque,1,1
+Palenque,12,1
+Palenque,6,1
+Tuxtla Gutiérrez,2,1
+Punta Zicatela,1,1
+Playa Zipolite,1,1
+Bakersfield,12,1
+Lake Havasu City,12,1
+Seligman,12,1
+Oljato-Monument Valley,12,1
+Oljato-Monument Valley,11,1
+Wahweap,12,1
+Bryce Canyon,12,1
+Qualicum Beach,11,1
+Tofino,11,1
+Tofino,9,2
+Tofino,10,1
+Port Alberni,11,1
+Canmore,10,1
+Enderby,10,1
+Golden,10,1
+Sievershausen,8,1
+Plakias,8,1
+Plakias,7,1
+Plakias,9,1
+Mathes,8,1
+Abela,7,1
+Meteora,7,1
+Saarbrücken,6,1
+Lacanau,5,1
+Liencres,5,1
+Cangas de Onís,5,1
+Grazalema,4,1
+Ronda,4,1
+Ronda,12,1
+Ronda,7,1
+Ronda,6,1
+Ronda,11,1
+Zagora,3,1
+Erg Chigaga,3,1
+Mhamid,3,1
+Tafraoute,3,1
+Mirleft,2,1
+La Aldea de San Nicolás,2,1
+Arinaga,2,1
+Almáciga,2,1
+Agulo,2,1
+Opua,11,1
+Upper Moutere,11,1
+Murchison,10,1
+Punakaiki,10,1
+Hokitika,10,1
+Hokitika,11,1
+Fox Glacier,10,1
+Lumsden,10,1
+Milford Sound,10,1
+Monowai,10,1
+Owaka,10,1
+Herbert,10,1
+Pigeon Bay,10,1
+Woodchester,9,1
+Mount Gambier,9,1
+Port Campbell,9,1
+Devonport,9,1
+Newcastle,8,1
+Newcastle,3,1
+Newcastle,10,1
+Newcastle,4,1
+Coffs Harbour,8,1
+Coffs Harbour,5,1
+Coffs Harbour,1,1
+Mount Coolum,8,1
+Mackay,8,1
+Townsville,8,1
+Culik,8,1
+Hu'u,7,1
+Senggigi,7,1
+Singaraja,7,1
+Sandakan,7,2
+Sandakan,4,1
+Sandakan,3,1
+Kinabatangan River,7,1
+Sepilok,7,1
+Sepilok,3,1
+Mount Kinabalu,6,1
+Gunung Mulu National Park,6,1
+Ban Krut,4,1
+Ko Kut,3,1
+Battambang,3,1
+Battambang,10,1
+Battambang,4,1
+Kratie,3,1
+Don Khon,3,1
+Phong Nha-Ke Bang National Park,2,1
+Port Barton,1,1
+Nagasaki,1,1
+Iki Island,12,1
+Kamikawa,12,1
+Minobu,11,1
+Chigasaki,11,1
+Digne,4,1
+Digne,7,1
+Nevers,4,1
+Nevers,8,1
+NeversFrance,12,1
+Nowy Sacz,7,1
+Nowy Sacz,4,1
+Nowy Sacz,1,1
+Nowy Sacz,6,1
+Nowy Sacz,3,1
+Nowy Sacz,2,1
+Nowy Sacz,12,1
+Nowy Sacz,10,1
+Crimea,8,1
+Astrakhan,8,1
+Krasnodar,2,1
+Krasnodar,10,2
+Krasnodar,9,1
+Krasnodar,8,2
+Krasnodar,7,2
+Krasnodar,6,2
+Krasnodar,5,2
+Krasnodar,3,1
+Krasnodar,1,1
+Krasnodar,4,1
+Stantsiya Roza Khutor,10,1
+Gelendzhik,8,1
+Zheleznogorsk,7,1
+Abkhazia,1,1
+Sumter,4,1
+Sumter,1,1
+Sumter,8,1
+Sumter,11,1
+"AlbuquerqueNM, United States",1,1
+Iasi,12,1
+Iasi,11,1
+Iasi,2,1
+Wengen,4,1
+Lauterbrunnen,4,1
+Vernazza,8,1
+Vernazza,7,2
+Vernazza,6,1
+Hallstatt,8,1
+Cao Bang,4,1
+Bắc Kạn Province,3,1
+We Island,1,1
+We Island,4,1
+Banda Aceh,12,1
+Banda Aceh,4,1
+Shangri-La City,11,1
+Mount Fuji,7,1
+Phan Rí Cửa,12,1
+Jiuzhai Valley National Park,10,1
+Emeishan,9,1
+Hạ Long,7,1
+Lang Co Beach,1,1
+Ayutthaya Historical Park,3,1
+Vũng Tàu,1,1
+Vũng Tàu,2,1
+Vũng Tàu,11,1
+Cần Giờ,12,1
+Vevey,4,1
+Dieng,12,1
+Jember Regency,6,1
+Decatur Island,5,1
+Redmond,5,1
+Xiamen,3,1
+Xiamen,10,1
+Xiamen,7,1
+Xiamen,8,1
+Xiamen,4,1
+Surakarta,12,1
+Lanzhou,9,1
+Lanzhou,11,1
+Wuhu,2,1
+Wollongong,7,1
+Nilai,6,1
+Nilai,9,1
+El Salvador,8,1
+San Salvador,6,1
+San Salvador,11,1
+San Salvador,8,2
+San Salvador,10,1
+San Salvador,12,1
+Guangdong,4,1
+Jericoacoara,3,1
+Jericoacoara,9,1
+Kyiv International Airport (Zhuliany),12,1
+Beijing Capital International Airport,12,1
+Ningbo,11,1
+Yiwu,10,2
+Fuengirola,10,1
+Mol,9,1
+Tagbilaran,9,1
+Cochabamba,12,1
+Cochabamba,5,1
+Cochabamba,7,1
+Cochabamba,10,1
+Burlington,8,2
+Burlington,12,2
+Burlington,7,1
+Burlington,4,1
+Burlington,2,1
+Shenyang,6,1
+Sinuiju,6,1
+Pyŏngsŏng,6,1
+Harbin,6,1
+Harbin,2,1
+Queretaro,4,2
+Queretaro,3,1
+Queretaro,2,1
+Queretaro,1,1
+Queretaro,12,1
+Queretaro,8,1
+Queretaro,11,2
+Lakeland,3,1
+Guiyang,7,1
+Gurgaon,4,1
+Gurgaon,5,1
+Urumqi,2,1
+Urumqi,10,1
+Algeciras,9,1
+Algeciras,12,1
+Motril,9,1
+San Juan de los Terreros,9,1
+Molinell,9,1
+Oropesa del Mar,9,1
+Tortosa,9,1
+Province of Girona,9,1
+Roses,9,2
+Perpignan,9,1
+Perpignan,8,2
+Perpignan,3,1
+Béziers,9,1
+Béziers,5,1
+Béziers,4,1
+Béziers,12,1
+Sète,8,1
+Sète,4,1
+Alassio,8,1
+Puerto Plata,4,1
+Puerto Plata,10,1
+Puerto Plata,9,1
+Sosúa,4,1
+Santo Domingo,4,1
+Santo Domingo,2,3
+Santo Domingo,12,3
+Santo Domingo,7,2
+Santo Domingo,9,1
+Bad Kleinkirchheim,2,1
+Subotica,11,1
+Bar,7,1
+Bar,9,1
+Bar,4,1
+Bar,10,1
+Bar,8,1
+Jablanica,2,1
+Vicenza,9,1
+Cinque Terre Point,9,1
+Scalea,9,1
+Paola,9,1
+Marinella,9,1
+San Ferdinando,9,1
+Messina,9,1
+Acireale,9,1
+Catania,9,1
+Catania,5,2
+Villa San Giovanni,9,1
+Taranto,9,1
+Alberobello,9,1
+Monopoli,9,1
+Monopoli,11,1
+Mola di Bari,9,1
+Jimera de Líbar,4,1
+La Codosera,3,1
+Guatapé,10,2
+Guatapé,2,1
+Guatapé,5,1
+Connecticut,7,1
+Black Forest,11,1
+Chiang MaiRoi Et Thailand,2,1
+Albstadt-Ebingen,11,1
+Albstadt,3,1
+Portree,10,1
+Isle of Islay,9,1
+Isle of Mull,9,1
+Kaohsiung City,3,1
+Chillicothe,11,1
+Ikebukuro,10,1
+Trumbull,9,1
+St. Thomas,10,1
+Batangas,4,1
+Lian,12,1
+Parañaque,7,1
+Parañaque,5,1
+Parañaque,4,1
+Atimonan,1,1
+Camarines Norte,5,1
+Brides-les-Bains,1,1
+Livigno,1,1
+Livigno,3,1
+Vale de Telhas,11,1
+Vale de Telhas,10,1
+Tisno,7,2
+Province of Ancona,7,2
+Bra,7,1
+Switzerland,6,1
+Switzerland,5,2
+Switzerland,2,1
+Duluth,6,1
+Daytona Beach,3,1
+Myrtle Beach,3,1
+Myrtle Beach,7,1
+Tavistock,5,1
+Tavistock,6,1
+Salou,9,1
+Limassol,8,1
+Limassol,7,2
+Limassol,6,1
+Limassol,11,1
+Limassol,3,1
+Southport,7,1
+Deventer,11,2
+Deventer,5,2
+Deventer,6,2
+Deventer,2,1
+Deventer,10,2
+Deventer,3,1
+Deventer,1,1
+Deventer,12,1
+Deventer,9,1
+Deventer,7,1
+Deventer,8,1
+Laag Zuthem,7,1
+Amberg,11,1
+Amberg,10,1
+Amberg,4,1
+Szczecin,1,1
+Szczecin,8,1
+Tashkent,7,1
+Tashkent,8,1
+Tashkent,9,1
+México,3,1
+México,8,1
+Marrakesh-Tensift-El Haouz,3,1
+Marrakesh-Tensift-El Haouz,10,1
+Benidorm,12,1
+Benidorm,11,1
+Benidorm,7,1
+Mancelona,7,1
+Harmony,7,1
+Oklahoma City,2,1
+Oklahoma City,12,1
+Oklahoma City,10,1
+North Shore Oahu Hawaii,1,1
+Pasto,6,1
+Pasto,11,1
+Ibarra,5,1
+Máncora District,5,1
+Máncora District,8,1
+Puerto Maldonado,5,1
+Guanacaste Province,12,1
+Guanacaste Province,4,1
+'s Hertogenbosch,5,1
+Saint Barthélemy,6,1
+Saint Martin,6,1
+Saint Martin,5,1
+Faro Municipality,6,1
+Farmington,7,1
+Farmington,5,1
+Providence,4,1
+Providence,10,1
+Providence,9,1
+Providence,6,1
+"Providence, RI",3,1
+Wuhan,9,1
+Wuhan,12,1
+Wuhan,10,1
+Presidente Prudente,5,1
+Presidente Prudente,3,1
+Presidente Prudente,2,1
+Presidente Prudente,11,1
+Presidente Prudente,4,1
+Indonesia,4,1
+Indonesia,8,1
+Indonesia,6,1
+Bukovel,2,2
+Herräng,7,2
+Czechia,12,1
+Koh Lanta District,3,1
+Java,12,1
+Java,9,1
+Vaitape,2,1
+Tahiti,2,1
+Tahiti,1,1
+Suva,2,1
+Suva,10,1
+Suva,11,1
+Suva,6,1
+Hokkaidō,1,1
+Tasmania,11,1
+Tasmania,12,1
+Australian Capital Territory,9,1
+Lucainena de las Torres,12,1
+Los Dolses,11,1
+Padang Padang Beach,5,1
+Padang Padang Beach,1,1
+Lembongan island,4,2
+Lembongan island,3,1
+Lembongan island,7,1
+Sea Bright,2,1
+Fort Worth,7,1
+Fort Worth,9,2
+Fort Worth,11,1
+Ciudad Juarez,6,1
+Ciudad Juarez,3,1
+Salinas,6,1
+Islay,10,1
+Chulilla,6,1
+Garderen,7,1
+Guéthary,10,1
+Saint-Gilles,6,2
+Voronezh,5,1
+Voronezh,9,1
+Voronezh,7,1
+Kaliningrad,4,1
+Kaliningrad,12,1
+Kaliningrad,11,1
+Gudauri Ski Resort,12,1
+Dakhla,11,1
+Aluthgama,12,1
+Rovinj,8,3
+Rovinj,6,1
+Rovinj,7,1
+Thiruvananthapuram,2,1
+Thiruvananthapuram,3,1
+Thiruvananthapuram,11,1
+Los Gatos,10,1
+Paderborn,10,1
+Province of Palermo,10,2
+Passau,9,1
+Passau,4,1
+Turku,6,1
+Taormina,12,1
+Taormina,10,1
+Taormina,6,1
+Taormina,5,1
+Mendon,9,1
+"La Fortuna, Costa Rica",8,1
+Europe,8,1
+Anápolis,7,1
+Zanzibar Urban/West Region,4,1
+Lawrence,8,1
+Norman,8,1
+Norway,8,1
+Norway,7,1
+Norway,9,1
+Vosges,6,1
+Vosges,4,1
+Cabo Verde,1,1
+Santa Cruz de Tenerife,1,1
+Santa Cruz de Tenerife,10,1
+Santa Cruz de Tenerife,12,1
+"Corralejo, Fuerteventura",10,1
+Soo,9,1
+El Arenal,7,1
+Königsleiten,2,1
+Rodrigues District,9,1
+Cocos (Keeling) Islands,7,1
+St. Julian's,5,1
+Zhangye,8,1
+"Dunhuang, Jiuquan, Gansu, China",8,1
+Morro de São Paulo,11,1
+Lovina,5,1
+Paoay,4,2
+Kalmar,8,2
+South Woodstock,7,1
+Busselton,12,1
+Rishikesh,10,3
+Rishikesh,6,3
+Rishikesh,2,2
+Rishikesh,11,1
+Rishikesh,5,1
+Rishikesh,9,1
+Rishikesh,12,1
+Roydon,8,1
+Blarney,5,1
+La Altagracia Province,5,1
+United States Virgin Islands,4,1
+Santa Ana,1,1
+Napa,10,1
+Napa,12,2
+Napa,9,1
+Napa,3,3
+Napa,7,1
+Patong,4,1
+Patong,1,1
+Patong,12,2
+Lombok,6,1
+Lombok,5,1
+Lombok,9,1
+Lombok,12,2
+Lombok,4,1
+Lombok,1,1
+Leicester,11,2
+Leicester,8,1
+Marano di Valpolicella,7,1
+Marano di Valpolicella,5,1
+Via Roncofreddo,7,1
+Lake Iseo,7,1
+Trentino-Alto Adige/South Tyrol,6,2
+Alsace,6,1
+Badenweiler,6,1
+St. Gallen,5,2
+St. Gallen,7,1
+St. Gallen,8,1
+St. Gallen,6,2
+St. Gallen,12,1
+St. Gallen,9,1
+St. Gallen,3,1
+St. Gallen,2,1
+Monselice,5,1
+Monselice,2,1
+Azabujuban,10,1
+Mori,4,1
+Montefioralle,4,1
+Montefioralle,2,1
+Montefioralle,9,1
+Montefioralle,10,1
+Montefioralle,5,1
+Sonoma,7,2
+Blaye,9,1
+Nérac,9,1
+Roussillon,9,1
+Moustiers-Sainte-Marie,9,1
+Albenga,9,1
+Montepulciano,9,1
+Montepulciano,10,1
+Ojai,4,1
+Ojai,9,1
+Ojai,11,1
+Biograd na Moru,7,2
+Veliko Tarnovo,9,1
+Veliko Tarnovo,4,1
+Trosa,8,1
+Texel,7,1
+Horst,6,1
+Horst,3,1
+Horst,12,1
+Horst,9,1
+Horst,8,1
+Horst,7,1
+Horst,1,1
+Horst,11,1
+Horst,5,1
+Radio Kootwijk,2,1
+Breivikbotn,1,1
+Alta,1,1
+Honningsvåg,1,1
+Kampeerterrein de Lievelinge,9,1
+Lund,7,1
+Lund,11,1
+Lund,8,1
+Aalst,7,1
+Gol,3,1
+Træna,7,1
+Etten-Leur,6,1
+Suwon-si,4,1
+Islamorada,12,1
+Haridwar,6,1
+Pristina,7,1
+Galapagos Islands,7,1
+"Máncora DistrictPiura, Peru",10,1
+Panevėžys,4,1
+Panevėžys,8,1
+Panevėžys,6,1
+Nafplion,4,1
+Mediterranean Sea,4,1
+Bejuco,2,1
+Bejuco,11,1
+Legnica,6,1
+Nakhon Si Thammarat,12,1
+United States,1,1
+United States,6,2
+Biloxi,7,1
+Biloxi,5,1
+Great Falls,6,1
+Augusta,4,2
+Augusta,3,1
+Goldsboro,3,1
+Goldsboro,8,1
+Keszthely,9,1
+Armidale,5,1
+Scone,5,1
+Ohau,4,1
+National Park,4,1
+Cape Foulwind,4,1
+Lake Tekapo,4,1
+Barrys Bay,4,1
+Motueka,4,1
+Motueka,7,1
+Tapachula,2,1
+Uxmal,1,1
+Uxmal,12,1
+Pisté,1,1
+Resistencia,11,1
+Punta del Diablo,10,1
+Punta del Diablo,3,1
+Fayetteville,10,1
+Fayetteville,9,1
+San Martino di Castrozza,7,1
+Chojnice,6,1
+Batam City,5,1
+Probolinggo,4,1
+Probolinggo,8,1
+Nicosia,1,1
+Nicosia,4,1
+Nicosia,3,2
+Örnsköldsvik,12,1
+Racine,4,1
+Laurencekirk,8,1
+Tingsryd,5,1
+Tingsryd,12,1
+Saint George,5,1
+Villeneuvette,6,1
+Tatti,4,1
+Evora,9,1
+Evora,10,1
+Fermoy,7,1
+Fermoy,12,1
+Pushkar,3,2
+Kulebaki,6,1
+Whittier,6,1
+Whittier,12,1
+Whittier,8,1
+Whittier,11,1
+Panglao,6,1
+Panglao,1,1
+Olongapo,5,1
+Onomichi,6,1
+Onomichi,4,1
+"Lake AtitlánSololá Department, Guatemala",11,1
+Mobile,4,1
+"Flagstaff, AZ",4,2
+Telluride,5,1
+Westhampton,5,1
+Kabul,1,1
+Kabul,3,1
+Yokosuka,12,1
+Leverkusen,11,1
+Göttingen,11,1
+Göttingen,2,1
+Göttingen,12,1
+Tanzania,6,1
+Tanzania,12,1
+Thoddoo,2,1
+Ica District,6,1
+David,4,1
+San Carlos,4,1
+Abu Simbel Temples,12,1
+Aswan Governorate,12,1
+Kashmir,10,1
+Limerick,7,1
+Valle de Bravo,3,1
+Las Vegas,10,1
+Atlanta,10,1
+Boston,10,1
+Boston,5,1
+New York,10,1
+New York,8,1
+New York,9,2
+New York,2,1
+New York,6,1
+New York,11,1
+New York,5,1
+Hong Kong Island,2,1
+Bustarviejo,6,1
+Santa Cruz Department,3,1
+Mwanza,5,1
+Mwanza,8,1
+Tylösand,6,1
+Charlotte,7,1
+Charlotte,4,2
+Charlotte,5,2
+Charlotte,12,1
+Charlotte,8,1
+Charlotte,3,1
+Orange Beach,4,1
+Orange Beach,8,1
+Acapulco,5,1
+Acapulco,2,1
+Acapulco,1,1
+Alvdal,10,1
+Iqaluit,4,1
+"Kauai, HI",11,1
+Galveston,1,1
+Galveston,12,1
+Galveston,9,1
+Galveston,8,1
+Galveston,4,1
+Galveston,10,1
+Dillon,12,1
+Bloomington,12,1
+Bloomington,11,1
+Setagaya,9,1
+Soyaniquilpan de Juárez,4,1
+St. Petersburg,4,2
+Cedar Key,4,1
+"Gainesville, FL",12,2
+"Gainesville, FL",11,2
+"Gainesville, FL",8,1
+"Gainesville, FL",3,1
+"Gainesville, FL",2,2
+"Gainesville, FL",7,1
+"Gainesville, FL",10,1
+Windermere,8,1
+Avoriaz,1,1
+MaastrichtNetherlands,3,1
+MaastrichtNetherlands,8,1
+Vail Ski Resort,12,1
+Vail Ski Resort,4,1
+"Boca Raton, FL",12,1
+Playa de las Américas,9,1
+Kortrijk,5,1
+Kortrijk,8,1
+Kortrijk,9,1
+Kortrijk,11,1
+Kortrijk,2,1
+Fort Portal,2,1
+Amalfi Coast,6,1
+Amalfi Coast,7,1
+Davis,4,1
+Davis,2,1
+Kalibo,11,1
+Zlatar,9,1
+Altai Krai,7,1
+Novokuznetsk,7,1
+Lichada,9,1
+Glace Bay,6,1
+Dorset,10,1
+Dorset,9,1
+Margarita Island Venezuela,10,1
+Bournemouth,9,1
+Bournemouth,1,1
+Bridgwater,9,1
+Alghero,8,1
+Jeffrey's Bay,12,1
+Jeffrey's Bay,1,1
+Kehl,8,1
+Zimbabwe,2,1
+Gaschurn,6,1
+Romans-sur-Isère,6,1
+Cape Verde,11,1
+Cape Verde,9,1
+Maseru,12,1
+Western Cape,2,1
+Mundaka,7,1
+Reunion Island,5,1
+Reunion Island,2,1
+Blankenberge,7,1
+Hourtin,7,1
+Stein am Rhein,7,1
+New Jersey,12,1
+New Jersey,1,1
+New Jersey,10,1
+Faro District,6,2
+Faro District,9,1
+Rijeka,7,2
+Rijeka,9,2
+Rijeka,6,1
+Jaco,11,1
+Pisac,11,1
+Svay Rieng Province,11,1
+Saskatoon,12,1
+Saskatoon,7,1
+Kavala,11,1
+Senj,6,1
+Shkodër,5,1
+Shkodër,6,3
+Shkodër,4,1
+Shkodër,9,1
+Ahangama,12,2
+Ahangama,2,1
+Brunei,6,1
+Siem Reap Province,6,1
+Chiclayo,6,1
+Tumbes,12,1
+Steamboat Springs,7,1
+Huémoz,12,1
+Ko Lan,6,1
+Kigali City,2,1
+Tri Trang beach,4,1
+Chambéry,3,1
+Chambéry,8,1
+Chambéry,11,1
+Tongariro National Park,2,1
+Tamblingan Lake,1,1
+Surin,1,1
+Fujikawaguchiko,10,1
+Atacama,3,1
+Pucón,3,2
+Pucón,1,1
+Orange County,2,2
+Orange County,7,1
+Orange County,4,1
+Orange County,10,1
+Orange County,3,1
+Orange County,1,1
+Orange County,12,1
+"Bellingham, WA",10,1
+"Bellingham, WA",3,1
+"Bellingham, WA",1,1
+"Bellingham, WA",4,1
+"Bellingham, WA",8,1
+Fire Island Pines,9,1
+Fire Island Pines,8,1
+Fire Island Pines,6,1
+Fire Island Pines,5,1
+Sithonia,9,1
+Kalamata,4,1
+Kalamata,8,1
+Eggenfelden,10,1
+Kaiserslautern,10,1
+Skala Sikamineas,2,1
+Rapallo,7,1
+Brattleboro,6,1
+Canton of Zürich,4,1
+Lincoln,6,1
+Lincoln,4,1
+Lincoln,1,1
+Lincoln,9,1
+Bayan Lepas,12,1
+Comares,10,1
+Hamois,9,1
+Cần Thơ,8,1
+Huacachi,3,1
+Jardín,2,1
+Fès-Boulemane,10,1
+San Andrés,2,1
+San Andrés,6,1
+Mbabane,8,1
+Mbabane,1,1
+Mbabane,6,1
+Arcata,8,1
+Lacanau Océan,8,1
+Doboj,5,1
+Doboj,9,1
+Kragujevac,4,1
+Čačak,4,1
+Vrnjačka Banja,4,1
+Vrnjačka Banja,5,1
+Kraljevo,3,1
+Novi Pazar,3,1
+Sardinia,9,1
+Ring of Kerry,2,1
+Bourdeaux,7,1
+Glastonbury,6,1
+Ballycotton,6,1
+Río Cuarto,10,1
+"Malang, East Java",12,1
+Kampot Province,4,2
+Kampot Province,2,1
+Aktau,9,1
+Rygge,6,1
+Patti,6,1
+Patti,9,1
+Villach,7,1
+Villach,9,1
+Cyprus,12,1
+Cyprus,11,1
+Cyprus,9,1
+Cyprus,6,1
+Cyprus,4,1
+Cyprus,7,1
+San Giustino,9,1
+Silicon Valley,8,1
+Silicon Valley,5,1
+Silicon Valley,3,1
+Silicon Valley,1,1
+Zlatibor,7,1
+Finland,5,1
+Latvia,5,1
+Lithuania,5,1
+Slovakia,5,1
+Slovakia,7,1
+Hungary,5,1
+Maryland,7,1
+Maryland,5,1
+Brooklyn,3,1
+Brooklyn,10,1
+British Columbia,7,1
+Broadstairs,10,1
+Quetzaltenango,2,1
+Quetzaltenango,12,1
+Santo Domingo Province,11,1
+Arabba,12,1
+Chopok,12,1
+Trieste – Friuli Venezia Giulia Airport,11,1
+Hitler's Tea House,8,1
+Mildenberg,8,1
+Crown Heights,5,1
+Garwood,6,1
+Milos,7,1
+Calfosch,7,1
+Ringwood,6,1
+Odenton,10,1
+Toowoomba,7,1
+Toowoomba,5,1
+Mississippi,5,1
+Coron Island,11,1
+Mount Katahdin,9,1
+Faizabad,1,1
+Kanpur,1,1
+Godhra,12,1
+Malvan,11,1
+Benaulim,11,1
+Thakhek,10,1
+Kong Lor Eco Lodge,10,1
+Thakhek Travel Lodge,10,1
+Batu Feringghi,2,1
+Kozhikode,2,1
+Samoëns,2,1
+"Cincinnati, OH",6,1
+U.S. Virgin Islands,5,1
+Nouméa,5,1
+Viña del Mar,1,1
+Farnborough,3,1
+Oloron-Sainte-Marie,3,1
+Montezuma,11,1
+Estonia,6,1
+Estonia,10,1
+Estonia,5,1
+Pokhara Lakeside,8,1
+Pokhara Lakeside,2,1
+Los Altos,11,1
+Ghana,2,1
+"Chengdu, Sichuan, China",8,1
+Winchester,9,2
+Winchester,4,1
+Winchester,1,1
+Winchester,12,2
+Winchester,11,1
+Winchester,10,1
+Winchester,8,1
+Mikkeli,4,1
+Armonk,2,1
+Évoramonte,5,1
+Belitung,5,1
+Batam,5,1
+Labuan Bajo,5,1
+Labuan Bajo,3,1
+Labuan Bajo,6,1
+Labuan Bajo,9,1
+Ende Sub-District,5,1
+Kelimutu,5,1
+Maumere,5,1
+Palembang,9,1
+Geelong,1,1
+Ludwigsburg,8,1
+Lady Elliot Island,2,1
+Konstanz,9,1
+Baden-Baden,7,1
+Reims,5,1
+Castelo Branco,3,1
+Castelo Branco,11,1
+Castelo Branco,12,1
+Castelo Branco,9,1
+Cambados,3,1
+Cambados,1,1
+Cambados,12,1
+Cambados,11,1
+Cambados,9,1
+Cambados,7,1
+Ponte de Lima,3,1
+Aveiro,1,1
+Terengganu,7,1
+Rạch Giá,12,1
+Rạch Giá,2,1
+Senaru,10,1
+Kupang,10,1
+Timor-Leste,10,1
+La Manga,6,1
+Miravet,4,1
+Zorritos,3,1
+Vilnius County,7,1
+Akyaka,7,1
+Avanos,5,1
+Växjö,6,1
+Weipa,7,1
+Weipa,6,1
+Kalaw,11,1
+Kalaw,4,1
+Oslob,12,1
+Oslob,1,1
+Ospitaletto,6,1
+Arad,11,1
+Bahlingen,4,1
+Bahlingen,12,1
+Bahlingen,3,1
+Bahlingen,9,1
+Grainau,2,1
+Grainau,8,1
+Costa Teguise,3,1
+Costa Teguise,2,1
+Corralejo,2,1
+Corralejo,11,1
+"Ithaca, NY",9,1
+"Ithaca, NY",7,2
+"Ithaca, NY",4,2
+"Ithaca, NY",6,1
+Bayville,6,1
+Bayville,4,1
+Cinque Terre,2,1
+Michigan,2,1
+Michigan,7,1
+Marsaxlokk,6,1
+L'Escala,2,1
+Ooty,4,1
+Montanita,7,1
+Villahermosa,12,1
+Villahermosa,10,1
+Villahermosa,6,2
+Villahermosa,8,1
+Bjursås,6,2
+Brescia,7,1
+Brescia,6,1
+Serbia,10,1
+Serbia,9,1
+Macedonia (FYROM),9,1
+Georgia,7,1
+Georgia,6,1
+Mokrin House,9,1
+Dead Sea,9,1
+Merzouga,4,1
+Inca Trail,3,1
+Turks and Caicos Islands,8,1
+Turks and Caicos Islands,12,1
+Mantua,11,1
+Dornbirn,1,4
+Balearic Islands,1,1
+Punta Maroma,12,1
+Chichén Itzá,12,1
+Arcosanti,5,1
+Cashmere,8,1
+Kühlungsborn,6,1
+Puerto Rico de Gran Canaria,2,1
+Yakutsk,1,1
+Sechelt,5,1
+Sechelt,10,1
+Sechelt,9,1
+Sechelt,8,1
+Sechelt,7,1
+Phong Natural Heritage Area,7,1
+Kaesong,3,1
+Kaesong,11,1
+Monterosso,7,1
+La Spezia,3,1
+"Santa Barbara, CA",4,1
+El Jadida,3,1
+Oualidia,3,1
+Oualidia,12,1
+Bayamón,2,1
+Szczyrk,10,1
+Cailungo,6,1
+Livorno,6,1
+New Paltz,6,1
+New Paltz,9,1
+Le Mans,5,1
+Adeje,3,1
+Sauternes,7,1
+Province of Bergamo,10,1
+Bjursas,6,1
+Riksgränsen,4,1
+Val Thorens,2,1
+Val Thorens,12,1
+Val Thorens,11,1
+Val Thorens,1,2
+Lund University,6,1
+Phayao,3,1
+Horsham,1,1
+Horsham,12,1
+Solsona,8,1
+Gresse-en-Vercors,6,1
+Sarlat-la-Canéda,5,1
+Briançon,5,1
+Yunnan,4,1
+Jining,12,1
+Qingdao,5,1
+Qingdao,4,2
+Roldanillo,12,1
+Marysville,11,1
+Marysville,12,1
+Tena,10,1
+Tena,1,1
+Banos,12,1
+Banos,3,1
+Caceres,4,1
+Kaeo,11,1
+Myanmar (Burma),2,1
+Myanmar (Burma),8,1
+PyeongChang Olympic Stadium,2,1
+Woodstock,5,2
+Woodstock,10,1
+Hudson,5,2
+Jiufen,3,1
+Shui She,3,1
+Wenwu Temple,3,1
+Yidashao Lakeside Trail,3,1
+Xuanguang Temple,3,1
+向山行政中心 Xiangshan Visitor Center,3,1
+Zhengzhou,9,3
+Zhengzhou,10,1
+Jiaozuo,9,2
+Tongyeong-si,4,1
+Bonda,1,2
+Pereira,12,3
+Pereira,2,1
+Abiansemal,11,1
+Batubulan,11,1
+Kinosaki Onsen,9,2
+"Amed, Bali",7,1
+Baker,3,1
+Hoover Dam,3,1
+Eastmont Hills,1,1
+Sausalito,1,1
+Ferropolis,7,2
+Leuven,8,1
+Leuven,12,2
+Leuven,1,1
+Bort-les-Orgues,7,1
+Umbria,7,1
+Lefkada,7,1
+Larissa,1,1
+Larissa,12,1
+Larissa,2,1
+Chania,8,1
+Chania,6,1
+Huesca,8,1
+Manuel Antonio,12,1
+Sanary-sur-Mer,8,1
+Himeji,11,1
+Himeji,6,1
+Shibu Onsen,10,1
+Kawaguchi,10,1
+Kawaguchi,4,1
+Royan,7,1
+Royan,8,1
+Mazerolles,12,1
+Mazerolles,8,1
+Ajaccio,5,1
+Bourges,4,1
+Civitavecchia,11,1
+Murata,10,1
+Frankfurt Airport,6,1
+Seattle-Tacoma International Airport,6,1
+Kalispell,6,3
+Columbia Falls,6,1
+Whitefish,6,1
+Whitefish,5,1
+Whitefish,1,1
+Grand Beach,8,1
+Grand Marais,5,1
+Copper Harbor,7,1
+Northfield,6,1
+San José del Cabo,8,1
+San José del Cabo,2,1
+San José del Cabo,5,1
+San José del Cabo,3,1
+West Lafayette,9,1
+Tumbabiro,5,1
+Corsham,5,1
+"Mountain View, CA",9,1
+Freetown,7,1
+Freetown,6,1
+Eaton Rapids,6,1
+Paraguay,7,1
+Paraguay,5,1
+Uruguay,6,1
+Egypt,9,1
+Chapala,7,1
+"Zipolite, Oaxaca",2,1
+"Zipolite, Oaxaca",4,1
+Playa El Tunco,6,1
+Jemez Springs,8,1
+North Platte,8,1
+Kissimmee,6,1
+Cuautla,5,1
+Dixon,9,1
+Ketchikan,6,1
+Ketchikan,9,1
+San Ignacio,6,1
+Tikal,6,1
+Lamanai Alley,12,1
+Corozal District,12,1
+Kohunlich,12,1
+Tinum,12,1
+Telchaquillo,12,1
+Asturias,6,1
+Asturias,7,1
+Orange Walk District,5,1
+Monterey Bay,7,1
+Monterey Bay,1,1
+Jamaica,6,1
+Jamaica,5,1
+Jamaica,1,1
+Jamaica,3,1
+Canton,1,1
+Thera,5,1
+Protaras,9,1
+Samara,8,1
+Samara,1,1
+Mari El Republic,8,1
+Paralimni,10,1
+Paralimni,6,1
+Callao Salvaje,1,1
+Miri,4,1
+Miri,10,1
+Miri,2,1
+Otago Region,6,1
+Otago Region,3,1
+City of Kisumu,9,1
+Uganda,10,1
+Ypres,9,1
+Westvleteren,9,1
+Fuzhou,12,1
+Fuzhou,9,1
+Sundsvall,12,1
+George,12,1
+Woodbury,10,1
+Newquay,6,1
+Newquay,8,1
+Newquay,7,1
+Thredbo,11,1
+Tigerton,9,1
+Orange City,5,1
+Castelnuovo di Val di Cecina,7,1
+Tagbilaran City,1,1
+Tagbilaran City,8,1
+Taitung City,10,1
+Taitung City,1,1
+Neunkirchen,9,1
+Lahr,9,1
+Great Stirrup Cay,6,1
+Courtenay,6,1
+Praia do Rosa,2,1
+Massachusetts,1,1
+Entebbe,6,1
+Viernheim,5,1
+Luton Airport,2,1
+Cotonou,1,1
+Bamberg,1,1
+Jungfraujoch,9,1
+Royal Leamington Spa,10,1
+Royal Leamington Spa,3,1
+Royal Leamington Spa,1,1
+Royal Leamington Spa,7,1
+Mons,12,1
+Kajaani,8,1
+Nowy Sącz,8,1
+Sant Llorenç de Morunys,8,1
+Matera,5,1
+Panjim,2,1
+Panjim,7,1
+Baler,5,1
+Gorakhpur,5,1
+Maharajganj,5,1
+Tofo Beach,5,2
+Tofo Beach,8,1
+Davao,8,1
+Davao,1,1
+Davao,5,1
+Val-David,3,1
+Val-David,12,1
+Turks Islands,10,1
+Jurerê Internacional,12,1
+Bayonne,12,1
+Bayonne,8,1
+Bayonne,7,1
+Bayonne,6,1
+Bayonne,2,1
+Bayonne,1,1
+Pau,12,1
+Pau,10,1
+Pau,9,1
+Pau,8,1
+Pau,7,1
+Pau,6,1
+Pau,1,1
+Rochegude,9,1
+Casteljaloux,9,1
+Futuroscope,9,1
+Soltau,8,1
+Colmar,6,1
+Munster,6,1
+Turckheim,6,1
+Mulhouse,6,1
+Potsdam,4,1
+Rieupeyroux,3,1
+Disneyland Paris,1,1
+Raleigh,7,1
+Raleigh,6,1
+Gundershoffen,12,1
+Le Pouliguen,6,1
+Dharamkot,5,1
+Karlskrona,6,1
+Juicy Oasis Retreat & Spa,10,1
+Krk,7,2
+Krk,8,1
+Le Grazie,6,1
+Haugesund,8,1
+Hermosillo,8,1
+Hermosillo,1,1
+Daytona Beach Shores,9,1
+"Chattanooga, TN",3,1
+"Chattanooga, TN",2,1
+"Chattanooga, TN",8,1
+Ormond Beach,2,1
+West Jefferson,10,1
+St. Augustine,5,1
+St. Augustine,4,1
+"Bastimentos, Bocas del Toro Province",3,1
+Jaco Beach,2,1
+Bejuco Beach,2,1
+Holetown,10,1
+Holetown,9,1
+Flamingo,12,1
+Monterosso al Mare,6,1
+Exuma,11,1
+Hernicourt,12,1
+Jena,1,1
+Palm Bay,10,1
+Kongsberg,8,1
+Fjellværsøya,7,1
+Fillan,7,1
+Linköping,10,1
+Hitra,7,1
+Province of Lecco,12,1
+Denpasar City,11,1
+Bowen Island,8,1
+Ulu Watu Beach,1,1
+Dösselbuschberg,10,1
+Province of Trieste,8,1
+San Clemente,8,1
+Playa d'en Bossa (Ibiza),5,1
+Ranthambore Tiger Reserve,3,1
+Hucknall,8,1
+Hucknall,4,1
+Hucknall,3,1
+Hucknall,9,1
+Hucknall,1,1
+Hucknall,10,1
+Olhos de Água,9,1
+Mansfield,8,1
+Mansfield,7,1
+Mansfield,1,1
+Pissouri,7,1
+Boroy,12,1
+Tvedestrand,7,1
+Hastings,10,2
+Hastings,4,1
+Vitoria-Gasteiz,4,1
+Vitoria-Gasteiz,8,1
+Greensboro,2,1
+Greensboro,3,1
+Cresco,5,1
+Arches National Park,8,1
+Seneca Rocks,8,1
+Delmar,6,1
+Delmar,12,1
+Delmar,4,1
+Izamal,1,1
+Poprad,6,1
+Poprad,7,1
+Uvita,2,1
+Dominical Costa Rica Real Estate,2,1
+Tarapoto,5,1
+"RurrenabaqueBeni Department, Bolivia",4,1
+Alto Paraíso de Goiás,1,1
+Liptovský Mikuláš,3,1
+Hévíz,1,1
+Nananu-i-Ra Island,11,1
+Alstonville,1,1
+Charleroi,8,1
+Charleroi,2,1
+Airport Kiev (IEV),11,1
+Drammen,6,1
+Rawdon,7,1
+Zihuatanejo,12,1
+Salar de Uyuni,6,1
+Santa Cruz de la Sierra,4,1
+Santa Cruz de la Sierra,12,1
+Santa Cruz de la Sierra,11,1
+Santa Cruz de la Sierra,7,1
+Santa Cruz de la Sierra,1,1
+"El Nido, Palawan",2,1
+Temple,4,1
+Franklin,3,1
+La Valle,8,1
+Iragocho,5,1
+Topton,11,1
+Ahakista,11,1
+Manarola,11,1
+Durnal,10,1
+Brenta group,8,1
+Namibia,7,1
+Morzine,4,1
+Miaoli,1,1
+Ballenstedt,5,1
+Magdeburg,4,1
+Algiers,8,1
+Puebla City,5,1
+Labin,5,1
+Labin,7,1
+Labin,6,1
+Labin,2,1
+Labin,12,1
+Zeist,10,1
+Incheon,6,1
+Suwon,12,1
+Füssen,1,1
+Füssen,6,1
+Füssen,5,1
+Samaná,1,1
+Samaná,11,1
+Aarau,12,1
+Aarau,3,1
+Miyazaki,4,1
+Miyazaki,8,1
+Mactan,4,1
+Udawalawa,2,1
+Ambalangoda,1,1
+Ja-Ela,10,1
+Gampola,12,1
+Badulla,12,1
+Tychy,6,1
+Cieszyn,6,1
+Cieszyn,12,1
+Grimaud,6,1
+Gliwice,1,1
+Labadee,2,1
+AnnecyFrance,2,1
+Puntarenas,2,1
+El Castillo,2,1
+Moldova,10,1
+Brindisi,10,1
+Saint-Martin-de-Belleville,11,1
+Marigot,12,1
+Maplewood,5,1
+Hope,6,1
+River Falls,5,1
+Constanta,7,1
+Constanta,6,1
+Teignmouth,6,1
+Teignmouth,12,1
+Teignmouth,4,1
+Teignmouth,8,1
+Wolverhampton,5,1
+Guildford,1,1
+Guildford,9,1
+Bagni di Lucca,7,1
+Newton Abbot,5,1
+Borgue,12,1
+Céret,5,1
+Lampang Luang,5,1
+Uthai,5,1
+Trang,5,1
+Trang,3,1
+Kaikoura,4,2
+"Hartford, CT",9,1
+"Hartford, CT",5,1
+"Hartford, CT",6,1
+Crete Region,12,1
+Crete Region,5,1
+Crete Region,6,1
+Phong Nha - Ke Bang National Park Headquarter,8,1
+KuchingSarawak Malaysia,5,1
+Jammu,4,1
+Jhansi,4,1
+Dádpuszta,7,1
+La Tour-du-Pin,10,1
+Kumamoto,11,1
+Fukushima,11,1
+Blackpool,11,1
+"Glencoe, United Kingdom",10,1
+Ponce,3,1
+Ein Tamar,4,1
+Burning Man Festival,8,1
+Kyoto Prefecture,5,1
+Kyoto Prefecture,2,1
+Saurimo,11,1
+Stoneham,4,1
+Balatonfüred,7,1
+Tiraspol,4,1
+Tiraspol,10,1
+Tiraspol,8,1
+Tiraspol,7,1
+Jinchuan,3,1
+Cephalonia,9,2
+Ticao Island,4,1
+Okinawa Island,8,1
+Iloilo,5,1
+Nadi,8,2
+Timaru,7,1
+Oamaru,7,1
+Cavinti,12,1
+Oskarshamn,11,1
+Gimmelwald,3,1
+Khao Yai National Park,10,1
+Gig Harbor,8,1
+Gig Harbor,6,1
+Hopfgarten-Markt,4,1
+Würzburg,11,1
+Würzburg,9,1
+Ena,10,1
+Montevideo Department,1,1
+Greenville,1,1
+Greenville,6,1
+Sarp,6,1
+San Cristóbal de La Laguna,2,1
+San Cristóbal de La Laguna,11,1
+San Cristóbal de La Laguna,12,1
+Stevenson,7,1
+Yachats,7,1
+Kalama,7,1
+Nathrop,7,1
+Panama City Beach,7,1
+Gleneden Beach,6,1
+Alaska,6,1
+Alaska,1,1
+Rothenburg ob der Tauber,5,1
+Worcester,5,1
+Worcester,4,1
+Discovery Bay,12,1
+AschaffenburgGermany,9,1
+Aschaffenburg,7,1
+Aschaffenburg,4,1
+Otres Beach,11,1
+Otres Beach,3,1
+Chachoengsao,11,1
+Kasar Devi,4,1
+Kasar Devi,8,1
+Kasar Devi,9,1
+Tangier-Tetouan,1,1
+"Arrecife, Lanzarote",12,1
+Ciudad del Este,10,1
+Agde,9,1
+Udon Thani,5,1
+Udon Thani,4,1
+Udon Thani,1,1
+Udon Thani,7,1
+Nong Khai,5,1
+Nong Khai,6,1
+Nong Khai,4,1
+Nong Khai,2,1
+Bolikhamsai Province,5,1
+Aegina,10,1
+Netze,9,1
+Rakhiv,8,1
+Mukachevo,8,1
+Nakijin Son,3,1
+Nago,3,1
+Shymkent,10,1
+Shymkent,9,1
+Uzbekistan,9,1
+Cholpon-Ata,9,1
+Karakol,8,1
+Candolim,7,1
+Bagan,5,1
+Ngwesaung Beach,5,1
+Hà Tiến,4,1
+Hualien County,2,1
+關子嶺溫泉,1,1
+Tainan CityTaiwan,1,1
+Jhihben,1,1
+Guangfu Township,12,1
+Ruisui Township,12,1
+Hengchun Township,12,1
+Kep,10,1
+Chiang Khong,4,1
+Subic,2,1
+Asin Hotspring,2,1
+Rajasthan,12,1
+Rajasthan,11,1
+Orachha,12,1
+Khajuraho,12,1
+Sunshine Coast Regional,7,1
+Koror,10,1
+Darlington,9,1
+Darlington,5,1
+Fontana Dam,2,1
+Dahlonega,2,1
+"Rochester, NH",1,1
+"Rochester, NH",12,1
+Malibu,3,1
+Malibu,4,1
+Daejeon,5,1
+Daejeon,12,1
+Daejeon,9,1
+Gianyar,11,1
+Gianyar,12,1
+Olympiaki Akti,7,1
+Cyclades,6,1
+Jomtien,4,1
+Puerto Ayora,4,1
+Puerto Ayora,2,1
+Dzaoudzi,10,1
+Balangan Beach,9,1
+Pulukan,9,1
+Baqueira Beret SA,12,1
+Porto Viro,8,1
+Mae Nam,6,1
+Summerside,7,1
+Summerside,3,1
+LangkawiKedah Malaysia,2,1
+Benoa,8,1
+Benoa,3,1
+Sanya,5,2
+Sanya,6,1
+Sanya,1,1
+Dunsborough,6,1
+Dunsborough,10,1
+Jyvaskyla,9,1
+Cagliari,12,1
+Redwood City,9,1
+"Foster City, CA, United States",5,1
+Arco,9,1
+West Glacier,9,1
+Fernie,8,1
+Pray,8,1
+Mitchell,8,1
+Rincón,2,1
+Rincón,3,1
+Heredia Province,6,1
+Tahoe City,2,1
+Tahoe City,3,1
+Tahoe City,12,1
+Bibione,7,1
+Bochum,7,1
+Schönberg-Lachtal,12,1
+Okrug Gornji,9,1
+Kuchl,6,1
+Lakota,12,1
+Mount Hood,11,1
+Yangon Region,9,1
+Neuchâtel,2,1
+Puerto Montt,1,1
+Concepcion,1,1
+Tullamore,5,1
+Tullamore,12,1
+Tullamore,10,1
+Scottburgh,12,1
+Scottburgh,6,1
+Scottburgh,4,1
+Kruger Park,6,1
+Komatipoort,1,1
+Kang,12,1
+Maputo,6,1
+Maputo,3,1
+Maputo,5,1
+Heilbron,4,1
+Port Elizaberth,9,1
+Helsingborg,6,1
+Helsingborg,7,1
+Thame,4,1
+tp. Châu Đốc,2,1
+Apeldoorn,11,1
+Apeldoorn,2,1
+Parque Nacional Manuel Antonio,11,1
+Playa Blanca,8,1
+San Gerardo de Dota,5,1
+Yingkou,2,1
+Bozman,10,1
+George Town,2,1
+La Thuile,3,1
+Bormio,2,1
+St. Moritz,1,1
+Courmayeur,1,1
+Gressoney-Saint-Jean,12,1
+Mont Blanc,9,1
+Mont Blanc,7,1
+Waianae,7,1
+Kihei,7,1
+Conway,1,1
+Province of Messina,5,1
+Dongguan,2,1
+Dongguan,4,1
+Jervis Bay,1,1
+Guizhou,1,1
+Townsville City,12,1
+Townsville City,8,1
+Mount Isa City,12,1
+Albury,6,1
+Tulamben,2,1
+GALA Yuzawa Snow Resort ガーラ湯沢スノーリゾート,2,1
+Gili Islands,11,1
+Gili Islands,5,1
+Coeur d'Alene,5,1
+Coeur d'Alene,3,1
+Coeur d'Alene,2,1
+Sioux Falls,3,1
+Sioux Falls,7,1
+Sioux Falls,6,1
+Sioux Falls,5,1
+Aberystwyth,5,1
+Aberystwyth,2,1
+Aberystwyth,12,1
+Silves,3,1
+Valloire,12,1
+Punta Hermosa,9,1
+PhuketThailand,12,1
+Salt Lake City,5,1
+Salt Lake City,6,1
+Salt Lake City,3,1
+"San FranciscoCA, United States",8,1
+Teriberka,3,1
+Teriberka,2,1
+Phan Thiet,12,1
+Serfaus,1,1
+Saalbach-Hinterglemm,1,1
+Keflavík,5,1
+Santa Cristina Valgardena,12,1
+La Digue,3,1
+Praslin,3,1
+Karlštejn,10,1
+Vicksburg,4,1
+Quebec,1,1
+Quebec,7,1
+Trinidad and Tobago,10,1
+Trinidad and Tobago,2,1
+Akron,10,1
+Akron,3,1
+Akron,1,1
+Akron,5,1
+Puerto Peñasco,5,2
+Belden,6,1
+Termes,7,1
+Telford,6,1
+Chiang Mai Thailand,12,1
+Gustavus,8,1
+"Canguu, Bali",5,1
+Tioman Island,4,1
+Tioman Island,5,1
+Ungasan,5,1
+Dalian,1,1
+Dalian,5,1
+Tandil,12,1
+Tandil,11,1
+Seogwipo-si,5,1
+Saint Louis,1,1
+Saint Louis,4,1
+Eskişehir,9,1
+Užice,7,1
+Sighișoara,6,1
+Burgas,5,1
+Ulcinj,4,1
+La Loupe,7,1
+Lombok Utara,4,2
+Kruger National Park,7,1
+Ko Panyi,10,1
+Herceg Novi,4,1
+Herceg Novi,8,1
+Cupertino,2,1
+Cupertino,9,1
+Cupertino,8,1
+Cupertino,6,1
+Province of Salerno,4,1
+El Prodigio,6,1
+Rio Claro,6,1
+Ceduna,4,1
+Santa Cruz de León Cortés,3,1
+Osa Peninsula,3,1
+Progreso,6,1
+Pelotas,10,1
+Colonia del Sacramento,10,1
+Colonia del Sacramento,3,1
+Colonia del Sacramento,11,1
+Weinheim,6,1
+Herford,4,1
+Ferrel,12,1
+Ferrel,11,1
+Ferrel,4,1
+Supetar,11,1
+Kroměříž,3,1
+Tacoma,8,1
+ThaKhek,2,1
+San Luis Province,10,1
+"KazanTatarstan, Russia",10,1
+Benares,3,1
+Arezzo,4,1
+Pátzcuaro,10,1
+Perak,7,1
+Kota Bharu,7,1
+Torrevieja,1,1
+Torrevieja,12,1
+Okinawa Prefecture,8,1
+Takamatsu,7,1
+Miyajima,7,1
+Shizuoka,6,1
+Atami,6,1
+Annapurna,5,1
+Nyaung-U,4,1
+Sunrise Beach,8,1
+Lake ComoItaly,10,1
+Whitsundays,11,1
+"BentotaSouthern Province, Sri Lanka",10,1
+Bentota,10,1
+"Santa Margherita LigureMetropolitan City of Genoa, Italy",7,1
+"Santa Margherita LigureMetropolitan City of Genoa, Italy",11,1
+Gorgona Island,8,1
+Gorgona Island,10,1
+Manzanares,9,1
+Manizales,8,1
+Leticia,11,1
+Monòver,8,1
+Salina,9,1
+Artemas,5,1
+Manakau,2,1
+Manakau,3,1
+Manakau,12,1
+Manakau,6,1
+Manakau,5,1
+Summertown,7,1
+Decorah,7,1
+Gin Gin,7,1
+Childers,7,1
+Kaslo,3,1
+Parihaka Gate,3,1
+Kopu,3,1
+Thames,2,1
+Waikanae,2,1
+Waikanae,4,1
+Maungakaramea,2,1
+Ngaruawahia,2,1
+Ashburton,1,1
+Ashburton,11,1
+Patons Rock,1,1
+Gisborne,11,1
+Kaiwaka,8,1
+Oneriri Road,7,1
+Levin,6,1
+Shannon,6,1
+Te Horo,5,1
+Upper Hutt,4,1
+Waikawa,4,1
+Hedensted,12,1
+Hedensted,7,1
+Ontario,3,1
+Ontario,8,1
+Ontario,7,1
+Ontario,1,1
+Ontario,6,1
+Cayo Santa María,3,1
+Aviemore,9,1
+Troy,5,1
+Troy,1,1
+Doolin,12,1
+Ube,9,1
+Ube,5,1
+Ube,3,1
+Cozumel Island,7,1
+Grand Turk Island,8,1
+Abidjan,4,1
+Romerée,11,1
+Douala,2,1
+Sandpoint,7,1
+Montbazens,6,1
+Collines de Niassam,5,1
+Désert de Lompoul,5,1
+Podor,4,1
+Clinton,3,1
+Joplin,3,1
+Springfield,3,1
+Bomono,10,1
+Ivalo,3,1
+Playa de las Americas,3,1
+Baja California Sur,9,1
+Tallahassee,3,1
+Tallahassee,2,1
+Tallahassee,7,1
+Pensacola,2,1
+Pensacola,4,1
+Castries City,12,2
+Saint John's,12,2
+Philipsburg,12,2
+Tuscany,8,1
+"Chico, CA",5,1
+"Chico, CA",3,1
+Cassis,7,1
+Iguazú Department,10,1
+Mataró,2,1
+Bar Municipality,5,1
+Alfta,5,1
+Alfta,3,1
+Alfta,10,1
+Alfta,9,1
+Alfta,7,1
+Otaru,7,1
+Lake Akan,7,1
+Kushiro,6,1
+Abashiri,6,1
+Nakafurano,6,1
+Naoshima,5,1
+Nusa Dua,9,1
+Mijas,9,1
+Mijas,2,1
+Mijas,1,1
+Lichfield,8,1
+Lichfield,12,1
+Lichfield,11,1
+Cogolin,7,1
+Hiroshima Prefecture,6,1
+Baleal,10,1
+Maria Alm,12,1
+Kitzbuhel,12,1
+Kitzbuhel,1,1
+Saint Lucia,1,1
+Saint Lucia,12,1
+Grenada,2,1
+Grenada,12,1
+Evrenseki,10,1
+Hombrechtikon,10,1
+EisfeldGermany,8,1
+Trubschachen,8,1
+Bethel,8,1
+Brownfield,8,1
+Granada Hills,6,1
+Granada Hills,2,1
+Granada Hills,12,1
+St. Croix,2,1
+Coral Springs,2,1
+Mesa,2,1
+Lake Worth,11,1
+Vista,11,1
+Vista,8,1
+Vista,9,1
+Saratoga Springs,7,1
+Rutland,11,1
+Ithaca,8,1
+Ithaca,9,1
+Ithaca,2,1
+Sea Island,10,1
+Kendwa,9,1
+Adirondack,9,1
+Skaneateles,7,1
+Coco,4,1
+Coco,12,1
+Jay,1,1
+Yeoford,11,1
+Lemnos,6,1
+Lemnos,5,1
+Hirafu,1,1
+Asahidake Onsen,1,1
+Furano,12,1
+"Knoxville, TN",11,1
+Mandeville,12,1
+Treasure Beach,12,1
+Miyako-jima,9,1
+Tarama Island,9,1
+Tuy Hòa,8,1
+Ohakune,5,1
+Ohakune,2,1
+Turangi,5,1
+Polhena Beach,1,1
+Irvine,4,1
+Irvine,9,1
+Western Division,1,1
+Tuttlingen,9,1
+Cazenovia,6,1
+Tübingen,12,1
+Espoo,9,1
+Tobago,9,1
+Tully,8,1
+Hikkaduwa Beach,3,1
+Kitesurfing Lanka,3,1
+Dammam,12,1
+Dammam,11,1
+Pachuca,5,1
+Toluca,4,1
+Lerma,12,1
+Huatulco,12,1
+San Cristóbal,11,1
+Quarteira,5,1
+Phalaborwa,9,1
+Calabria,5,1
+Erfurt,2,1
+Lake Baikal,7,1
+Truro,5,1
+Camborne,4,1
+Yamanouchi Machi,1,1
+East Nusa Tenggara Province,6,1
+Utah,10,1
+Hof,9,1
+Hof,8,1
+Hof,7,1
+Hof,6,1
+Hof,5,1
+Hof,4,1
+Hof,3,1
+Hof,2,1
+Hof,11,1
+Hof,1,1
+Hof,12,1
+Hof,10,1
+Hittisau,9,1
+Berghotel Rudolfshütte,7,1
+Erlangen,6,2
+Erlangen,4,1
+Erlangen,3,1
+Erlangen,2,1
+Erlangen,11,1
+Erlangen,9,1
+Erlangen,8,1
+Erlangen,7,1
+Erlangen,1,1
+Erlangen,12,1
+Erlangen,10,1
+Augsburg,6,1
+Hoher Dachstein,3,1
+Boca de Yuma,2,1
+TarifaSpain,11,1
+TarifaSpain,10,1
+Starigrad,6,1
+Coburg,4,1
+Coburg,2,1
+Erding,3,1
+Vejprty,2,1
+Kühtai,1,1
+Bad Steben,9,1
+Bad Steben,8,1
+Bad Steben,7,1
+Bad Steben,6,1
+Alcúdia,8,1
+Alónnisos,8,1
+Arendal,4,1
+Arendal,1,1
+Arendal,12,1
+Arendal,10,1
+Arendal,9,1
+Arendal,8,1
+Arendal,7,1
+Arendal,3,1
+Arendal,5,1
+Fujiyoshida Shi,4,1
+Tasman District,3,1
+Westport,3,1
+Westport,11,1
+West Coast Region,3,1
+Southland Region,3,1
+Kollam,1,1
+Madurai,1,1
+Qormi,12,1
+Skiathos,6,1
+Puerto Villamil,2,1
+Panama CityPanama,12,1
+Bastasi,8,1
+Plužine,8,1
+Erez,4,1
+Erez,3,1
+Chattahoochee Hills,9,1
+Sandefjord,7,1
+Abang,5,1
+Abang,4,1
+Díli,4,1
+Karangasem Sub-District,4,1
+Ban Tai,3,1
+Thai Mueang,3,1
+Takua Pa,3,1
+Satna,1,1
+Narita,10,1
+Legian,3,1
+Petaling Jaya,4,1
+Sungkai,2,1
+Taiping,1,1
+Kuala Selangor,1,1
+Twizel,11,1
+Twizel,2,1
+Motupipi,11,1
+Kelana Jaya,10,1
+Damansara Utama,10,1
+Cyberjaya,10,1
+Cyberjaya,5,1
+New Bagan,3,1
+Pforzheim,11,1
+Huarilihue,1,1
+Lärz,6,1
+Mühlhausen/Thüringen,4,1
+Baden-Württemberg,4,1
+Lower Austria,4,1
+Černá Hora,2,1
+Andaman Sea,1,1
+Borlänge,12,1
+Borlänge,1,1
+Borlänge,9,1
+Willemstad,4,1
+Papeete,2,1
+Piatra Neamț,4,1
+Piatra Neamț,8,1
+Port Aransas,6,1
+Port Aransas,7,1
+Krong Siem Reap,7,1
+Uluru-Kata Tjuta National Park,3,1
+Kazanlak,5,1
+Puerto Colombia,3,1
+Lázaro Cárdenas,1,1
+Lázaro Cárdenas,11,1
+Cham,12,1
+George TownPenang Malaysia,11,1
+Ibusuki,7,1
+Nantou County,9,1
+Nantou County,4,1
+Nantou County,1,1
+Rottnest Island,4,1
+Koh Thmei,1,1
+Nan,2,1
+Nan,1,1
+Santiago del Compostela,9,1
+Mathura,3,1
+Localita' Marilleva 1400,3,1
+Akumal,8,1
+Elche,5,1
+Les Orres,2,1
+Druskininkai municipality,7,1
+Pearl Harbor,4,1
+"Okinawa, Okinawa",3,1
+Yokohoma,3,1
+Iwakuni,3,1
+Armadale,6,1
+Fort Augustus,6,1
+Almere,12,1
+Almere,6,1
+Drachten,5,1
+Drachten,1,1
+Drachten,12,1
+Guerneville,4,1
+Kinlochleven,7,1
+Isle of Eigg,7,1
+Mallaig,7,1
+Posola,4,1
+Flensburg,12,1
+Trassenheide,8,1
+Alcoutim,7,1
+Ballarat,6,1
+Coroico,10,1
+Myitkyina,6,1
+Indawgyi Lake,6,1
+Annapurna Circuit,3,1
+Zuidwolde,8,1
+Zuidwolde,3,1
+Estoniya,10,1
+"KawaihaeHI, United States",12,1
+Nagarkot,10,1
+Odemira,6,1
+Faial Island,5,1
+Ruse,4,1
+Lesbos Prefecture,1,1
+Forest of Dean,8,1
+Dordogne,7,1
+Los Gigantes,11,1
+Nida,9,1
+Marsala,5,1
+Porto Seguro,8,1
+Porto Seguro,11,1
+São Mateus,8,1
+Altenburg,7,1
+Sierra Nevada,6,1
+Upper Bavaria,11,1
+Asbury Park,5,1
+Coachella,4,1
+Caerleon,6,1
+Caldicot,6,1
+Nagpur,12,1
+Kanha Tiger Reserve,12,1
+Marari Beach Alappuzha,11,1
+Saint Vincent and the Grenadines,12,1
+Martinique,12,1
+Castello Tesino,2,1
+Castello Tesino,3,1
+Las Terrenas,9,1
+La Romana,9,1
+Wismar,1,1
+Liepen,11,1
+Petoskey,8,1
+Port Antonio,12,1
+Bohus-malmön,7,1
+Bohus-malmön,6,1
+Lethbridge,12,1
+Lethbridge,9,1
+Lethbridge,6,1
+Lethbridge,7,1
+Kimberley,9,1
+United Arab Emirates,4,1
+Bruchsal,12,1
+Bruchsal,1,1
+Krong Poi Pet,12,1
+Capital Region,5,1
+Brea,7,1
+Point Pleasant,10,1
+Point Pleasant,7,1
+Point Pleasant,2,1
+Point Pleasant,1,1
+Point Pleasant,12,1
+Point Pleasant,11,1
+Point Pleasant,8,1
+Point Pleasant,6,1
+Point Pleasant,9,1
+Point Pleasant,5,1
+Point Pleasant,3,1
+Borough of Point Pleasant,5,1
+Borough of Point Pleasant,4,1
+Dijon,3,1
+Newport Beach,8,1
+Danbury,8,1
+Danbury,7,1
+Danbury,5,1
+Danbury,4,1
+Danbury,12,1
+Danbury,10,1
+Danbury,6,1
+Danbury,2,1
+Zama,8,1
+Laie,1,1
+Alushta,4,1
+Tusayan,11,1
+Mariposa,11,1
+Paia,6,1
+Placencia,1,1
+Barnstable County,7,1
+Jacksonville,11,1
+Jericoacoara Beach,10,1
+Jericoacoara Beach,11,1
+Memmingen,1,1
+Cabo Frio,5,1
+Cabo Frio,4,1
+Pireas,7,1
+Frigiliana,4,1
+Piano di Sorrento,6,1
+Alexandria Governorate,12,1
+Waregem,7,1
+Alona Beach,4,1
+Alona Beach,3,1
+Alona Beach,11,1
+Togian Islands,10,1
+Ampana Kota,10,1
+Seaside,6,1
+Siargao Island,4,1
+Yamba,3,1
+Yamba,12,1
+Preah Sihanouk,3,1
+Preah Sihanouk,1,1
+Canoa Quebrada,3,1
+Phitsanulok,12,1
+Phitsanulok,11,1
+Niigata Prefecture,9,1
+Qatar,9,1
+Swinoujscie,8,1
+Austria,2,1
+Fairgrove,7,1
+Fairgrove,4,1
+Fairgrove,12,1
+Sacramento,1,1
+Sacramento,12,1
+Närpes,7,1
+Chom Thong District,4,1
+Khao Lak Thailand,12,1
+Reggio Emilia,6,1
+Khon Kaen,4,1
+Besisahar,6,1
+Cherating,3,1
+Ufa,1,1
+Ufa,5,1
+Neftekamsk,5,1
+Solms,10,1
+Solms,8,1
+Solms,4,1
+Solms,1,1
+Solms,11,1
+Solms,9,1
+Braunfels,1,1
+Lajatico,7,1
+Osijek,9,1
+Londrina,3,1
+La Ventana,1,1
+Bahía Asunción,11,1
+Rico,11,1
+Salmon Arm,10,1
+Pemberton,10,1
+Poulsbo,10,1
+Palm Desert,5,1
+El Pescadero,1,1
+Creston,5,1
+Whangamata,2,1
+New Plymouth,2,1
+Gnarabup,2,1
+Lancelin,2,1
+Vernon,12,1
+Vernon,11,1
+Vernon,9,1
+Vernon,8,1
+Vernon,6,1
+Vernon,3,1
+Port Townsend,4,1
+Port Townsend,7,1
+Candidasa,2,1
+Ferragudo,6,1
+Rainbow Beach,9,1
+Val di Fassa,12,1
+Pamporovo,1,1
+Cape Cod,7,1
+Niagara,7,1
+Latchi,10,1
+Latchi,3,1
+Stoupa,5,1
+Forks,9,1
+Kinabatangan,3,1
+Rosendale,8,1
+"Colonia Del SacramentoColonia, Uruguay",3,1
+Côn Đảo,12,1
+Carbost,9,1
+Champaign,5,1
+Skagway,9,1
+Naperville,1,1
+San Ramon,1,1
+Gloucester,7,1
+Harrisburg,3,1
+Sarpsborg,12,1
+Rhinebeck,8,1
+Port St. Lucie,3,1
+Wappingers Falls,11,1
+Pleasant Valley,1,1
+Clermont,10,1
+Queens,7,1
+St Andrews,4,1
+Paysandú,11,1
+Sarandì,11,1
+Durazno,11,1
+Drogheda,9,1
+Laytown,8,1
+tt. Cần Thạnh,6,1
+Ba Ria - Vung Tau,5,1
+Hồ Trị An,5,1
+Encarnacion,4,1
+Menlo Park,10,1
+Menlo Park,4,1
+Menlo Park,3,1
+Khách Sạn Thiên Kim,2,1
+tp. Vũng Tàu,7,1
+Durazno Department,12,1
+Carlos Casares,12,1
+General Roca,12,1
+Esquel,12,1
+Perito Moreno,12,1
+Bajo Caracoles,12,1
+Río Gallegos,12,1
+Puerto San Julián,12,1
+Comodoro Rivadavia,12,1
+Bahía Blanca,12,1
+Santana do Livramento,11,1
+Marietta,5,1
+Jamestown,5,1
+Oglesby,5,1
+Bedford,5,1
+Bedford,9,1
+Bedford,3,1
+Shaoxing,11,1
+Yongkang,11,1
+Qiandaohu,11,1
+Dexing,11,1
+Huangshan,11,1
+Citrusdal,7,1
+Klawer,7,1
+Seeheim,7,1
+Lüderitz,7,1
+Solitaire,7,1
+Usakos,7,1
+Grootfontein,7,1
+Rundu,7,1
+Gweta,6,1
+Nata,6,1
+Kasane,6,1
+Binga,6,1
+Kariba,6,1
+Lusaka,6,1
+Serenje,6,1
+Isoka,6,1
+Mbuyuni,6,1
+Mkwaja,6,1
+Tanga,6,1
+Kibosho,6,1
+Namanga,6,1
+Voi,6,1
+Tiwi,6,1
+Hale,6,1
+Iringa,6,1
+Karonga,6,1
+Bana,6,1
+Chirombo,6,1
+Blantyre,5,1
+Tete,5,1
+Chimoio,5,1
+Macia,5,1
+Piet Retief,5,1
+Clarens,5,1
+Rafolatsane,5,1
+Roma,5,1
+Aliwal North,5,1
+Ouplaas,5,1
+Betty's Bay,5,1
+Xishanzhen,9,1
+Talek,8,1
+Musoma,8,1
+Muyinga,8,1
+Bujumbura,8,1
+Mbarara,8,1
+Kisumu,8,1
+Hohhot,5,1
+Erenhot,5,1
+Zhangjiakou,5,1
+Binzhou,5,1
+Huai'an,5,1
+Xishuangbanna,7,1
+Luang Namtha,7,1
+Pak Prieo,7,1
+Chumphon,7,1
+Don Sak,7,1
+Ang Thong,7,1
+Tak Ok,7,1
+Phu Sang,7,1
+Pu'er,7,1
+Honghe,7,1
+Bose,7,1
+Nanning,7,1
+Hengyang,7,1
+Nanchang,7,1
+Nanchang,9,1
+Changsha,9,1
+Monastir,8,1
+Kuala Terengganu,4,1
+Kuala Terengganu,9,1
+Starrucca,9,1
+Netiv HaLamed He,3,1
+Zichron Yaakov,8,1
+Braamt,2,1
+Lublin,7,1
+Ukraine,9,1
+Rostov Oblast,8,1
+Nara Shi,3,1
+Nara Shi,5,1
+Xalapa,12,1
+Loreto,4,1
+Riverside,11,1
+San Pedro La Laguna,5,1
+Santa Marianita,9,1
+Iquique,8,1
+Arica,8,1
+French Riviera,8,1
+Hanover,6,1
+Albufeira/Lisbon,11,1
+Province of Syracuse,6,1
+Cinqueterre,9,1
+Ios,9,1
+São José do Rio Preto,9,1
+Yverdon-les-Bains,12,1
+Slovenj Gradec,5,1
+Tidewater,8,1
+Squamish,7,1
+Driftpile,6,1
+Fort MacLeod,6,1
+Bradley,5,1
+Aix-les-Bains,3,1
+Aix-les-Bains,4,1
+Laàs,3,1
+Hermanus,3,1
+Kenton-on-Sea,1,1
+Stellenbosch,1,1
+Okanagan Lake,8,1
+Wagrain,1,1
+Buenos Aires Province,3,1
+Ko Muk,1,1
+Bucaramanga,11,1
+Ramallah,7,1
+Erbil,5,1
+Sana'a,4,1
+Roseville,11,1
+Roseville,10,1
+Pacifica,9,1
+Garberville,9,1
+Kahuku,9,1
+Bowie,1,1
+Terre Haute,11,1
+Guadalcanal,7,1
+Dunnellon,7,1
+Hampstead,7,1
+Oswego,4,1
+Oswego,3,1
+North Royalton,10,1
+Nashua,9,1
+Marlborough,7,1
+Gerlach,8,1
+Gerlach,9,1
+Wichita,4,1
+Wichita,3,1
+Lebanon,10,1
+Glens Falls,10,1
+Charmey,7,1
+Farrell,7,1
+Cabourg,6,1
+Lemmon,5,1
+Hartford,2,1
+Hartford,3,1
+Hartford,11,1
+Hartford,4,1
+Ipatinga,1,1
+Piscataway Township,1,1
+Wisconsin Rapids,12,1
+Ludlow,10,1
+Alpharetta,7,1
+Alpharetta,4,1
+McKinney,6,1
+Malvern,5,1
+Churchill,12,1
+Gillam,12,1
+Springville,11,1
+Needham,9,1
+Saguenay,11,1
+Hyde Park,10,1
+Gilbert,4,1
+North Reading,4,1
+Woburn,12,1
+Hammond,11,1
+Nürburg,6,1
+Te Anau,2,1
+Te Anau,12,1
+Lower Shotover,2,1
+Karangarua,2,1
+Barrytown,2,1
+Riwaka,2,1
+Glenduan,2,1
+Tairua,2,1
+Paihia,2,1
+Saint Paul's Bay,10,1
+Coventry,1,1
+Coventry,10,1
+Brioude,12,1
+Brioude,6,1
+Brioude,2,1
+Brioude,1,1
+Mersing,5,1
+Lembang,1,1
+Sighnaghi,11,1
+Dimitsana,10,1
+Nafplio,10,1
+Fira,10,1
+Kalabaka,9,1
+Gjirokaster,9,1
+Mali Losinj,8,1
+Pašman,7,1
+Octopus Resort,12,1
+Province of Lucca,12,1
+Province of Lucca,10,1
+Nara Prefecture,2,1
+Daanbantayan,3,1
+Kirkwall,5,1
+Oban,4,1
+Grand Haven,12,1
+Molde,4,1
+Molde,1,1
+Røros,3,1
+Røros,12,1
+Paxos,7,1
+Mazet-Saint-Voy,6,1
+Las Vegas Strip,7,1
+Taroko National Park,1,1
+"LiberiaGuanacaste, Costa Rica",1,1
+Jinju-si,10,1
+Arluno,9,1
+Monte Carlo,5,1
+Wadi Musa,9,1
+Acre,9,1
+Rosh HaNikra,9,1
+Empuriabrava,9,1
+Empuriabrava,8,1
+Figueres,8,1
+Dharmashala,12,1
+Essex,12,1
+Hebron,8,1
+Wausau,12,1
+Wausau,10,1
+Banyalbufar,3,1
+Pollença,3,1
+Newport,2,1
+Monteverde,1,1
+Copan Ruinas,12,1
+Concord,11,1
+Big Bear Lake,9,1
+Livingston,9,1
+Redondo Beach,9,1
+Lushan,7,1
+Pécs,8,1
+Pécs,10,1
+Rabat-Salé-Kénitra,7,1
+Arturo Merino Benítez International Airport,2,1
+Sao Paulo International Airport,2,1
+Mont Salève,8,1
+Sassenheim,1,1
+Lang Tengah Island,9,1
+Gerik,8,1
+Tam Kỳ,9,1
+Saratov,4,1
+Lidk�ping,2,1
+Da NangVietnam,2,1
+Ko Phayam,11,1
+Rhodope Mountains,6,1
+Lewes,7,1
+"Bristol, TN, United States",5,1
+"Frankfurt, Germany",5,1
+Stowe,3,1
+Bridgeton,12,1
+Bridgeton,11,1
+Bridgeton,6,1
+Slade,10,1
+Saint Johnsbury,8,1
+Franconia,8,1
+Giessen,12,1
+Pag,9,1
+Komodo Island,6,1
+Billings,11,1
+Billings,12,1
+Billings,6,1
+Leavenworth,6,1
+Praia Massarandupio,3,1
+Osasco,2,1
+Belgorod,7,1
+Hajdúszoboszló,5,1
+Basingstoke,1,1
+Šiauliai,1,1
+Šiauliai,12,1
+Hradec Králové,11,1
+Trnava,11,1
+Girne,6,1
+NicosiaCyprus,6,1
+Siedlce,6,1
+Administrative unit Maribor,5,1
+Rēzekne Municipality,8,1
+Kranjska Gora,4,1
+Trabzon,1,1
+Bayburt,1,1
+Bang Lamung ตำบล บางละมุง,8,1
+Gornja Nugla,8,1
+Muggia,8,1
+"MontanitaSanta Elena, Ecuador",5,1
+Inčukalns,4,1
+"SapporoHokkaido Prefecture, Japan",1,1
+Yass,5,1
+Coolangatta,1,1
+Crescent Head,1,1
+North Haven,1,1
+Tamworth,1,1
+Monschau,6,1
+Katoomba,1,1
+Mystery Bay,12,1
+Mount Cook,12,1
+Semporna,7,1
+Fujiyoshida,5,1
+Andaz Maui at Wailea Resort,2,1

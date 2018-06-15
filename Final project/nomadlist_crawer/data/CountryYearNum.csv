@@ -1,0 +1,1484 @@
+country,year,num
+United States,2000,8
+Italy,2000,1
+Belgium,2000,1
+Netherlands,2000,1
+France,2000,3
+Austria,2000,1
+China,2000,1
+Lithuania,2000,2
+United Kingdom,2000,6
+Brazil,2000,1
+Argentina,2000,1
+Portugal,2000,1
+Spain,2000,1
+Mexico,2000,1
+Australia,2000,1
+Philippines,2000,2
+Ireland,2000,1
+Germany,2000,2
+Denmark,2000,1
+Israel,2000,1
+Sweden,2000,1
+Dominican Republic,2000,1
+Jamaica,2000,1
+Vatican City,2000,1
+Haiti,2000,1
+United States,2001,9
+Italy,2001,1
+Netherlands,2001,1
+France,2001,3
+United Kingdom,2001,3
+Spain,2001,3
+Canada,2001,3
+Nepal,2001,1
+Australia,2001,1
+Norway,2001,1
+Switzerland,2001,1
+Japan,2001,1
+Ireland,2001,2
+Germany,2001,3
+Denmark,2001,1
+Cyprus,2001,2
+Croatia,2001,1
+Sweden,2001,2
+India,2001,2
+Dominican Republic,2001,1
+Morocco,2001,1
+Seychelles,2001,1
+Saint Barthélemy,2001,1
+Saint Martin,2001,1
+United States,2002,5
+Italy,2002,2
+Belgium,2002,2
+Kenya,2002,1
+Netherlands,2002,5
+France,2002,5
+Thailand,2002,1
+Laos,2002,1
+Vietnam,2002,1
+Singapore,2002,1
+Cambodia,2002,1
+Austria,2002,4
+China,2002,2
+United Kingdom,2002,4
+Brazil,2002,1
+Portugal,2002,1
+Spain,2002,1
+Peru,2002,1
+Canada,2002,4
+Mexico,2002,1
+New Zealand,2002,1
+Australia,2002,1
+Cuba,2002,1
+Hungary,2002,1
+Finland,2002,1
+South Africa,2002,1
+Switzerland,2002,2
+Japan,2002,1
+Ireland,2002,1
+Germany,2002,5
+Denmark,2002,1
+Turkey,2002,3
+Cyprus,2002,1
+Croatia,2002,1
+Czechia,2002,1
+United States,2003,10
+Greece,2003,1
+Italy,2003,3
+Belgium,2003,1
+Netherlands,2003,1
+France,2003,3
+Costa Rica,2003,1
+Indonesia,2003,1
+Singapore,2003,1
+Cambodia,2003,1
+Austria,2003,2
+China,2003,1
+Russia,2003,1
+United Kingdom,2003,4
+Brazil,2003,1
+Argentina,2003,2
+Spain,2003,4
+Canada,2003,3
+Mexico,2003,1
+New Zealand,2003,1
+Australia,2003,2
+Switzerland,2003,3
+Germany,2003,3
+Denmark,2003,1
+Turkey,2003,1
+Cyprus,2003,1
+Malta,2003,1
+Vatican City,2003,1
+Botswana,2003,1
+Cayman Islands,2003,1
+Guadeloupe,2003,1
+Uganda,2003,1
+United States,2004,8
+Italy,2004,3
+Belgium,2004,2
+Kenya,2004,1
+Netherlands,2004,1
+France,2004,5
+Indonesia,2004,2
+Singapore,2004,1
+Austria,2004,1
+China,2004,2
+Lithuania,2004,1
+Poland,2004,1
+United Kingdom,2004,5
+Argentina,2004,2
+Chile,2004,1
+Portugal,2004,1
+Spain,2004,1
+Canada,2004,4
+Mexico,2004,2
+Australia,2004,4
+Cuba,2004,1
+Switzerland,2004,1
+Ireland,2004,1
+Germany,2004,4
+Denmark,2004,1
+India,2004,1
+Egypt,2004,1
+British Virgin Islands,2004,1
+The Bahamas,2004,1
+Monaco,2004,1
+Fiji,2004,1
+Guatemala,2004,1
+Namibia,2004,1
+Tunisia,2004,1
+Uganda,2004,1
+Guinea,2004,1
+United States,2005,13
+Italy,2005,1
+Netherlands,2005,1
+France,2005,7
+Costa Rica,2005,2
+South Korea,2005,1
+Malaysia,2005,3
+Singapore,2005,1
+China,2005,1
+United Kingdom,2005,3
+Brazil,2005,2
+Argentina,2005,1
+Chile,2005,1
+Portugal,2005,2
+Spain,2005,3
+Peru,2005,1
+Canada,2005,5
+Mexico,2005,4
+New Zealand,2005,1
+Australia,2005,1
+Switzerland,2005,1
+Philippines,2005,1
+Romania,2005,1
+Ireland,2005,1
+Germany,2005,2
+Denmark,2005,1
+Turkey,2005,2
+Bulgaria,2005,1
+Dominican Republic,2005,1
+Egypt,2005,1
+Jamaica,2005,1
+Aruba,2005,1
+The Bahamas,2005,2
+Puerto Rico,2005,1
+Tunisia,2005,2
+Rwanda,2005,1
+Guernsey,2005,1
+Mozambique,2005,1
+Benin,2005,1
+United States,2006,17
+Greece,2006,1
+Italy,2006,4
+Belgium,2006,2
+Kenya,2006,1
+Netherlands,2006,3
+France,2006,6
+Thailand,2006,1
+Malaysia,2006,2
+Indonesia,2006,2
+Singapore,2006,3
+Austria,2006,3
+China,2006,3
+Poland,2006,1
+United Kingdom,2006,6
+Brazil,2006,3
+Argentina,2006,4
+Antarctica,2006,1
+Sri Lanka,2006,1
+Portugal,2006,2
+Spain,2006,4
+Ecuador,2006,2
+Canada,2006,4
+Mexico,2006,2
+New Zealand,2006,2
+Colombia,2006,1
+Australia,2006,3
+Estonia,2006,1
+Finland,2006,1
+Iceland,2006,1
+South Africa,2006,1
+Switzerland,2006,3
+Japan,2006,1
+Romania,2006,1
+Ireland,2006,2
+Germany,2006,5
+Turkey,2006,1
+Malta,2006,1
+British Virgin Islands,2006,1
+Morocco,2006,1
+Czechia,2006,1
+Jamaica,2006,1
+Aruba,2006,1
+The Bahamas,2006,1
+Monaco,2006,2
+Tunisia,2006,1
+Guadeloupe,2006,1
+Rwanda,2006,1
+Uganda,2006,1
+Gibraltar,2006,1
+Barbados,2006,1
+Liechtenstein,2006,1
+United States,2007,22
+Italy,2007,6
+Belgium,2007,1
+Ukraine,2007,1
+Netherlands,2007,5
+France,2007,4
+Costa Rica,2007,3
+South Korea,2007,1
+Thailand,2007,1
+Vietnam,2007,1
+Malaysia,2007,1
+Singapore,2007,1
+China,2007,6
+Russia,2007,2
+Poland,2007,1
+United Kingdom,2007,6
+Brazil,2007,2
+Chile,2007,1
+Spain,2007,3
+Peru,2007,2
+Ecuador,2007,1
+Canada,2007,5
+Mexico,2007,2
+New Zealand,2007,3
+Colombia,2007,1
+Nepal,2007,1
+Australia,2007,2
+Hungary,2007,1
+Norway,2007,1
+South Africa,2007,1
+Switzerland,2007,1
+Philippines,2007,2
+Japan,2007,4
+Romania,2007,1
+Bolivia,2007,2
+Ireland,2007,1
+Germany,2007,3
+Turkey,2007,1
+Slovenia,2007,1
+India,2007,1
+Czechia,2007,1
+Mozambique,2007,1
+Europe,2007,1
+United States,2008,19
+Greece,2008,3
+Italy,2008,5
+Belgium,2008,2
+Kenya,2008,1
+Netherlands,2008,8
+France,2008,8
+Costa Rica,2008,1
+South Korea,2008,2
+Thailand,2008,1
+Vietnam,2008,1
+Singapore,2008,1
+Austria,2008,2
+China,2008,4
+Russia,2008,1
+Poland,2008,3
+United Kingdom,2008,6
+Brazil,2008,1
+Portugal,2008,1
+Spain,2008,5
+Ecuador,2008,1
+Canada,2008,7
+Mexico,2008,5
+Colombia,2008,1
+Australia,2008,2
+Hungary,2008,2
+South Africa,2008,1
+Switzerland,2008,4
+Philippines,2008,1
+Japan,2008,4
+Ireland,2008,1
+Germany,2008,6
+Israel,2008,3
+Turkey,2008,3
+Slovenia,2008,1
+India,2008,1
+Dominican Republic,2008,1
+Egypt,2008,1
+Morocco,2008,1
+Czechia,2008,2
+The Bahamas,2008,1
+Oman,2008,1
+Tunisia,2008,2
+Rwanda,2008,1
+Haiti,2008,1
+Swaziland,2008,1
+Senegal,2008,1
+Ghana,2008,1
+Cameroon,2008,1
+Turks and Caicos Islands,2008,1
+Afghanistan,2008,1
+Palestine,2008,1
+Kurdistan,2008,1
+Yemen,2008,1
+United States,2009,32
+Greece,2009,2
+Italy,2009,3
+Belgium,2009,4
+Ukraine,2009,2
+Netherlands,2009,3
+France,2009,6
+Costa Rica,2009,1
+South Korea,2009,4
+Thailand,2009,3
+Vietnam,2009,2
+Malaysia,2009,1
+Indonesia,2009,3
+Singapore,2009,2
+Austria,2009,1
+China,2009,5
+Mongolia,2009,1
+Russia,2009,3
+United Kingdom,2009,16
+Brazil,2009,4
+Argentina,2009,2
+Portugal,2009,3
+Spain,2009,6
+Peru,2009,1
+Ecuador,2009,1
+Canada,2009,6
+Mexico,2009,4
+New Zealand,2009,2
+Australia,2009,6
+Hungary,2009,2
+Taiwan,2009,1
+Switzerland,2009,1
+Philippines,2009,1
+United Arab Emirates,2009,1
+Japan,2009,2
+Romania,2009,2
+Ireland,2009,4
+Germany,2009,7
+Denmark,2009,3
+Bulgaria,2009,2
+Slovenia,2009,1
+Croatia,2009,1
+Armenia,2009,1
+Sweden,2009,4
+Serbia,2009,1
+India,2009,2
+Egypt,2009,2
+Montenegro,2009,1
+Morocco,2009,1
+Czechia,2009,1
+Moldova,2009,1
+Jamaica,2009,2
+Aruba,2009,1
+The Bahamas,2009,1
+Cayman Islands,2009,1
+Fiji,2009,2
+Kyrgyzstan,2009,1
+Oman,2009,1
+Kazakhstan,2009,1
+Tajikistan,2009,1
+Uzbekistan,2009,1
+Trinidad and Tobago,2009,1
+North Korea,2009,1
+Macedonia,2009,1
+Kosovo,2009,1
+Bosnia,2009,1
+Sierra Leone,2009,1
+United States,2010,40
+Greece,2010,3
+Italy,2010,8
+Belgium,2010,3
+Kenya,2010,2
+Ukraine,2010,1
+Netherlands,2010,9
+France,2010,11
+Costa Rica,2010,1
+South Korea,2010,3
+Thailand,2010,10
+Laos,2010,2
+Vietnam,2010,4
+Malaysia,2010,2
+Indonesia,2010,2
+Singapore,2010,3
+Cambodia,2010,5
+Austria,2010,1
+China,2010,8
+Poland,2010,2
+United Kingdom,2010,17
+Brazil,2010,3
+Argentina,2010,2
+Uruguay,2010,1
+Chile,2010,2
+Spain,2010,10
+Ecuador,2010,1
+Canada,2010,10
+Mexico,2010,3
+Colombia,2010,1
+Australia,2010,5
+Cuba,2010,1
+Hungary,2010,2
+Latvia,2010,1
+Taiwan,2010,2
+Iceland,2010,1
+South Africa,2010,2
+Switzerland,2010,5
+Nicaragua,2010,1
+Belize,2010,1
+United Arab Emirates,2010,2
+Japan,2010,7
+Ireland,2010,3
+Germany,2010,5
+Denmark,2010,2
+Slovenia,2010,1
+India,2010,1
+Egypt,2010,2
+Lebanon,2010,1
+Morocco,2010,2
+Czechia,2010,1
+Moldova,2010,1
+Jamaica,2010,1
+Lesotho,2010,1
+The Bahamas,2010,1
+Tanzania,2010,1
+Monaco,2010,1
+Guatemala,2010,1
+Maldives,2010,1
+Namibia,2010,1
+Caribbean Netherlands,2010,1
+Tajikistan,2010,1
+Trinidad and Tobago,2010,1
+Pai,2010,1
+United States,2011,56
+Greece,2011,2
+Italy,2011,6
+Belgium,2011,2
+Kenya,2011,1
+Ukraine,2011,3
+Netherlands,2011,11
+France,2011,16
+Costa Rica,2011,2
+South Korea,2011,4
+Thailand,2011,10
+Laos,2011,1
+Vietnam,2011,4
+Malaysia,2011,8
+Indonesia,2011,5
+Singapore,2011,3
+Cambodia,2011,3
+Austria,2011,3
+China,2011,6
+Mongolia,2011,1
+Russia,2011,2
+Poland,2011,2
+United Kingdom,2011,20
+Brazil,2011,2
+Argentina,2011,4
+Chile,2011,1
+Sri Lanka,2011,1
+Portugal,2011,1
+Spain,2011,9
+Peru,2011,2
+Canada,2011,7
+Mexico,2011,2
+Colombia,2011,1
+Nepal,2011,2
+Australia,2011,9
+Cuba,2011,1
+Norway,2011,1
+Latvia,2011,1
+Finland,2011,1
+South Africa,2011,4
+Switzerland,2011,2
+Nicaragua,2011,1
+Belize,2011,1
+Philippines,2011,1
+United Arab Emirates,2011,2
+Japan,2011,5
+Romania,2011,1
+Ireland,2011,4
+Germany,2011,9
+Denmark,2011,4
+Turkey,2011,3
+Slovenia,2011,2
+Sweden,2011,1
+,2011,1
+India,2011,4
+Malta,2011,1
+Dominican Republic,2011,2
+Egypt,2011,2
+Lebanon,2011,1
+Czechia,2011,2
+Moldova,2011,1
+The Bahamas,2011,3
+San Marino,2011,1
+Cayman Islands,2011,1
+Seychelles,2011,1
+Maldives,2011,2
+Tunisia,2011,1
+Bhutan,2011,1
+Uzbekistan,2011,1
+Luxembourg,2011,2
+Gibraltar,2011,1
+United States,2012,79
+Greece,2012,9
+Italy,2012,23
+Belgium,2012,2
+Kenya,2012,3
+Netherlands,2012,12
+France,2012,26
+South Korea,2012,3
+Thailand,2012,22
+Laos,2012,2
+Vietnam,2012,2
+Malaysia,2012,7
+Indonesia,2012,7
+Singapore,2012,12
+Cambodia,2012,3
+Austria,2012,10
+China,2012,20
+Russia,2012,9
+Lithuania,2012,2
+Poland,2012,5
+United Kingdom,2012,29
+Brazil,2012,8
+Argentina,2012,2
+Chile,2012,1
+Sri Lanka,2012,1
+Portugal,2012,5
+Spain,2012,16
+Peru,2012,1
+Ecuador,2012,1
+Canada,2012,13
+Mexico,2012,6
+New Zealand,2012,3
+Colombia,2012,2
+Nepal,2012,2
+Australia,2012,14
+Cuba,2012,1
+Hungary,2012,3
+Norway,2012,4
+Latvia,2012,4
+Finland,2012,1
+Taiwan,2012,6
+South Africa,2012,6
+Switzerland,2012,9
+Belize,2012,1
+Philippines,2012,5
+United Arab Emirates,2012,2
+Japan,2012,8
+Romania,2012,1
+Ireland,2012,5
+Germany,2012,24
+Denmark,2012,4
+Israel,2012,5
+Turkey,2012,3
+Cyprus,2012,2
+Bulgaria,2012,2
+Slovenia,2012,1
+Croatia,2012,3
+Jordan,2012,2
+Sweden,2012,3
+,2012,1
+Serbia,2012,1
+India,2012,9
+Malta,2012,1
+Slovakia,2012,2
+Dominican Republic,2012,3
+Mauritius,2012,1
+Egypt,2012,4
+Czechia,2012,6
+Moldova,2012,1
+Jamaica,2012,1
+The Bahamas,2012,4
+Tanzania,2012,4
+Botswana,2012,1
+Cayman Islands,2012,2
+Monaco,2012,1
+Iran,2012,1
+Ethiopia,2012,1
+Maldives,2012,1
+Reunion,2012,1
+Namibia,2012,1
+Zimbabwe,2012,1
+Zambia,2012,1
+Malawi,2012,1
+Somalia,2012,1
+Sudan,2012,1
+Libya,2012,1
+Tunisia,2012,1
+Caribbean Netherlands,2012,1
+Kazakhstan,2012,1
+Luxembourg,2012,1
+Rwanda,2012,3
+Leh,2012,1
+Uganda,2012,2
+Venezuela,2012,1
+Gibraltar,2012,1
+Sierra Leone,2012,1
+Burundi,2012,1
+United States,2013,97
+Czech Republic,2013,1
+Greece,2013,6
+Italy,2013,21
+Belgium,2013,6
+Kenya,2013,4
+Ukraine,2013,1
+Netherlands,2013,17
+Panama,2013,1
+France,2013,32
+Costa Rica,2013,3
+South Korea,2013,3
+Thailand,2013,29
+Laos,2013,3
+Vietnam,2013,15
+Malaysia,2013,10
+Indonesia,2013,11
+Singapore,2013,11
+Cambodia,2013,5
+Austria,2013,5
+China,2013,19
+Mongolia,2013,2
+Russia,2013,7
+Lithuania,2013,1
+Poland,2013,5
+United Kingdom,2013,37
+Brazil,2013,7
+Argentina,2013,5
+Chile,2013,1
+Sri Lanka,2013,1
+Portugal,2013,6
+Spain,2013,23
+Peru,2013,3
+Ecuador,2013,1
+Canada,2013,20
+Mexico,2013,5
+New Zealand,2013,3
+Colombia,2013,8
+Nepal,2013,2
+Australia,2013,18
+Hungary,2013,6
+Norway,2013,3
+Latvia,2013,1
+Finland,2013,2
+Taiwan,2013,2
+Iceland,2013,7
+South Africa,2013,5
+Switzerland,2013,14
+Nicaragua,2013,1
+Belize,2013,2
+Philippines,2013,6
+United Arab Emirates,2013,5
+Japan,2013,17
+Romania,2013,2
+Bolivia,2013,2
+Ireland,2013,5
+Germany,2013,35
+Denmark,2013,8
+Israel,2013,2
+Turkey,2013,12
+Slovenia,2013,1
+Croatia,2013,5
+Armenia,2013,2
+Jordan,2013,2
+Sweden,2013,11
+,2013,1
+Serbia,2013,3
+India,2013,9
+Slovakia,2013,2
+Dominican Republic,2013,2
+Mauritius,2013,3
+Egypt,2013,2
+Morocco,2013,4
+Czechia,2013,5
+Moldova,2013,1
+Jamaica,2013,1
+Aruba,2013,1
+Lesotho,2013,1
+The Bahamas,2013,1
+Vatican City,2013,1
+Tanzania,2013,4
+Botswana,2013,1
+Bosnia and Herzegovina,2013,2
+Monaco,2013,2
+Guatemala,2013,2
+Andorra,2013,1
+Saudi Arabia,2013,1
+Namibia,2013,1
+Zimbabwe,2013,1
+Zambia,2013,1
+Malawi,2013,1
+Tunisia,2013,1
+Luxembourg,2013,3
+Djibouti,2013,1
+Albania,2013,1
+Macedonia (FYROM),2013,1
+Senegal,2013,1
+Mozambique,2013,1
+Macedonia,2013,2
+Prizren District,2013,1
+Pristina District,2013,1
+Bosnia-Herzegovina,2013,1
+Barbados,2013,1
+Crimea,2013,1
+Western Sahara,2013,1
+Bethlehem,2013,1
+United States,2014,154
+Czech Republic,2014,1
+Greece,2014,9
+Italy,2014,32
+Belgium,2014,13
+Kenya,2014,2
+Ukraine,2014,6
+Netherlands,2014,37
+Panama,2014,4
+France,2014,61
+Costa Rica,2014,10
+South Korea,2014,10
+Thailand,2014,70
+Laos,2014,6
+Vietnam,2014,20
+Malaysia,2014,23
+Indonesia,2014,36
+Singapore,2014,14
+Cambodia,2014,19
+Austria,2014,24
+China,2014,30
+Russia,2014,12
+Lithuania,2014,2
+Poland,2014,20
+United Kingdom,2014,52
+Paraguay,2014,1
+Brazil,2014,27
+Argentina,2014,7
+Uruguay,2014,4
+Chile,2014,13
+Georgia,2014,1
+Sri Lanka,2014,4
+Portugal,2014,18
+Spain,2014,51
+Peru,2014,7
+Ecuador,2014,4
+Canada,2014,26
+Mexico,2014,21
+New Zealand,2014,11
+Colombia,2014,8
+Nepal,2014,8
+Australia,2014,24
+Hungary,2014,19
+Norway,2014,9
+Latvia,2014,3
+Estonia,2014,5
+Finland,2014,7
+Taiwan,2014,12
+Iceland,2014,1
+South Africa,2014,9
+Switzerland,2014,13
+Nicaragua,2014,4
+Honduras,2014,2
+Belize,2014,4
+Philippines,2014,15
+United Arab Emirates,2014,16
+Japan,2014,25
+Romania,2014,4
+Bolivia,2014,3
+Ireland,2014,13
+Germany,2014,58
+Denmark,2014,14
+Israel,2014,3
+Turkey,2014,13
+Bulgaria,2014,4
+Slovenia,2014,3
+Croatia,2014,7
+Armenia,2014,1
+Jordan,2014,2
+Sweden,2014,12
+,2014,1
+Serbia,2014,4
+India,2014,12
+Malta,2014,1
+Qatar,2014,3
+Slovakia,2014,6
+Dominican Republic,2014,4
+Mauritius,2014,2
+Egypt,2014,3
+Montenegro,2014,2
+Lebanon,2014,2
+Bahrain,2014,1
+Morocco,2014,5
+Belarus,2014,2
+Czechia,2014,26
+Moldova,2014,1
+Jamaica,2014,1
+The Bahamas,2014,4
+Tanzania,2014,2
+Botswana,2014,1
+Curaçao,2014,1
+Puerto Rico,2014,2
+Monaco,2014,1
+Kyrgyzstan,2014,1
+Guatemala,2014,2
+Myanmar,2014,4
+Maldives,2014,1
+Oman,2014,1
+Saudi Arabia,2014,2
+Namibia,2014,2
+Bhutan,2014,1
+Caribbean Netherlands,2014,1
+Luxembourg,2014,5
+Myanmar (Burma),2014,1
+Trinidad and Tobago,2014,1
+U.S. Virgin Islands,2014,1
+Swaziland,2014,1
+Uganda,2014,1
+North Korea,2014,1
+Bangladesh,2014,1
+Cameroon,2014,1
+South Sudan,2014,1
+AD100,2014,1
+Kuwait,2014,1
+Bosnia-Herzegovina,2014,1
+Saint-Barthélemy,2014,1
+Liechtenstein,2014,1
+KY16,2014,1
+Timor-Leste,2014,1
+Turks and Caicos Islands,2014,1
+El Salvador,2014,1
+French Polynesia,2014,1
+United States,2015,331
+Czech Republic,2015,1
+Greece,2015,25
+Italy,2015,71
+Belgium,2015,34
+Kenya,2015,5
+Ukraine,2015,7
+Netherlands,2015,89
+Panama,2015,11
+France,2015,120
+Costa Rica,2015,16
+South Korea,2015,38
+Thailand,2015,219
+Laos,2015,10
+Vietnam,2015,69
+Malaysia,2015,83
+Indonesia,2015,111
+Singapore,2015,76
+Cambodia,2015,33
+Austria,2015,28
+China,2015,97
+Russia,2015,26
+Lithuania,2015,10
+Poland,2015,29
+United Kingdom,2015,156
+Paraguay,2015,1
+Brazil,2015,45
+Argentina,2015,22
+Uruguay,2015,7
+Chile,2015,14
+Georgia,2015,2
+Sri Lanka,2015,11
+Portugal,2015,56
+Spain,2015,146
+Peru,2015,20
+Ecuador,2015,10
+Canada,2015,68
+Mexico,2015,41
+New Zealand,2015,33
+Colombia,2015,40
+Nepal,2015,8
+Australia,2015,66
+Cuba,2015,6
+Hungary,2015,55
+Norway,2015,25
+Latvia,2015,10
+Estonia,2015,13
+Finland,2015,18
+Taiwan,2015,39
+Iceland,2015,11
+South Africa,2015,17
+Switzerland,2015,35
+Nicaragua,2015,3
+Honduras,2015,1
+Belize,2015,6
+Philippines,2015,37
+United Arab Emirates,2015,26
+Japan,2015,63
+Romania,2015,14
+Bolivia,2015,9
+Ireland,2015,27
+Germany,2015,167
+Denmark,2015,40
+Israel,2015,17
+Turkey,2015,37
+Cyprus,2015,5
+Bulgaria,2015,10
+Slovenia,2015,19
+Croatia,2015,36
+Jordan,2015,3
+Sweden,2015,40
+,2015,4
+Serbia,2015,15
+India,2015,30
+Malta,2015,5
+Qatar,2015,1
+Slovakia,2015,11
+Dominican Republic,2015,6
+Mauritius,2015,1
+Egypt,2015,6
+British Virgin Islands,2015,3
+Montenegro,2015,9
+Lebanon,2015,4
+Bahrain,2015,1
+Morocco,2015,20
+Belarus,2015,3
+Czechia,2015,48
+Moldova,2015,1
+Jamaica,2015,4
+Aruba,2015,3
+The Bahamas,2015,1
+Vatican City,2015,1
+San Marino,2015,1
+Tanzania,2015,1
+Botswana,2015,1
+Bosnia and Herzegovina,2015,3
+Curaçao,2015,4
+Puerto Rico,2015,5
+Monaco,2015,3
+Fiji,2015,3
+Kyrgyzstan,2015,2
+Iran,2015,4
+Tonga,2015,1
+Ethiopia,2015,1
+Guatemala,2015,7
+Andorra,2015,4
+Seychelles,2015,2
+Brunei,2015,1
+Myanmar,2015,10
+Maldives,2015,5
+Oman,2015,1
+Saudi Arabia,2015,2
+Reunion,2015,1
+Namibia,2015,2
+Zimbabwe,2015,1
+Tunisia,2015,1
+Bhutan,2015,1
+Bermuda,2015,2
+Luxembourg,2015,2
+Nigeria,2015,1
+Swaziland,2015,1
+Uganda,2015,1
+North Korea,2015,2
+LL48,2015,1
+Albania,2015,5
+Venezuela,2015,2
+Gibraltar,2015,1
+Macedonia (FYROM),2015,1
+Senegal,2015,1
+Cameroon,2015,1
+Angola,2015,1
+Macedonia,2015,4
+Bosnia-Herzegovina,2015,5
+Svalbard and Jan Mayen,2015,2
+Collectivity of Saint Martin,2015,2
+Saint-Barthélemy,2015,1
+Anguilla,2015,1
+Samoa,2015,1
+Kosovo,2015,1
+Turks and Caicos Islands,2015,1
+Cocos (Keeling) Islands,2015,1
+Perú,2015,1
+Sanur,2015,1
+United States,2016,500
+Czech Republic,2016,2
+Greece,2016,59
+Italy,2016,133
+Belgium,2016,47
+Kenya,2016,5
+Ukraine,2016,24
+Netherlands,2016,148
+Panama,2016,12
+France,2016,173
+Costa Rica,2016,33
+South Korea,2016,71
+Thailand,2016,420
+Laos,2016,18
+Vietnam,2016,130
+Malaysia,2016,139
+Indonesia,2016,194
+Singapore,2016,101
+Cambodia,2016,71
+Austria,2016,69
+China,2016,155
+Mongolia,2016,3
+Russia,2016,35
+Lithuania,2016,16
+Poland,2016,49
+United Kingdom,2016,236
+Paraguay,2016,2
+Brazil,2016,62
+Argentina,2016,57
+Uruguay,2016,17
+Chile,2016,33
+Antarctica,2016,3
+Georgia,2016,13
+Sri Lanka,2016,20
+Portugal,2016,142
+Spain,2016,278
+Peru,2016,50
+Ecuador,2016,13
+Canada,2016,113
+Mexico,2016,112
+New Zealand,2016,48
+Colombia,2016,69
+Nepal,2016,11
+Australia,2016,103
+Cuba,2016,15
+Hungary,2016,93
+Norway,2016,38
+Latvia,2016,14
+Estonia,2016,34
+Finland,2016,29
+Taiwan,2016,47
+Iceland,2016,28
+South Africa,2016,24
+Switzerland,2016,58
+Nicaragua,2016,8
+Honduras,2016,3
+Belize,2016,5
+Philippines,2016,46
+United Arab Emirates,2016,34
+Japan,2016,129
+Romania,2016,21
+Bolivia,2016,17
+Ireland,2016,49
+Germany,2016,232
+180 40,2016,1
+Denmark,2016,49
+Israel,2016,29
+Turkey,2016,43
+Cyprus,2016,5
+Bulgaria,2016,26
+Slovenia,2016,12
+Croatia,2016,59
+Armenia,2016,1
+Jordan,2016,8
+Sweden,2016,43
+,2016,7
+Serbia,2016,30
+India,2016,53
+Malta,2016,11
+Qatar,2016,16
+Slovakia,2016,22
+Dominican Republic,2016,8
+Egypt,2016,14
+Montenegro,2016,17
+Lebanon,2016,3
+Morocco,2016,35
+Belarus,2016,3
+Azerbaijan,2016,4
+Czechia,2016,80
+Moldova,2016,2
+Aruba,2016,3
+The Bahamas,2016,2
+Vatican City,2016,4
+San Marino,2016,4
+Tanzania,2016,5
+Bosnia and Herzegovina,2016,6
+Curaçao,2016,1
+Puerto Rico,2016,5
+Cayman Islands,2016,1
+Monaco,2016,3
+Fiji,2016,3
+Kyrgyzstan,2016,4
+Iran,2016,4
+Madagascar,2016,1
+Ethiopia,2016,1
+Guatemala,2016,15
+Greenland,2016,1
+Seychelles,2016,1
+Brunei,2016,1
+Myanmar,2016,12
+Maldives,2016,1
+Oman,2016,1
+Saudi Arabia,2016,3
+Namibia,2016,1
+Tunisia,2016,1
+Bhutan,2016,1
+Kazakhstan,2016,6
+Uzbekistan,2016,2
+Bermuda,2016,3
+Guadeloupe,2016,1
+Luxembourg,2016,5
+Myanmar (Burma),2016,10
+Rwanda,2016,3
+U.S. Virgin Islands,2016,2
+Nigeria,2016,2
+Uganda,2016,1
+North Korea,2016,1
+Albania,2016,5
+Pakistan,2016,1
+Bangladesh,2016,2
+Venezuela,2016,2
+Gibraltar,2016,1
+Cape Verde,2016,1
+Sint Maarten,2016,3
+671 03,2016,1
+Senegal,2016,3
+Ghana,2016,2
+Atlantic Ocean,2016,1
+Antigua and Barbuda,2016,2
+Mozambique,2016,2
+Macedonia,2016,2
+Bosnia-Herzegovina,2016,6
+Barbados,2016,3
+Svalbard and Jan Mayen,2016,2
+Saint-Barthélemy,2016,1
+KY16,2016,1
+Kosovo,2016,2
+Cook Islands,2016,1
+Lower Subansiri,2016,1
+Timor-Leste,2016,1
+Abkhazia,2016,1
+El Salvador,2016,5
+IV51,2016,1
+Saint Martin,2016,1
+French Polynesia,2016,1
+AB30,2016,1
+Afghanistan,2016,1
+Hong Kong,2016,2
+630 72,2016,1
+Khammouane Province,2016,1
+847 00,2016,1
+11000,2016,1
+45230,2016,1
+DG6,2016,1
+Palau,2016,1
+Spania,2016,1
+Saint Lucia,2016,2
+EX17,2016,1
+Slovensko,2016,1
+Finnland,2016,1
+United States,2017,507
+Czech Republic,2017,3
+Greece,2017,66
+Italy,2017,151
+Belgium,2017,42
+Kenya,2017,5
+Ukraine,2017,37
+Netherlands,2017,156
+Panama,2017,29
+France,2017,200
+Costa Rica,2017,27
+South Korea,2017,64
+Thailand,2017,359
+Laos,2017,18
+Vietnam,2017,154
+Malaysia,2017,144
+Indonesia,2017,195
+Singapore,2017,126
+Cambodia,2017,53
+Austria,2017,69
+China,2017,130
+Mongolia,2017,2
+Russia,2017,43
+Lithuania,2017,17
+Poland,2017,64
+United Kingdom,2017,245
+Paraguay,2017,5
+Brazil,2017,57
+Argentina,2017,63
+Uruguay,2017,15
+Chile,2017,34
+Antarctica,2017,3
+Georgia,2017,18
+Sri Lanka,2017,23
+Portugal,2017,182
+Spain,2017,286
+Peru,2017,42
+Ecuador,2017,17
+Canada,2017,119
+Mexico,2017,138
+New Zealand,2017,52
+Colombia,2017,91
+Nepal,2017,10
+Australia,2017,120
+Cuba,2017,24
+Hungary,2017,105
+Norway,2017,29
+Latvia,2017,9
+Estonia,2017,33
+Finland,2017,26
+Taiwan,2017,76
+Iceland,2017,23
+South Africa,2017,39
+Switzerland,2017,59
+Nicaragua,2017,12
+Honduras,2017,4
+Belize,2017,3
+Philippines,2017,52
+United Arab Emirates,2017,41
+Japan,2017,131
+Romania,2017,42
+Bolivia,2017,10
+Ireland,2017,51
+Germany,2017,245
+Denmark,2017,60
+Israel,2017,29
+Turkey,2017,37
+Cyprus,2017,11
+Bulgaria,2017,42
+Slovenia,2017,15
+Croatia,2017,72
+Armenia,2017,3
+Jordan,2017,3
+Sweden,2017,71
+,2017,1
+Serbia,2017,51
+India,2017,52
+Malta,2017,19
+Qatar,2017,8
+Slovakia,2017,24
+Dominican Republic,2017,9
+Mauritius,2017,2
+Egypt,2017,7
+Prishtina,2017,1
+Montenegro,2017,15
+Lebanon,2017,4
+Bahrain,2017,2
+Morocco,2017,50
+Belarus,2017,9
+Azerbaijan,2017,4
+Czechia,2017,84
+Moldova,2017,3
+Jamaica,2017,6
+Aruba,2017,9
+Lesotho,2017,1
+The Bahamas,2017,3
+Vatican City,2017,4
+Tanzania,2017,9
+Botswana,2017,1
+Bosnia and Herzegovina,2017,17
+Faroe Islands,2017,2
+Curaçao,2017,8
+Saint Kitts and Nevis,2017,5
+Puerto Rico,2017,11
+Cayman Islands,2017,3
+Monaco,2017,6
+Fiji,2017,2
+Iran,2017,5
+Madagascar,2017,2
+Tonga,2017,1
+Ethiopia,2017,2
+Guatemala,2017,6
+Andorra,2017,2
+Greenland,2017,1
+Seychelles,2017,1
+Myanmar,2017,3
+Maldives,2017,6
+Oman,2017,4
+Saudi Arabia,2017,2
+Reunion,2017,1
+Namibia,2017,1
+Kazakhstan,2017,2
+Bermuda,2017,2
+Guadeloupe,2017,1
+Luxembourg,2017,5
+Myanmar (Burma),2017,10
+Rwanda,2017,1
+Trinidad and Tobago,2017,1
+Haiti,2017,1
+U.S. Virgin Islands,2017,1
+Swaziland,2017,1
+Uganda,2017,1
+North Korea,2017,2
+Albania,2017,7
+Pakistan,2017,1
+Guernsey,2017,1
+Red Sea,2017,1
+Bab al-Mandab Strait,2017,1
+Bangladesh,2017,3
+Gibraltar,2017,2
+Papua New Guinea,2017,1
+Cape Verde,2017,2
+Macedonia (FYROM),2017,5
+Caribbean Sea,2017,4
+Sint Maarten,2017,7
+Senegal,2017,1
+Cameroon,2017,1
+Lake Titicaca,2017,1
+Atlantic Ocean,2017,3
+Åland Islands,2017,1
+Antigua and Barbuda,2017,3
+Patagonia,2017,1
+Macedonia,2017,1
+Pristina District,2017,1
+Bosnia-Herzegovina,2017,2
+Barbados,2017,2
+Liechtenstein,2017,1
+Cook Islands,2017,1
+Crimea,2017,1
+El Salvador,2017,2
+Iguazu Falls,2017,1
+New Caledonia,2017,1
+Algeria,2017,1
+Mayotte,2017,1
+Saint Lucia,2017,1
+Grenada,2017,2
+Saint Vincent and the Grenadines,2017,1
+Martinique,2017,1
+Solomon Islands,2017,1
+United States,2018,299
+Czech Republic,2018,11
+Greece,2018,39
+Italy,2018,58
+Belgium,2018,32
+Kenya,2018,5
+Ukraine,2018,19
+Netherlands,2018,81
+Panama,2018,12
+France,2018,100
+Costa Rica,2018,20
+South Korea,2018,38
+Thailand,2018,210
+Laos,2018,16
+Vietnam,2018,80
+Malaysia,2018,76
+Indonesia,2018,167
+Singapore,2018,73
+Cambodia,2018,24
+Austria,2018,38
+China,2018,70
+Mongolia,2018,5
+Russia,2018,28
+Lithuania,2018,12
+Poland,2018,38
+United Kingdom,2018,131
+Paraguay,2018,1
+Brazil,2018,29
+Argentina,2018,29
+Uruguay,2018,11
+Chile,2018,17
+Georgia,2018,6
+Sri Lanka,2018,14
+Portugal,2018,83
+Spain,2018,147
+Peru,2018,24
+Ecuador,2018,5
+Canada,2018,66
+Mexico,2018,77
+New Zealand,2018,21
+Colombia,2018,48
+Nepal,2018,6
+Australia,2018,64
+Cuba,2018,7
+Hungary,2018,54
+Norway,2018,22
+Latvia,2018,8
+Estonia,2018,17
+Finland,2018,15
+Taiwan,2018,26
+Iceland,2018,20
+South Africa,2018,28
+Switzerland,2018,33
+Nicaragua,2018,13
+Honduras,2018,2
+Belize,2018,3
+Philippines,2018,31
+United Arab Emirates,2018,21
+Japan,2018,74
+Romania,2018,24
+Bolivia,2018,3
+Ireland,2018,30
+Germany,2018,123
+Denmark,2018,20
+Israel,2018,19
+Turkey,2018,25
+Cyprus,2018,5
+Bulgaria,2018,20
+Slovenia,2018,6
+Croatia,2018,36
+Armenia,2018,2
+Jordan,2018,4
+Sweden,2018,37
+,2018,7
+Serbia,2018,19
+India,2018,32
+Malta,2018,13
+Qatar,2018,9
+Slovakia,2018,9
+Dominican Republic,2018,2
+Mauritius,2018,1
+Egypt,2018,9
+Montenegro,2018,4
+Bahrain,2018,2
+Morocco,2018,24
+Belarus,2018,8
+Azerbaijan,2018,1
+Czechia,2018,35
+Moldova,2018,1
+Jamaica,2018,1
+Aruba,2018,4
+The Bahamas,2018,1
+Vatican City,2018,1
+Tanzania,2018,1
+Bosnia and Herzegovina,2018,2
+Faroe Islands,2018,1
+Puerto Rico,2018,3
+Monaco,2018,3
+Fiji,2018,1
+Kyrgyzstan,2018,2
+Madagascar,2018,1
+Ethiopia,2018,2
+Guatemala,2018,9
+Andorra,2018,4
+Seychelles,2018,1
+Myanmar,2018,3
+Maldives,2018,2
+Oman,2018,2
+Namibia,2018,1
+Tunisia,2018,3
+Kazakhstan,2018,1
+Luxembourg,2018,2
+Myanmar (Burma),2018,3
+Rwanda,2018,2
+Trinidad and Tobago,2018,1
+Nigeria,2018,1
+Uganda,2018,1
+Albania,2018,7
+Gibraltar,2018,3
+Republic of Macedonia,2018,2
+Macedonia (FYROM),2018,3
+Senegal,2018,1
+Mozambique,2018,1
+Macedonia,2018,3
+Barbados,2018,1
+Liechtenstein,2018,1
+Timor-Leste,2018,1
+Turks and Caicos Islands,2018,1
+Bosnia,2018,2
+Mediterranean Sea,2018,1
+Nicosia,2018,1
+Côte d'Ivoire,2018,1
+Saint Lucia,2018,1
+Andaman Sea,2018,1

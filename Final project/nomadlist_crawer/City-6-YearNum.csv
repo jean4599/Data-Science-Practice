@@ -1,0 +1,238 @@
+country,2000-2005,2006-2011,2012-2017
+United States,176,485,1007
+Greece,15,34,125
+Italy,44,103,284
+Belgium,8,47,89
+Kenya,7,7,10
+Netherlands,29,126,304
+France,58,181,373
+South Korea,6,48,135
+Thailand,51,289,779
+Laos,5,16,36
+Vietnam,17,89,284
+Malaysia,17,106,283
+Indonesia,18,147,389
+Singapore,23,90,227
+Cambodia,8,52,124
+Austria,15,52,138
+China,39,127,285
+Russia,16,38,78
+Lithuania,3,12,33
+Poland,10,49,113
+United Kingdom,66,208,481
+Brazil,15,72,119
+Argentina,7,29,120
+Chile,2,27,67
+Sri Lanka,2,15,43
+Portugal,11,74,324
+Spain,39,197,564
+Peru,4,27,92
+Ecuador,2,14,30
+Canada,33,94,232
+Mexico,11,62,250
+New Zealand,6,44,100
+Colombia,10,48,160
+Nepal,4,16,21
+Australia,32,90,223
+Cuba,1,6,39
+Hungary,9,74,198
+Norway,7,34,67
+Latvia,5,13,23
+Finland,3,25,55
+Taiwan,8,51,123
+South Africa,11,26,63
+Switzerland,23,48,117
+Belize,3,10,8
+Philippines,11,52,98
+United Arab Emirates,7,42,75
+Japan,25,88,260
+Romania,3,18,63
+Ireland,10,40,100
+Germany,59,225,477
+Denmark,12,54,109
+Israel,7,20,58
+Turkey,15,50,80
+Cyprus,2,5,16
+Bulgaria,2,14,68
+Slovenia,2,22,27
+Croatia,8,43,131
+Jordan,4,5,11
+Sweden,14,52,114
+,2,5,8
+Serbia,4,19,81
+India,18,42,105
+Malta,1,6,30
+Slovakia,4,17,46
+Dominican Republic,5,10,17
+Mauritius,4,3,2
+Egypt,6,9,21
+Czechia,11,74,164
+Moldova,2,2,5
+Jamaica,2,5,6
+The Bahamas,5,5,5
+Tanzania,8,3,14
+Botswana,2,2,1
+Cayman Islands,2,0,4
+Monaco,3,4,9
+Iran,1,4,9
+Ethiopia,1,1,3
+Maldives,1,6,7
+Reunion,1,1,1
+Namibia,2,4,2
+Zimbabwe,2,1,0
+Zambia,2,0,0
+Malawi,2,0,0
+Somalia,1,0,0
+Sudan,1,0,0
+Libya,1,0,0
+Tunisia,2,1,1
+Caribbean Netherlands,1,1,0
+Kazakhstan,1,0,8
+Luxembourg,4,7,10
+Rwanda,3,0,4
+Leh,1,0,0
+Uganda,2,2,2
+Venezuela,1,2,2
+Gibraltar,1,1,3
+Sierra Leone,1,0,0
+Burundi,1,0,0
+Czech Republic,1,2,5
+Ukraine,1,13,61
+Panama,1,15,41
+Costa Rica,3,26,60
+Mongolia,2,0,5
+Iceland,7,12,51
+Nicaragua,1,7,20
+Bolivia,2,12,27
+Armenia,2,1,4
+Morocco,4,25,85
+Aruba,1,3,12
+Lesotho,1,0,1
+Vatican City,1,1,8
+Bosnia and Herzegovina,2,3,23
+Guatemala,2,9,21
+Andorra,1,4,2
+Saudi Arabia,1,4,5
+Djibouti,1,0,0
+Albania,1,5,12
+Macedonia (FYROM),1,1,5
+Senegal,1,1,4
+Mozambique,1,0,2
+Macedonia,2,4,3
+Prizren District,1,0,0
+Pristina District,1,0,1
+Bosnia-Herzegovina,1,6,8
+Barbados,1,0,5
+Crimea,1,0,1
+Western Sahara,1,0,0
+Bethlehem,1,0,0
+Paraguay,0,2,7
+Uruguay,0,11,32
+Georgia,0,3,31
+Estonia,0,18,67
+Honduras,0,3,7
+Qatar,0,4,24
+Montenegro,0,11,32
+Lebanon,0,6,7
+Bahrain,0,2,2
+Belarus,0,5,12
+Curaçao,0,5,9
+Puerto Rico,0,7,16
+Kyrgyzstan,0,3,4
+Myanmar,0,14,15
+Oman,0,2,5
+Bhutan,0,2,1
+Myanmar (Burma),0,1,20
+Trinidad and Tobago,0,1,1
+U.S. Virgin Islands,0,1,3
+Swaziland,0,2,1
+North Korea,0,3,3
+Bangladesh,0,1,5
+Cameroon,0,2,1
+South Sudan,0,1,0
+AD100,0,1,0
+Kuwait,0,1,0
+Saint-Barthélemy,0,2,1
+Liechtenstein,0,1,1
+KY16,0,1,1
+Timor-Leste,0,1,1
+Turks and Caicos Islands,0,2,0
+El Salvador,0,1,7
+French Polynesia,0,1,1
+British Virgin Islands,0,3,0
+San Marino,0,1,4
+Fiji,0,3,5
+Tonga,0,1,1
+Seychelles,0,2,2
+Brunei,0,1,1
+Bermuda,0,2,5
+Nigeria,0,1,2
+LL48,0,1,0
+Angola,0,1,0
+Svalbard and Jan Mayen,0,2,2
+Collectivity of Saint Martin,0,2,0
+Anguilla,0,1,0
+Samoa,0,1,0
+Kosovo,0,1,2
+Cocos (Keeling) Islands,0,1,0
+Perú,0,1,0
+Sanur,0,1,0
+Antarctica,0,0,6
+180 40,0,0,1
+Azerbaijan,0,0,8
+Madagascar,0,0,3
+Greenland,0,0,2
+Uzbekistan,0,0,2
+Guadeloupe,0,0,2
+Pakistan,0,0,2
+Cape Verde,0,0,3
+Sint Maarten,0,0,10
+671 03,0,0,1
+Ghana,0,0,2
+Atlantic Ocean,0,0,4
+Antigua and Barbuda,0,0,5
+Cook Islands,0,0,2
+Lower Subansiri,0,0,1
+Abkhazia,0,0,1
+IV51,0,0,1
+Saint Martin,0,0,1
+AB30,0,0,1
+Afghanistan,0,0,1
+Hong Kong,0,0,2
+630 72,0,0,1
+Khammouane Province,0,0,1
+847 00,0,0,1
+11000,0,0,1
+45230,0,0,1
+DG6,0,0,1
+Palau,0,0,1
+Spania,0,0,1
+Saint Lucia,0,0,3
+EX17,0,0,1
+Slovensko,0,0,1
+Finnland,0,0,1
+Prishtina,0,0,1
+Faroe Islands,0,0,2
+Saint Kitts and Nevis,0,0,5
+Haiti,0,0,1
+Guernsey,0,0,1
+Red Sea,0,0,1
+Bab al-Mandab Strait,0,0,1
+Papua New Guinea,0,0,1
+Caribbean Sea,0,0,4
+Lake Titicaca,0,0,1
+Åland Islands,0,0,1
+Patagonia,0,0,1
+Iguazu Falls,0,0,1
+New Caledonia,0,0,1
+Algeria,0,0,1
+Mayotte,0,0,1
+Grenada,0,0,2
+Saint Vincent and the Grenadines,0,0,1
+Martinique,0,0,1
+Solomon Islands,0,0,1
+,1
+Grenada,0,0,2
+Saint Vincent and the Grenadines,0,0,1
+Martinique,0,0,1
+Solomon Islands,0,0,1

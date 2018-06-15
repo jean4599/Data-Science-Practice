@@ -1,0 +1,10270 @@
+country,year,num
+New York City,2018,34
+New York City,2017,4
+New York City,2015,1
+New York City,2016,1
+New York City,2013,1
+New York City,2011,1
+Prague,2018,43
+Prague,2008,2
+Prague,2016,76
+Prague,2014,26
+Prague,2015,46
+Prague,2017,82
+Prague,2009,1
+Prague,2013,5
+Prague,2006,1
+Prague,2011,2
+Prague,2012,5
+Prague,1995,1
+Prague,1919,1
+Prague,2007,1
+Prague,2002,1
+Prague,2010,1
+Thessaloniki,2018,3
+Thessaloniki,2015,3
+Thessaloniki,2016,9
+Thessaloniki,2017,4
+Thessaloniki,2014,1
+Rome,2018,18
+Rome,2017,58
+Rome,2006,3
+Rome,2016,51
+Rome,2015,24
+Rome,2014,9
+Rome,2012,10
+Rome,2002,2
+Rome,2013,9
+Rome,2010,3
+Rome,2004,3
+Rome,1994,1
+Rome,1991,1
+Rome,2009,1
+Rome,2000,1
+Rome,2007,1
+Rome,2003,1
+Antwerp,2018,8
+Antwerp,2017,3
+Antwerp,2006,1
+Antwerp,2014,4
+Antwerp,2016,5
+Antwerp,2015,4
+Antwerp,2007,1
+Antwerp,2009,1
+Brussels,2018,20
+Brussels,2016,29
+Brussels,2014,8
+Brussels,2015,27
+Brussels,1993,1
+Brussels,2017,32
+Brussels,2009,1
+Brussels,2008,1
+Brussels,2004,2
+Brussels,2006,2
+Brussels,2013,4
+Brussels,2011,2
+Brussels,2012,2
+Brussels,2010,2
+Brussels,2002,1
+Nairobi,2018,4
+Nairobi,2012,3
+Nairobi,2008,1
+Nairobi,2004,1
+Nairobi,2016,5
+Nairobi,2015,5
+Nairobi,2017,3
+Nairobi,2010,2
+Nairobi,2014,2
+Nairobi,2013,3
+Nairobi,2002,1
+Kiev,2018,17
+Kiev,2016,15
+Kiev,2014,4
+Kiev,2017,28
+Kiev,2011,2
+Kiev,1991,1
+Kiev,2015,4
+Kiev,2009,1
+Kiev,2013,1
+Amsterdam,2018,66
+Amsterdam,2016,118
+Amsterdam,2015,70
+Amsterdam,2014,30
+Amsterdam,2017,127
+Amsterdam,2010,8
+Amsterdam,2012,10
+Amsterdam,2011,7
+Amsterdam,2013,12
+Amsterdam,2008,6
+Amsterdam,1989,1
+Amsterdam,2009,2
+Amsterdam,2006,1
+Amsterdam,2001,1
+Amsterdam,1975,1
+Amsterdam,2002,3
+Amsterdam,1991,1
+Amsterdam,2007,2
+Amsterdam,1919,2
+Panama City,2018,10
+Panama City,2017,22
+Panama City,2014,2
+Panama City,2016,10
+Panama City,2015,4
+"New York City, NY",2018,64
+"New York City, NY",2017,178
+"New York City, NY",2016,145
+"New York City, NY",2014,52
+"New York City, NY",2015,100
+"New York City, NY",2008,1
+"New York City, NY",2010,9
+"New York City, NY",2013,26
+"New York City, NY",2012,17
+"New York City, NY",2009,4
+"New York City, NY",2011,16
+"New York City, NY",2005,4
+"New York City, NY",2006,3
+"New York City, NY",1999,4
+"New York City, NY",2004,2
+"New York City, NY",2003,2
+"New York City, NY",2002,1
+"New York City, NY",1998,1
+"New York City, NY",1997,1
+"New York City, NY",1996,1
+"New York City, NY",1995,1
+"New York City, NY",1919,2
+"New York City, NY",2007,1
+"New York City, NY",1992,1
+Avignon,2018,1
+Avignon,2015,1
+Avignon,2014,1
+Avignon,2017,1
+Avignon,2012,1
+Avignon,2010,1
+Santa Catalina,2018,1
+Santa Catalina,2017,2
+San José Province,2018,4
+San José Province,2016,3
+San José Province,2005,1
+San José Province,2017,4
+San José Province,2003,1
+Bocas del Toro,2017,8
+Bocas del Toro,2018,3
+Bocas del Toro,2015,2
+Bocas del Toro,2016,1
+Puerto Viejo,2017,6
+Puerto Viejo,2016,4
+Puerto Viejo,2014,2
+Puerto Viejo,2015,1
+Puerto Viejo,2018,2
+San José,2017,10
+San José,2016,11
+San José,2007,1
+San José,2015,9
+San José,2018,7
+San José,2008,1
+San José,2013,1
+San José,2014,1
+Del Coco Beach,2017,1
+Del Coco Beach,2016,1
+Playas del Coco,2017,1
+"Detroit, MI",2017,8
+"Detroit, MI",2015,9
+"Detroit, MI",2018,4
+"Detroit, MI",2016,5
+"Detroit, MI",2014,3
+"Detroit, MI",2013,1
+"Detroit, MI",2012,1
+"Detroit, MI",2011,1
+"Detroit, MI",2010,2
+"Detroit, MI",2009,1
+"Detroit, MI",2008,2
+"Detroit, MI",2007,1
+"Detroit, MI",2006,1
+Seoul,2017,57
+Seoul,2016,60
+Seoul,2011,4
+Seoul,2015,34
+Seoul,2008,2
+Seoul,2007,1
+Seoul,2012,2
+Seoul,2018,36
+Seoul,2014,8
+Seoul,2010,3
+Seoul,2009,3
+Seoul,2013,2
+Seoul,2005,1
+Bangkok,2017,221
+Bangkok,2016,261
+Bangkok,2013,22
+Bangkok,2014,48
+Bangkok,2015,139
+Bangkok,2018,129
+Bangkok,2011,4
+Bangkok,2008,1
+Bangkok,2012,17
+Bangkok,2010,8
+Bangkok,2009,3
+Bangkok,2007,1
+Bangkok,2002,1
+Bangkok,1994,1
+Bangkok,1920,1
+Bangkok,1999,1
+Bangkok,1919,1
+Luang Prabang,2017,10
+Luang Prabang,2016,8
+Luang Prabang,2018,5
+Luang Prabang,2010,1
+Luang Prabang,2015,2
+Luang Prabang,2014,1
+Luang Prabang,2013,2
+Luang Prabang,2011,1
+Mueang Chiang Rai,2017,8
+Mueang Chiang Rai,2014,1
+Mueang Chiang Rai,2016,2
+Mueang Chiang Rai,2015,1
+Mueang Chiang Rai,2018,1
+Hanoi,2017,76
+Hanoi,2016,46
+Hanoi,2015,28
+Hanoi,2018,24
+Hanoi,2013,5
+Hanoi,2014,7
+Hanoi,2007,1
+Hanoi,2012,1
+Hanoi,2009,1
+Hanoi,1988,1
+Hanoi,2010,1
+Ho Chi Minh City,2017,96
+Ho Chi Minh City,2018,53
+Ho Chi Minh City,2014,12
+Ho Chi Minh City,2016,84
+Ho Chi Minh City,2013,9
+Ho Chi Minh City,2015,39
+Ho Chi Minh City,2010,3
+Ho Chi Minh City,1999,1
+Ho Chi Minh City,1993,1
+Ho Chi Minh City,1919,1
+Ho Chi Minh City,2012,1
+Ho Chi Minh City,2011,1
+Kuala Lumpur,2017,124
+Kuala Lumpur,2016,124
+Kuala Lumpur,2018,59
+Kuala Lumpur,2014,18
+Kuala Lumpur,2011,6
+Kuala Lumpur,2015,64
+Kuala Lumpur,2013,4
+Kuala Lumpur,2012,3
+Kuala Lumpur,2010,2
+Kuala Lumpur,2005,2
+Kuala Lumpur,2009,1
+Kuala Lumpur,2006,1
+Bali,2017,22
+Bali,2011,2
+Bali,2016,8
+Bali,2015,4
+Bali,2012,1
+Bali,2014,1
+Singapore,2017,125
+Singapore,2015,76
+Singapore,2016,101
+Singapore,2018,72
+Singapore,2002,1
+Singapore,2011,3
+Singapore,2013,11
+Singapore,2014,14
+Singapore,2012,12
+Singapore,2010,3
+Singapore,2007,1
+Singapore,2006,3
+Singapore,2003,1
+Singapore,2009,2
+Singapore,1995,1
+Singapore,2004,1
+Singapore,2008,1
+Singapore,2005,1
+Ko Pha Ngan,2016,42
+Ko Pha Ngan,2018,16
+Ko Pha Ngan,2015,25
+Ko Pha Ngan,2012,2
+Ko Pha Ngan,2017,24
+Ko Pha Ngan,2013,5
+Ko Pha Ngan,2014,7
+Ko Pha Ngan,1919,1
+Ko Pha Ngan,2011,1
+Phnom Penh,2016,31
+Phnom Penh,2017,26
+Phnom Penh,2003,1
+Phnom Penh,2013,3
+Phnom Penh,2018,17
+Phnom Penh,2014,8
+Phnom Penh,2015,15
+Phnom Penh,2011,2
+Phnom Penh,2012,2
+Phnom Penh,2002,1
+Phnom Penh,2010,3
+Vienna,2016,46
+Vienna,2014,19
+Vienna,2012,6
+Vienna,2017,49
+Vienna,2013,2
+Vienna,2018,29
+Vienna,2008,2
+Vienna,2015,22
+Vienna,2002,3
+Vienna,2011,3
+Vienna,2006,3
+Vienna,2003,1
+Vienna,2004,1
+Paris,2016,115
+Paris,2018,62
+Paris,2013,26
+Paris,2015,87
+Paris,2017,133
+Paris,2006,5
+Paris,2005,3
+Paris,2014,39
+Paris,2011,7
+Paris,2002,3
+Paris,2012,20
+Paris,2009,3
+Paris,2008,5
+Paris,2001,1
+Paris,1994,1
+Paris,1991,1
+Paris,1999,1
+Paris,2000,2
+Paris,2010,7
+Paris,2007,3
+Paris,2004,1
+Paris,1919,1
+Paris,2003,1
+Beijing,2016,31
+Beijing,2011,2
+Beijing,2018,10
+Beijing,2015,23
+Beijing,2014,5
+Beijing,2012,6
+Beijing,2017,16
+Beijing,1994,1
+Beijing,2013,3
+Beijing,2006,2
+Beijing,2010,2
+Beijing,2004,1
+Beijing,2009,3
+Beijing,2008,1
+Beijing,2007,1
+Ulaanbaatar,2016,3
+Ulaanbaatar,2011,1
+Ulaanbaatar,2018,5
+Ulaanbaatar,2009,1
+Ulaanbaatar,2013,2
+Ulaanbaatar,2017,2
+Irkutsk,2016,3
+Irkutsk,2011,1
+Irkutsk,2009,1
+Irkutsk,2003,1
+Irkutsk,2018,1
+Yekaterinburg,2016,2
+Yekaterinburg,2018,1
+Moscow,2016,29
+Moscow,2018,20
+Moscow,2017,32
+Moscow,2015,19
+Moscow,2014,6
+Moscow,1997,1
+Moscow,2011,1
+Moscow,2008,1
+Moscow,2013,4
+Moscow,2012,4
+Moscow,2009,1
+Moscow,2007,1
+Moscow,1991,1
+Saint Petersburg,2016,16
+Saint Petersburg,2017,20
+Saint Petersburg,2015,9
+Saint Petersburg,2011,2
+Saint Petersburg,2018,17
+Saint Petersburg,2014,6
+Saint Petersburg,2012,4
+Saint Petersburg,2008,1
+Saint Petersburg,1987,1
+Saint Petersburg,2013,3
+Saint Petersburg,2007,1
+Vilnius,2016,13
+Vilnius,2018,9
+Vilnius,2000,2
+Vilnius,2017,15
+Vilnius,2015,9
+Vilnius,2014,1
+Vilnius,2004,1
+Vilnius,1984,1
+Vilnius,2013,1
+Vilnius,2012,1
+Bialystok,2016,2
+Bialystok,2014,1
+Warsaw,2016,26
+Warsaw,2014,12
+Warsaw,2018,19
+Warsaw,2017,32
+Warsaw,2015,12
+Warsaw,2013,5
+Warsaw,2011,1
+Warsaw,2006,1
+Warsaw,2012,3
+Warsaw,2008,1
+Warsaw,2004,1
+London,2016,187
+London,2014,38
+London,2017,190
+London,2013,25
+London,2012,21
+London,2011,14
+London,2004,4
+London,2003,2
+London,2002,3
+London,2001,2
+London,2000,3
+London,1999,1
+London,2018,106
+London,2010,12
+London,2015,124
+London,2009,14
+London,2008,5
+London,2006,3
+London,2007,3
+London,1991,1
+London,1919,1
+London,2005,2
+Liberia,2016,5
+Liberia,2018,3
+Liberia,2017,1
+Asuncion,2016,2
+Asuncion,2017,4
+Asuncion,2014,1
+Asuncion,2015,1
+Asuncion,2018,1
+Foz do Iguaçu,2016,2
+Foz do Iguaçu,2017,5
+Puerto Iguazú,2016,3
+Puerto Iguazú,2017,2
+Puerto Iguazú,2015,1
+Colonia Department,2016,1
+Colonia Department,2018,2
+Colonia Department,2017,1
+Santiago,2016,30
+Santiago,2017,27
+Santiago,2018,15
+Santiago,2014,10
+Santiago,2012,1
+Santiago,2010,2
+Santiago,2015,9
+Santiago,2013,1
+Santiago,1919,1
+Santiago,2007,1
+Santiago,2005,1
+Buenos Aires,2016,47
+Buenos Aires,2017,58
+Buenos Aires,2018,26
+Buenos Aires,2006,3
+Buenos Aires,2015,20
+Buenos Aires,2014,6
+Buenos Aires,2012,2
+Buenos Aires,2009,2
+Buenos Aires,2013,4
+Buenos Aires,2011,4
+Buenos Aires,1919,1
+Buenos Aires,2005,1
+Buenos Aires,2000,1
+Buenos Aires,1984,1
+Buenos Aires,2003,1
+Buenos Aires,2010,2
+Antarctica,2016,2
+Antarctica,2017,1
+Juneau,2014,2
+Juneau,2016,1
+Juneau,2013,1
+"San Francisco, CA",2014,41
+"San Francisco, CA",2016,149
+"San Francisco, CA",2017,138
+"San Francisco, CA",2013,25
+"San Francisco, CA",2015,103
+"San Francisco, CA",2018,78
+"San Francisco, CA",2007,2
+"San Francisco, CA",2011,12
+"San Francisco, CA",2012,21
+"San Francisco, CA",2006,2
+"San Francisco, CA",2005,1
+"San Francisco, CA",2010,8
+"San Francisco, CA",2008,2
+"San Francisco, CA",2001,1
+King Salmon,2014,1
+Tbilisi,2017,18
+Tbilisi,2016,11
+Tbilisi,2018,6
+Tbilisi,2015,2
+Unawatuna,2017,1
+Unawatuna,2014,1
+Hikkaduwa,2017,4
+Hikkaduwa,2018,1
+Colombo,2017,11
+Colombo,2018,9
+Colombo,2015,5
+Colombo,2016,9
+Colombo,2013,1
+Colombo,2011,1
+Colombo,1919,1
+Colombo,2014,4
+"Canggu, Bali",2016,50
+"Canggu, Bali",2015,20
+"Canggu, Bali",2018,106
+"Canggu, Bali",2017,103
+"Canggu, Bali",1919,2
+"Canggu, Bali",2013,2
+"Canggu, Bali",2012,2
+"Canggu, Bali",2014,7
+Lisbon,2017,162
+Lisbon,2016,110
+Lisbon,2015,46
+Lisbon,1995,1
+Lisbon,2018,65
+Lisbon,2014,14
+Lisbon,2012,5
+Lisbon,2013,5
+Lisbon,2009,2
+Lisbon,2008,1
+Lisbon,2005,1
+Lisbon,2011,1
+Barcelona,2017,144
+Barcelona,2015,78
+Barcelona,2018,73
+Barcelona,2016,137
+Barcelona,2012,9
+Barcelona,2011,7
+Barcelona,2003,2
+Barcelona,2014,28
+Barcelona,2013,14
+Barcelona,2008,3
+Barcelona,1999,1
+Barcelona,2006,2
+Barcelona,2004,1
+Barcelona,2001,1
+Barcelona,2007,2
+Barcelona,2010,2
+Barcelona,2005,2
+Barcelona,2009,2
+Barcelona,2002,1
+Cordoba,2016,9
+Cordoba,2015,2
+Cordoba,1995,1
+Cordoba,1992,1
+Cordoba,2017,8
+Cordoba,2018,1
+Cordoba,2009,1
+Cusco,2016,21
+Cusco,2015,10
+Cusco,2018,13
+Cusco,2007,2
+Cusco,2017,21
+Cusco,2013,2
+Cusco,2014,4
+Cusco,2011,1
+Cuenca,2016,4
+Cuenca,2018,1
+Cuenca,2017,4
+Cuenca,2013,1
+Quito,2016,7
+Quito,2017,8
+Quito,2007,1
+Quito,2018,5
+Quito,2015,7
+Quito,2006,1
+Quito,2008,1
+Quito,2012,1
+Quito,2013,1
+Quito,2009,1
+Quito,2014,2
+Quito,2010,1
+Edinburgh,2016,28
+Edinburgh,2015,10
+Edinburgh,2018,11
+Edinburgh,2013,3
+Edinburgh,2017,29
+Edinburgh,2002,1
+Edinburgh,2012,2
+Edinburgh,2011,2
+Edinburgh,2009,1
+Edinburgh,2014,6
+Edinburgh,2010,3
+Madrid,2015,34
+Madrid,2018,40
+Madrid,2016,66
+Madrid,2017,74
+Madrid,2012,5
+Madrid,2014,10
+Madrid,2010,6
+Madrid,2013,4
+Madrid,2004,1
+Madrid,1991,1
+Madrid,2009,2
+Madrid,2001,1
+Madrid,2005,1
+Madrid,2011,1
+Malaga,2015,8
+Malaga,2017,20
+Malaga,2016,15
+Malaga,2018,14
+Malaga,2013,2
+Malaga,2008,1
+Malaga,2014,1
+Malaga,2006,1
+Malaga,2001,1
+Montreal,2018,16
+Montreal,2015,23
+Montreal,2013,6
+Montreal,2016,36
+Montreal,2017,37
+Montreal,2012,3
+Montreal,2008,2
+Montreal,2014,6
+Montreal,2005,2
+Montreal,2001,1
+Montreal,2009,3
+Montreal,1919,1
+Montreal,2003,1
+Montreal,2002,1
+Cancun,2018,5
+Cancun,2017,22
+Cancun,2015,4
+Cancun,2011,1
+Cancun,2016,9
+Cancun,2014,3
+Cancun,1992,1
+Cancun,1997,1
+Cancun,2007,1
+Cancun,2013,2
+Cancun,2012,2
+Cancun,2008,1
+Wellington,2017,20
+Wellington,2016,17
+Wellington,2015,11
+Wellington,2018,6
+Wellington,2007,1
+Wellington,2013,1
+Wellington,2005,1
+Wellington,2014,1
+Cartagena,2015,9
+Cartagena,2017,32
+Cartagena,2016,22
+Cartagena,2018,13
+Cartagena,2012,1
+Cartagena,2014,2
+Medellín,2015,32
+Medellín,2017,74
+Medellín,2018,41
+Medellín,2016,44
+Medellín,2014,3
+Medellín,2013,3
+Medellín,2006,1
+Medellín,1919,1
+Medellín,2007,1
+Shanghai,2015,28
+Shanghai,2017,31
+Shanghai,2016,25
+Shanghai,2012,3
+Shanghai,2018,16
+Shanghai,2004,1
+Shanghai,2013,6
+Shanghai,2014,3
+Shanghai,2007,4
+Shanghai,2006,1
+Shanghai,2010,5
+Shanghai,2009,3
+Shanghai,2011,1
+Shanghai,2008,2
+Kathmandu,2015,7
+Kathmandu,2018,6
+Kathmandu,2017,8
+Kathmandu,2014,8
+Kathmandu,2016,7
+Kathmandu,2007,1
+Kathmandu,2011,1
+Kathmandu,2012,2
+Kathmandu,2013,2
+Melbourne,2017,52
+Melbourne,2016,54
+Melbourne,2013,10
+Melbourne,2018,27
+Melbourne,2015,29
+Melbourne,2014,11
+Melbourne,2004,1
+Melbourne,2008,2
+Melbourne,1991,1
+Melbourne,2012,5
+Melbourne,2010,1
+Melbourne,2011,2
+Melbourne,2006,1
+Melbourne,2003,1
+Auckland,2017,33
+Auckland,2014,6
+Auckland,2016,30
+Auckland,2012,2
+Auckland,2018,13
+Auckland,2015,19
+Auckland,2002,1
+Auckland,2013,1
+Auckland,2006,2
+Auckland,2007,1
+Auckland,2005,1
+Auckland,2009,1
+Sydney,2017,65
+Sydney,2016,56
+Sydney,2014,9
+Sydney,2012,10
+Sydney,2011,5
+Sydney,2018,34
+Sydney,2015,29
+Sydney,2004,1
+Sydney,2013,8
+Sydney,2010,3
+Sydney,2008,1
+Sydney,2007,1
+Sydney,2006,1
+Sydney,1993,1
+Sydney,1991,1
+Sydney,2009,2
+Sydney,1919,1
+Encinitas,2017,2
+Encinitas,2016,2
+Encinitas,2007,1
+"Las Vegas, NV",2017,43
+"Las Vegas, NV",2015,28
+"Las Vegas, NV",2009,5
+"Las Vegas, NV",2007,1
+"Las Vegas, NV",2006,1
+"Las Vegas, NV",2014,10
+"Las Vegas, NV",2013,6
+"Las Vegas, NV",2011,4
+"Las Vegas, NV",2016,30
+"Las Vegas, NV",2018,18
+"Las Vegas, NV",2010,8
+"Las Vegas, NV",2000,1
+"Las Vegas, NV",2012,13
+"Las Vegas, NV",2008,2
+"Tampa, FL",2017,8
+"Tampa, FL",2018,2
+"Tampa, FL",2015,2
+"Tampa, FL",2016,3
+"Tampa, FL",2013,1
+"Tampa, FL",2010,1
+Brisbane,2017,22
+Brisbane,2014,8
+Brisbane,2015,9
+Brisbane,2016,14
+Brisbane,2012,2
+Brisbane,2018,8
+Brisbane,2009,1
+Brisbane,2007,1
+Brisbane,2013,1
+Maroochydore,2017,1
+"Ubud, Bali",2017,87
+"Ubud, Bali",2016,119
+"Ubud, Bali",2015,74
+"Ubud, Bali",2018,82
+"Ubud, Bali",2014,19
+"Ubud, Bali",2013,7
+"Ubud, Bali",2012,4
+"Ubud, Bali",2011,1
+"Ubud, Bali",2010,1
+"Ubud, Bali",2006,1
+"Ubud, Bali",2009,1
+"Ubud, Bali",1919,1
+Ko Tao,2016,21
+Ko Tao,2011,1
+Ko Tao,2013,3
+Ko Tao,2017,12
+Ko Tao,2009,1
+Ko Tao,2015,13
+Ko Tao,2014,4
+Ko Tao,2010,1
+Ko Tao,2018,2
+Ko Tao,2012,1
+Corniglia,2015,1
+Corniglia,2018,1
+"Los Angeles, CA",2018,59
+"Los Angeles, CA",2017,102
+"Los Angeles, CA",2011,5
+"Los Angeles, CA",2016,80
+"Los Angeles, CA",2015,41
+"Los Angeles, CA",2007,2
+"Los Angeles, CA",2014,17
+"Los Angeles, CA",2013,9
+"Los Angeles, CA",2009,7
+"Los Angeles, CA",1994,1
+"Los Angeles, CA",2006,1
+"Los Angeles, CA",2012,12
+"Los Angeles, CA",2008,2
+"Los Angeles, CA",1999,2
+"Los Angeles, CA",1998,2
+"Los Angeles, CA",1997,2
+"Los Angeles, CA",1996,2
+"Los Angeles, CA",1995,1
+"Los Angeles, CA",2002,2
+"Los Angeles, CA",2000,1
+"Los Angeles, CA",2010,6
+"Los Angeles, CA",2004,1
+"Los Angeles, CA",2001,1
+"Los Angeles, CA",2003,1
+"Los Angeles, CA",1991,1
+Havana,2017,24
+Havana,2018,7
+Havana,2016,14
+Havana,2010,1
+Havana,2015,5
+Havana,2004,1
+Havana,2012,1
+"Boston, MA",2017,44
+"Boston, MA",2015,38
+"Boston, MA",2014,10
+"Boston, MA",2016,26
+"Boston, MA",2011,4
+"Boston, MA",2018,11
+"Boston, MA",2013,7
+"Boston, MA",2012,6
+"Boston, MA",2006,1
+"Boston, MA",1919,1
+"Boston, MA",2010,2
+"Boston, MA",2007,1
+"Boston, MA",2005,1
+"Boston, MA",2004,1
+"Boston, MA",2009,2
+"Boston, MA",2008,1
+Chiang Mai,2018,113
+Chiang Mai,2017,186
+Chiang Mai,2013,9
+Chiang Mai,2016,219
+Chiang Mai,2015,113
+Chiang Mai,2014,29
+Chiang Mai,2008,1
+Chiang Mai,2011,2
+Chiang Mai,2012,3
+Chiang Mai,2010,3
+Chiang Mai,2002,1
+Chiang Mai,1919,1
+Budapest,2016,91
+Budapest,2014,19
+Budapest,2018,54
+Budapest,2015,54
+Budapest,2017,105
+Budapest,2009,1
+Budapest,2008,2
+Budapest,2002,1
+Budapest,2013,4
+Budapest,2010,2
+Budapest,2012,3
+Budapest,1919,1
+Budapest,2007,1
+Leknes Vest,2018,1
+Oslo,2018,17
+Oslo,2014,9
+Oslo,2016,27
+Oslo,2015,20
+Oslo,2017,25
+Oslo,2013,2
+Oslo,2001,1
+Oslo,2012,2
+Girona,2018,1
+Girona,2017,2
+Girona,2016,1
+Stavanger,2018,1
+Stavanger,2017,1
+Stavanger,2012,1
+Stavanger,2014,1
+Stavanger,2015,1
+Stavanger,1994,1
+Riga,2017,9
+Riga,2018,8
+Riga,2016,13
+Riga,2015,9
+Riga,2014,3
+Riga,2011,1
+Riga,2012,2
+Riga,2010,1
+Riga,2013,1
+Tallinn,2017,32
+Tallinn,2016,32
+Tallinn,2015,12
+Tallinn,2018,16
+Tallinn,2014,4
+Tallinn,1919,1
+Tallinn,2006,1
+Helsinki,2017,26
+Helsinki,2016,27
+Helsinki,2013,1
+Helsinki,2015,17
+Helsinki,2018,14
+Helsinki,2014,3
+Helsinki,2006,1
+Helsinki,2012,1
+Helsinki,2011,1
+Flores Timur,2017,1
+Lombok Barat,2017,1
+Lombok Barat,2018,1
+Taipei,2017,57
+Taipei,2018,25
+Taipei,2015,35
+Taipei,2010,1
+Taipei,2012,4
+Taipei,2016,42
+Taipei,2014,10
+Taipei,2013,2
+Taipei,2009,1
+Tainan,2017,2
+Tainan,2016,1
+Tainan,2014,1
+Hualien City,2017,5
+Hualien City,2010,1
+Hualien City,2014,1
+Hualien City,2018,1
+Hualien City,2015,1
+Møre og Romsdal County Municipality,2017,1
+Southern Peninsula Region,2017,1
+Southern Peninsula Region,2018,1
+Hong Kong,2017,91
+Hong Kong,2016,109
+Hong Kong,2003,1
+Hong Kong,2002,2
+Hong Kong,2013,10
+Hong Kong,2015,61
+Hong Kong,2018,44
+Hong Kong,2008,1
+Hong Kong,2014,18
+Hong Kong,2012,15
+Hong Kong,2011,4
+Hong Kong,2010,4
+Hong Kong,2006,1
+Hong Kong,2007,2
+Hong Kong,1994,1
+Hong Kong,2009,3
+Hong Kong,1996,1
+Hong Kong,2000,1
+Hong Kong,1919,1
+Hong Kong,2005,1
+Hong Kong,1921,1
+Bogota,2017,32
+Bogota,2016,26
+Bogota,2015,6
+Bogota,2013,5
+Bogota,2018,11
+Bogota,2014,1
+Bogota,2008,1
+Bogota,2010,1
+Bogota,1995,1
+Bogota,1983,1
+Cape Town,2017,34
+Cape Town,2015,14
+Cape Town,2014,6
+Cape Town,2018,25
+Cape Town,2016,21
+Cape Town,2012,4
+Cape Town,2010,1
+Cape Town,1994,1
+Cape Town,1999,2
+Cape Town,2013,4
+Cape Town,2011,4
+Cape Town,1988,1
+Cape Town,2007,1
+Athens,2012,4
+Athens,2016,39
+Athens,2017,53
+Athens,2018,30
+Athens,2015,18
+Athens,2010,1
+Athens,2013,3
+Athens,2014,3
+Athens,2006,1
+Athens,1994,1
+Athens,1919,1
+Puerto Vallarta,2010,1
+Puerto Vallarta,2018,11
+Puerto Vallarta,2015,4
+Puerto Vallarta,2017,13
+Puerto Vallarta,2016,5
+Puerto Vallarta,2014,2
+Puerto Vallarta,1999,1
+Puerto Vallarta,2007,1
+Puerto Vallarta,2009,1
+Puerto Vallarta,2008,1
+Puerto Vallarta,2006,1
+"Black Rock City, NV",1998,1
+"Black Rock City, NV",2017,8
+"Black Rock City, NV",2016,1
+"Black Rock City, NV",1919,1
+Southend-on-Sea,1994,1
+Southend-on-Sea,2009,1
+Milan,2017,53
+Milan,2016,35
+Milan,2015,16
+Milan,2014,11
+Milan,2013,2
+Milan,2018,8
+Milan,1997,1
+Milan,2007,1
+Milan,2011,1
+Milan,2004,1
+Milan,2010,1
+Lausanne,2017,3
+Lausanne,2015,7
+Lausanne,2016,4
+Lausanne,2018,2
+Lausanne,2013,1
+Lausanne,2010,1
+Lausanne,2007,1
+Lugano,2017,1
+Lugano,2016,1
+Lugano,2008,1
+Lugano,2011,1
+Lugano,2015,1
+Lugano,2018,1
+Bordeaux,2017,14
+Bordeaux,2018,4
+Bordeaux,2016,10
+Bordeaux,2015,4
+Bordeaux,2014,1
+Bordeaux,2011,1
+Rio de Janeiro,2017,24
+Rio de Janeiro,2015,20
+Rio de Janeiro,2018,8
+Rio de Janeiro,2016,33
+Rio de Janeiro,2010,2
+Rio de Janeiro,2009,1
+Rio de Janeiro,2014,9
+Rio de Janeiro,2005,1
+Rio de Janeiro,2006,1
+Rio de Janeiro,2012,1
+Rio de Janeiro,2013,1
+Florianopolis,2017,10
+Florianopolis,2018,9
+Florianopolis,2016,12
+Florianopolis,2015,4
+Peru,2017,2
+Peru,2015,1
+Peru,2016,1
+Peru,2018,1
+Peru,1919,1
+Peru,2014,1
+Nicaragua,2017,2
+Nicaragua,2014,1
+Nicaragua,2018,1
+Nicaragua,2010,1
+Honduras,2017,1
+Belize,2017,1
+Belize,2014,1
+Belize,2016,3
+Belize,2018,1
+Belize,2015,1
+Mexico,2017,1
+Mexico,2014,2
+Mexico,2016,5
+Mexico,2018,1
+Mexico,2004,1
+California,2017,3
+California,1993,1
+California,2010,1
+California,2018,1
+California,2016,1
+Vietnam,2017,3
+Vietnam,2014,2
+Vietnam,2018,2
+Vietnam,2016,6
+Vietnam,2011,2
+Vietnam,2015,2
+Vietnam,2002,1
+Vietnam,2013,2
+Vietnam,2009,1
+Vietnam,2008,1
+Philippines,2016,1
+Philippines,2017,5
+Philippines,2013,1
+Philippines,2009,1
+Philippines,2015,3
+Philippines,2018,1
+Dubai,2016,32
+Dubai,2013,5
+Dubai,2017,37
+Dubai,2015,21
+Dubai,2014,15
+Dubai,2018,21
+Dubai,2010,2
+Dubai,1919,1
+Dubai,2009,1
+Dubai,2012,2
+Dubai,2011,1
+Malaysia,2016,1
+Malaysia,2012,1
+Malaysia,2007,1
+Malaysia,2018,1
+Malaysia,2017,1
+Thailand,2015,7
+Thailand,2016,4
+Thailand,2006,1
+Thailand,2011,1
+Thailand,2017,7
+Thailand,2014,1
+Thailand,2010,1
+Thailand,2013,1
+China,2015,1
+China,2016,2
+Taiwan,2015,2
+Taiwan,2017,3
+Taiwan,2018,1
+Taiwan,2016,1
+South Korea,2015,2
+South Korea,2017,2
+Japan,2015,3
+Japan,2016,3
+Japan,2017,2
+Japan,2002,1
+Japan,2018,1
+Romania,2015,1
+Romania,2016,1
+Colombia,2015,1
+Colombia,2014,2
+Colombia,2017,2
+Colombia,2013,1
+Bolivia,2015,2
+Bolivia,2016,1
+Bolivia,2007,2
+Bolivia,2017,1
+Bolivia,2013,1
+Bolivia,2014,1
+Chile,2015,1
+Chile,2016,1
+Chile,2018,1
+Chile,2017,1
+Argentina,2015,1
+Argentina,2017,1
+Argentina,2004,1
+Argentina,2016,1
+Argentina,2018,1
+Argentina,1919,1
+Brazil,2015,2
+Brazil,2014,1
+Brazil,1919,1
+Brazil,2017,1
+Ecuador,2014,2
+Ecuador,2017,2
+Ecuador,2015,1
+Szeged,2013,1
+Ottawa,2017,7
+Ottawa,2016,2
+Ottawa,2014,1
+Ottawa,2013,1
+Ottawa,2015,2
+Ottawa,2018,2
+Ottawa,2009,2
+Ottawa,2008,1
+Ottawa,2006,1
+Ottawa,1975,1
+Toronto,2017,39
+Toronto,2016,34
+Toronto,2012,5
+Toronto,2014,10
+Toronto,2002,2
+Toronto,2013,5
+Toronto,2015,15
+Toronto,2018,21
+Toronto,2010,3
+Toronto,2008,2
+Toronto,1986,1
+Toronto,1998,1
+Toronto,1990,1
+Toronto,2011,1
+Toronto,2007,1
+Toronto,2006,1
+Toronto,2003,1
+Toronto,2001,1
+Toronto,1999,1
+Toronto,2005,1
+Toronto,2004,1
+Basel,2017,5
+Basel,2002,1
+Basel,2016,5
+Basel,2012,2
+Basel,2015,4
+Basel,2014,2
+Basel,2018,1
+Basel,2011,1
+Verona,2017,6
+Verona,2014,3
+Verona,2016,2
+Verona,2018,1
+Verona,2015,3
+Verona,2013,1
+Verona,2012,1
+Bruges,2016,6
+Bruges,2008,2
+Bruges,2018,3
+Bruges,2015,2
+Bruges,2013,1
+Bruges,2017,6
+Bruges,2014,1
+"Atlanta, GA",2016,16
+"Atlanta, GA",2015,12
+"Atlanta, GA",2017,22
+"Atlanta, GA",2014,7
+"Atlanta, GA",2018,9
+"Atlanta, GA",2011,2
+"Atlanta, GA",2010,1
+"Atlanta, GA",2009,1
+"Atlanta, GA",2005,1
+"Atlanta, GA",2013,2
+"Boulder, CO",2016,11
+"Boulder, CO",2012,2
+"Boulder, CO",2017,5
+"Boulder, CO",2015,3
+"Boulder, CO",2011,1
+"Boulder, CO",2018,1
+"Boulder, CO",2014,2
+"Boulder, CO",2003,1
+"Boulder, CO",1997,1
+"Boulder, CO",2010,1
+"Boulder, CO",2009,1
+"Boulder, CO",2013,1
+Vancouver,2016,43
+Vancouver,2015,21
+Vancouver,2018,30
+Vancouver,2017,51
+Vancouver,2011,2
+Vancouver,2013,7
+Vancouver,2014,5
+Vancouver,2012,5
+Vancouver,2010,4
+Vancouver,2009,2
+Vancouver,2008,2
+Vancouver,2007,3
+Vancouver,2006,3
+Vancouver,2005,2
+Vancouver,2004,2
+Vancouver,2002,2
+Vancouver,1998,1
+Vancouver,2003,1
+Vancouver,2001,1
+Vancouver,1987,1
+"Seattle, WA",2016,52
+"Seattle, WA",2017,41
+"Seattle, WA",2014,9
+"Seattle, WA",2015,20
+"Seattle, WA",2018,24
+"Seattle, WA",2011,8
+"Seattle, WA",2007,2
+"Seattle, WA",2013,7
+"Seattle, WA",2010,4
+"Seattle, WA",2008,1
+"Seattle, WA",2012,4
+"Seattle, WA",2009,2
+"Seattle, WA",2006,2
+"Seattle, WA",2005,1
+"Seattle, WA",2004,1
+"Seattle, WA",2003,1
+"Seattle, WA",1982,1
+Granada,2016,8
+Granada,2013,2
+Granada,2017,12
+Granada,2015,4
+Granada,2014,1
+Granada,2018,4
+Seville,2016,18
+Seville,2013,2
+Seville,2017,22
+Seville,2015,8
+Seville,2018,6
+Seville,2011,1
+Seville,2001,1
+Seville,2014,1
+Córdoba,2016,3
+Córdoba,2017,4
+Córdoba,2015,3
+Córdoba,2011,1
+Dublin,2016,42
+Dublin,2017,44
+Dublin,2011,3
+Dublin,2009,4
+Dublin,2014,11
+Dublin,2013,4
+Dublin,2018,25
+Dublin,2002,1
+Dublin,2015,24
+Dublin,2012,4
+Dublin,2001,1
+Dublin,2008,1
+Dublin,2006,2
+Dublin,2005,1
+Dublin,1989,1
+Dublin,2000,1
+Dublin,2004,1
+Dublin,2010,1
+Berlin,2016,148
+Berlin,2015,114
+Berlin,2017,168
+Berlin,2014,39
+Berlin,2018,82
+Berlin,2011,6
+Berlin,2009,4
+Berlin,2013,14
+Berlin,2010,2
+Berlin,2012,13
+Berlin,2008,3
+Berlin,2002,3
+Berlin,2007,1
+Berlin,2006,3
+Berlin,2004,1
+Berlin,1991,1
+Berlin,2000,1
+Berlin,1919,1
+Berlin,2003,1
+Berlin,1920,1
+Nuremberg,2015,6
+Nuremberg,2008,1
+Nuremberg,2016,2
+Nuremberg,2017,1
+Nuremberg,1990,1
+Cambodia,2014,3
+Cambodia,2016,3
+Cambodia,2012,1
+Cambodia,2011,1
+Cambodia,2015,1
+Cambodia,2017,2
+New Zealand,2014,1
+New Zealand,2015,1
+New Zealand,2016,2
+New Zealand,2012,1
+New Zealand,2018,5
+New Zealand,2017,2
+Krabi,2013,1
+Krabi,2008,1
+Krabi,2015,11
+Krabi,2017,12
+Krabi,2016,23
+Krabi,2018,10
+Krabi,2014,5
+Krabi,2009,1
+Krabi,2010,1
+Krabi,2012,1
+Fubine,2015,1
+Da Nang,2015,12
+Da Nang,2013,1
+Da Nang,2017,21
+Da Nang,2016,16
+Da Nang,2018,10
+Da Nang,2011,1
+Da Nang,2014,1
+Cologne,2017,20
+Cologne,2016,16
+Cologne,2015,9
+Cologne,2014,2
+Cologne,2018,11
+Cologne,2013,5
+Cologne,2012,4
+Cologne,2011,1
+Cologne,2008,1
+Johannesburg,2017,6
+Johannesburg,2015,3
+Johannesburg,2012,2
+Johannesburg,2008,1
+Johannesburg,2018,3
+Johannesburg,1999,1
+Johannesburg,2016,4
+Johannesburg,2014,2
+Johannesburg,2013,1
+Johannesburg,1993,1
+Dundee,2017,1
+Dundee,2016,2
+Celle,2016,1
+Hildesheim,2016,1
+Hildesheim,2015,1
+Stralsund,2016,1
+Biesenthal,2016,1
+Idra,2016,1
+Hamburg,2016,21
+Hamburg,2004,1
+Hamburg,2015,17
+Hamburg,2018,4
+Hamburg,2017,16
+Hamburg,2013,3
+Hamburg,2012,2
+Hamburg,2014,4
+Hamburg,2008,1
+Copenhagen,2015,36
+Copenhagen,2016,44
+Copenhagen,2018,19
+Copenhagen,2017,59
+Copenhagen,2014,11
+Copenhagen,2011,2
+Copenhagen,2012,3
+Copenhagen,2013,7
+Copenhagen,2001,1
+Copenhagen,2005,1
+Copenhagen,2004,1
+Copenhagen,2003,1
+Copenhagen,2010,1
+Copenhagen,2009,2
+Bishop,2015,1
+Joshua Tree,2015,1
+Joshua Tree,2017,2
+Joshua Tree,2018,2
+"Miami, FL",2015,16
+"Miami, FL",2018,23
+"Miami, FL",2017,37
+"Miami, FL",2016,28
+"Miami, FL",2014,7
+"Miami, FL",2005,2
+"Miami, FL",2013,5
+"Miami, FL",2012,9
+"Miami, FL",2009,3
+"Miami, FL",2006,2
+"Miami, FL",2001,1
+"Miami, FL",2010,2
+"Miami, FL",2007,1
+"Miami, FL",1991,1
+"Miami, FL",1981,1
+"Miami, FL",2011,1
+San Andrés and Providencia,2015,1
+San Andrés and Providencia,2016,2
+Karlsruhe,2015,5
+Karlsruhe,2014,1
+Karlsruhe,2018,1
+Karlsruhe,2017,1
+Karlsruhe,2016,1
+Saint Moritz,2015,1
+Saint Moritz,2010,1
+Dusseldorf,2015,8
+Dusseldorf,2016,12
+Dusseldorf,2018,9
+Dusseldorf,2017,6
+Dusseldorf,2011,2
+Dusseldorf,2013,1
+Dusseldorf,1989,1
+Dusseldorf,2012,2
+Dusseldorf,2014,1
+Dusseldorf,2004,1
+Akko,2015,1
+Jerusalem,2015,6
+Jerusalem,2016,9
+Jerusalem,2013,1
+Jerusalem,2012,1
+Jerusalem,2018,7
+Jerusalem,2014,1
+Jerusalem,2017,3
+Tel Aviv,2015,16
+Tel Aviv,2014,3
+Tel Aviv,2017,25
+Tel Aviv,2012,2
+Tel Aviv,2016,25
+Tel Aviv,2008,3
+Tel Aviv,1980,1
+Tel Aviv,2000,1
+Tel Aviv,2018,15
+Tel Aviv,2013,1
+Ibiza,2015,2
+Ibiza,2017,9
+Ibiza,2014,2
+Ibiza,2016,9
+Ibiza,2012,1
+Ibiza,2003,1
+Frankfurt,2015,10
+Frankfurt,2017,19
+Frankfurt,2016,23
+Frankfurt,2009,1
+Frankfurt,2014,4
+Frankfurt,2012,3
+Frankfurt,2011,1
+Frankfurt,2008,1
+Frankfurt,2006,1
+Frankfurt,2005,1
+Frankfurt,2013,2
+Frankfurt,2018,8
+Frankfurt,1996,1
+Frankfurt,2004,1
+Offenbach,2015,1
+Oxford,2014,1
+Oxford,2008,1
+Oxford,2017,2
+Oxford,2013,1
+Oxford,2016,2
+Oxford,2011,1
+Stubaital,2014,1
+Freiburg,2014,1
+Freiburg,2002,1
+Freiburg,2016,1
+Freiburg,2015,1
+Creuzburg,2014,1
+Bolzano,2014,1
+Unsere Liebe Frau im Walde-St. Felix,2014,1
+Çeşme,2014,1
+Munich,2014,12
+Munich,2016,32
+Munich,2017,50
+Munich,2015,22
+Munich,2012,5
+Munich,2009,1
+Munich,2008,2
+Munich,2018,14
+Munich,2013,7
+Munich,2007,1
+Munich,2011,2
+Munich,2010,1
+Munich,1996,1
+Munich,2004,1
+Munich,2002,1
+Olten,2013,1
+Lucerne,2013,1
+Lucerne,2017,2
+Lucerne,2016,1
+Zurich,2013,3
+Zurich,2016,28
+Zurich,2015,12
+Zurich,2018,17
+Zurich,2017,23
+Zurich,2014,5
+Zurich,2006,2
+Zurich,1997,1
+Zurich,2012,3
+Zurich,2004,1
+Zurich,2002,1
+Zurich,2005,1
+Zurich,2003,1
+Santiago de CompostelaSpain,2012,1
+Tokyo,2017,109
+Tokyo,2018,63
+Tokyo,2016,101
+Tokyo,2014,18
+Tokyo,2015,51
+Tokyo,2013,13
+Tokyo,2012,8
+Tokyo,2011,4
+Tokyo,2010,4
+Tokyo,2008,3
+Tokyo,2002,1
+Tokyo,1993,1
+Tokyo,2007,3
+Tokyo,2001,1
+Tokyo,2009,2
+Porto,2016,41
+Porto,2017,40
+Porto,2015,16
+Porto,2018,20
+Porto,2013,1
+Porto,2014,2
+Porto,2012,2
+Porto,2006,1
+Siem Reap,2015,23
+Siem Reap,2017,39
+Siem Reap,2016,50
+Siem Reap,2013,3
+Siem Reap,2018,17
+Siem Reap,2014,11
+Siem Reap,2010,4
+tp. Huế,2015,1
+tp. Huế,2016,2
+Cát Bà Island,2015,1
+Cát Bà Island,2017,4
+Cát Bà Island,2013,1
+Bucharest,2018,21
+Bucharest,2017,37
+Bucharest,2016,16
+Bucharest,2015,9
+Bucharest,2007,1
+Bucharest,2009,1
+Bucharest,2014,1
+Bucharest,2013,1
+Bucharest,2012,1
+Bucharest,2011,1
+Timisoara,2018,3
+Timisoara,2017,5
+Timisoara,2014,2
+Timisoara,2015,2
+Timisoara,2016,1
+Paphos,2018,3
+Paphos,2017,1
+Paphos,2016,1
+Paphos,1999,1
+Paphos,2003,1
+Paphos,2001,1
+Sofia,2018,12
+Sofia,2017,35
+Sofia,2016,22
+Sofia,2015,9
+Sofia,2012,2
+Sofia,2014,1
+Sofia,2005,1
+Sofia,2009,2
+Harlech,2017,1
+Glasgow,2017,8
+Glasgow,2016,16
+Glasgow,2015,8
+Glasgow,2012,1
+Glasgow,2014,2
+Glasgow,2009,1
+Glasgow,2018,3
+Bristol,2017,10
+Bristol,2015,3
+Bristol,2016,9
+Bristol,2013,3
+Bristol,2006,1
+Bristol,2018,2
+Bristol,2011,1
+Bristol,2014,1
+Bristol,2007,1
+Brighton,2017,8
+Brighton,2011,1
+Brighton,2009,1
+Brighton,2016,10
+Brighton,2018,2
+Brighton,2015,5
+Brighton,1991,1
+Brighton,2000,1
+Brighton,2014,1
+Graz,2017,5
+Graz,2016,4
+Graz,2013,1
+Graz,2009,1
+Ljubljana,2017,12
+Ljubljana,2016,9
+Ljubljana,2015,16
+Ljubljana,2018,5
+Ljubljana,2014,2
+Ljubljana,2013,1
+Ljubljana,2010,1
+Ljubljana,2009,1
+Ljubljana,2012,1
+Ljubljana,2007,1
+Zagreb,2017,22
+Zagreb,2018,9
+Zagreb,2015,14
+Zagreb,2012,2
+Zagreb,2016,17
+Zagreb,2013,3
+Zagreb,2014,3
+Glenaire,2017,1
+"New Orleans, LA",2018,12
+"New Orleans, LA",2016,9
+"New Orleans, LA",2017,21
+"New Orleans, LA",2015,10
+"New Orleans, LA",2011,1
+"New Orleans, LA",2014,2
+"New Orleans, LA",2012,2
+"New Orleans, LA",2013,1
+"New Orleans, LA",2000,1
+"New Orleans, LA",1986,1
+"New Orleans, LA",2010,1
+"New Orleans, LA",2009,1
+Yerevan,2018,2
+Yerevan,2017,3
+Yerevan,2009,1
+Yerevan,2014,1
+Yerevan,2013,2
+Yerevan,2016,1
+Sochi,2017,4
+Sochi,2018,1
+"San Diego, CA",2017,37
+"San Diego, CA",2009,1
+"San Diego, CA",2000,1
+"San Diego, CA",2008,2
+"San Diego, CA",2014,11
+"San Diego, CA",2013,8
+"San Diego, CA",2015,23
+"San Diego, CA",2016,33
+"San Diego, CA",2018,15
+"San Diego, CA",2012,5
+"San Diego, CA",2007,1
+"San Diego, CA",2010,2
+"San Diego, CA",2001,1
+"San Diego, CA",1987,1
+"San Diego, CA",2011,1
+São Paulo,2017,27
+São Paulo,2018,13
+São Paulo,2016,25
+São Paulo,2015,16
+São Paulo,2014,8
+São Paulo,2013,1
+São Paulo,2008,1
+São Paulo,2010,1
+São Paulo,1993,1
+São Paulo,2009,2
+São Paulo,2012,2
+São Paulo,2011,1
+São Paulo,2007,1
+São Paulo,2000,1
+São Paulo,1990,1
+Lapa,2017,1
+Amman,2016,5
+Amman,2015,3
+Amman,2018,2
+Amman,2013,1
+Amman,2012,1
+Amman,2017,1
+Amman,2014,2
+Aqaba Governorate,2016,1
+Madaba Governorate,2016,1
+Krasnaya Polyana,2016,1
+Peniche,2015,1
+Peniche,2017,2
+Peniche,2016,2
+Stockholm,2015,31
+Stockholm,2014,6
+Stockholm,2016,34
+Stockholm,2018,26
+Stockholm,2017,57
+Stockholm,2013,9
+Stockholm,2009,2
+Stockholm,1996,1
+Stockholm,2012,1
+Stockholm,2001,1
+Lviv,2018,4
+Lviv,2016,2
+Lviv,2017,8
+Lviv,2015,4
+Lviv,2014,1
+Crete,2017,1
+Crete,2018,2
+Crete,2009,1
+Dmanisi,2016,1
+Batumi,2016,2
+Batumi,2017,5
+Borjomi,2016,1
+"San Jose, CA",2015,3
+"San Jose, CA",2016,4
+"San Jose, CA",2014,3
+"San Jose, CA",2017,8
+"San Jose, CA",2018,3
+"San Jose, CA",2013,2
+"San Jose, CA",2011,1
+"San Jose, CA",2010,1
+"San Jose, CA",2008,1
+Lima,2016,35
+Lima,2015,12
+Lima,2018,15
+Lima,2017,22
+Lima,2013,2
+Lima,2005,1
+Lima,2007,1
+Lima,2014,4
+Lima,2012,1
+Lima,2011,1
+Lima,2009,1
+Managua,2015,2
+Managua,2017,2
+Managua,2018,5
+Managua,2014,1
+Managua,2016,4
+Managua,2011,1
+Malta,2018,2
+Malta,2015,4
+Malta,2016,8
+Malta,2006,1
+Malta,2017,11
+Malta,2011,1
+Malta,2012,1
+Belgrade,2018,18
+Belgrade,2017,45
+Belgrade,2016,27
+Belgrade,2015,14
+Belgrade,2014,3
+Belgrade,2013,3
+Belgrade,2012,1
+Belgrade,2009,1
+Pokhara,2018,3
+Pokhara,2017,6
+Pokhara,2014,4
+Pokhara,2016,3
+Pokhara,2015,1
+Pokhara,2013,1
+Mumbai,2018,12
+Mumbai,2014,3
+Mumbai,2016,19
+Mumbai,2017,14
+Mumbai,2013,1
+Mumbai,2015,6
+Mumbai,2012,2
+Mumbai,2011,2
+Mumbai,2010,1
+Mumbai,2009,1
+Mumbai,1999,1
+Ko Lanta,2018,18
+Ko Lanta,2017,38
+Ko Lanta,2016,52
+Ko Lanta,2015,21
+Ko Lanta,2014,1
+Ko Lanta,2013,1
+Ko Lanta,2010,2
+Ko Lanta,2009,1
+Ko Lanta,2011,1
+Manila,2017,28
+Manila,2012,4
+Manila,2000,2
+Manila,1999,1
+Manila,2016,25
+Manila,2014,10
+Manila,2018,14
+Manila,2015,15
+Manila,2013,3
+Manila,2007,1
+Manila,1998,1
+Manila,1996,1
+Jakarta,2017,13
+Jakarta,2016,21
+Jakarta,2009,1
+Jakarta,2015,12
+Jakarta,2014,6
+Jakarta,2006,1
+Jakarta,2018,8
+Jakarta,2010,1
+Jakarta,2011,2
+Jakarta,2012,1
+Kyoto,2017,29
+Kyoto,2015,15
+Kyoto,2016,38
+Kyoto,2014,8
+Kyoto,2010,1
+Kyoto,2008,1
+Kyoto,2007,1
+Kyoto,2006,1
+Kyoto,2012,3
+Kyoto,2013,3
+Kyoto,2018,8
+Kyoto,2002,1
+Kyoto,1919,1
+Abu Dhabi,2017,5
+Abu Dhabi,2015,7
+Abu Dhabi,2014,2
+Abu Dhabi,2016,4
+Abu Dhabi,2011,1
+Abu Dhabi,2018,1
+Liverpool,2017,5
+Liverpool,2016,5
+Liverpool,2018,3
+Liverpool,2015,4
+Liverpool,2011,1
+Liverpool,2014,1
+Sliema,2017,9
+Sliema,2018,11
+Sliema,2014,1
+Sliema,2016,5
+Sliema,1919,1
+Sliema,2003,1
+Sliema,2015,1
+Doha,2017,8
+Doha,2014,3
+Doha,2018,9
+Doha,2016,15
+Doha,2015,1
+Yokohama,2017,2
+"Denpasar, Bali",2016,15
+"Denpasar, Bali",2013,1
+"Denpasar, Bali",2018,4
+"Denpasar, Bali",2015,2
+"Denpasar, Bali",2017,5
+"Denpasar, Bali",2014,1
+"Philadelphia, PA",2015,16
+"Philadelphia, PA",2016,16
+"Philadelphia, PA",2017,9
+"Philadelphia, PA",2018,3
+"Philadelphia, PA",2014,3
+"Philadelphia, PA",2013,3
+"Philadelphia, PA",2012,3
+"Philadelphia, PA",2011,1
+Phuket,2017,57
+Phuket,2018,27
+Phuket,2016,62
+Phuket,2015,26
+Phuket,2014,12
+Phuket,2012,3
+Phuket,1919,1
+Phuket,2011,4
+Phuket,2013,6
+Phuket,2010,4
+Ko Lanta District,2015,2
+Ko Lanta District,2017,9
+Ko Lanta District,2018,4
+Las Palmas,2016,25
+Las Palmas,2015,12
+Las Palmas,2017,4
+Bratislava,2016,20
+Bratislava,2014,6
+Bratislava,2017,22
+Bratislava,2018,7
+Bratislava,2015,9
+Bratislava,2013,1
+Bratislava,2012,1
+Johor Bahru,2016,3
+Johor Bahru,2017,2
+Johor Bahru,2015,4
+Johor Bahru,2018,1
+Cluj,2016,2
+Cluj,2015,2
+Cluj,2009,1
+Cluj,2018,3
+Cluj,2017,2
+Cluj,2014,1
+Bulgaria,2016,1
+Bulgaria,1919,1
+Essen,2015,1
+Morschen,2015,1
+Darmstadt,2015,3
+Darmstadt,2016,2
+Darmstadt,2018,1
+Darmstadt,2017,1
+Rotterdam,2015,8
+Rotterdam,2011,2
+Rotterdam,2016,8
+Rotterdam,2013,2
+Rotterdam,2008,1
+Rotterdam,2018,9
+Rotterdam,2014,2
+Rotterdam,2012,2
+Rotterdam,2017,8
+Rotterdam,2010,1
+Warminster,2018,1
+Lofoten,2018,2
+Lofoten,2017,1
+Lofoten,2016,1
+Nottingham,2018,2
+Nottingham,2012,1
+Nottingham,2011,1
+Nottingham,2017,5
+Nottingham,2016,4
+Nottingham,2013,1
+Nottingham,2015,1
+Nottingham,2006,1
+Nottingham,2005,1
+Nottingham,2004,1
+Nottingham,2003,1
+Nottingham,2002,1
+Nottingham,2001,1
+Nottingham,2000,1
+Nottingham,1989,1
+Hinterstoder,2018,2
+Northampton,2018,1
+Northampton,2015,1
+Northampton,2016,1
+Gili Air,2017,9
+Gili Air,2013,1
+Gili Air,2016,5
+Gili Air,2015,2
+Gili Air,2018,4
+Cabarete,2017,5
+Cabarete,2016,4
+Cabarete,2014,1
+Salzburg,2017,8
+Salzburg,2016,9
+Salzburg,2018,2
+Salzburg,2015,4
+Salzburg,2013,1
+Salzburg,2011,2
+Salzburg,2006,1
+Salzburg,2012,1
+Salzburg,2004,1
+Salzburg,2014,3
+Sheffield,2017,4
+Sheffield,2016,3
+Sheffield,2018,2
+Sheffield,2015,1
+The Hague,2017,6
+The Hague,1989,1
+The Hague,2016,4
+The Hague,2014,4
+The Hague,2018,2
+The Hague,2015,3
+The Hague,2012,1
+The Hague,1995,1
+Aberdeen,2017,2
+Aberdeen,1987,1
+Aberdeen,2007,1
+Aberdeen,2016,1
+Aberdeen,2015,1
+Palawan,2017,2
+Palawan,2018,2
+Palawan,2016,1
+Palawan,2015,1
+Palawan,2014,1
+Port Louis,2017,2
+Port Louis,2018,1
+Port Louis,2013,1
+Pai,2017,10
+Pai,2013,1
+Pai,2011,1
+Pai,2015,8
+Pai,2016,11
+Pai,2014,3
+Pai,2018,3
+Pai,2010,1
+Chiang Rai,2017,3
+Chiang Rai,2015,1
+Chiang Rai,2018,1
+Chiang Rai,2016,1
+Phú Quốc,2016,6
+Phú Quốc,2015,1
+Phú Quốc,2017,2
+Phú Quốc,2018,2
+Phú Quốc,2014,1
+El Gouna,2016,3
+El Gouna,2015,2
+El Gouna,2014,2
+El Gouna,2013,1
+El Gouna,2012,2
+Luxor,2016,4
+Luxor,2015,3
+Luxor,2012,1
+Luxor,2017,3
+Luxor,2018,1
+Necker Island,2015,1
+Linz,2014,1
+Linz,2013,1
+Linz,2012,1
+Linz,2018,1
+Linz,2011,1
+Linz,2016,1
+Ao Nang,2014,6
+Ao Nang,2017,16
+Ao Nang,2016,8
+Ao Nang,2015,6
+Ao Nang,2018,1
+Ao Nang,2010,1
+Ao Nang,2013,1
+Fortaleza,2012,1
+Fortaleza,2017,5
+Fortaleza,2016,2
+Fortaleza,2015,1
+Leeds,2011,1
+Leeds,2017,4
+Leeds,2018,2
+Leeds,2016,2
+Leeds,2014,1
+Leeds,2015,1
+Valencia,2011,1
+Valencia,2010,2
+Valencia,2017,32
+Valencia,2018,12
+Valencia,2015,11
+Valencia,2016,32
+Valencia,2013,1
+Valencia,2014,3
+Valencia,2009,1
+Oviedo,2011,1
+Oviedo,2012,1
+Manchester,2011,3
+Manchester,2018,7
+Manchester,2017,13
+Manchester,2016,12
+Manchester,2015,8
+Manchester,2014,4
+Manchester,1992,1
+Manchester,2012,2
+Manchester,2010,2
+Manchester,2009,1
+Manchester,2004,1
+Manchester,2006,1
+Manchester,2008,1
+Manchester,2013,1
+Reading,2010,1
+Reading,2009,1
+Geneva,2010,1
+Geneva,2017,15
+Geneva,2016,13
+Geneva,2018,6
+Geneva,2013,7
+Geneva,2001,1
+Geneva,2015,7
+Geneva,2007,1
+Geneva,2012,2
+Geneva,2006,1
+Geneva,2008,1
+Newcastle Upon Tyne,2010,1
+Newcastle Upon Tyne,2017,2
+Newcastle Upon Tyne,2012,2
+Newcastle Upon Tyne,2016,2
+Newcastle Upon Tyne,2015,1
+Newcastle Upon Tyne,2018,2
+Newcastle Upon Tyne,2013,1
+Boracay,2005,1
+Boracay,2013,1
+Boracay,2011,1
+Boracay,2018,3
+Boracay,2017,3
+Boracay,2014,2
+Boracay,2016,3
+Boracay,2008,1
+Boracay,2015,4
+Valletta,1994,1
+Prishtina,2017,2
+Prishtina,2013,1
+Kotor,2017,7
+Kotor,2016,6
+Kotor,2015,4
+Kotor,2018,2
+Sri Lanka,2016,7
+Sri Lanka,2006,1
+Sri Lanka,2017,6
+Sri Lanka,2015,2
+Sri Lanka,2018,1
+Pula,2016,1
+Pula,2017,3
+Pula,2011,1
+Pula,2015,2
+Beirut,2015,4
+Beirut,2014,2
+Beirut,2017,4
+Beirut,2016,3
+Beirut,2011,1
+Beirut,2010,1
+Manama,2015,1
+Manama,2017,2
+Manama,2018,2
+Manama,2014,1
+Kochi,2015,4
+Kochi,2017,5
+Kochi,2018,3
+Kochi,2014,3
+Kochi,2016,8
+Bangalore,2015,6
+Bangalore,2018,8
+Bangalore,2014,2
+Bangalore,2016,9
+Bangalore,2013,1
+Bangalore,2017,11
+Bangalore,1999,1
+Bangalore,2011,1
+Bangalore,2009,1
+Goa,2015,5
+Goa,2017,8
+Goa,2018,3
+Goa,2016,7
+Goa,2012,1
+Goa,2011,1
+Goa,2010,1
+Goa,2014,2
+Delhi,2014,6
+Delhi,2015,10
+Delhi,2016,21
+Delhi,2017,20
+Delhi,2011,2
+Delhi,2012,3
+Delhi,2018,8
+Delhi,1994,1
+Delhi,2007,1
+Delhi,2013,4
+Marrakesh,2016,13
+Marrakesh,2017,28
+Marrakesh,2018,12
+Marrakesh,2015,8
+Marrakesh,2009,1
+Marrakesh,2013,3
+Marrakesh,2008,1
+Marrakesh,2014,2
+Trinidad,2016,2
+Trinidad,2017,2
+Trinidad,2018,1
+Trinidad,2015,1
+Vinales,2016,2
+Vinales,2018,1
+San Sebastián de La Gomera,2016,1
+Novocherkassk,2018,1
+Novocherkassk,2017,1
+Novocherkassk,2014,1
+Novocherkassk,2013,1
+Novocherkassk,2012,1
+Novocherkassk,2009,1
+Bryansk,2018,1
+Grodno,2018,1
+Kaunas,2018,3
+Kaunas,2014,1
+Kaunas,2015,1
+Kaunas,2016,1
+Kaunas,2017,1
+Klaipeda,2018,1
+Klaipeda,2017,1
+Sigulda,2018,1
+Sigulda,2012,1
+Novosibirsk,2018,2
+Novosibirsk,2009,1
+Gudauri,2017,1
+Gudauri,2018,2
+Stepantsminda,2017,2
+Mestia,2017,1
+Kutaisi,2017,2
+Kutaisi,2016,1
+Gyumri,2017,1
+Goris,2017,1
+Sevan,2017,1
+Baku,2017,4
+Baku,2016,4
+Baku,2018,1
+Yalta,2017,1
+"George Town, Penang",2017,41
+"George Town, Penang",2015,25
+"George Town, Penang",2013,3
+"George Town, Penang",2018,23
+"George Town, Penang",2014,9
+"George Town, Penang",2005,1
+"George Town, Penang",2016,25
+"George Town, Penang",2011,2
+"George Town, Penang",2012,3
+Vientiane,2017,11
+Vientiane,2015,3
+Vientiane,2012,1
+Vientiane,2016,10
+Vientiane,2018,10
+Vientiane,2014,3
+Vientiane,2013,2
+Vientiane,2010,1
+Heraklion,2014,1
+Heraklion,2017,2
+Heraklion,2018,1
+Heraklion,2015,1
+Heraklion,2013,1
+Marmaris,2013,1
+Marmaris,2008,1
+Lanzarote,2016,4
+Lanzarote,2017,3
+Lanzarote,2014,1
+Lanzarote,2015,3
+Lanzarote,2009,1
+Pak Nam Pran,2018,1
+Mui Ne,2018,1
+Mui Ne,2017,7
+Mui Ne,2013,1
+Mui Ne,2016,2
+Pranburi Beach,2017,1
+Altenmarkt im Pongau,2016,1
+Alexandria GovernorateEgypt,2016,1
+Aswan,2016,1
+Aswan,2012,1
+Aswan,2015,2
+Aswan,2018,1
+Marsa Alam,2016,1
+Marsa Alam,2015,1
+Schliersee,2014,2
+Sankt Peter-Ording,2014,1
+Boom,2014,1
+Boom,2018,1
+Valmorel,2014,1
+Valmorel,2012,1
+Oostvoorne,2013,1
+Portland,2012,2
+Portland,2016,4
+Portland,2015,4
+Portland,2014,1
+Victoria,2011,2
+Victoria,2015,3
+Victoria,2018,3
+Victoria,2017,4
+Victoria,2016,5
+Victoria,2006,1
+Victoria,2004,1
+Victoria,2005,1
+Victoria,2014,1
+Victoria,2001,1
+Victoria,2013,1
+New South Wales,2011,1
+New South Wales,2004,1
+Queensland,2011,1
+Queensland,2017,1
+Northern Territory,2011,1
+"Kuta, Bali",2011,1
+"Kuta, Bali",2013,2
+"Kuta, Bali",2016,9
+"Kuta, Bali",2018,7
+"Kuta, Bali",2015,5
+"Kuta, Bali",2017,14
+"Kuta, Bali",2003,1
+"Kuta, Bali",2014,1
+Komodo,2011,1
+Komodo,2014,1
+"Gili Air, Bali",2011,1
+"Gili Air, Bali",2017,2
+Pulau Perhentian Besar,2011,1
+Qesm Hurghada,2010,1
+Hurghada,2009,1
+Hurghada,2005,1
+Hurghada,2004,1
+Hurghada,2015,1
+Hurghada,2014,1
+Hurghada,2016,1
+Hurghada,2017,1
+Hurghada,2018,1
+Pacific Coast Highway,2009,1
+Pacific Coast Highway,2007,1
+Napa Valley,2009,1
+Napa Valley,2016,1
+"Reno, NV",2009,1
+"Reno, NV",2017,6
+"Reno, NV",2013,1
+"Reno, NV",2010,1
+"Reno, NV",2015,3
+"Reno, NV",2011,1
+"Reno, NV",2012,2
+"Reno, NV",2014,2
+"Reno, NV",2018,1
+"Reno, NV",2016,1
+"Reno, NV",1919,1
+Yellowstone National Park,2009,1
+Yellowstone National Park,2015,1
+Yellowstone National Park,2004,1
+Yellowstone National Park,2016,1
+"Salt Lake City, UT",2009,1
+"Salt Lake City, UT",2013,3
+"Salt Lake City, UT",2012,1
+"Salt Lake City, UT",2016,14
+"Salt Lake City, UT",2015,8
+"Salt Lake City, UT",2017,14
+"Salt Lake City, UT",2014,3
+"Salt Lake City, UT",2002,1
+"Salt Lake City, UT",2018,4
+"Salt Lake City, UT",2010,1
+Mesa Verde National Park,2009,1
+Canyon de Chelly National Monument,2009,1
+Grand Canyon National Park,2009,1
+Grand Canyon National Park,2006,1
+Grand Canyon National Park,2008,1
+Hlavní město Praha,2008,1
+Sukhothai,2008,1
+Sukhothai,2018,1
+Sukhothai,2014,3
+Sequoia National Park,2007,1
+Yosemite National Park,2007,1
+Yosemite National Park,2017,1
+Yosemite National Park,2012,1
+Yosemite National Park,2016,3
+Yosemite National Park,2018,1
+Reit im Winkl,2007,1
+Reit im Winkl,2005,1
+Lake Powell,2006,1
+Lake Powell,2017,1
+Moab,2006,1
+Moab,2012,1
+Moab,2017,2
+Moab,2014,1
+Moab,2015,1
+Arches National Park Entrance Station,2006,1
+Bryce Canyon National Park,2006,1
+Bryce Canyon National Park,2018,1
+Bryce Canyon National Park,2014,1
+Zion National Park,2006,1
+Zion National Park,2017,1
+Zion National Park,2014,1
+Le Touquet,2005,1
+Le Touquet,2004,1
+Le Touquet,2017,1
+Cairo,2004,1
+Cairo,2011,1
+Cairo,2010,1
+Cairo,2018,3
+Cairo,2013,1
+Cairo,2016,5
+Cairo,2015,2
+Cairo,2009,1
+Cairo,2012,1
+Cairo,2017,1
+Istanbul,2003,1
+Istanbul,2017,30
+Istanbul,2014,7
+Istanbul,2016,40
+Istanbul,2015,29
+Istanbul,2018,25
+Istanbul,2008,2
+Istanbul,2002,1
+Istanbul,2013,8
+Istanbul,2011,2
+Istanbul,1994,1
+Istanbul,2005,1
+Istanbul,2007,1
+Istanbul,2012,2
+Metropolitan City of Venice,2003,1
+Metropolitan City of Venice,2016,7
+Metropolitan City of Venice,2015,1
+Metropolitan City of Venice,2018,2
+Metropolitan City of Venice,2017,2
+Metropolitan City of Venice,2014,1
+Metropolitan City of Venice,2013,3
+Metropolitan City of Venice,2012,2
+Metropolitan City of Venice,2004,1
+Metropolitan City of Venice,2002,1
+Metropolitan City of Venice,2010,1
+Cayo Guillermo,2002,1
+Punta Cana,2001,1
+Punta Cana,2016,2
+Punta Cana,2013,1
+Balatonkenese,1987,1
+Bergen,2015,5
+Bergen,2013,2
+Bergen,2017,7
+Bergen,2014,1
+Bergen,2016,4
+Bergen,2018,2
+Bergen,2012,1
+Malmo,2015,6
+Malmo,2014,4
+Malmo,2017,3
+Malmo,2013,2
+Malmo,2016,6
+Malmo,2018,1
+Cuernavaca,2015,1
+Dubrovnik,2018,11
+Dubrovnik,2017,13
+Dubrovnik,2015,6
+Dubrovnik,2016,13
+Dubrovnik,2013,3
+Split,2018,17
+Split,2017,37
+Split,2016,33
+Split,2015,17
+Split,2012,1
+Split,2014,1
+Split,2013,3
+Split,2009,1
+Mexico City,2017,70
+Mexico City,2014,8
+Mexico City,2018,44
+Mexico City,2016,48
+Mexico City,2015,16
+Mexico City,1919,1
+Mexico City,2005,2
+Mexico City,2012,1
+Mexico City,2009,1
+Mexico City,2013,1
+Puebla,2017,3
+Puebla,2018,2
+Puebla,2016,1
+"Colorado Springs, CO",2018,2
+"Colorado Springs, CO",2017,3
+"Colorado Springs, CO",2016,4
+"Colorado Springs, CO",2015,3
+"Colorado Springs, CO",2014,1
+"Colorado Springs, CO",2013,2
+"Colorado Springs, CO",2012,1
+"Jacksonville, FL",2018,2
+"Jacksonville, FL",2017,2
+"Jacksonville, FL",2015,1
+"Jacksonville, FL",2016,1
+"Jacksonville, FL",2014,1
+Chelmsford,2018,2
+Chelmsford,2017,2
+Pattaya,2018,5
+Pattaya,2017,7
+Pattaya,2015,3
+Pattaya,2014,2
+Pattaya,2016,7
+Pattaya,2013,1
+Lampang,2017,2
+Lampang,2016,1
+Sinio,2017,2
+San Raffaele Cimena,2017,2
+"Austin, TX",2017,46
+"Austin, TX",2016,39
+"Austin, TX",2015,26
+"Austin, TX",2014,10
+"Austin, TX",2013,8
+"Austin, TX",2012,3
+"Austin, TX",2018,17
+"Austin, TX",2011,4
+"Austin, TX",2010,2
+"Austin, TX",2009,3
+"Austin, TX",2008,1
+"Austin, TX",2007,3
+"Austin, TX",2006,1
+"Portland, OR",2017,34
+"Portland, OR",2015,15
+"Portland, OR",2014,16
+"Portland, OR",2013,5
+"Portland, OR",2016,41
+"Portland, OR",2018,24
+"Portland, OR",2010,2
+"Portland, OR",2011,2
+"Portland, OR",2012,1
+"Portland, OR",2008,1
+"Chicago, IL",2016,36
+"Chicago, IL",2015,30
+"Chicago, IL",2017,41
+"Chicago, IL",2014,14
+"Chicago, IL",2006,1
+"Chicago, IL",2009,2
+"Chicago, IL",2008,1
+"Chicago, IL",2007,2
+"Chicago, IL",2013,12
+"Chicago, IL",2018,18
+"Chicago, IL",2012,7
+"Chicago, IL",2005,1
+"Chicago, IL",2011,4
+"Chicago, IL",2004,1
+"Chicago, IL",2010,1
+Kosice,2016,2
+Kosice,2018,2
+Kosice,1919,1
+Ždiar,2016,2
+Angoulême,2016,2
+"Boise, ID",2015,1
+"Boise, ID",2017,1
+"Boise, ID",2016,2
+San Juan,2014,5
+San Juan,2017,7
+San Juan,2015,2
+San Juan,2018,3
+San Juan,2016,3
+San Juan,2009,2
+Guanajuato,2014,2
+Guanajuato,2018,3
+Guanajuato,2017,3
+Guanajuato,2016,1
+Český Krumlov,2014,2
+Český Krumlov,2018,1
+Český Krumlov,2015,1
+Český Krumlov,2017,1
+Český Krumlov,2011,1
+Český Krumlov,2010,1
+Las Cruces,2013,1
+Las Cruces,2011,1
+"Anchorage, AK",2013,1
+"Anchorage, AK",2017,5
+"Anchorage, AK",2016,1
+"Anchorage, AK",2018,2
+"BrockvilleON, Canada",2015,1
+Guangzhou,2018,5
+Guangzhou,2016,14
+Guangzhou,2017,12
+Guangzhou,2014,1
+Guangzhou,2015,6
+Guangzhou,2007,1
+Guangzhou,2010,2
+Guangzhou,1999,1
+Guangzhou,2013,1
+Guangzhou,2011,1
+Chiang Dao,2017,1
+Chiang Dao,2014,1
+Koh Phayam,2017,1
+Zhuhai,2017,2
+Zhuhai,2012,1
+Zhuhai,2016,1
+Yangshuo,2016,1
+Yangshuo,2015,2
+Yangshuo,2006,1
+Yangshuo,2012,1
+Sopot,2018,1
+Sopot,2017,1
+Sopot,2016,1
+Chisinau,2018,1
+Chisinau,2017,2
+Chisinau,2016,2
+Chisinau,2009,1
+Chisinau,2015,1
+Chisinau,2014,1
+Odesa,2018,4
+Odesa,2009,1
+Odesa,2017,4
+Odesa,2016,1
+Odesa,2015,1
+Odesa,2011,1
+Odesa,2010,1
+Chornobyl,2018,1
+Nauplion,2018,1
+Menorca,2018,1
+Menorca,2017,1
+"Las Palmas, Canary Islands",2018,14
+"Las Palmas, Canary Islands",2017,19
+"Las Palmas, Canary Islands",2014,1
+Luleå,2018,1
+Luleå,2015,1
+Luleå,2016,1
+Playa del Carmen,2017,33
+Playa del Carmen,2018,11
+Playa del Carmen,2016,28
+Playa del Carmen,2013,2
+Playa del Carmen,2014,7
+Playa del Carmen,2010,1
+Playa del Carmen,2012,1
+Playa del Carmen,2015,6
+Playa del Carmen,2003,1
+Playa del Carmen,2009,1
+Playa del Carmen,2011,1
+Negril,2017,2
+Negril,2014,1
+Negril,2015,1
+Montego Bay,2017,4
+Montego Bay,2018,1
+Montego Bay,2009,1
+Montego Bay,2006,1
+Montego Bay,2010,1
+Montego Bay,2000,1
+Montego Bay,1996,1
+Montego Bay,1984,1
+Montego Bay,2015,1
+Miami Beach,2017,4
+Miami Beach,2016,3
+Miami Beach,2018,1
+Miami Beach,2006,1
+Miami Beach,2012,1
+Isla Mujeres,2017,1
+Isla Mujeres,2015,1
+Isla Mujeres,2016,1
+Manuel Antonio Mesones Muro District,2017,1
+Dominical,2017,1
+Dominical,2018,1
+Dominical,2016,1
+Aruba,2017,9
+Aruba,2018,3
+Aruba,2015,1
+Aruba,2013,1
+Curaçao,2017,9
+Curaçao,2015,2
+Curaçao,2016,1
+Saint Kitts and Nevis,2017,4
+Dunas de Maspalomas,2017,1
+Åre,2017,2
+Åre,2015,1
+Goiania,2017,2
+Goiania,2016,2
+Goiania,2018,1
+Goiania,2012,1
+Santa Elena Province,2017,1
+Santa Marta,2017,10
+Santa Marta,2016,6
+Santa Marta,2018,3
+Puntarenas Province,2017,1
+Puntarenas Province,2018,2
+"Fort Lauderdale, FL",2016,11
+"Fort Lauderdale, FL",2017,8
+"Fort Lauderdale, FL",2014,1
+"Fort Lauderdale, FL",2006,1
+"Fort Lauderdale, FL",2018,3
+"Fort Lauderdale, FL",2015,11
+"Fort Lauderdale, FL",2009,1
+Sälen,2016,1
+Sälen,2015,1
+Umeå,2016,2
+Umeå,2018,1
+Umeå,2017,1
+Cầu Ngang,2014,1
+Bình Thuận,2014,1
+Da Lat,2014,1
+Da Lat,2018,5
+Da Lat,2015,3
+Da Lat,2017,6
+Da Lat,2016,5
+Huyện Lắk,2014,1
+Nha Trang,2014,2
+Nha Trang,2018,2
+Nha Trang,2015,4
+Nha Trang,2016,7
+Nha Trang,2017,7
+Nha Trang,2013,1
+Koh Rong,2013,1
+Koh Rong,2018,1
+Koh Rong,2017,2
+Koh Rong,2016,1
+Ko Phi Phi,2013,1
+Ko Phi Phi,2017,12
+Ko Phi Phi,2016,7
+Ko Phi Phi,2018,2
+Ko Phi Phi,2015,5
+Ko Phi Phi,2014,3
+Ko Phi Phi,2010,1
+Ko Phi Phi,2011,1
+Ko Phi Phi,2012,1
+Haad Rin Beach,2013,1
+Ko Samui,2013,2
+Ko Samui,2016,28
+Ko Samui,2017,21
+Ko Samui,2014,4
+Ko Samui,2009,1
+Ko Samui,2018,8
+Ko Samui,2012,3
+Ko Samui,2015,11
+Gothenburg,2011,1
+Gothenburg,2017,8
+Gothenburg,2018,7
+Gothenburg,2015,3
+Gothenburg,2014,3
+Gothenburg,2016,3
+Island of Hawai'i,2018,1
+Kauai,2018,1
+Kauai,2017,1
+Kauai,2015,1
+Kauai,2016,1
+Vang Vieng,2017,2
+Vang Vieng,2012,1
+Vang Vieng,2016,2
+Vang Vieng,2018,2
+Vang Vieng,2010,1
+Vang Vieng,2014,1
+Vang Vieng,2011,1
+Vang Vieng,2013,1
+"Ann Arbor, MI",2017,3
+"Ann Arbor, MI",2016,2
+"Ann Arbor, MI",2018,2
+"Ann Arbor, MI",1996,1
+"Ann Arbor, MI",2010,1
+Bismarck,2017,1
+Bismarck,2016,1
+Rockville,2017,1
+Rockville,2016,1
+Fraser Island,2017,1
+Fraser Island,2015,1
+Cairns,2017,7
+Cairns,2016,9
+Cairns,2015,1
+Cairns,2001,1
+Cairns,2012,1
+Cairns,2007,1
+Cairns,2014,3
+Cairns,2018,1
+"Nashville, TN",2017,9
+"Nashville, TN",2015,5
+"Nashville, TN",2011,1
+"Nashville, TN",2010,1
+"Nashville, TN",2016,6
+"Nashville, TN",2018,4
+"Nashville, TN",2013,1
+"Nashville, TN",2012,1
+"Nashville, TN",2006,1
+"Nashville, TN",2014,1
+Playa Larga,2017,1
+Playa Larga,2016,1
+"Washington, DC",2017,40
+"Washington, DC",2016,35
+"Washington, DC",2015,28
+"Washington, DC",2014,6
+"Washington, DC",2018,11
+"Washington, DC",2013,7
+"Washington, DC",2012,4
+"Washington, DC",2011,1
+"Washington, DC",2010,2
+"Washington, DC",2009,2
+"Washington, DC",2007,3
+"Washington, DC",2008,1
+"Washington, DC",2005,1
+"Washington, DC",1999,1
+Middletown,2017,1
+Calistoga,2017,2
+Calistoga,2014,1
+Durban,2017,3
+Durban,2014,2
+Durban,2016,1
+Durban,2015,1
+Lesotho,2017,1
+Man-O-War Cay,2017,1
+Boquete,2017,1
+Boquete,2015,1
+Boquete,2018,1
+Montevideo,2017,14
+Montevideo,2016,15
+Montevideo,2018,9
+Montevideo,2015,5
+Montevideo,2010,1
+Montevideo,2014,1
+Colonia Del Sacramento,2017,2
+Colonia Del Sacramento,2016,1
+Ushaia,2017,4
+Ushaia,2016,2
+Alexander Island,2017,1
+Avalon,2016,1
+Avalon,1997,1
+Avalon,2017,1
+Avalon,2012,1
+Cincinnati,2016,3
+Cincinnati,2013,1
+Cincinnati,2014,1
+Cincinnati,2015,2
+Cincinnati,2018,3
+Sihanoukville,2016,5
+Sihanoukville,2014,4
+Sihanoukville,2018,4
+Sihanoukville,2015,1
+Sihanoukville,2012,1
+Can Tho,2016,5
+Can Tho,2015,1
+Can Tho,2017,1
+Atlantic City,2016,4
+Atlantic City,2015,1
+Atlantic City,2017,1
+Palma De Mallorca,2016,3
+Palma De Mallorca,2014,1
+Palma De Mallorca,2017,2
+Rehoboth Beach,2016,1
+"Baltimore, MD",2016,3
+"Baltimore, MD",2017,3
+"Baltimore, MD",2007,1
+"Baltimore, MD",2006,2
+"Baltimore, MD",1990,1
+"Baltimore, MD",2015,4
+"Baltimore, MD",2018,1
+"Baltimore, MD",2014,1
+"Baltimore, MD",2013,1
+"Baltimore, MD",2012,2
+Lake Tahoe,2016,5
+Lake Tahoe,2017,2
+Lake Tahoe,2014,2
+Lake Tahoe,2012,1
+Vatican City,2016,4
+Vatican City,2013,1
+Vatican City,2017,4
+Vatican City,2000,1
+Vatican City,2015,1
+Vatican City,2003,1
+Vatican City,2018,1
+Florence,2016,23
+Florence,2017,36
+Florence,2018,10
+Florence,2012,8
+Florence,2014,5
+Florence,2002,2
+Florence,2013,5
+Florence,2015,7
+Florence,2008,2
+Florence,2004,2
+Florence,1997,1
+Florence,1991,1
+Florence,2010,2
+Florence,2006,1
+San Marino,2016,3
+San Marino,2015,1
+Como,2016,5
+Como,2012,1
+Como,2017,5
+Como,2007,1
+Como,2015,2
+Como,2014,1
+Lembongan,2016,1
+Lembongan,2015,1
+Whistler,2016,4
+Whistler,2015,1
+Whistler,2004,1
+Whistler,2018,2
+Whistler,2017,5
+Whistler,2010,1
+Ann Arbor,2015,2
+Ann Arbor,2014,1
+La Paz Department,2015,3
+La Paz Department,2017,1
+La Paz Department,2016,3
+Puno,2015,3
+Puno,2016,2
+Puno,2017,2
+Puno,2014,1
+Arequipa,2015,2
+Arequipa,2017,5
+Arequipa,2018,4
+Arequipa,2016,4
+Arequipa,2014,1
+Huacachina,2015,1
+Huacachina,2017,2
+Huacachina,2016,1
+Huacachina,2014,1
+Huacachina,2018,1
+Ica,2015,1
+Paraty,2015,1
+Paraty,2016,1
+Paraty,2017,1
+Bonito,2015,1
+Bonito,2018,1
+Bonito,2017,1
+Larnaca,2015,1
+Larnaca,2018,1
+Larnaca,2017,4
+Duck,2015,1
+Duck,2014,1
+Maui,2015,1
+Maui,2017,3
+Maui,2014,1
+Maui,2016,3
+Maui,2009,1
+Maui,2012,1
+Maui,2011,1
+Cabo San Lucas,2015,2
+Cabo San Lucas,2018,4
+Cabo San Lucas,2016,3
+Cabo San Lucas,2002,1
+Cabo San Lucas,2007,1
+Cabo San Lucas,2017,4
+Kailua-Kona,2014,1
+Kailua-Kona,2017,4
+Kailua-Kona,2016,3
+Kailua-Kona,2015,1
+Kailua-Kona,2018,1
+"Honolulu, Hawaii",2014,6
+"Honolulu, Hawaii",2017,13
+"Honolulu, Hawaii",2018,3
+"Honolulu, Hawaii",2010,1
+"Honolulu, Hawaii",2003,1
+"Honolulu, Hawaii",2016,18
+"Honolulu, Hawaii",2015,7
+"Honolulu, Hawaii",2002,1
+"Honolulu, Hawaii",2012,1
+"Honolulu, Hawaii",2009,1
+Kilimanjaro,2014,1
+Black Rock City,2014,2
+Black Rock City,2015,2
+Black Rock City,2013,1
+Black Rock City,2016,2
+Black Rock City,2017,2
+"Houston, TX",2014,1
+"Houston, TX",2015,7
+"Houston, TX",2017,11
+"Houston, TX",2016,14
+"Houston, TX",2004,1
+"Houston, TX",2010,1
+"Houston, TX",2009,1
+"Houston, TX",2007,1
+"Houston, TX",2000,1
+"Houston, TX",2018,5
+"Houston, TX",2001,1
+"Houston, TX",2011,1
+Roatán,2014,1
+Roatán,2017,2
+Roatán,2016,3
+Monterey,2014,1
+Monterey,2015,2
+Monterey,2012,1
+Galway,2014,2
+Galway,2017,6
+Galway,2018,3
+Galway,2016,2
+Galway,2015,1
+Cork,2013,1
+Cork,2017,2
+Cork,2018,1
+Cork,2016,1
+Cork,2014,1
+Cork,2011,1
+Cork,2010,2
+Cork,2015,1
+Cork,2007,1
+Belfast,2013,2
+Belfast,2016,2
+Belfast,2002,1
+Belfast,2017,6
+Belfast,2018,3
+Belfast,2014,2
+Belfast,2009,1
+Belfast,2015,2
+Belfast,2012,2
+Belfast,2010,1
+Taghazout,2018,8
+Taghazout,2016,9
+Taghazout,2017,6
+Taghazout,2015,9
+Taghazout,2014,1
+Sligo,2018,2
+Krathi,2016,1
+Gaborone,2003,1
+Gaborone,2015,1
+Venice,2015,8
+Venice,2016,18
+Venice,2018,10
+Venice,2014,8
+Venice,2002,1
+Venice,2013,4
+Venice,2017,24
+Venice,2012,2
+Venice,2011,2
+Venice,2007,1
+Venice,2006,1
+Venice,2009,1
+Lech,2015,1
+Lech,2017,1
+Lech,2018,1
+Wuppertal,2015,1
+Minsk,2014,1
+Minsk,1985,1
+Minsk,2018,7
+Minsk,2015,2
+Minsk,2017,9
+Minsk,2016,3
+Kampot,2014,1
+Kampot,2016,1
+Kampot,2017,1
+Bogor,2013,1
+Bogor,2015,1
+Yogyakarta,2013,1
+Yogyakarta,2015,4
+Yogyakarta,2016,7
+Yogyakarta,2010,1
+Yogyakarta,2018,3
+Yogyakarta,2017,4
+Yogyakarta,2014,1
+Langkawi,2013,2
+Langkawi,2017,4
+Langkawi,2014,3
+Langkawi,2016,4
+Langkawi,2015,4
+Langkawi,2018,4
+Langkawi,2012,1
+Langkawi,2009,1
+Bohol,2017,5
+Bohol,2007,1
+Bohol,2015,1
+Big Sur,2017,1
+Big Sur,2018,1
+Big Sur,2013,1
+Yosemite Valley,2017,2
+Yosemite Valley,2016,1
+Yosemite Valley,2014,1
+Death Valley,2017,2
+Sequoia National Forest,2017,1
+South Lake Tahoe,2017,4
+South Lake Tahoe,2015,3
+South Lake Tahoe,2018,3
+South Lake Tahoe,2016,4
+Leeuwarden,2018,1
+Leeuwarden,2017,2
+Leeuwarden,2016,1
+Utrecht,2018,6
+Utrecht,2017,12
+Utrecht,2012,1
+Utrecht,2011,1
+Utrecht,2008,2
+Utrecht,2007,1
+Utrecht,2013,2
+Utrecht,2016,9
+Utrecht,2015,10
+Utrecht,2014,5
+Utrecht,2006,1
+Utrecht,2000,1
+Zadar,2018,6
+Zadar,2016,7
+Zadar,2017,9
+Zadar,2015,2
+Reykjavik,2018,18
+Reykjavik,2016,25
+Reykjavik,2013,5
+Reykjavik,2017,19
+Reykjavik,2015,10
+Reykjavik,2010,1
+Reykjavik,2006,1
+Reykjavik,1985,1
+Maceió,2018,2
+Maceió,2017,2
+Maceió,2015,2
+Mokrin,2018,1
+Mokrin,2016,1
+Mokrin,2017,1
+South Kuta,2017,1
+South Kuta,2014,2
+Sarajevo,2017,13
+Sarajevo,2013,2
+Sarajevo,2016,8
+Sarajevo,2015,6
+Sarajevo,2009,1
+Sarajevo,2014,1
+Sarajevo,2018,3
+Sintra,2017,3
+Sintra,2016,1
+Sintra,2018,2
+Sintra,2015,2
+Lagos,2017,6
+Lagos,2016,4
+Lagos,2015,3
+Lagos,2018,4
+Lagos,2005,1
+Lagos,2002,1
+Lagos,2000,1
+"Columbus, OH",2017,3
+"Columbus, OH",2015,2
+"Columbus, OH",2018,2
+"Columbus, OH",2014,1
+"Columbus, OH",2012,2
+"Columbus, OH",2011,1
+"Columbus, OH",2013,1
+Kazan,2017,3
+Kazan,2014,1
+Kazan,2018,2
+Davos,2018,1
+Davos,2008,1
+Davos,2016,1
+Davos,2014,1
+Tórshavn,2018,1
+Tórshavn,2017,2
+Guimaraes,2018,1
+Abisko,2018,1
+Tromso,2018,2
+Tromso,2016,6
+Tromso,2015,4
+Tromso,2017,2
+Guadalajara,2018,8
+Guadalajara,2017,15
+Guadalajara,2016,6
+Guadalajara,2014,2
+Guadalajara,2015,3
+Guadalajara,2005,1
+San Miguel de Allende,2018,2
+San Miguel de Allende,2006,1
+San Miguel de Allende,2017,4
+San Miguel de Allende,2016,4
+San Cristobal de las Casas,2018,7
+San Cristobal de las Casas,2015,1
+San Cristobal de las Casas,2017,4
+San Cristobal de las Casas,2016,1
+Bacalar,2018,2
+Bacalar,2017,1
+Tulum,2017,17
+Tulum,2015,2
+Tulum,2016,8
+Tulum,2018,10
+Tulum,2012,1
+Tulum,2014,1
+Lansing,2017,2
+Lansing,2018,1
+Gran Canaria,2017,4
+Vis,2017,2
+Vis,2015,1
+"Palma, Mallorca",2017,7
+"Palma, Mallorca",2015,2
+"Palma, Mallorca",2014,3
+"Palma, Mallorca",2018,8
+"Palma, Mallorca",2016,1
+Vila Do Porto,2017,1
+Gijón,2018,1
+Gijón,2017,2
+Gijón,2016,1
+Ponferrada,2017,1
+Ponferrada,2014,1
+Kanazawa,2017,5
+Kanazawa,2014,1
+Kanazawa,2015,1
+Osaka,2017,28
+Osaka,2016,39
+Osaka,2014,8
+Osaka,2018,15
+Osaka,2015,13
+Osaka,2012,2
+Osaka,1999,1
+Osaka,2013,1
+Little Rock,2017,1
+Little Rock,2006,1
+Hakodate,2017,2
+Sapporo,2017,4
+Sapporo,2018,5
+Sapporo,2015,2
+Sapporo,2016,1
+Sitka,2017,2
+Rincon,2017,1
+Rincon,2015,1
+Pensacola Beach,2017,1
+Pensacola Beach,2016,1
+"Indianapolis, IN",2017,3
+"Indianapolis, IN",2016,4
+"Indianapolis, IN",2014,1
+"Indianapolis, IN",1998,1
+Monterrey,2017,2
+Monterrey,2014,1
+Monterrey,2015,2
+Monterrey,2018,1
+Monterrey,2016,1
+"Denver, CO",2017,21
+"Denver, CO",2014,3
+"Denver, CO",2016,24
+"Denver, CO",2011,2
+"Denver, CO",2018,10
+"Denver, CO",2013,2
+"Denver, CO",2015,8
+"Denver, CO",2012,2
+"Denver, CO",2010,1
+"Denver, CO",2008,1
+"Denver, CO",1999,1
+Estes Park,2017,1
+Estes Park,2016,1
+Guernsey,2017,2
+Deadwood,2017,1
+Deadwood,2015,1
+"Fargo, ND",2017,1
+"Fargo, ND",2014,1
+"Fargo, ND",2013,1
+"Fargo, ND",2009,1
+"Madison, WI",2017,5
+"Madison, WI",2016,1
+"Madison, WI",2015,2
+"Madison, WI",2014,1
+Cozumel,2017,2
+Cozumel,2016,2
+Grand Cayman,2017,3
+Grand Cayman,2016,1
+Grand Cayman,2009,1
+Ocho Rios,2017,1
+Ocho Rios,2012,1
+Byron Bay,2017,5
+Byron Bay,2016,4
+Byron Bay,2018,1
+Byron Bay,2015,2
+Byron Bay,2014,1
+Byron Bay,2012,2
+Lido di Jesolo,2017,1
+Lido di Jesolo,2013,1
+Amalfi,2017,2
+Amalfi,2016,2
+Amalfi,2018,1
+Naples,2017,4
+Naples,2016,5
+Naples,2013,2
+Naples,2015,2
+Naples,2014,1
+Naples,2018,4
+Bari,2017,2
+Bari,2014,1
+Bari,2015,1
+Bari,2016,4
+Bari,2013,1
+Galápagos Islands,2016,4
+Galápagos Islands,2017,1
+Galápagos Islands,2006,1
+Galápagos Islands,2018,2
+Baños,2016,1
+Nice,2015,9
+Nice,2017,18
+Nice,2016,12
+Nice,2010,3
+Nice,2014,3
+Nice,2018,5
+Nice,2004,1
+Nice,2011,2
+Nice,2001,2
+Nice,2013,1
+Nice,2006,1
+Nice,2002,2
+Nice,2003,1
+Nice,2012,1
+"Orlando, FL",2015,7
+"Orlando, FL",2013,7
+"Orlando, FL",2018,14
+"Orlando, FL",2017,18
+"Orlando, FL",2016,19
+"Orlando, FL",2006,1
+"Orlando, FL",2012,6
+"Orlando, FL",1991,1
+"Orlando, FL",1998,1
+"Orlando, FL",2000,1
+"Orlando, FL",1997,1
+"Orlando, FL",2011,2
+"Orlando, FL",2010,1
+"Dallas, TX",2015,9
+"Dallas, TX",2017,15
+"Dallas, TX",2011,1
+"Dallas, TX",2010,1
+"Dallas, TX",2009,1
+"Dallas, TX",2008,3
+"Dallas, TX",2007,1
+"Dallas, TX",2006,1
+"Dallas, TX",2018,4
+"Dallas, TX",2016,7
+"Dallas, TX",2012,1
+Spain,2016,4
+Spain,2018,1
+Spain,2017,2
+Spain,2015,3
+Spain,2008,1
+Spain,2006,1
+Morocco,2015,1
+Morocco,2016,2
+Morocco,2006,1
+Morocco,2017,1
+Turkey,2015,1
+Turkey,2017,1
+Turkey,2006,1
+Turkey,2014,1
+India,2015,2
+India,2001,1
+India,2016,5
+India,2013,1
+India,2017,1
+Laos,2015,3
+Laos,2012,1
+Laos,2002,1
+Laos,2016,1
+Laos,2014,1
+Laos,2018,2
+Sean Monorom,2018,1
+Kratié,2018,1
+Cát Bà,2018,1
+Cát Bà,2017,1
+Sa Pa,2018,1
+Sa Pa,2014,2
+Sa Pa,2017,7
+Sa Pa,2013,1
+Sa Pa,2015,1
+Bad Bentheim,2018,1
+Bad Bentheim,2017,1
+Buren,2018,1
+Mainz,2018,1
+Mainz,2016,1
+Mainz,2015,2
+Mainz,2017,1
+Osnabrück,2018,1
+Osnabrück,2017,1
+Osnabrück,2014,1
+Bremerhaven,2017,1
+Hannover,2017,3
+Hannover,2014,2
+Hannover,2016,2
+Hannover,2015,3
+Hannover,2000,1
+Hannover,2018,1
+La Paz,2017,9
+La Paz,2016,12
+La Paz,2015,2
+La Paz,2013,1
+La Paz,2018,2
+La Paz,2014,2
+Uyuni (Thola Pampa),2017,1
+Tupiza,2017,1
+Potosí,2017,1
+Sucre,2017,3
+Sucre,2018,1
+Sucre,2015,2
+Sucre,2016,1
+Sucre,2014,1
+Monaco,2017,6
+Monaco,2016,3
+Monaco,2013,2
+Monaco,2014,1
+Monaco,2004,1
+Monaco,2018,3
+Monaco,2015,3
+Monaco,2006,2
+Monaco,2010,1
+Antibes,2017,3
+Antibes,1999,1
+Antibes,2016,1
+Sylt,2017,1
+Sylt,2016,1
+Iceland,2016,3
+Iceland,2018,1
+Iceland,2014,1
+Iceland,2017,3
+Iceland,2015,1
+Stuttgart,2016,6
+Stuttgart,2014,4
+Stuttgart,2017,11
+Stuttgart,2015,4
+Stuttgart,2013,3
+Stuttgart,2018,3
+Heidelberg,2015,1
+Heidelberg,2018,3
+Heidelberg,2004,1
+Heidelberg,2013,1
+Heidelberg,2016,5
+Heidelberg,2014,2
+Heidelberg,1992,1
+Heidelberg,2017,1
+Fiji,2015,1
+Fiji,2009,1
+Fiji,2018,1
+Fiji,2016,1
+Freiburg im Breisgau,2014,1
+Freiburg im Breisgau,2018,1
+Bolsterlang,2013,1
+Enschede,2009,1
+Enschede,2007,1
+San Juan del Sur,2017,6
+San Juan del Sur,2018,8
+San Juan del Sur,2013,1
+San Juan del Sur,2016,3
+San Juan del Sur,2014,2
+Mendoza,2018,3
+Mendoza,2016,8
+Mendoza,2006,1
+Mendoza,2011,2
+Mendoza,2015,1
+Mendoza,2017,2
+Mendoza,2009,1
+San Pedro de Atacama,2018,2
+San Pedro de Atacama,2016,2
+San Pedro de Atacama,2014,1
+San Pedro de Atacama,2017,1
+Montañita,2017,1
+Montañita,2016,1
+Montañita,2015,1
+Montañita,2013,1
+"Oakland, CA",2016,8
+"Oakland, CA",2014,1
+"Oakland, CA",2018,5
+"Oakland, CA",2017,4
+"Oakland, CA",2013,1
+"Oakland, CA",2006,1
+"Oakland, CA",2015,2
+"Oakland, CA",2012,1
+Puerto de la Cruz,2016,5
+Puerto de la Cruz,2018,1
+"St. Louis, MO",2017,3
+"St. Louis, MO",2012,1
+"St. Louis, MO",2018,2
+"St. Louis, MO",2016,3
+"St. Louis, MO",2015,1
+Urbana,2014,1
+Marbella,2017,3
+Marbella,2013,1
+Marbella,2012,1
+Marbella,2001,1
+Marbella,2015,2
+Queenstown,2016,9
+Queenstown,2012,1
+Queenstown,2017,11
+Queenstown,2015,7
+Queenstown,2013,1
+Queenstown,2014,2
+Queenstown,2018,1
+Queenstown,2009,1
+Milltown Malbay,2018,1
+Kells,2018,1
+Kraków,2017,32
+Kraków,2016,18
+Kraków,2014,6
+Kraków,2008,2
+Kraków,2018,16
+Kraków,2015,9
+Kraków,2007,1
+Kraków,2012,1
+Iowa,2017,1
+Iowa,2015,1
+KoHUB,2016,1
+Hua Hin,2015,3
+Hua Hin,2013,1
+Hua Hin,2016,6
+Hua Hin,2018,2
+Hua Hin,2012,1
+Grimentz,2017,1
+San Carlos de Bariloche,2016,3
+San Carlos de Bariloche,2015,1
+San Carlos de Bariloche,2017,2
+San Carlos de Bariloche,2014,1
+Campo Grande,2016,1
+Campo Grande,2017,2
+Campo Grande,2014,1
+Chennai,2017,5
+Chennai,2011,1
+Chennai,2018,3
+Chennai,2016,1
+Chennai,2014,1
+Chennai,2015,1
+Jaipur,2016,7
+Jaipur,2014,3
+Jaipur,2011,2
+Jaipur,2017,7
+Jaipur,2018,1
+Jaipur,2013,1
+Agra,2016,5
+Agra,2014,2
+Agra,2011,2
+Agra,2017,6
+Agra,2018,1
+Agra,2007,1
+Agra,2013,1
+Puducherry,2016,1
+Puducherry,2018,1
+Puducherry,2014,1
+Shenzhen,2016,13
+Shenzhen,2015,9
+Shenzhen,2017,13
+Shenzhen,2012,1
+Shenzhen,2014,2
+Shenzhen,2018,3
+Maine,2016,2
+Homer,2016,1
+Whitehorse,2016,1
+Whitehorse,2018,2
+Dawson Creek,2016,1
+"Whitefish, MT, United States",2016,1
+"Provo, UT",2016,1
+"Provo, UT",2002,1
+Gila,2016,1
+Belo Horizonte,2018,2
+Belo Horizonte,2017,9
+Belo Horizonte,2006,1
+Belo Horizonte,2014,1
+Ilhabela,2018,1
+Ilhabela,2015,1
+Santa Cruz,2016,10
+Santa Cruz,2007,1
+Santa Cruz,2014,2
+Santa Cruz,2017,3
+Santa Cruz,2012,1
+Santa Cruz,2013,1
+Tamarindo,2016,6
+Tamarindo,2015,3
+Tamarindo,2017,5
+Tamarindo,2018,1
+Tamarindo,2013,1
+Tamarindo,2011,1
+Niterói,2016,1
+"RosarioSanta Fé, Argentina",2016,1
+Harrisonburg,2016,1
+Harrisonburg,2015,2
+Harrisonburg,2018,2
+Harrisonburg,2017,2
+Bethesda,2016,1
+Regina,2016,1
+Regina,2015,1
+Regina,2012,1
+Regina,2011,1
+Regina,2010,1
+Winnipeg,2016,4
+Winnipeg,2017,1
+Winnipeg,2015,2
+Princeton,2016,1
+Princeton,2015,1
+Princeton,2009,1
+Skara,2017,1
+Riccione,2017,1
+Hakuba,2018,1
+Busan,2018,2
+Busan,2017,6
+Busan,2016,11
+Busan,2015,5
+Busan,2014,2
+Busan,2009,1
+Busan,2011,1
+Fuerteventura,2018,1
+Fuerteventura,2017,3
+Fuerteventura,2015,2
+Fuerteventura,2016,2
+Fuerteventura,2014,1
+Fuerteventura,2000,1
+Kata Beach,2017,1
+Kata Beach,2018,1
+Khao Lak,2017,1
+Khao Lak,2016,1
+Sassari,2018,2
+Sassari,2017,1
+Sassari,2016,1
+Oaxaca,2018,9
+Oaxaca,2016,13
+Oaxaca,2015,3
+Oaxaca,2017,8
+Oaxaca,2014,1
+Bantayan Island,2017,1
+Cebu,2017,15
+Cebu,2018,7
+Cebu,2015,16
+Cebu,2016,7
+Cebu,2014,4
+Lyon,2016,12
+Lyon,2005,1
+Lyon,2017,14
+Lyon,2011,2
+Lyon,2015,9
+Lyon,2018,5
+Lyon,2009,1
+Lyon,2013,1
+Lyon,2014,4
+Hội An,2015,1
+Hội An,2016,1
+Changzhou,2017,1
+Changzhou,2016,1
+Changzhou,2012,1
+Macau,2017,5
+Macau,2013,1
+Macau,2016,7
+Macau,2014,2
+Macau,2015,5
+Macau,2012,2
+Macau,2010,1
+Macau,2009,1
+Macau,2018,3
+Krong Battambang,2017,2
+Krong Battambang,2016,2
+New Haven,2016,2
+New Haven,2013,1
+New Haven,2012,1
+New Haven,2018,1
+New Haven,2007,1
+New Haven,2015,1
+Midigama Beach,2018,1
+Weligama,2018,1
+Weligama,2017,1
+Santiago de Compostela,2016,4
+Santiago de Compostela,2018,1
+Santiago de Compostela,2017,4
+Santiago de Compostela,2012,1
+Santiago de Compostela,2011,1
+Bran,2013,1
+Bran,2018,1
+Komotini,2013,1
+Birmingham,2017,15
+Birmingham,2016,4
+Birmingham,2009,1
+Birmingham,2018,4
+Birmingham,1994,1
+Birmingham,2010,1
+Birmingham,2015,4
+Birmingham,2013,1
+Palma de Mallorca,2015,1
+Palma de Mallorca,2016,8
+Palma de Mallorca,2009,1
+Palma de Mallorca,2001,1
+Palma de Mallorca,2014,1
+Gozo,2015,1
+Los Angeles,2015,1
+Mostar,2017,3
+Mostar,2016,3
+Mostar,2013,2
+Mostar,2018,1
+Makarska,2017,1
+Makarska,2015,1
+Makarska,2016,1
+Makarska,2018,1
+Makarska,2014,1
+Općina Krk,2017,1
+Christchurch,2016,11
+Christchurch,2012,1
+Christchurch,2017,9
+Christchurch,2018,6
+Christchurch,2015,5
+Christchurch,2006,1
+Christchurch,2003,1
+Christchurch,2014,1
+Bishkek,2015,2
+Bishkek,2018,2
+Bishkek,2009,1
+Bishkek,2014,1
+Bishkek,1993,1
+Bishkek,2016,4
+Tehran,2015,4
+Tehran,2012,1
+Tehran,2017,3
+Tehran,2016,2
+Lexington,2016,2
+Lexington,2015,1
+Lexington,2014,3
+Lexington,2013,1
+Lexington,2012,1
+Lexington,2017,2
+Lexington,2009,1
+Hakone,2016,2
+Hakone,2017,1
+Hakone,2015,1
+Hakone,2014,1
+Freeport,2016,2
+Freeport,2017,1
+Positano,2015,1
+Positano,2016,1
+Positano,2012,1
+Positano,2018,1
+Torquay,2016,1
+Torquay,2013,1
+Wrocław,2016,10
+Wrocław,2015,4
+Wrocław,2014,1
+Wrocław,2018,6
+Wrocław,2017,9
+Wrocław,2013,1
+Eindhoven,2015,3
+Eindhoven,2016,2
+Eindhoven,2018,3
+Eindhoven,2017,3
+Eindhoven,2014,1
+Eindhoven,2012,1
+Eindhoven,2008,1
+Fort Walton Beach,2017,1
+Hoi An,2015,15
+Hoi An,2018,9
+Hoi An,2014,3
+Hoi An,2017,29
+Hoi An,2016,9
+Hoi An,2011,1
+Hoi An,2013,1
+Koh Rong Sanloem,2015,1
+Koh Rong Sanloem,2016,1
+Koh Chang,2015,1
+Koh Chang,2009,1
+Koh Chang,2016,1
+Koh Chang,2013,1
+Sayulita,2017,3
+Sayulita,2016,11
+Sayulita,2018,3
+Sayulita,2012,1
+Merida,2017,7
+Merida,2015,4
+Merida,2018,3
+Merida,2014,1
+Merida,2005,1
+Merida,2016,3
+Toledo,2017,2
+Toledo,2010,1
+Toledo,2016,1
+Toledo,2018,1
+Toledo,2015,1
+Toledo,2011,1
+Bilbao,2017,13
+Bilbao,2018,3
+Bilbao,2016,8
+Bilbao,2015,4
+Bilbao,2014,1
+Bilbao,2012,1
+Bilbao,2011,1
+Brasov,2017,3
+Brasov,2016,2
+Brasov,2006,1
+Brasov,2015,2
+Brasov,2018,3
+Pretoria,2016,1
+Pretoria,2012,1
+Toamasina,2016,1
+Antananarivo,2016,1
+Antananarivo,2017,2
+Missoula,2015,1
+Missoula,2012,1
+Missoula,2016,2
+Missoula,2017,1
+Punta Gorda,2015,1
+Punta Gorda,2010,1
+Caye Caulker,2015,3
+Caye Caulker,2014,2
+Caye Caulker,2013,2
+Caye Caulker,2018,2
+Lihue,2010,1
+Lake Bled,2016,2
+Lake Bled,2015,1
+Lake Bled,2008,1
+Province of Verona,2016,1
+Province of Verona,2014,1
+Metropolitan City of Genoa,2016,1
+Metropolitan City of Genoa,2017,3
+Saint-Tropez,2016,1
+Saint-Tropez,2018,1
+Saint-Tropez,2011,1
+Verdon Gorge,2016,1
+Saint-Rémy-de-Provence,2016,1
+Tongatapu,2017,1
+Nessebar,2016,1
+Varna,2016,2
+Varna,2017,4
+Varna,2018,3
+Varna,2015,1
+Cannes,2015,3
+Cannes,2017,5
+Cannes,2018,1
+Cannes,2012,1
+Haifa,2015,2
+Haifa,2018,1
+Haifa,2016,1
+Santorini,2015,3
+Santorini,2017,9
+Santorini,2010,1
+Santorini,2016,9
+Santorini,2018,3
+Santorini,2012,1
+Wales,2015,2
+Wales,2009,1
+Wales,2016,2
+Lake Balaton,2015,1
+Tignes,2018,1
+Tignes,2013,1
+Tignes,2017,2
+Hue,2018,3
+Hue,2016,1
+Hue,2017,2
+El Nido,2018,1
+El Nido,2016,3
+El Nido,2013,1
+El Nido,2015,3
+El Nido,2017,4
+Puerto Princesa,2018,3
+Puerto Princesa,2017,1
+Puerto Princesa,2015,2
+Puerto Princesa,2016,2
+Krong Preah Sihanouk,2018,1
+Krong Preah Sihanouk,2017,5
+Krong Preah Sihanouk,2016,2
+Sorrento,2017,3
+Sorrento,2012,1
+Sorrento,2004,1
+Sorrento,2016,1
+Sorrento,2018,1
+Helensburgh,2016,1
+Siena,2016,3
+Siena,2015,1
+Siena,2008,1
+Siena,2018,1
+Mar del Plata,2016,1
+Cavtat,2015,5
+Cavtat,2017,1
+Cavtat,2016,1
+Addis Ababa,2017,2
+Addis Ababa,2012,1
+Addis Ababa,2015,1
+Addis Ababa,2018,2
+Addis Ababa,2016,1
+Krong Kampot,2016,1
+Krong Kampot,2017,1
+Krong Kampot,2018,1
+Lycian Way Trail,2016,1
+Poznan,2018,1
+Poznan,2017,3
+Poznan,2015,4
+Poznan,2012,1
+Poznan,2016,5
+Osaka Prefecture,2017,3
+Osaka Prefecture,2018,3
+Osaka Prefecture,2014,1
+Osaka Prefecture,2016,3
+Jioufen,2018,1
+Jioufen,2017,1
+Cat Ba,2017,2
+Kiruna,2017,1
+Gujo Hachiman,2016,1
+Hangzhou,2016,2
+Hangzhou,2004,1
+Hangzhou,2015,2
+Hangzhou,2012,1
+Hangzhou,2013,2
+Hangzhou,2011,1
+Jeonju-si,2016,1
+Central Region,2017,1
+Central Region,2018,1
+Dresden,2015,7
+Dresden,2008,1
+Dresden,2016,8
+Dresden,2018,3
+Dresden,2017,2
+Dresden,2012,1
+Garmisch-Partenkirchen,2015,1
+Cuxhaven,2015,1
+Haltwhistle,2015,1
+Isle Of Islay,2015,1
+Lake Atitlán,2018,1
+Lake Atitlán,2014,1
+Lake Atitlán,2017,1
+Lake Atitlán,2016,1
+Antigua,2018,6
+Antigua,2015,4
+Antigua,2017,7
+Antigua,2016,10
+Antigua,2014,1
+Antigua,2004,1
+Granada Department,2018,2
+Granada Department,2016,1
+Ometepe,2018,1
+Ometepe,2017,1
+Ometepe,2016,2
+Socorro Island,2018,1
+Todos Santos,2017,2
+Portugal,2017,3
+Portugal,2018,1
+Portugal,2016,1
+Portugal,2009,1
+Portugal,2006,1
+São Miguel Island,2017,1
+Utila,2017,1
+Utila,2015,1
+Utila,2018,1
+Utila,2014,1
+Veysonnaz,2017,2
+Veysonnaz,2016,1
+Lima Region,2016,4
+Lima Region,2017,13
+Lima Region,2018,5
+Lima Region,2014,1
+Nanjing,2016,1
+Nanjing,2004,1
+Nanjing,2015,1
+Nanjing,2018,1
+Nanjing,2013,1
+Puerto Galera,2017,1
+Puerto Galera,2015,1
+Puerto Galera,2016,1
+Puerto Galera,2014,1
+Puerto Galera,2012,1
+Kota Kinabalu,2017,6
+Kota Kinabalu,2015,8
+Kota Kinabalu,2013,2
+Kota Kinabalu,2016,3
+Kota Kinabalu,2018,3
+Kuching,2017,9
+Kuching,2016,3
+Kuching,2012,1
+Kuching,2014,2
+Kuching,2011,1
+Kuching,2018,3
+Kuching,2015,1
+Phang-nga,2018,1
+Phang-nga,2017,1
+Khao Sok National Park,2018,1
+Khao Sok National Park,2016,1
+Vermont,2017,2
+Berkeley,2016,2
+Berkeley,2013,3
+Berkeley,2015,1
+Berkeley,2012,1
+Berkeley,2018,1
+Berkeley,2014,1
+Blacksburg,2011,1
+Blacksburg,2017,1
+Blacksburg,2016,1
+Cayman Islands,2011,1
+Cayman Islands,2012,1
+Cayman Islands,2003,1
+"Rochester, NY",2009,1
+"Rochester, NY",2015,1
+"Rochester, NY",1987,1
+"Rochester, NY",2017,1
+"Rochester, NY",2010,1
+Kemerovo,2015,1
+Tomsk,2013,1
+Valparaíso,2015,3
+Valparaíso,2017,5
+Valparaíso,2016,4
+Valparaíso,2018,2
+Moalboal,2018,2
+Moalboal,2017,2
+Moalboal,2016,1
+Broadford,2017,1
+Plitvička Jezera,2017,1
+Plitvička Jezera,2015,2
+Pemenang,2015,1
+Pemenang,2014,1
+Sukapura,2015,1
+Hạ Long Bay,2014,2
+Hạ Long Bay,2016,2
+Hạ Long Bay,2017,2
+Udaipur,2014,1
+Udaipur,2018,2
+Udaipur,2016,4
+Udaipur,2011,1
+Jodhpur,2014,1
+Jodhpur,2018,2
+Jodhpur,2011,1
+Jodhpur,2016,1
+Jodhpur,2017,1
+Salawas,2014,1
+Malpura,2014,1
+Varanasi,2014,2
+Varanasi,2016,3
+Varanasi,1997,1
+Varanasi,2018,1
+Varanasi,2012,1
+Varanasi,2011,1
+Lumbini,2014,1
+Lumbini,2017,1
+Itapema,2015,1
+Curitiba,2015,3
+Curitiba,2017,2
+Curitiba,2018,1
+Curitiba,2016,3
+Curitiba,2014,4
+Curitiba,2013,1
+Joinville,2015,1
+León,2016,1
+Pamplona,2016,3
+Pamplona,2015,2
+Pamplona,2017,2
+Rovaniemi,2018,1
+Rovaniemi,2017,2
+Andorra la Vella,2018,4
+Andorra la Vella,2013,1
+Andorra la Vella,2017,2
+Andorra la Vella,2015,2
+Fátima,2017,1
+Lourdes,2017,1
+Gdansk,2017,12
+Gdansk,2016,8
+Gdansk,2018,4
+Chamonix,2017,9
+Chamonix,2018,4
+Chamonix,2014,1
+Chamonix,2016,1
+Chamonix,2015,1
+Chamonix,2008,1
+Kemer,2017,1
+Kemer,2002,1
+Harstad,2017,1
+Torres del Paine,2017,1
+Torres del Paine,2018,1
+Torres del Paine,2014,2
+Lodz,2017,2
+Lodz,2013,1
+Lodz,2016,2
+Lodz,2018,1
+Zakopane,2017,2
+Zakopane,2008,1
+Zakopane,2018,1
+Zakopane,2012,1
+Zakopane,2016,1
+Sisimiut,2016,1
+Kangerlussuaq,2016,1
+Rothbury,2018,1
+Muskegon,2018,1
+Acadia National Park,2018,1
+Winter Harbor,2018,1
+Standish,2018,1
+Hampton,2018,1
+Trenton,2018,1
+Minamiboso Shi,2018,1
+Maradu,2018,1
+Courtallam,2018,1
+Kanyakumari,2018,1
+Varkala,2018,1
+Varkala,2016,1
+Varkala,2017,1
+Varkala,2013,1
+Varkala,2012,1
+Kannur,2018,1
+Kundapura,2018,1
+Palolem,2018,2
+Morjim,2018,1
+Morjim,2014,1
+Chiplun,2018,1
+Chiplun,2016,1
+Navi Mumbai,2018,1
+Vapi,2018,1
+Ankleshwar,2018,1
+Ahmedabad,2018,2
+Ahmedabad,2017,1
+Ahmedabad,2012,1
+Ahmedabad,2013,1
+Jaisalmer,2017,2
+Jaisalmer,2011,1
+Jaisalmer,2016,2
+Arusha,2017,3
+Arusha,2014,1
+Arusha,2012,1
+Arusha,2010,1
+Arusha,2013,2
+Kilimanjaro International Airport,2017,1
+Lake Eyasi,2017,1
+Karatu,2017,1
+Serengeti National Park,2017,2
+Serengeti National Park,2014,1
+Dickinson,2017,1
+Cody,2017,1
+Cody,2015,1
+Idaho Falls,2017,1
+Fallon,2017,1
+Bozeman,2017,2
+Bozeman,2001,1
+Bozeman,2016,1
+Bozeman,2014,1
+Casper,2017,1
+Hill City,2017,1
+Camas,2017,1
+Sisters,2017,1
+Eugene,2017,3
+Eugene,2013,1
+Eugene,2009,2
+Eugene,2014,1
+Eugene,2006,1
+Eugene,2000,1
+Eugene,2018,1
+Eugene,2016,1
+Eugene,2015,1
+Kellogg,2017,1
+Banff,2017,2
+Banff,2015,3
+Banff,2018,4
+Banff,2016,5
+Banff,1998,1
+Banff,2013,1
+Radium Hot Springs,2017,1
+Calgary,2017,8
+Calgary,2015,4
+Calgary,2011,2
+Calgary,2018,2
+Calgary,2016,10
+Calgary,2006,1
+Calgary,1995,1
+Calgary,2014,1
+Calgary,2013,1
+Warner,2017,1
+"Minneapolis, MN",2017,16
+"Minneapolis, MN",2016,8
+"Minneapolis, MN",2015,4
+"Minneapolis, MN",2018,6
+Kalamazoo,2017,1
+Kalamazoo,2011,1
+Baie Lazare,2017,1
+Morondava,2017,1
+Bekopaka,2017,1
+Belo Tsiribihina,2017,1
+Masoarivo,2017,1
+Anosimena,2017,1
+Miandrivazo,2017,1
+Antsirabe,2017,1
+Hachijō-jima,2017,1
+"Milwaukee, WI",2017,1
+Pak Chong,2016,1
+Lagonisi,2016,1
+Porto Koufo,2016,2
+"Buffalo, NY",2016,3
+"Buffalo, NY",2017,4
+"Buffalo, NY",1987,1
+"Buffalo, NY",1979,1
+Tilburg,2016,1
+Tilburg,2017,1
+Ko Samet,2016,2
+Ko Samet,2017,3
+Ko Samet,2018,1
+Amed Beach,2016,2
+Amed Beach,2017,4
+Gili Trawangan,2016,4
+Gili Trawangan,2017,2
+Ogasawara,2016,1
+Sendai,2016,2
+Nagano,2016,1
+Matsumoto,2016,1
+Matsumoto,2015,1
+Matsumoto,2018,1
+Kashgar,2015,1
+Shiraz,2015,1
+Shiraz,2017,1
+Dikanak,2015,1
+Isfahan,2015,1
+Isfahan,2017,2
+Yazd,2015,1
+Yazd,2017,1
+Bandar Seri Begawan,2015,1
+Yangon,2015,9
+Yangon,2017,8
+Yangon,2018,5
+Yangon,2016,16
+Yangon,2014,4
+Ngapali Beach,2015,1
+Ngwesaung,2015,1
+Granville Ferry,2015,1
+Halifax,2015,3
+Halifax,1999,1
+Halifax,2017,2
+Halifax,2016,4
+Halifax,2014,1
+Port Hood,2015,1
+Baddeck,2015,1
+Charlottetown,2015,1
+Charlottetown,2016,1
+Saint John,2015,2
+Bar Harbor,2015,1
+Cinisi,2015,1
+Mikonos,2015,2
+Mikonos,2016,2
+Mikonos,2012,1
+Mikonos,2014,1
+Hvar,2015,4
+Hvar,2018,3
+Hvar,2016,3
+Hvar,2013,3
+Hvar,2017,1
+Bol,2015,1
+Bol,2017,2
+Brač,2015,1
+Brač,2017,1
+Antalya,2015,2
+Antalya,2014,3
+Antalya,2017,3
+Antalya,2002,1
+Antalya,2018,2
+Antalya,2016,1
+Kaş,2015,1
+Kaş,2011,1
+Fethiye,2015,1
+Fethiye,2011,1
+Pamukkale,2015,1
+Pamukkale,2016,1
+Bodrum,2015,1
+Bodrum,2011,1
+Bodrum,2008,1
+Bodrum,2016,1
+Kalymnos,2015,1
+Kalymnos,2017,1
+Kalymnos,2016,1
+Leipsoi,2015,1
+Patmos,2015,1
+Leros,2015,1
+Kos,2015,1
+Kos,2011,1
+Kos,2014,1
+Kos,2017,1
+Plitvice Lakes National Park,2015,1
+Plitvice Lakes National Park,2017,1
+Tangier,2015,1
+Tangier,2017,3
+Tangier,2018,1
+Tangier,2001,1
+Tangier,2016,1
+Tangier,2014,1
+Tetouan,2015,1
+Tetouan,2013,1
+Chefchaouen,2015,4
+Chefchaouen,2017,3
+Chefchaouen,2016,1
+Fes,2015,4
+Fes,2017,7
+Fes,2018,2
+Fes,2008,1
+Ouarzazate,2015,1
+Ouarzazate,2017,2
+Imlil,2015,1
+Imlil,2017,1
+Huaraz,2015,1
+Huaraz,2018,1
+Huaraz,2016,1
+Huaraz,2014,1
+Machu Picchu,2015,2
+Machu Picchu,2017,1
+Machu Picchu,2018,2
+Iquitos,2015,1
+Iquitos,2017,1
+Iquitos,2016,2
+Iquitos,2018,1
+Iquitos,2007,1
+Iquitos,2014,1
+Comstock Park,2015,1
+Maafushi,2015,2
+Maafushi,2014,1
+Male,2015,4
+Male,2017,4
+Male,2018,1
+Male,2012,1
+Male,2014,1
+Male,2011,1
+Rangali,2015,1
+Muscat,2015,1
+Muscat,2014,1
+Muscat,2017,4
+Muscat,2008,1
+Muscat,2018,2
+Muscat,2009,1
+Muscat,2016,1
+Sur,2015,1
+Al Khaluf,2015,1
+Hasik,2015,1
+Mirbat,2015,1
+Salalah,2014,1
+Salalah,2017,1
+Haima,2014,1
+Jeddah,2014,2
+Jeddah,2017,1
+Jeddah,2015,1
+Jeddah,2016,1
+Madain Saleh,2014,1
+Ngorongoro Crater,2014,1
+Ngorongoro Crater,2012,1
+Sant Celoni,2014,1
+Mandalay,2014,3
+Mandalay,2015,2
+Mandalay,2016,4
+Mandalay,2018,1
+Mandalay,2017,2
+Puta-O,2014,1
+Old Bagan,2014,3
+Old Bagan,2016,5
+Old Bagan,2015,1
+Old Bagan,2017,2
+Old Bagan,2018,1
+Shillong,2014,1
+Shillong,2011,1
+Kaziranga National Park,2014,1
+Birpara,2014,1
+Gangtok,2014,1
+Jorethang,2014,1
+Darjeeling,2014,2
+Siliguri,2014,1
+Siliguri,2011,1
+Malda,2014,1
+Kolkata,2014,3
+Kolkata,2011,1
+Kolkata,2018,1
+Kolkata,2012,2
+Kolkata,2016,2
+Kolkata,2015,1
+Kolkata,2004,1
+Kolkata,2007,1
+Kolkata,2017,1
+Bhubaneswar,2014,1
+Visakhapatnam,2014,1
+Ongole,2014,1
+Valparai,2014,1
+Beppu,2014,1
+Kagoshima,2014,1
+Kagoshima,2016,1
+Kagoshima,2015,2
+Kagoshima,2018,1
+Fukuoka,2014,2
+Fukuoka,2012,1
+Fukuoka,2016,4
+Fukuoka,2018,2
+Fukuoka,2017,1
+Fukuoka,2015,1
+Okayama,2014,2
+Okayama,2015,1
+Kanchanaburi,2014,1
+Kanchanaburi,2012,1
+Kanchanaburi,2017,1
+Cha-am,2014,1
+"Phoenix, AZ",2014,1
+"Phoenix, AZ",2012,1
+"Phoenix, AZ",2011,1
+"Phoenix, AZ",2016,5
+"Phoenix, AZ",2018,10
+"Phoenix, AZ",1997,1
+"Phoenix, AZ",1990,1
+"Phoenix, AZ",2017,10
+"Phoenix, AZ",2015,1
+Cali,2013,1
+Cali,2012,1
+Cali,2011,1
+Cali,2018,1
+Cali,2017,5
+Cali,2016,4
+Cali,2015,1
+Palomino,2013,1
+Palomino,2017,1
+Palomino,2018,1
+La Guajira,2013,1
+La Guajira,2015,1
+Clearwater,2013,1
+Clearwater,2017,2
+Wilmington,2013,1
+Wilmington,2014,1
+Mauritius,2013,2
+Mauritius,2012,1
+Mauritius,2015,1
+Mauritius,2014,2
+Brigantine,2013,1
+Davenport,2013,1
+Grand Junction,2013,1
+Fernley,2013,1
+"Des Moines, IA",2013,1
+"Des Moines, IA",2009,1
+"Des Moines, IA",2017,1
+"Des Moines, IA",2016,1
+"Des Moines, IA",2015,2
+"Des Moines, IA",2018,1
+Montebello,2013,1
+Wendover,2013,1
+Schenectady,2013,1
+Corona,2013,1
+Corona,2011,1
+Manhattan Beach,2013,1
+Manhattan Beach,2017,1
+San Luis Obispo,2013,2
+San Luis Obispo,2011,2
+San Luis Obispo,2012,1
+San Luis Obispo,2017,1
+San Luis Obispo,2016,2
+San Luis Obispo,2010,1
+San Luis Obispo,2007,1
+San Luis Obispo,2014,1
+Crescent City,2013,1
+Chemult,2013,1
+Blue Lagoon,2013,1
+Ölfus,2013,1
+Holmur,2013,1
+Gunnarshólmi,2013,1
+Selfoss,2013,1
+Akureyri,2013,1
+Akureyri,2017,1
+Akureyri,2016,1
+Akureyri,2018,1
+Stykkishólmur,2013,1
+Stykkishólmur,2015,1
+Stykkishólmur,2010,1
+Aarhus,2013,2
+Aarhus,2015,4
+Aarhus,2011,1
+Aarhus,2016,2
+'s-Hertogenbosch,2013,1
+Norwalk,2013,1
+Eden Prairie,2013,1
+Southampton,2012,2
+Southampton,2016,1
+Southampton,2018,1
+Southampton,2015,1
+Reunion,2012,1
+Reunion,2015,1
+Springbok,2012,1
+Keetmanshoop,2012,1
+Swakopmund,2012,1
+Swakopmund,2014,1
+Swakopmund,2013,1
+Windhoek,2012,1
+Windhoek,2010,1
+Windhoek,2004,1
+Windhoek,2014,2
+Windhoek,2015,2
+Windhoek,2016,1
+Windhoek,2013,1
+Windhoek,2017,1
+Maun,2012,1
+Maun,2017,1
+Maun,2013,1
+Masuma,2012,1
+Victoria Falls,2012,1
+Victoria Falls,2015,1
+Victoria Falls,2013,1
+Livingstone,2012,1
+Choma,2012,1
+Lilongwe,2012,1
+Nkhata Bay,2012,1
+Livingstonia,2012,1
+Mbeya,2012,1
+Mbeya,2013,1
+Dodoma,2012,1
+Serengeti,2012,2
+Serengeti,2013,1
+Serengeti,2017,1
+Isiolo,2012,1
+Marsabit,2012,1
+Moyale,2012,1
+Harar,2012,1
+Hargeisa,2012,1
+Lalibela,2012,1
+Lalibela,2015,1
+Debre Zeyit,2012,1
+Gondor Terara,2012,1
+Gorgora,2012,1
+Al Qadarif,2012,1
+Khartoum,2012,1
+Meroë,2012,1
+Dongola,2012,1
+Wadi Halfa,2012,1
+Ibrim,2012,1
+Assiut Governorate,2012,1
+Cairo Governorate,2012,1
+Cairo Governorate,2018,2
+Cairo Governorate,2016,2
+Cairo Governorate,1994,1
+Cairo Governorate,2017,3
+Tobruk,2012,1
+Shahat,2012,1
+Benghazi,2012,1
+Sirte,2012,1
+Misrata,2012,1
+Leptis Magna,2012,1
+Tripoli,2012,1
+Tripoli,2010,1
+Sabratah,2012,1
+Poste-Frontière Tunisien,2012,1
+Tataouine,2012,1
+Sfax,2012,1
+Tunis,2012,1
+Tunis,2011,1
+Tunis,2018,1
+Tunis,2016,1
+Tunis,2004,1
+Tunis,2006,1
+Tunis,2008,2
+Tunis,2013,1
+Salerno,2012,1
+Bologna,2012,1
+Bologna,2017,11
+Bologna,2016,7
+Bologna,2008,1
+Bologna,2015,3
+Bologna,2007,1
+Zwiesel,2012,1
+Klenová,2012,1
+Klenová,2009,1
+Klenová,2013,1
+Dunkirk,2012,1
+Dunkirk,2015,1
+Dunkirk,2016,1
+Dunkirk,2018,1
+Franz Josef Glacier,2012,1
+Franz Josef Glacier,2016,2
+Franz Josef Glacier,2017,2
+Franz Josef Glacier,2015,1
+Cambridge,2012,1
+Cambridge,2017,3
+Cambridge,2000,1
+Cambridge,1991,1
+Cambridge,2016,3
+Cambridge,2018,2
+Cambridge,2015,2
+Cambridge,2014,1
+Cambridge,2013,1
+Cape Tribulation,2012,1
+Port Douglas,2012,1
+Port Douglas,2017,1
+Uluru,2012,1
+Uluru,2007,1
+Alice Springs,2012,1
+Alice Springs,2018,1
+Alice Springs,2017,1
+Adelaide,2012,1
+Adelaide,2015,5
+Adelaide,2017,8
+Adelaide,2009,1
+Adelaide,2018,3
+Adelaide,2016,7
+Adelaide,2014,1
+Adelaide,2013,1
+Adelaide,2011,1
+"Richmond, VA",2012,1
+"Richmond, VA",2017,2
+"Richmond, VA",2015,1
+"Richmond, VA",2018,1
+Sedona,2012,1
+Sedona,2017,1
+Sedona,2015,1
+Sedona,2016,1
+Zion Nature Park,2012,1
+Bryce,2012,1
+Bryce,2011,1
+Phe,2011,1
+Klaeng,2011,1
+Moradabad,2011,1
+Bhimdatta,2011,1
+Nepalgunj,2011,1
+Hetauda,2011,1
+Itahari,2011,1
+Bilasipara,2011,1
+Bongaigaon,2011,1
+Guwahati,2011,1
+Guwahati,2016,1
+Guwahati,2017,1
+Paro,2011,1
+Paro,2015,1
+Wangdue Phodrang,2011,1
+Wangdue Phodrang,2015,1
+Punakha,2011,1
+Dochula,2011,1
+Thimphu,2011,1
+Thimphu,2015,1
+Thimphu,2014,1
+Thimphu,2016,1
+Izmir,2011,1
+Izmir,2008,1
+Izmir,2017,1
+Izmir,2012,1
+Izmir,2016,2
+Izmir,2015,2
+Izmir,2018,2
+Yanartas Dagi,2011,1
+Kabak,2011,1
+Symi,2011,1
+Rhodes,2011,2
+Rhodes,2008,1
+Rhodes,2017,1
+Rhodes,2016,3
+Rhodes,2014,1
+Rhodes,2012,1
+Rhodes,2018,1
+Rhodes,2003,1
+Tilos,2011,1
+Nisyros,2011,1
+Kuşadası,2011,1
+Kuşadası,2008,1
+Boyne City,2011,1
+Traverse City,2011,1
+Traverse City,2003,1
+Traverse City,2016,1
+Clarkston,2011,1
+Taos,2011,1
+Taos,2016,1
+"Springdale / Zion, UT",2011,1
+Sunnyvale,2011,1
+Sunnyvale,2016,2
+Sunnyvale,2017,1
+Needles,2011,1
+Williams,2011,1
+Williams,2018,1
+Flagstaff,2011,1
+Flagstaff,2012,1
+Flagstaff,2016,2
+Flagstaff,2013,1
+"Tucson, AZ",2011,1
+"Tucson, AZ",2017,4
+"Tucson, AZ",2016,2
+"Tucson, AZ",1995,1
+"Tucson, AZ",2018,1
+El Paso,2011,1
+Tainan City,2010,1
+Tainan City,2016,1
+Tainan City,2017,3
+Tainan City,2015,1
+Tainan City,2014,1
+Kaohsiung,2010,1
+Kaohsiung,2016,3
+Kaohsiung,2017,6
+Kaohsiung,2014,1
+Kaohsiung,2015,1
+Moshi,2010,1
+Moshi,2016,1
+Moshi,2017,1
+Mount Kilimanjaro,2010,1
+Mount Kilimanjaro,2017,1
+Stone Town,2010,1
+Stone Town,2017,2
+Stone Town,2015,1
+Nungwi,2010,1
+Wallaceburg,2010,1
+Bonaire,2010,1
+Frankenmuth,2010,1
+Phra Nakhon Si Ayutthaya,2010,3
+Phra Nakhon Si Ayutthaya,2015,1
+Angkor Wat,2010,1
+Mandalgovi,2009,1
+Flaming Cliffs,2009,1
+Khyagt,2009,1
+Almaty,2009,1
+Almaty,2017,2
+Almaty,2016,5
+Almaty,2012,1
+Dushanbe,2009,1
+Dushanbe,2010,1
+Khorog,2009,1
+Murghab,2009,1
+Kalaikhum,2009,1
+Obigarm,2009,1
+Buragen,2009,1
+Samarkand,2009,1
+Samarkand,2011,1
+Samarkand,2016,1
+Bukhara,2009,1
+Bukhara,2016,1
+Nukus,2009,1
+Karakalpakiya,2009,1
+Beyneu,2009,1
+Atyrau,2009,1
+Kotyayevka,2009,1
+Elista,2009,1
+Volgograd,2009,1
+Volgograd,2017,1
+Volgograd,2016,2
+Volgograd,2012,1
+Melitopol',2009,1
+Reni,2009,1
+Chichester,2009,1
+Eton,2009,1
+Kenilworth,2009,1
+Marion,2009,1
+Rothenburg,2008,1
+Delft,2008,1
+Delft,2013,1
+Delft,2018,1
+Schiedam,2008,1
+Chemnitz,2008,1
+Chemnitz,2016,1
+Göcek Köyü,2008,1
+Denizli,2008,1
+Salihli,2008,1
+Ayvalık,2008,1
+Çanakkale,2008,1
+Çanakkale,2015,1
+Bursa,2008,1
+Fort Wayne,2007,1
+Silverthorne,2007,1
+San Gerardo,2007,1
+Quepos,2007,1
+Quepos,2015,1
+Quepos,2016,2
+Monte Verde,2007,1
+Monte Verde,2017,2
+Tilaran,2007,1
+"Omaha, NE",2006,1
+"Omaha, NE",2017,1
+"Omaha, NE",2016,1
+"Omaha, NE",2015,1
+Ushuaia,2006,1
+Ushuaia,2016,3
+Ushuaia,2018,2
+Ushuaia,2014,1
+Antarctic Great Wall Station,2006,1
+Base Yelcho,2006,1
+"Chania, Crete",2018,6
+"Chania, Crete",2017,1
+Thira,2018,4
+Thira,2015,1
+Thira,2013,1
+Thira,2016,1
+Thira,2012,1
+Barcelona Province,2018,1
+Barcelona Province,2016,1
+Dar es Salaam,2017,4
+Dar es Salaam,2013,3
+Dar es Salaam,2016,3
+Okinawa,2017,1
+Okinawa,2015,1
+Okinawa,2016,1
+Interlaken,2016,2
+Interlaken,2010,2
+Interlaken,2017,2
+Interlaken,2013,1
+Interlaken,2018,2
+Interlaken,2007,1
+Interlaken,2002,1
+Interlaken,2012,2
+Interlaken,2014,1
+Innsbruck,2016,7
+Innsbruck,2017,7
+Innsbruck,2018,4
+Innsbruck,2015,4
+Innsbruck,2012,1
+Perugia,2016,1
+Città di San Marino,2016,1
+Hamilton,2016,5
+Hamilton,2015,2
+Hamilton,2017,3
+Petit Bourg,2016,1
+Faro,2014,1
+Faro,2016,3
+Faro,2017,2
+Faro,2013,1
+Faro,2015,1
+Turin,2014,1
+Turin,2015,4
+Turin,2016,4
+Turin,2010,1
+Turin,2006,1
+Turin,2008,1
+Turin,2017,2
+Turin,2013,2
+Turin,2018,2
+Luxembourg,2014,5
+Luxembourg,2016,5
+Luxembourg,2017,5
+Luxembourg,2015,2
+Luxembourg,2013,3
+Luxembourg,2012,1
+Luxembourg,2011,2
+Luxembourg,2018,2
+Green Bay,2016,2
+Cardiff,2016,2
+Cardiff,2006,1
+Cardiff,2017,4
+Cardiff,2004,1
+Cardiff,2015,2
+Cardiff,2011,1
+York,2016,4
+York,2018,1
+York,2017,1
+York,2011,1
+McCall,2016,1
+McCall,2018,1
+Aosta,2018,1
+Aosta,2017,1
+Aosta,2013,1
+Vladivostok,2017,1
+Vladivostok,2015,1
+Vladivostok,2016,1
+Mandalay Region,2016,1
+Mandalay Region,2017,1
+Kigali,2016,2
+Kigali,2012,3
+Kigali,2008,1
+Kigali,2006,1
+Kigali,2005,1
+Kigali,2017,1
+Kigali,2018,2
+"Naha, Okinawa",2017,5
+"Naha, Okinawa",2013,1
+"Naha, Okinawa",2018,2
+"Naha, Okinawa",2016,2
+Djibouti City,2013,1
+Rabat,2010,2
+Rabat,2017,6
+Rabat,2016,7
+Rabat,2018,2
+Rabat,2015,1
+Port of Spain,2009,1
+Port of Spain,1919,1
+Port of Spain,2018,1
+Thomonde,2000,1
+Ballstädt,2017,3
+Malacca,2017,6
+Malacca,2013,1
+Malacca,2016,5
+Malacca,2015,4
+Malacca,2014,1
+Malacca,2018,1
+Belize City,2017,1
+Belize City,2018,3
+Belize City,2013,1
+Belize City,2012,1
+Belize City,2014,1
+Belize City,2015,2
+Belize City,2016,1
+Taipei City,2017,14
+Taipei City,2012,1
+"Pittsburgh, PA",2016,3
+"Pittsburgh, PA",2018,7
+"Pittsburgh, PA",2017,3
+Los Cabos,2016,1
+Los Cabos,2018,1
+Saint Thomas,2016,1
+Saint Thomas,2014,1
+Punta del Este,2015,3
+Punta del Este,2014,2
+Punta del Este,2010,1
+Punta del Este,2016,3
+Santa Barbara,2015,1
+Santa Barbara,2005,1
+Santa Barbara,2018,1
+Santa Barbara,2016,4
+Santa Barbara,2009,1
+Santa Barbara,2007,1
+Santa Barbara,2012,1
+Santa Barbara,2013,1
+Ramona,2014,1
+Ferrara,2014,1
+Ferrara,2016,2
+Volterra,2014,1
+San Gimignano,2014,2
+San Gimignano,2016,1
+Volpaia,2014,1
+Panzano In Chianti,2014,1
+Greve in Chianti,2014,1
+Greve in Chianti,2016,2
+Lastra A Signa,2014,1
+Roz-sur-Couesnon,2014,1
+Clisson,2014,2
+Clisson,2015,1
+Mont Saint-Michel,2014,1
+Nantes,2014,2
+Nantes,2017,4
+Nantes,2015,1
+Nantes,2016,1
+Nantes,2011,1
+Ferrugem,2013,1
+San Rafael,2006,1
+San Martín de los Andes,2006,1
+San Martín de los Andes,2004,1
+Puerto Madryn,2003,1
+Sunshine Coast,2015,2
+Sunshine Coast,2018,1
+Red Hill,2015,1
+Bunbury,2015,1
+Fremantle,2015,1
+Fremantle,2014,1
+Fremantle,2016,1
+Dharavandhoo,2016,1
+Phoenix,2016,4
+Phoenix,2015,8
+Amersfoort,2018,1
+Amersfoort,2017,2
+Amersfoort,2016,1
+Zell am Ziller,2018,1
+Janské Lázně,2018,1
+Groningen,2017,2
+Groningen,2015,4
+Groningen,2014,1
+Groningen,2018,1
+Groningen,2004,1
+Groningen,2016,1
+Groningen,2012,1
+Alanya,2017,1
+Alanya,2014,1
+Alanya,2015,2
+Estepona,2016,1
+Estepona,2017,1
+Estepona,2018,1
+Edmonton,2018,2
+Edmonton,2017,3
+Edmonton,2015,1
+Edmonton,2016,1
+Edmonton,2009,1
+Edmonton,2008,2
+Edmonton,2006,1
+San Sebastián,2018,5
+San Sebastián,2017,7
+San Sebastián,2014,1
+San Sebastián,1991,1
+San Sebastián,2015,2
+San Sebastián,2016,3
+San Sebastián,2002,1
+Roberval,2017,1
+Sudbury,2017,1
+Sudbury,2009,1
+Wells,2017,1
+Haida Gwaii,2017,1
+Windsor,2016,1
+Windsor,2011,1
+Windsor,2009,1
+Windsor,2012,1
+Esteli,2015,1
+Happy Valley-Goose Bay,2015,1
+Annapurna Base Camp,2014,1
+Leh,2012,1
+Leh,2017,1
+Manali,2012,1
+Manali,2016,1
+Manali,2018,1
+Manali,2014,1
+Bulembu,2008,1
+Mara Triangle - Maasai Mara National Reserve,2006,1
+Mpigi,2006,1
+Kibale,2006,1
+Kampala,2004,1
+Kampala,2017,1
+Kampala,2003,1
+Kampala,2016,1
+Kampala,2012,2
+Kampala,2014,1
+Conakry,2004,1
+Culiacán,2004,1
+Culiacán,2016,1
+Bath,2017,6
+Bath,2018,2
+Bath,2016,2
+Bath,2015,2
+Bath,2013,1
+Taichung,2016,4
+Taichung,2017,5
+Taichung,2015,3
+Taichung,2014,1
+Komatsu,2016,1
+Pyongyang,2015,2
+Pyongyang,2017,2
+Pyongyang,2014,1
+Pyongyang,2016,1
+Dandong,2015,1
+Dandong,2017,1
+Yamanashi Prefecture,2013,1
+Karuizawa,2012,1
+Hiroshima,2012,2
+Hiroshima,2017,4
+Hiroshima,2018,4
+Hiroshima,2015,4
+Hiroshima,2013,1
+Hiroshima,2014,3
+Hiroshima,2016,5
+Puerto del Rosario,2018,1
+Puerto del Rosario,2015,1
+Shrewsbury,2018,2
+Shrewsbury,2017,1
+Wakefield,2018,1
+Wakefield,2017,1
+Providence County,2017,1
+Killarney,2017,5
+Killarney,2016,1
+Sunny Beach,2017,1
+Sunny Beach,2014,2
+Sunny Beach,2016,1
+Plovdiv,2017,6
+Plovdiv,2018,2
+Plovdiv,2016,1
+Tyne and Wear,2017,1
+Zhongli District,2015,1
+Changhua City,2014,1
+"Saint Louis, MO",2014,1
+"Saint Louis, MO",2016,2
+"Saint Louis, MO",2015,1
+"Saint Louis, MO",2010,1
+Vigan City,2016,1
+Portmeirion,2015,1
+La Jolla Ranch,2015,1
+Brno,2018,3
+Brno,2017,10
+Brno,2015,2
+Brno,2016,5
+Brno,2013,1
+Ostrava,2018,1
+Santander,2018,1
+Santander,2016,1
+Santander,2017,3
+Santander,2012,1
+United Kingdom,2018,2
+United Kingdom,2017,1
+United Kingdom,2015,1
+Northern Ireland,2018,1
+Leipzig,2015,3
+Leipzig,2013,2
+Leipzig,2018,1
+Leipzig,2017,5
+Leipzig,2016,4
+Tirana,2015,2
+Tirana,2017,5
+Tirana,2018,7
+Tirana,2016,2
+Tirana,2013,1
+Palermo,2018,3
+Palermo,2017,3
+Palermo,2015,1
+Palermo,2016,1
+Palermo,2008,1
+Netherlands,2016,3
+Netherlands,2014,1
+Netherlands,1989,1
+Netherlands,2017,1
+Netherlands,2015,1
+Netherlands,1999,1
+Netherlands,2003,1
+Islamabad,2016,1
+Ko Chang,2015,1
+Ko Chang,2018,2
+Ko Chang,2017,1
+Ko Chang,2016,2
+Sibiu,2005,1
+Sibiu,2017,1
+Sibiu,2018,1
+Korčula,2018,1
+Korčula,2017,1
+Korčula,2015,1
+Livermore,2018,1
+Taupo,2016,3
+Taupo,2017,2
+Taupo,2015,2
+Taupo,2006,1
+Taupo,2018,1
+Rotorua,2016,3
+Rotorua,2017,1
+Rotorua,2015,2
+Rotorua,2018,2
+La Tremblade,2016,1
+La Tremblade,2015,1
+Piran,2015,1
+Rostov-on-Don,2016,2
+Iguazu Falls,2016,3
+Iguazu Falls,2011,1
+Iguazu Falls,2014,1
+Iguazu Falls,2012,1
+Iguazu Falls,2017,2
+Kep Province,2015,1
+Kep Province,2018,2
+Kep Province,2017,1
+Zakinthos,2014,1
+Nettuno,2014,1
+"Cagliari, Sardinia",2013,1
+"Cagliari, Sardinia",2017,3
+Perth,2018,9
+Perth,2017,9
+Perth,2016,9
+Perth,2015,8
+Perth,2013,5
+Perth,2012,4
+Perth,2011,3
+Perth,2010,3
+Perth,2009,2
+Perth,2008,1
+Perth,2006,1
+Perth,2005,1
+Perth,2004,1
+Perth,2003,1
+Perth,2014,3
+Perth,2000,1
+Kalbarri,2018,1
+Denham,2018,1
+Carnarvon,2018,1
+Exmouth,2018,1
+Exmouth,2017,1
+Karratha,2018,1
+Ramada Eco Beach Resort,2018,1
+Broome,2018,1
+Broome,2012,1
+Port Hedland,2018,1
+Karijini National Park,2018,1
+Newman,2018,1
+Western Australia,2018,1
+Geraldton,2018,1
+Cervantes,2018,1
+Margaret River,2018,2
+Margaret River,2017,2
+Perth Airport,2018,1
+Ko Racha Yai,2018,1
+Negombo,2018,1
+Negombo,2014,1
+Anuradhapura,2018,1
+Anuradhapura,2015,1
+Jaffna,2018,1
+Jaffna,2017,1
+Jaffna,2015,1
+Trincomalee,2018,1
+Trincomalee,2017,1
+Polonnaruwa,2018,1
+Sigiriya,2018,3
+Sigiriya,2015,1
+Kandy,2018,3
+Kandy,2016,2
+Kandy,2017,3
+Kandy,2015,1
+Kandy,2014,1
+Ella,2018,2
+Ella,2015,2
+Ella,2017,2
+Ella,2014,1
+Yala,2018,1
+Tangalle,2018,2
+Galle,2018,2
+Galle,2015,2
+Galle,2017,1
+Galle,2014,1
+Oslo Airport,2018,1
+Rueda,2018,1
+Rueda,2017,1
+Rueda,2016,1
+Stockholm Arlanda Airport,2017,1
+Peratallada,2017,1
+Bern,2017,5
+Bern,2016,5
+Bern,2018,3
+Bern,2006,1
+Bern,2015,2
+Bern,2011,1
+Bern,2010,1
+Bern,2014,1
+Mývatn,2017,1
+Mývatn,2015,1
+Nuuk,2017,1
+Ilulissat,2017,1
+Podgorica,2017,3
+Podgorica,2015,3
+Podgorica,2016,2
+Podgorica,2018,1
+Umag,2017,1
+Motovun,2017,1
+Hull,2017,1
+La Palma,2017,1
+Coimbra,2017,2
+Coimbra,2012,1
+Coimbra,2015,2
+Pitlochry,2017,1
+Pitlochry,2016,1
+Kyrenia Harbour,2016,1
+Pontevedra,2016,1
+Alicante,2016,4
+Alicante,2017,12
+Alicante,2014,1
+Alicante,2015,4
+Alicante,2018,4
+Alicante,1919,1
+Bornholm,2016,1
+Picton,2017,6
+Picton,2018,1
+Picton,2016,1
+Wanaka,2017,6
+Wanaka,2016,1
+Wanaka,2015,1
+Wanaka,2018,1
+Halong Bay Vietnam,2017,1
+Ha Giang,2017,1
+Ha Giang,2018,1
+Sapa Vietnam,2017,1
+Jambiani,2017,1
+Erg Chigaga Luxury Desert Camp Morocco,2017,1
+Agdz,2017,1
+Suez Canal,2017,1
+Sharm El-Sheikh,2017,1
+Sharm El-Sheikh,2008,1
+"Safaga, Qesm Safaga, Red Sea Governorate, Egypt",2017,1
+Aqaba,2017,2
+Aqaba,2013,1
+Aqaba,2012,1
+Aqaba,2016,2
+Aqaba,2018,1
+Red Sea,2017,1
+Fujairah,2017,1
+Fujairah,2018,1
+Madonna di Campiglio,2017,1
+Madonna di Campiglio,2015,1
+Madonna di Campiglio,2012,1
+Zermatt,2017,3
+Zermatt,2016,2
+Zermatt,2010,1
+Zermatt,2007,1
+Saint Anton am Arlberg,2017,1
+Saint Anton am Arlberg,2016,1
+Snowshoe,2017,1
+El Calafate,2016,2
+El Calafate,2018,1
+El Calafate,2017,1
+El Calafate,2014,1
+El Chaltén,2016,1
+El Chaltén,2018,1
+El Chaltén,2014,1
+Torres del Paine National Park,2016,1
+Torres del Paine National Park,2014,1
+Torres del Paine National Park,2017,1
+Puerto Natales,2016,1
+Puerto Natales,2017,2
+Puerto Natales,2014,1
+Brown Bluff,2016,1
+Jackson,2016,2
+Jackson,2017,1
+Jackson,2018,1
+Sun Valley,2016,1
+Breckenridge,2016,3
+Breckenridge,2014,1
+Breckenridge,2015,1
+Vail,2016,3
+Vail,2015,2
+Vail,2012,1
+Lehi,2016,1
+Ensenada,2015,2
+Ensenada,2014,1
+Ensenada,2017,3
+Ensenada,2018,1
+"LehiUT, United States",2014,1
+"Raleigh, NC",2017,9
+"Raleigh, NC",2018,3
+"Raleigh, NC",2016,6
+"Raleigh, NC",2015,5
+"Raleigh, NC",2014,1
+"Raleigh, NC",2013,1
+"Raleigh, NC",2012,1
+Quebec City,2016,2
+Quebec City,2015,2
+Quebec City,2013,1
+Quebec City,2012,1
+Quebec City,2011,1
+Quebec City,2010,1
+Quebec City,2009,1
+Quebec City,2008,2
+Quebec City,2007,2
+Quebec City,2006,1
+Quebec City,2018,4
+Quebec City,2005,1
+Quebec City,2014,1
+Quebec City,2002,1
+Quebec City,2017,1
+Quebec City,1996,1
+Australia,2016,1
+Australia,2002,1
+Australia,2017,2
+Australia,2015,2
+Australia,2018,1
+"Tallinn, Tallinna linn, Estonia",2016,1
+Manhattan,2016,1
+Manhattan,2015,1
+Ross,2018,1
+Richmond,2018,1
+Richmond,2016,1
+Richmond,2010,1
+Palmerston North,2018,1
+Palmerston North,2005,1
+Raglan,2018,2
+Denée,2017,1
+Key West,2015,1
+Key West,2012,1
+Huế,2017,7
+Huế,2015,3
+Huế,2016,1
+Kingston,2015,2
+Kingston,2018,3
+Kingston,2017,2
+Kingston,2016,1
+Kingston,1999,1
+Long Beach,2015,2
+Long Beach,2017,3
+Long Beach,2016,1
+Long Beach,2014,1
+Long Beach,2008,1
+Long Beach,2007,1
+Portimão,2015,2
+Portimão,2016,3
+Portimão,2017,2
+Dhaka,2016,2
+Dhaka,2017,2
+Dhaka,2014,1
+Armenia,2015,2
+Armenia,2018,1
+Playa Flamingo,2016,1
+Madagascar,2018,1
+Tibet,2018,2
+Hawaii,2016,2
+Hawaii,2018,5
+Hawaii,2017,2
+Costa Rica,2016,2
+Costa Rica,2007,2
+Costa Rica,2017,1
+Costa Rica,2018,2
+Costa Rica,2013,1
+Costa Rica,2015,1
+Costa Rica,2014,1
+Costa Rica,2005,1
+France,2017,3
+France,2009,1
+France,2016,3
+France,2015,2
+France,2014,1
+France,2018,1
+France,2011,1
+France,2003,1
+Ho Chi Minh,2015,2
+Ho Chi Minh,2016,1
+Sumberkima,2015,1
+Banyuwangi,2015,1
+Banyuwangi,2016,2
+Lovina Beach,2015,1
+Lovina Beach,2011,1
+Lovina Beach,2018,1
+Gili Meno,2015,1
+Gili Meno,2016,1
+"Seminyak, Bali",2015,4
+"Seminyak, Bali",2011,1
+"Seminyak, Bali",2009,1
+"Seminyak, Bali",2006,1
+"Seminyak, Bali",2004,1
+"Seminyak, Bali",2017,12
+"Seminyak, Bali",2016,4
+"Seminyak, Bali",2018,3
+León Department,2017,2
+León Department,2016,1
+Cartago,2017,1
+Sitges,2013,1
+Sitges,2017,2
+Sitges,2016,3
+Sitges,2015,1
+Hobart,2015,4
+Hobart,2018,3
+Hobart,2012,1
+Hobart,2016,4
+Hobart,2017,4
+Canberra,2013,1
+Canberra,2017,1
+Canberra,2016,2
+Canberra,2009,1
+Canberra,2018,2
+Krong Svay Rieng,2013,1
+Novocheboksarsk,2016,1
+Ghandruk,2016,1
+Ghode Pani,2016,1
+Ulleri,2016,1
+Arambol,2016,3
+Arambol,2015,1
+Arambol,2017,1
+Arambol,2014,1
+Gokarna,2016,1
+Gokarna,2017,2
+Ayia Napa,2017,4
+Icaria,2017,1
+Icaria,2015,1
+Samos,2017,1
+Mykonos,2017,8
+Mykonos,2016,3
+Mykonos,2015,3
+Mykonos,2013,1
+Mykonos,2012,1
+Mykonos,2018,1
+Naxos,2017,1
+Naxos,2015,1
+Naxos,2013,1
+Naxos,2012,1
+Naxos,2016,1
+Paripueira,2017,1
+Ouro Preto,2017,2
+Ouro Preto,2006,1
+Ouro Preto,2015,1
+Aracaju,2017,1
+Aracaju,2003,1
+Aracaju,2015,1
+Salvador,2017,7
+Salvador,2018,2
+Salvador,2016,5
+Salvador,2015,5
+Salvador,2005,1
+Salvador,2014,1
+Salvador,2013,1
+Salvador,2009,1
+Salvador,2000,1
+"Okanagan Valley, BC",2015,1
+Moncton,2013,1
+Moncton,2016,1
+Paros,2012,2
+Paros,2016,2
+Paros,2017,2
+Paros,2015,2
+Paros,2018,1
+Kilimanjaro Region,2012,2
+Kilimanjaro Region,2013,1
+Lake Louise,2011,1
+Lake Louise,2017,1
+Lake Louise,2016,1
+Cienfuegos,2011,1
+Cienfuegos,2017,1
+Cienfuegos,2018,1
+Cienfuegos,2016,1
+Guatemala City,2010,1
+Guatemala City,2016,3
+Guatemala City,2018,3
+Guatemala City,2015,1
+Guatemala City,2017,1
+Guadeloupe,2006,1
+Guadeloupe,2017,1
+Guadeloupe,2014,1
+Guadeloupe,2003,1
+Lake Como,2017,6
+Lake Como,2015,1
+Poggibonsi,2017,1
+Maddalena Island,2017,1
+Manuel Antonio Beach,2016,1
+Kings Mountain,2016,1
+Caracas,2012,1
+Caracas,2016,1
+Caracas,2015,1
+Caracas,1995,1
+Zug,2018,1
+Zug,2015,1
+Rouen,2018,1
+Gibraltar,2018,3
+Gibraltar,2012,1
+Gibraltar,2017,2
+Gibraltar,2015,1
+Gibraltar,2016,1
+Gibraltar,2011,1
+Gibraltar,2006,1
+Alpes-Maritimes,2018,1
+Papua New Guinea,2017,1
+La Plagne,2017,1
+La Plagne,2016,1
+La Plagne,2018,1
+Croatia,2016,1
+Croatia,2017,2
+Croatia,1919,1
+Croatia,2012,1
+Tampa,2016,2
+Tampa,2012,1
+Tampa,2015,2
+Pune,2018,4
+Pune,2017,4
+Pune,2016,2
+Pune,2015,1
+Pune,2013,1
+Hyderabad,2017,4
+Hyderabad,2012,1
+Hyderabad,2018,2
+Hyderabad,2014,1
+Hyderabad,2016,1
+Hyderabad,2013,1
+Londonderry,2017,2
+Liscannor,2017,1
+Ballymackey,2017,1
+Ephesus Archaeological Museum,2017,1
+Tijuana,2017,3
+Tijuana,2015,3
+Tijuana,2014,1
+Cal Visó,2016,1
+Puerto Morelos,2017,2
+Puerto Morelos,2016,1
+Santa Maria,2016,1
+Santa Maria,2017,1
+North Island,2016,1
+South Island,2016,1
+South Island,2017,1
+Ireland,2016,3
+Ireland,2001,1
+Ireland,2015,1
+Ireland,2013,1
+Ireland,2018,1
+Napili-Honokowai,2018,1
+Lahaina,2017,1
+Lahaina,2016,1
+Lahaina,2015,1
+Key Largo,2016,2
+Key Largo,2010,1
+Key Largo,2018,1
+Saransk,2011,1
+Saransk,1993,1
+Tarifa,2011,1
+Tarifa,2015,4
+Tarifa,2017,2
+Tarifa,2016,7
+Anapa,2011,1
+Sanur,2017,3
+Sanur,2004,1
+Sanur,2015,1
+Ubatuba,2017,1
+Aguas Calientes,2017,1
+Aguas Calientes,2002,1
+Paracas,2017,3
+Paracas,2016,1
+Praia da Baleia,2017,1
+Ilha Grande,2016,1
+Ilha Grande,2017,1
+Jeju Island,2016,23
+Jeju Island,2017,5
+Jeju Island,2018,3
+Jeju Island,2015,3
+Jeju Island,2011,1
+Risoul,2016,1
+Essaouira,2014,2
+Essaouira,2017,4
+Essaouira,2015,2
+Essaouira,2016,3
+Kralendijk,2014,1
+Kralendijk,2012,1
+Mountain View,2013,2
+Mountain View,2017,4
+Mountain View,2016,4
+Mountain View,2012,1
+Mountain View,2018,2
+Dahab,2011,1
+Dahab,2013,1
+Dahab,2016,6
+Dahab,2015,1
+Dahab,2017,2
+Dahab,2018,3
+New England,2008,1
+Kingston upon Thames,2015,1
+Kingston upon Thames,2017,1
+New Delhi,1919,1
+New Delhi,2018,2
+New Delhi,2017,1
+Bremen,2018,3
+Bremen,2015,1
+Bremen,2016,2
+Korday,2018,1
+Similan Islands,2017,1
+Phu Khao Lak,2016,1
+Poreč,2016,1
+Bosnia and Herzegovina,2016,1
+Bosnia and Herzegovina,2017,2
+Cala Millor,2016,1
+Cala Millor,2015,1
+Cala Millor,2014,1
+Qena,2015,1
+Sharm El Sheikh,2015,1
+Sharm El Sheikh,2013,1
+Playa Puerto de Pollensa,2015,1
+Playa Puerto de Pollensa,2014,1
+Magaluf,2015,1
+Sousse Governorate,2015,1
+Sousse Governorate,2018,2
+Rukatunturintie,2014,1
+Oulu,2014,1
+St. Johann in Tirol,2014,1
+Kaprun,2014,1
+Kaprun,2016,1
+Söll,2014,1
+Luton,2014,1
+Luton,2013,1
+Taba,2013,1
+Eilat,2013,1
+Eilat,2018,2
+Petra,2013,1
+Petra,2016,1
+Petra,2018,1
+Ein Bokek,2013,1
+Sharm el-Sheikh,2013,1
+Sharm el-Sheikh,2015,1
+Ceuta,2012,1
+Garda,2011,1
+Garda,2016,1
+Budva,2017,3
+Budva,2016,4
+Budva,2009,1
+Budva,2015,2
+Budva,2018,1
+Novi Sad,2017,4
+Novi Sad,2016,3
+Novi Sad,2018,1
+Novi Sad,2014,1
+Novi Sad,2013,1
+Casablanca,2017,10
+Casablanca,2018,6
+Casablanca,2014,1
+Casablanca,2016,4
+Casablanca,2015,2
+Casablanca,2008,1
+Marseille,2016,10
+Marseille,2018,3
+Marseille,2017,14
+Marseille,2014,1
+Marseille,2015,1
+Marseille,2011,2
+Marseille,2010,1
+Marseille,2008,1
+Marseille,2007,1
+Marseille,2012,2
+Marseille,2006,2
+Toulouse,2015,6
+Toulouse,2016,3
+Toulouse,2012,2
+Toulouse,2018,6
+Toulouse,2017,6
+Toulouse,2014,1
+"Funchal, Madeira",2018,4
+"Funchal, Madeira",2017,1
+"Tenerife, Canary Islands",2018,2
+"Tenerife, Canary Islands",2007,1
+"Tenerife, Canary Islands",2016,2
+"Tenerife, Canary Islands",2017,4
+"Tenerife, Canary Islands",2015,1
+"Tenerife, Canary Islands",2014,1
+Vitebsk,2014,1
+Palanga,2012,1
+Palanga,2016,1
+Liepāja,2012,1
+Liepāja,2015,1
+Jūrmala,2012,1
+Groeningen,2011,1
+Ohrid,2018,2
+Skopje,2017,5
+Skopje,2013,3
+Skopje,2015,4
+Skopje,2009,1
+Skopje,2016,2
+Skopje,2018,6
+London Borough of Hammersmith and Fulham,2016,1
+Juan Dolio,2015,1
+Boca Chica,2015,1
+Stoke-on-Trent,2015,1
+Stoke-on-Trent,2017,1
+Şanlıurfa,2015,1
+Selçuk,2015,1
+Ankara,2015,1
+Ankara,2013,2
+Kayseri,2015,1
+Kołobrzeg,2014,1
+Crest,2017,1
+Colorado,2017,1
+Colorado,2015,1
+Arizona,2016,1
+Arizona,2017,2
+Leiden,2005,1
+Leiden,2010,1
+Leiden,2015,2
+Leiden,2017,1
+Grand Canyon North Rim Lodge,2017,1
+Hamamatsu,2016,1
+Hamamatsu,2014,1
+Hamamatsu,2015,1
+Tonga,2015,1
+Seventeen Seventy,2015,1
+Seventeen Seventy,2016,1
+Parga,2013,1
+Parga,2017,1
+Scotland,2017,3
+Scotland,1978,1
+Scotland,2006,2
+Scotland,2016,3
+Scotland,2015,1
+Kalimantan,2016,1
+Cahors,2017,1
+Belgium,2014,1
+Belgium,1991,1
+Belgium,2018,1
+Belgium,2003,1
+"Ashland, OR",2014,1
+Volta Mantovana,2016,1
+West Hollywood,2016,1
+Austin,2015,1
+Denver,2015,2
+Gwangju,2014,1
+Gwangju,2012,1
+Gwangju,2017,1
+Nakhon Sawan,2018,1
+Kukup,2016,1
+Xian,2004,1
+Xian,2013,1
+Xian,2006,1
+Xian,2015,1
+Xian,2017,2
+Xian,2016,1
+Suzhou,2004,1
+Suzhou,2015,1
+Suzhou,2016,1
+Suzhou,2008,1
+Wuxi,2004,1
+Wuxi,2010,1
+Chengdu,1990,1
+Chengdu,2015,5
+Chengdu,2006,1
+Chengdu,2013,1
+Chengdu,2016,4
+Chengdu,2017,3
+Chengdu,2018,1
+Chengdu,2009,1
+Mianyang,1988,1
+Estosadok,2017,1
+"Las Palmas, Gran Canaria",2017,13
+"Las Palmas, Gran Canaria",2015,2
+"Las Palmas, Gran Canaria",2016,2
+"Las Palmas, Gran Canaria",2014,1
+Ericeira,2016,1
+Perast,2016,1
+Somo,2016,1
+Matara,2016,1
+Matara,2018,1
+Quezon City,2017,1
+St-Malo,2006,1
+Road Town,2006,1
+Road Town,2004,1
+Saint Peter,2005,1
+Les Deux Alpes,2004,1
+Les Deux Alpes,2016,1
+Majorca,2003,1
+Majorca,2017,4
+Majorca,2015,1
+Majorca,2001,1
+Majorca,1999,1
+Mayrhofen,2002,1
+Mayrhofen,2017,2
+Mayrhofen,2014,1
+Mayrhofen,2012,1
+Carpinteria,2016,1
+Province of Ascoli Piceno,2016,1
+Bend,2015,2
+Bend,2017,1
+Bend,2018,1
+Bend,2016,2
+The Bahamas,2015,1
+The Bahamas,2014,3
+The Bahamas,2011,1
+The Bahamas,1919,1
+The Bahamas,2005,1
+Colorado Springs,2015,1
+Colorado Springs,2014,1
+Boise,2015,1
+Trento,2018,1
+Trento,2016,1
+Sutton Benger,2018,1
+Hereford,2018,1
+Hereford,2017,1
+Santa Clara,2017,2
+Santa Clara,2018,1
+Santa Clara,2016,1
+Viñales,2017,1
+Viñales,2015,1
+Gloucestershire,2017,1
+Kendal,2017,1
+Kendal,2015,1
+Churchstoke,2017,1
+Barnsley,2017,1
+Prachuap Khiri Khan,2017,1
+Prachuap Khiri Khan,2014,1
+Surat Thani,2017,2
+Surat Thani,2016,3
+Lembongan Island,2015,1
+"Sanur, Bali",2015,1
+"Sanur, Bali",2018,2
+"Sanur, Bali",2014,1
+"Sanur, Bali",2016,1
+"Sanur, Bali",2013,1
+Les Gets,2015,1
+Cape Canaveral,1936,2
+Cape Canaveral,1934,2
+Cape Canaveral,2012,1
+Mars City,1934,1
+Mars City,1935,1
+Tachileik,2017,2
+Tachileik,2016,1
+Mombasa,2017,2
+Mombasa,2011,1
+Mombasa,2010,1
+Mombasa,2018,1
+Mombasa,2013,1
+Diani Beach,2016,1
+Diani Beach,2011,1
+Diani Beach,2017,1
+Colón Province,2017,1
+Caribbean Sea,2017,4
+Sint Maarten,2017,7
+Sint Maarten,2016,1
+Trier,1999,1
+Trier,2017,1
+Trier,2011,1
+Dhaka Division,2017,1
+San Francisco,2016,1
+San Francisco,2018,1
+San Francisco,2017,2
+San Francisco,2009,1
+San Francisco,2008,1
+Lençóis,2016,1
+Lençóis,2009,1
+Lençóis,2015,1
+Brasilia,2016,2
+Brasilia,2015,3
+Brasilia,2017,1
+Brasilia,2006,1
+Recife,2014,2
+Recife,2013,2
+Recife,2012,2
+Recife,2017,1
+Recife,2018,1
+Recife,2016,2
+Recife,2015,2
+Visconde de Mauá,2012,1
+Sugar Land,2011,1
+Ostend,2009,1
+Ostend,2015,1
+Ostend,2017,1
+Indio,2018,2
+Indio,2016,1
+Indio,2012,2
+Indio,2008,1
+Indio,2007,1
+Indio,2009,1
+Metropolitan City of Naples,2017,5
+Metropolitan City of Naples,2016,7
+Metropolitan City of Naples,2012,2
+Metropolitan City of Naples,2013,1
+Metropolitan City of Naples,2007,1
+Metropolitan City of Naples,2001,1
+Metropolitan City of Naples,2014,1
+Santo Domingo Este,2011,1
+Metropolitan City of Bari,2018,1
+Metropolitan City of Bari,2014,1
+Brest,2018,1
+Brest,2017,2
+Brest,2015,1
+Montpellier,2018,5
+Montpellier,2017,8
+Montpellier,2009,1
+Montpellier,2015,2
+Montpellier,2014,1
+Montpellier,2013,1
+Montpellier,2011,1
+Strasbourg,2018,1
+Strasbourg,2016,2
+Strasbourg,2015,2
+Strasbourg,2017,3
+Strasbourg,2014,1
+Strasbourg,2013,1
+Strasbourg,2012,1
+Strasbourg,2010,1
+Chester,2017,1
+Chester,2016,1
+Xàbia,2016,2
+Xàbia,2017,1
+Javea,2016,2
+Javea,2018,2
+Javea,2017,2
+"Sacramento, CA",2018,2
+"Sacramento, CA",1996,1
+"Sacramento, CA",2017,4
+"Sacramento, CA",2016,3
+"Sacramento, CA",2014,1
+"Sacramento, CA",2013,1
+"Sacramento, CA",2015,2
+Siesta Key,2016,1
+Siesta Key,2015,1
+Siesta Key,2013,1
+"Asheville, NC",2016,5
+"Asheville, NC",2017,1
+"Asheville, NC",2014,1
+"Asheville, NC",2015,1
+TaipeiTaiwan,2015,2
+TaipeiTaiwan,2016,1
+Funchal,2015,1
+Funchal,2016,1
+Funchal,2017,3
+"San Juan, PR",2015,1
+Tarragona,2016,2
+Tarragona,2017,1
+Tarragona,2018,1
+Tarragona,2015,1
+Zamberk,2016,1
+Kruscica,2016,1
+Veszprém,2016,1
+Vranov nad Dyjí,2016,1
+Sargans,2016,1
+Halle (Saale),2016,1
+Malá Fatra,2015,1
+Görlitz,2014,1
+Žamberk,2014,1
+Selk,2014,1
+Køge,2014,1
+Ängelholm,2014,1
+Vitlycke Museum,2014,1
+Oppdal,2014,1
+Trondheim,2014,3
+Trondheim,2015,2
+Trondheim,2016,1
+Trondheim,2017,1
+Formofoss,2014,1
+Tärnaby,2014,1
+Arvidsjaur,2014,1
+Kalix,2014,1
+Pyhäjärvi,2014,1
+Pyhä-Häkki National Park,2014,1
+Kunda,2014,1
+Pärnu,2014,1
+Pärnu,2017,2
+Pärnu,2015,1
+Kryziu Kalnas,2014,1
+Augustów,2014,1
+Avebury,2013,1
+Stonehenge,2013,1
+Salisbury,2013,1
+Salisbury,2011,1
+Dakar,2016,3
+Dakar,2017,1
+Dakar,2015,1
+Dakar,2018,1
+Dakar,2008,1
+Accra,2016,2
+Yaounde,2015,1
+Yaounde,2014,1
+Yaounde,2017,1
+"Panamá City, Panama",2015,1
+"Santa Monica, CA",2015,2
+"Santa Monica, CA",2016,3
+"Santa Monica, CA",2017,6
+"Santa Monica, CA",2011,1
+"Santa Monica, CA",2018,2
+"Santa Monica, CA",2014,2
+"Santa Monica, CA",2010,1
+Palo Alto,2015,2
+Palo Alto,2014,1
+Palo Alto,2016,2
+San Marcos La Laguna,2015,1
+San Marcos La Laguna,2016,1
+San Cristóbal de las Casas,2015,1
+San Cristóbal de las Casas,2018,2
+Puerto Escondido,2015,2
+Puerto Escondido,2017,5
+Puerto Escondido,2018,2
+Juba,2014,1
+Lake Garda,2017,1
+Sankt Johann,2016,1
+Prince Edward Island,2015,1
+Kusadasi,2008,1
+Kusadasi,2016,1
+Tunisia,2005,1
+Tunisia,2018,1
+Trieste,2017,1
+Trieste,2016,1
+Trieste,2014,1
+Zanzibar City,2016,1
+Masai Mara Kenya,2015,1
+Danakil Depression,2015,1
+Luanda,2015,1
+Baton Rouge,2001,1
+Baton Rouge,2018,2
+Tupungato,2016,1
+Santa Cruz Island,2016,1
+Isabela Island,2016,1
+San Cristóbal Island,2016,2
+Cotopaxi,2016,1
+Barichara,2016,1
+Barichara,2015,1
+Guna Yala,2016,1
+Jaibalito,2015,1
+Panajachel,2015,1
+Panajachel,2013,1
+Flores,2015,1
+Flores,2016,2
+Flores,2014,1
+San Pedro,2015,2
+San Pedro,2017,1
+San Pedro,2016,1
+Ames,2017,1
+Ames,1997,1
+Lombok Tengah,2018,2
+Luang Prabang Province,2018,1
+Luang Prabang Province,2013,1
+Danang,2017,1
+Danang,2018,3
+Koh Jum,2016,1
+Koh Jum,2013,1
+Fairfield,2015,1
+Fairfield,2017,1
+Noord,2015,2
+Jan Thiel,2015,2
+Ocean City,2015,2
+Ocean City,2002,1
+New Smyrna Beach,2015,1
+Bangor,2014,1
+Bangor,2016,1
+Moyogalpa,2013,1
+Moyogalpa,2018,1
+Lake Titicaca,2017,1
+Colca Canyon,2017,1
+"Tenerife, Gran Canaria",2017,1
+"Tenerife, Gran Canaria",2015,4
+"Tenerife, Gran Canaria",2016,3
+"Tenerife, Gran Canaria",2013,1
+Sombor,2017,2
+Nelson,2017,3
+Nelson,2016,3
+Nelson,2015,1
+Nelson,2018,1
+Hokkaido Prefecture,2016,1
+Porto Alegre,2016,2
+Porto Alegre,2011,1
+Porto Alegre,2010,1
+Porto Alegre,2017,4
+Porto Alegre,2015,1
+Veranópolis,2012,1
+Salamanca,2010,1
+Salamanca,2017,2
+Salamanca,2005,1
+Salamanca,2013,1
+Perhentian Islands,2006,1
+Perhentian Islands,2017,1
+Perhentian Islands,2015,2
+Chandigarh,2017,1
+Chandigarh,2018,1
+Chandigarh,2014,1
+Chandigarh,2016,1
+McLeod Ganj,2017,2
+McLeod Ganj,2018,1
+McLeod Ganj,2016,1
+Camden,2017,1
+Greymouth,2016,1
+Greymouth,2017,1
+Waitakere,2016,1
+Eloy,2016,1
+Telegraph Cove,2016,1
+Ourense,2015,1
+Anaheim,2017,1
+Anaheim,2018,1
+Anaheim,2010,1
+Anaheim,2014,1
+South Africa,2016,1
+Cuba,2016,1
+Canada,2016,2
+Canada,2018,1
+Canada,2017,1
+Texas,2016,1
+Cascais,2017,3
+Virginia Beach,2007,1
+Virginia Beach,2006,1
+Virginia Beach,2017,1
+Virginia Beach,2016,1
+Savannah,2006,1
+Savannah,2017,2
+Savannah,2016,2
+Savannah,2018,2
+Savannah,2013,1
+"Key West, FL",2006,1
+"Key West, FL",2016,4
+"Key West, FL",2018,3
+"Key West, FL",2010,1
+"Key West, FL",2017,3
+"Key West, FL",2009,1
+"Key West, FL",2011,1
+"Key West, FL",2012,1
+"Norfolk, VA",2006,1
+"Norfolk, VA",2017,2
+"Norfolk, VA",2015,1
+"Norfolk, VA",2014,1
+"Norfolk, VA",2018,1
+Mönchengladbach,2006,1
+Rethymno,2016,1
+Rethymno,2014,1
+Rethymno,2018,1
+Andorra,2015,2
+Andorra,2018,1
+Atlantic Ocean,2017,3
+Atlantic Ocean,2016,1
+Corbara,2017,1
+Kapas Island,2016,1
+Kapas Island,2017,1
+Malang,2016,2
+Bansko,2017,4
+Bansko,2018,5
+"Riverside, CA",2016,1
+Mammoth Lakes,2016,1
+Mammoth Lakes,2017,1
+"Lake Tahoe, CA",2016,2
+"Lake Tahoe, CA",2014,1
+Gemeinde Kitzbühel,2016,1
+Niseko,2015,1
+Niseko,2018,1
+Niseko,2016,2
+Serre Chevalier,2014,1
+Soldeu,2014,1
+Santarem,2015,1
+Phu Quoc,2017,2
+Phu Quoc,2015,1
+Phu Quoc,2013,1
+Phu Quoc,2018,1
+Saint Kitts,2017,2
+Kumlinge,2017,1
+Ruidoso,2017,1
+Madeira,2017,4
+Madeira,2018,1
+Madeira,2004,1
+Madeira,2016,1
+Itō,2017,1
+Kurashiki,2017,1
+Kurashiki,2014,1
+Genoa,2016,4
+Genoa,2018,2
+Genoa,2003,1
+Genoa,2014,1
+Riomaggiore,2016,3
+Pisa,2016,5
+Pisa,2004,1
+Pisa,2012,1
+Pisa,2013,1
+Pisa,2017,5
+Pisa,2007,1
+Pisa,2018,1
+Pomarance,2016,1
+Kuwait City,2014,1
+Toyama,2015,2
+Tsukuba,2015,1
+Tofo,2016,1
+Plettenberg Bay,2016,1
+Plettenberg Bay,2017,1
+Port Elizabeth,2016,1
+Port Elizabeth,2017,2
+Yucatan,2017,1
+Yucatan,2018,1
+"Salem, MA",2015,1
+Khanom,2018,1
+Khanom,2014,1
+Khanom,2017,1
+Araranguá,2015,1
+Araranguá,2014,1
+Araranguá,2013,1
+Fort Collins,2018,1
+Thun,2017,1
+Nara,2018,1
+Nara,2014,3
+Nara,2017,2
+Nara,2016,1
+Cao Lãnh,2018,1
+Illinois,2017,1
+Illinois,2016,1
+Regensburg,2017,3
+Regensburg,2012,1
+Regensburg,2000,1
+Regensburg,2015,1
+Astana,2017,2
+Astana,2016,1
+Nelson New Zealand,2016,1
+Ko Phangan,2015,3
+Ko Phangan,2013,1
+Guillaumes,2014,1
+Frome,2017,1
+Derby,2016,2
+Peterborough,2016,2
+Kitchener,2016,1
+Kitchener,2014,1
+Kitchener,2009,1
+Great Malvern,2016,1
+Figeac,2017,1
+Guatemala,2016,1
+Guatemala,2015,1
+Guatemala,2018,1
+San Isidro de El General,2015,1
+San Isidro de El General,2011,1
+Vung Tau,2016,1
+Surat,2016,2
+Surat,2015,1
+Vashist,2016,1
+Kasol,2016,1
+Kasol,2015,1
+Kasol,2017,1
+Bir,2016,1
+Bhagalpur,2016,1
+Bhagalpur,1990,1
+Jaigaon,2015,1
+Phuentsholing,2015,1
+Tosh ,2015,1
+Dharamshala,2015,1
+Vellore,2009,1
+Kota,2008,1
+Allahabad,2001,1
+Mirzapur,1994,1
+Robertsganj,1991,1
+Jaunpur,1990,1
+Trat,2018,1
+Trat,2016,2
+Thap Sakae,2018,1
+"West Palm Beach, FL",2017,2
+"West Palm Beach, FL",2016,1
+Praia da Areia Branca,2017,1
+Lake Placid,2018,2
+Lake Placid,2012,1
+Vinnytsia,2017,1
+Vinnytsia,2016,1
+Boussens,2017,1
+Le Cannet,2017,1
+Desenzano del Garda,2017,1
+Castellón de la Plana,2017,1
+Castellón de la Plana,2013,1
+Altea,2017,1
+Balerma,2017,1
+Conil de la Frontera,2017,1
+Sevilla,2017,2
+Sevilla,2016,1
+Portalegre,2017,1
+Galapagos,2015,1
+Salem,2016,1
+Salem,2014,1
+Salem,2015,1
+Ghent,2018,4
+Ghent,2016,7
+Ghent,2015,1
+Ghent,2017,6
+Ghent,2014,3
+Ghent,2000,1
+Skye,2015,1
+Skye,2017,1
+Skye,2018,1
+Skye,2016,2
+Lille,2011,1
+Lille,2018,5
+Lille,2016,6
+Lille,2014,3
+Lille,2017,3
+Lille,2015,1
+Lille,2013,1
+Pilani,2017,1
+Nice Côte d'Azur Airport,2014,1
+Talalla,2015,1
+Vézac,2017,1
+Narbonne,2017,1
+"Cleveland, OH",2018,4
+"Cleveland, OH",2016,2
+"Cleveland, OH",2014,2
+"Cleveland, OH",2017,1
+"Cleveland, OH",2015,1
+"Cleveland, OH",2013,1
+"Cleveland, OH",2012,1
+"Cleveland, OH",2011,1
+"Cleveland, OH",2010,1
+"Cleveland, OH",2009,1
+"Cleveland, OH",2008,1
+Bethlehem,2018,1
+Bethlehem,2016,1
+Bethlehem,2013,1
+Bethlehem,2017,1
+Caen,2017,1
+Caen,2013,1
+Limón,2018,2
+Malaysia National Park,2017,1
+Langkawi Island,2017,1
+Langkawi Island,2016,2
+Lamezia Terme,2016,1
+Tropea,2016,3
+Tropea,2012,1
+Armação dos Búzios,2016,2
+Armação dos Búzios,2018,1
+San Pedrito Beach,2016,1
+"Townsend, Montana",2016,1
+Bled,2018,1
+Bled,2012,1
+Bled,2014,1
+Dnipro,2018,1
+Dnipro,2017,1
+Dnipro,2007,1
+Adrasan,2015,1
+Adrasan,2013,1
+Chernivtsi,2014,1
+Chernivtsi,2018,1
+Liscarroll,2018,1
+Dundalk,2018,1
+Pittsburgh,2015,6
+Tenerife,2016,1
+Tenerife,2017,2
+Tenerife,2015,1
+Bocas del Toro Province,2016,1
+Bocas del Toro Province,2017,4
+Bocas del Toro Province,2018,1
+Bocas del Toro Province,2013,1
+Totnes,2016,1
+Everglades,2016,1
+Jezerce,2015,1
+Almería,2016,1
+Almería,2014,1
+Almería,2018,2
+Almería,2017,2
+Jordan,2018,1
+Jordan,1919,1
+Bradford,2017,1
+Rotherham,2017,1
+Loughborough,2016,1
+Devon,2013,1
+Devon,2017,2
+Devon,2016,1
+Temecula,2017,1
+Braga,2016,2
+Braga,2014,1
+Durham,2015,2
+Durham,2011,1
+Durham,2010,1
+Durham,2009,1
+Durham,2008,1
+Durham,2016,2
+"Charleston, SC",2016,3
+"Charleston, SC",2011,1
+"Charleston, SC",2009,1
+"Charleston, SC",2008,1
+"Charleston, SC",2007,1
+"Charleston, SC",2018,2
+"Charleston, SC",2017,1
+Lucca,2015,1
+Lucca,2008,1
+Lucca,2016,1
+Dalkey,2014,1
+Dalkey,2015,1
+Lagoa,2018,1
+Gourette,2017,1
+Grenoble,2016,3
+Grenoble,2015,1
+Grenoble,2018,2
+Grenoble,2014,1
+Grenoble,2013,1
+Grenoble,2012,2
+Grenoble,2011,1
+Grenoble,2017,3
+Alès,2016,1
+Breda,2018,1
+Breda,2017,1
+Figueira da Foz,2017,2
+Figueira da Foz,2012,1
+Biarritz,2017,5
+Biarritz,2016,1
+Biarritz,2018,2
+Biarritz,2015,1
+"Albuquerque, NM",2015,3
+"Albuquerque, NM",2012,2
+"Albuquerque, NM",2011,1
+"Albuquerque, NM",2010,2
+"Albuquerque, NM",2016,2
+"Albuquerque, NM",2017,3
+"Albuquerque, NM",2018,1
+"Albuquerque, NM",2014,1
+"Albuquerque, NM",2013,1
+"Albuquerque, NM",1998,1
+Naha,2015,2
+Naha,2010,1
+Naha,2016,1
+Makati,2015,1
+Makati,2017,1
+Makati,2016,2
+Aomori Prefecture,2014,1
+Patagonia,2017,1
+North Carolina,2016,1
+North Carolina,2015,1
+Provincetown,2016,2
+Seririt,2016,1
+Prizren,2013,1
+Rasno,2013,1
+Shimizu,2013,1
+"San Antonio, TX",2012,2
+"San Antonio, TX",2016,5
+"San Antonio, TX",2015,3
+"San Antonio, TX",2014,2
+"San Antonio, TX",2013,1
+"San Antonio, TX",2018,1
+"San Antonio, TX",2017,3
+"Corralejo, Canary Islands",2016,1
+"Corralejo, Canary Islands",2018,3
+Maspalomas,2016,1
+Maspalomas,2017,1
+Samaná Province,2015,1
+Samaná Province,2018,1
+Koblenz,1986,1
+Koblenz,2015,2
+Jönköping,2017,1
+Mersin,2005,1
+Titusville,2017,1
+Herndon,2016,1
+Mount Bromo,2015,1
+Surabaya,2015,2
+Surabaya,2017,1
+Special Region of Yogyakarta,2015,1
+Special Region of Yogyakarta,2017,2
+Taizé,2012,1
+Taizé,2011,1
+San Blas Islands,2018,1
+Salento,2018,2
+Salento,2017,1
+Salento,2015,2
+Piura,2018,1
+Piura,2016,3
+Piura,2015,1
+Piura,2014,1
+Manaus,2017,3
+Manaus,2018,1
+Manaus,2015,1
+Tiradentes,2017,1
+Santa Rosa,2017,1
+Santa Rosa,2016,1
+Santa Rosa,2015,1
+Eureka,2017,1
+Medford,2017,1
+Lake Atitlan,2016,2
+Louangphabang,2016,1
+Louangphabang,2014,1
+Rasdhoo,2015,2
+Östersund,2018,1
+Ripatransone,2016,1
+Matosinhos,2016,1
+"StromboliLipari, Province of Messina, Italy",2016,1
+Milazzo,2016,1
+Milazzo,2017,1
+Milazzo,2018,1
+Province of Catania,2016,1
+"Oklahoma City, OK",2016,1
+"Oklahoma City, OK",2015,1
+"Oklahoma City, OK",2017,2
+Dauphin Island,2015,1
+Versailles,2014,1
+Versailles,2013,2
+Versailles,2018,1
+Versailles,2017,1
+"Palo Alto, CA",2013,1
+"Palo Alto, CA",2017,2
+"Palo Alto, CA",2018,1
+Brittany,2013,1
+Brittany,2015,1
+Brittany,2017,1
+Uriangato,2016,1
+Pilsen,2016,1
+Pilsen,2015,2
+Valladolid,2016,2
+Valladolid,2018,2
+Valladolid,2017,2
+Mannheim,2015,1
+Mannheim,2012,1
+Mexico CityMexico,2013,1
+Barranquilla,2017,4
+Barranquilla,2018,2
+Barranquilla,2016,2
+Porto Venere,2016,1
+Montalcino,2016,1
+Maiori,2016,2
+Dossenheim,2016,1
+Makassar,2016,1
+Viroinval,2016,1
+Jasper,2018,1
+Jasper,2010,1
+Jasper,2017,1
+Jasper,2015,1
+Jasper,2016,1
+Hart im Zillertal,2017,1
+"Park City, UT",2016,4
+"Park City, UT",2018,3
+"Park City, UT",2015,3
+"Park City, UT",2011,1
+"Park City, UT",2017,1
+Ventura,2016,1
+Marina,2016,1
+Yosemite Village,2016,1
+Shady Cove,2016,1
+Yantzaza,2017,1
+Guayaquil,2015,4
+Guayaquil,2006,1
+Guayaquil,2016,5
+Guayaquil,2017,2
+Italy,2016,4
+Italy,2007,1
+Italy,2001,1
+Italy,2017,2
+Italy,2015,1
+Italy,2012,1
+Sant'Elpidio a Mare,2015,1
+"Copacabana, Puno, Bolivia",2017,1
+Glyfada,2016,1
+Valdivia,2015,1
+Valdivia,2016,1
+Greece,2016,2
+Greece,2017,3
+Greece,2012,1
+Greece,2010,1
+Germany,2001,1
+Germany,2017,2
+Germany,2018,1
+Germany,1990,1
+Germany,2016,2
+Germany,2003,1
+Germany,2013,1
+San Jose,2018,3
+San Jose,2016,1
+San Jose,2014,1
+San Jose,2012,3
+San Jose,2015,2
+San Jose,2013,1
+San Jose,2011,1
+Rennes,2018,3
+Rennes,2017,2
+Rennes,2016,1
+Bridgetown,2018,1
+Bridgetown,2016,2
+Bridgetown,2006,1
+Auckland Region,2018,1
+Hamilton Island,2015,1
+Newark,2015,1
+Newark,2017,1
+Newark,2018,1
+Newark,2013,1
+Newark,2008,1
+Province of Pisa,2008,1
+Rancho Palos Verdes,2006,1
+Rancho Palos Verdes,2005,1
+Rancho Palos Verdes,1991,1
+Praia,2017,1
+Sao Filipe,2017,1
+Sal,2017,1
+Cervera,2017,1
+Praia de Montalvo,2017,1
+Vigo,2017,2
+Vigo,2015,1
+A Coruna,2017,2
+Ortigueira,2017,1
+Ribadeo,2017,1
+Arenas de Cabrales,2017,1
+Picos de Europa,2017,1
+Parroquia de Ajo,2017,1
+Bodenwöhr,2017,1
+Hilversum,2017,1
+Isla Grande,2017,1
+Minca,2017,2
+Minca,2018,1
+Pulau Gili Gede,2016,1
+Minorca,2016,2
+Minorca,2017,1
+Minorca,2018,1
+Koufonisia,2015,1
+Amorgos,2015,1
+Meerhout,2015,1
+Aachen,2015,1
+Aachen,2017,1
+Aachen,2016,1
+Aachen,1995,1
+Šolta,2014,1
+Srebrenica,2013,1
+Banja Luka,2013,1
+Banja Luka,2016,2
+Banja Luka,2017,1
+Banja Luka,2018,1
+Cheltenham,2003,1
+Cheltenham,2018,1
+Cheltenham,2017,1
+Cheltenham,2016,2
+Cheltenham,2015,1
+"Kuala Lumpur, Malaysia",2015,1
+Cameron Highlands,2015,2
+Cameron Highlands,2014,2
+Cameron Highlands,2016,1
+Cameron Highlands,2017,2
+Cameron Highlands,2018,1
+Baguio Philippines,2016,1
+Karachi,2017,1
+Nijmegen,2015,1
+Nijmegen,2016,1
+Nijmegen,2017,2
+Nijmegen,2012,1
+Nijmegen,2006,2
+Nijmegen,2002,2
+Nijmegen,2000,1
+Nijmegen,1994,1
+Nijmegen,1986,1
+Nijmegen,2018,1
+Zaragoza,2016,2
+Zaragoza,2004,1
+Zaragoza,2012,1
+Zaragoza,2017,1
+Zaragoza,2018,1
+Zaragoza,2011,1
+Montbéliard,2017,1
+Montbéliard,2016,1
+Albi,2016,1
+Biel/Bienne,2016,1
+Biel/Bienne,2014,1
+Besançon,2011,1
+Besançon,2009,1
+Besançon,2008,1
+Portsmouth,2007,1
+Portsmouth,2017,2
+Portsmouth,2016,1
+Belfort,2005,1
+El Chorro,2017,1
+Fort William,2017,2
+Fort William,2018,3
+County Donegal,2017,1
+Nilaveli,2018,2
+Badulla District,2018,1
+Nuwara Eliya,2018,2
+Nuwara Eliya,2017,1
+Nuwara Eliya,2016,1
+Nuwara Eliya,2015,2
+Nallathanniya,2018,1
+Darwin,2018,2
+Darwin,2015,1
+Darwin,2013,1
+Darwin,2017,2
+Darwin,2016,1
+Jabiru,2018,1
+Katherine,2018,1
+Tennant Creek,2018,1
+Yulara,2018,1
+Coober Pedy,2018,1
+San Simeon,2018,1
+"Monterey, CA",2018,2
+"Monterey, CA",2017,1
+"Monterey, CA",2012,1
+"Monterey, CA",2016,1
+Madera,2018,1
+Three Rivers,2018,1
+Ridgecrest,2018,1
+Amargosa Valley,2018,1
+Mesquite,2018,1
+Springdale,2018,1
+Springdale,2015,1
+Springdale,2017,1
+Hanksville,2018,1
+Monument Valley,2018,1
+Page,2018,1
+Ilhéus,2018,1
+Ilhéus,1993,1
+Ilhéus,2016,1
+Sarandë,2017,1
+Sarandë,2018,1
+Sarandë,2015,1
+Sarandë,2016,1
+Kirkwood,2018,1
+Yosemite Junction,2017,1
+Baja California,2017,1
+Nayarit,2016,1
+Ponta Delgada,2016,3
+Ponta Delgada,2015,3
+Ponta Delgada,2017,1
+Coron,2018,3
+Coron,2015,2
+Coron,2016,1
+Coron,2013,1
+Igatpuri,2018,1
+Dehradun,2018,1
+Idukki,2018,1
+Alappuzha,2018,1
+Munnar,2018,1
+Amritsar,2018,1
+Amritsar,2016,1
+Amritsar,2017,1
+Lucknow,2018,1
+Addu City,2018,1
+Mysuru,2017,2
+Mysuru,2014,1
+Bikaner,2017,2
+Longyearbyen,2015,2
+Longyearbyen,2016,2
+Philadelphia,2016,1
+Hai Phong,2018,1
+Chamonix-Mont-Blanc,2018,2
+O‘ahu,2017,1
+O‘ahu,2016,1
+O‘ahu,2014,1
+O‘ahu,2013,1
+Balneário Camboriú,2017,2
+Balneário Camboriú,2014,1
+Balneário Camboriú,2016,1
+Balneário Camboriú,2018,1
+Balneário Camboriú,2002,1
+Zakynthos,2017,1
+Zakynthos,2012,2
+Vitória,2017,1
+Vitória,2016,2
+Vitória,2014,1
+Vitória,2012,1
+Zaandam,2015,1
+Zaandam,2016,1
+Ibiza Town,2012,1
+Ibiza Town,2018,1
+Ibiza Town,2017,1
+Riyadh,2017,2
+Riyadh,2016,2
+Riyadh,2015,1
+Riyadh,2014,1
+Riyadh,2013,1
+Mecca,2017,1
+Seychelles,2015,1
+Seychelles,2016,1
+Yanbu,2015,1
+Milford,2014,1
+Ulsan,2013,1
+Geoje-si,2009,1
+Rayong,2016,1
+Santanyí,2016,1
+Zwolle,2018,1
+Zwolle,2017,1
+Zwolle,2016,2
+Zwolle,2015,1
+Zwolle,2014,1
+Nis,2017,2
+Iran,2016,2
+Iran,2017,1
+Sierre,2016,1
+Sierre,2018,1
+Uyuni,2015,1
+Uyuni,2016,1
+Uyuni,2014,1
+Maella,2016,1
+Saaremaa,2016,1
+Koh Lanta.,2016,1
+Velbert,2018,1
+Velbert,2017,1
+Velbert,2016,1
+Velbert,2015,1
+Velbert,2014,1
+Velbert,2013,1
+Velbert,1990,1
+"Busan, South Korea",2017,1
+Gyeongju-si,2017,1
+Gyeongju-si,2014,1
+Calama,2017,1
+Uyuni Salt Flat,2017,1
+Uyuni Salt Flat,2016,1
+Uyuni Salt Flat,2018,1
+Copacabana,2017,1
+Copacabana,2014,1
+Juliaca,2017,1
+Riohacha,2017,1
+Mazatlan,2016,2
+Mazatlan,2007,1
+Mazatlan,2017,1
+Mazatlan,2000,1
+Hradec KraloveCzech Republic,2016,1
+Neuhausen ob Eck,2016,1
+Hradec Kralove,2015,1
+Belek Belediyesi,2013,1
+Rimini,2016,4
+Rimini,2015,4
+Rimini,2014,2
+Rimini,2013,2
+Rimini,2012,1
+Rimini,2011,1
+Rimini,2010,1
+Rimini,2009,1
+Rimini,2018,2
+Pompeii,2016,2
+Pompeii,2015,1
+Pompeii,2018,1
+San Siro Stadium,2016,1
+Province of Rimini,2016,2
+Province of Rimini,2017,3
+Seceda,2016,1
+"San Quirico d'OrciaProvince of Siena, Italy",2016,1
+Funes,2016,1
+San Quirico d'Orcia,2016,1
+Reine,2016,1
+"Saint Martin, Marigot",2015,1
+Saint Barthelemy,2015,1
+Sandy Ground,2015,1
+Albufeira,2015,2
+Albufeira,2017,2
+Albufeira,2014,1
+Albufeira,2016,1
+Expo 2015 Village,2015,1
+Le Tofane,2015,1
+Monte Cristallo,2015,1
+Colle Santa Lucia,2015,1
+Tre Cime di Lavaredo,2015,1
+Rifugio Scoiattoli,2015,1
+Black Canyon of the Gunnison National Park,2015,1
+Bonneville Salt Flats,2015,1
+Grand Teton National Park,2015,1
+Sturgis,2015,1
+Hot Springs,2015,1
+Vik,2015,1
+Vik,2013,1
+Höfn,2015,1
+Stöðvarfjörður,2015,1
+Húsavík,2015,1
+Dalvik,2015,1
+Borðeyri,2015,1
+Ísafjörður,2015,1
+Patreksfjörður,2015,1
+Cortina d'Ampezzo,2015,1
+Cortina d'Ampezzo,2018,1
+Asiago,2015,1
+Gouda,2015,1
+Gustavia,2015,1
+Gustavia,2016,1
+Gustavia,2014,1
+Grand Case,2015,1
+Nyalam,2015,1
+Tingri,2015,1
+Xigaze,2015,1
+"ShigatseTibet, China",2015,1
+Zedangzhen,2015,1
+Lhasa,2015,1
+Xining,2015,1
+Xining,2018,1
+Liechtenstein,2014,1
+Lübeck,2014,1
+Lübeck,2017,1
+Fredrikstad,2014,1
+Kristiansand,2014,1
+Kristiansand,2018,1
+Flåm,2014,1
+Flåm,2018,1
+Flåm,2013,1
+Florø,2014,1
+Måløy,2014,1
+Aalesund,2014,1
+Kristiansund,2014,1
+Lillehammer,2014,1
+Fredericia,2014,1
+Valdobbiadene,2014,1
+Ko Ngai,2014,1
+Koh Mook Sivalai Beach Resort,2014,1
+Ko Lipe,2014,1
+Ko Lipe,2013,2
+Ko Lipe,2015,2
+Ko Lipe,2017,2
+Mae Hong Son,2014,1
+Mae Hong Son,2016,2
+Mae Hong Son,2017,1
+Barbados,2013,1
+Barbados,2017,1
+Barbados,1989,1
+Göreme,2013,1
+Göreme,2016,1
+Göreme,2017,1
+Göreme,2015,2
+Bagno Vignoni,2013,1
+Orta San Giulio,2013,1
+Orta San Giulio,2015,1
+Peschici,2013,1
+Asolo,2013,1
+Castelluccio,2013,1
+Spoleto,2013,1
+Spoleto,2012,1
+Spoleto,2011,1
+Valeggio Sul Mincio,2013,1
+Norcia,2013,1
+Ko Yao Noi,2013,1
+Ko Yao Noi,2015,1
+Ko Yao Noi,2012,1
+Ko Yao Noi,2014,1
+Ko Phi Phi Lee,2013,1
+Railay Beach,2013,1
+Railay Beach,2015,2
+Kingman,2012,1
+Albuquerque,2012,1
+Albuquerque,2016,3
+Albuquerque,2015,2
+Albuquerque,2014,1
+Santa Fe,2012,1
+Santa Fe,2017,1
+Santa Fe,2016,3
+Amarillo,2012,1
+Amarillo,2010,1
+Tulsa,2012,1
+Tulsa,2016,1
+Tulsa,2010,1
+Passo dello Stelvio,2012,1
+Vipiteno,2012,1
+Civitavecchia Port,2012,1
+Ashdod,2012,1
+Katakolo,2012,1
+Katakolo,2018,1
+Savona,2012,1
+Savona,2017,1
+Maldives,2011,1
+Maldives,2010,1
+Maldives,2017,1
+Qasr Al Sarab Desert Resort by Anantara,2011,1
+Atacama Desert,2011,1
+Salinas Grandes,2011,1
+Salta,2011,1
+Salta,2016,2
+Salta,2018,1
+Salta,2015,1
+Brunico,2011,1
+Amboseli National Park,2011,1
+Taita Hills,2011,1
+Tsavo West National Park,2011,1
+Tsavo East National Park,2011,1
+Leukerbad,2010,1
+Liège,2009,1
+Liège,2016,3
+Saturnia,2009,1
+Olbia,2008,1
+Daegu,2018,1
+Daegu,2016,1
+Daegu,2017,1
+Jeju-si,2015,1
+Haarlem,2017,4
+Haarlem,2016,3
+Haarlem,2013,1
+Roskilde,2017,1
+Roskilde,1994,1
+Kruså,2017,1
+Bad Gandersheim,2016,1
+Lindau,2016,1
+Egnach,2016,1
+Ribeauvillé,2016,1
+Dransfeld,2016,1
+Ribe,2016,1
+Lidköping,2013,1
+Norwich,2010,1
+Norwich,2017,1
+Norwich,2015,1
+Dominican Republic,2017,1
+Dominican Republic,2016,2
+Dominican Republic,2015,2
+Dominican Republic,2000,1
+Kunming,2015,2
+Kunming,2017,3
+Kunming,2018,1
+Kunming,2016,1
+Kunming,2013,1
+Dali,2015,1
+Dali,2016,1
+Dali,2013,1
+Deqen,2015,1
+Lijiang,2015,2
+Lijiang,2014,1
+Lijiang,2013,1
+Chongqing,2015,2
+Chongqing,2017,2
+Chongqing,2016,1
+Chongqing,2008,1
+Zhangjiajie,2015,2
+Zhangjiajie,2018,1
+Zhangjiajie,2016,1
+Guilin,2015,1
+Guilin,2006,1
+Guilin,2017,1
+Guilin,2013,2
+Guilin,2011,1
+Potosi,2013,1
+Nassau,2017,1
+Nassau,2013,1
+Nassau,2012,3
+Nassau,2011,2
+Nassau,2010,1
+Nassau,2009,1
+Nassau,2008,1
+Nassau,2006,1
+Nassau,2005,1
+Nassau,2004,1
+Nassau,2014,2
+Nassau,2016,1
+Nassau,2018,1
+"Louisville, KY",2016,2
+"Louisville, KY",2015,3
+"Louisville, KY",2017,1
+"Louisville, KY",2013,1
+"Louisville, KY",2012,1
+Puerto Rico,2015,1
+Puerto Rico,2016,2
+Puerto Rico,2017,2
+Puerto Rico,2014,1
+Puerto Rico,2005,1
+Mount Naeba,2010,1
+Kenting,2010,1
+Kenting,2012,1
+Kenting,2016,1
+Vientiane Province,2010,1
+Vientiane Province,2015,1
+Batam Island,1999,1
+Lamai Beach,2016,1
+Comandatuba,2016,1
+"João Pessoa, Paraíba",2016,1
+Trancoso,2016,1
+Ribeirão Preto,2016,1
+Cuiabá,2016,1
+Svendborg,2009,1
+Cádiz,2017,3
+Cádiz,2015,1
+Olympia,2017,2
+Laguna Niguel,2016,1
+Big Summit Prairie,2017,1
+Bellwald,2015,1
+Uttendorf,2015,1
+Uttendorf,2016,1
+Saint Andrews,2014,1
+Saint Andrews,2017,1
+Saint Andrews,2016,1
+Saint Andrews,2015,1
+Zell,2014,1
+Plymouth,2016,1
+Plymouth,2011,1
+Cavalière,2017,1
+Sicily,2016,7
+Kuta,2017,1
+Uluwatu Surf Break,2017,1
+Krabi Town Thailand,2017,1
+Mechelen,2017,1
+Bodegraven,2017,1
+Bodegraven,2016,1
+Hagen,2016,1
+Hagen,2015,2
+Hagen,2014,1
+Hagen,2013,1
+Hagen,2012,1
+Hagen,2011,1
+Hagen,2006,1
+Hagen,2004,1
+Camrose,2016,1
+Cranbrook,2016,1
+Cranbrook,2011,1
+Cranbrook,2010,1
+Cranbrook,2009,1
+Cranbrook,2008,1
+Sparwood,2016,1
+Oswiecim,2016,1
+Katowice,2016,2
+Katowice,2017,3
+Katowice,2015,2
+Katowice,2018,1
+Rzeszow,2015,1
+Zamość,2015,1
+Berdyszcze,2015,1
+Chełm,2015,1
+Kumów Plebański,2015,1
+Haliczany,2015,1
+Przeworsk,2015,1
+Jawornik Polski,2015,1
+Dynów,2015,1
+Szklary,2015,1
+Dortmund,2015,3
+Dortmund,2017,1
+Dortmund,2016,1
+Arnhem,2015,1
+Arnhem,2017,1
+Maastricht,2014,2
+Maastricht,2017,1
+Maastricht,2018,1
+Wiesbaden,2013,1
+Wiesbaden,2017,1
+Wiesbaden,2010,1
+Zandvoort,2012,1
+Wageningen,2012,1
+Wageningen,2008,1
+Wageningen,2007,1
+IJmuiden,2012,1
+Moyie,2011,1
+Muiden,2011,1
+Duisburg,2011,1
+Duisburg,2016,1
+Kamloops,2011,1
+Grundarfjörður,2010,1
+Naivasha,2010,1
+Nakuru,2010,1
+Nyahururu,2010,1
+Narok,2010,1
+Kemptville,2009,1
+Jerome,2009,1
+Jerome,2015,1
+Kimball,2009,1
+Gibbon,2009,1
+Sidney,2009,1
+Sidney,2016,1
+Bradshaw,2009,1
+Butte,2009,1
+Butte,2018,1
+Grande Prairie,2009,1
+Grande Prairie,2008,1
+Grande Prairie,2006,1
+Vallendar,2008,1
+Oświęcim,2008,1
+Oświęcim,2018,1
+Prato,2008,1
+Cortona,2008,1
+Cortona,2014,1
+Cortona,2013,1
+Cortona,2012,1
+Assisi,2008,1
+Assisi,2004,1
+Assisi,2017,1
+Redding,2008,1
+Redding,2015,1
+Port Orford,2007,1
+Mendocino,2007,1
+Santa Clarita,2007,1
+Yreka,2007,1
+Nanaimo,2007,1
+Nanaimo,2017,1
+Duncan,2007,1
+Guelph,2006,1
+Guelph,2017,1
+Guelph,2016,1
+Guelph,2015,2
+Kitimat,2006,1
+Prince Rupert,2006,1
+Jersey City,2006,1
+Jersey City,2018,1
+Songpan,2006,1
+Xiahe,2006,1
+Mu Tian Yu,2006,1
+Dunmore Town,2006,1
+Carmel-by-the-Sea,2006,1
+Palm Springs,2006,1
+Palm Springs,2018,4
+Palm Springs,2017,5
+Palm Springs,2016,1
+Palm Springs,2014,2
+Palm Springs,2015,2
+Palm Springs,2012,1
+Vaduz,2006,1
+Vaduz,2017,1
+Vaduz,2018,1
+Montreux,2006,1
+Montreux,2018,1
+Montreux,2008,1
+Montreux,2007,1
+Montreux,2016,1
+Exeter,2006,1
+Monte Compatri,2004,1
+Capri,2004,1
+Capri,2018,1
+Capri,2017,1
+Capri,2012,1
+Èze,2004,1
+Aix-en-Provence,2004,1
+Aix-en-Provence,2016,1
+Nimes,2004,2
+Carcassonne,2004,1
+Carcassonne,2018,2
+Carcassonne,2017,2
+Carcassonne,2016,1
+Carcassonne,2015,1
+Carcassonne,2014,1
+Abbotsford,2003,1
+"Ogden, UT",2002,1
+"Ogden, UT",2015,1
+Escondido,1999,1
+Ashland,1998,1
+Ashland,1997,1
+Ashland,2015,1
+La Manzanilla,2017,1
+Padova,2017,3
+Padova,2010,1
+Sarzana,2016,1
+Carrara,2016,1
+Campina Grande,2016,1
+Blumenau,2015,1
+Condrieu,2015,1
+Bergamo,2015,1
+Bergamo,2017,1
+Bergamo,2018,1
+Asti,2015,1
+Toulon,2014,1
+Toulon,2015,1
+Saint-Raphaël,2014,1
+Saint-Raphaël,2006,2
+Sagres,2017,2
+Sagres,2015,1
+Redang Island,2017,1
+Mangsit,2017,1
+Attica Region,2018,1
+Palaiochora,2017,1
+Palaiochora,2016,1
+Douarnenez,2017,1
+Quimper,2017,1
+Gavdos,2016,1
+Wörthersee,2016,1
+Frisco,2017,1
+Frisco,2016,1
+Beaumont,2016,1
+Boca Raton,2016,1
+Boca Raton,2015,2
+Great Smoky Mountains,2016,1
+Mammoth Cave,2016,1
+Inle Lake,2016,3
+Inle Lake,2018,1
+Inle Lake,2014,1
+Inle Lake,2017,1
+Pingyao,2015,1
+Datong,2015,1
+Carlsbad,2017,2
+Carlsbad,2007,1
+Carlsbad,2005,1
+Carlsbad,1998,1
+Carlsbad,2016,1
+St. George,2017,1
+Heroica Veracruz,2014,1
+Medan,2017,2
+Medan,2016,1
+Medan,2018,1
+Porto Cervo,2016,1
+Mount Maunganui,2018,1
+Miami International Airport,2017,1
+Poland,2015,2
+Poland,2010,1
+Florida,2013,1
+Florida,2016,1
+Slovenia,2011,1
+Slovenia,2016,2
+Slovenia,2017,1
+Slovenia,2015,1
+Tartu,2006,1
+Tartu,2017,1
+Puerto Varas,2004,1
+Nagoya,2002,1
+Nagoya,2015,3
+Nagoya,2014,2
+Nagoya,2016,4
+Nagoya,2013,1
+Nepal,2001,1
+Nepal,2016,4
+Nepal,2015,1
+Calais,2001,1
+State of Rio de Janeiro,1994,1
+State of Rio de Janeiro,2017,1
+State of Rio de Janeiro,2014,1
+Guidel,2018,1
+La Rochelle,2017,4
+La Rochelle,2018,1
+La Rochelle,2016,1
+Saint-Jean-de-Monts,2017,1
+Clermont-Ferrand,2017,1
+Vittel,2017,1
+Les Sables-d'Olonne,2017,1
+Parco Nazionale delle Cinque Terre,2016,1
+Tours,2017,2
+Tours,2016,1
+Central Coast,2017,1
+Santa Teresa Beach,2017,4
+Santa Teresa Beach,2016,3
+Bocas del Toro Archipelago,2017,1
+Kerala,2015,1
+Kerala,2018,2
+Kerala,2017,2
+Kerala,2016,1
+Santa Teresa,2017,3
+Santa Teresa,2014,2
+Hossegor,2017,3
+Hossegor,2016,1
+Hossegor,2015,1
+Madiha Beach,2017,1
+Madiha Beach,2015,1
+Vieux-Boucau-les-Bains,2016,1
+Seignosse,2016,1
+Seignosse,2015,1
+Luz,2016,1
+Mirissa,2016,1
+Mirissa,2017,1
+Morro Jable,2015,1
+Morro Jable,2017,1
+Arugam Bay,2015,1
+Arugam Bay,2017,2
+Jimbaran,2015,1
+Playa Guiones,2014,1
+Paignton,2016,1
+Paignton,2015,1
+Murcia,2016,1
+Murcia,2017,1
+Ko Yao Yai,2016,2
+Ko Yao Yai,2017,2
+West Nusa Tenggara,2018,1
+Punta Arenas,2016,1
+Punta Arenas,2017,1
+Punta Arenas,2014,3
+Grindelwald,2015,1
+Grindelwald,2016,1
+Montenegro,2015,2
+Montenegro,2017,3
+Montenegro,2016,3
+Ko TaoSurat Thani Thailand,2015,1
+Koya,2015,1
+Aalborg,2018,2
+Aalborg,2017,1
+Dumaguete,2015,1
+Dumaguete,2014,1
+Dumaguete,2017,1
+Oberkirch,2015,1
+"Grand Rapids, MI",2018,2
+"Grand Rapids, MI",2016,2
+"Grand Rapids, MI",2017,2
+South Bend,2018,1
+South Bend,2017,1
+South Bend,2016,1
+Fremont,2017,1
+"Memphis, TN",2017,4
+"Memphis, TN",2016,1
+"Memphis, TN",2015,1
+"Memphis, TN",2018,1
+Laguna Beach,2017,2
+Union Glacier,2017,1
+"Concord, New Hampshire, United States",2016,1
+Cumberland County,2016,1
+Hood River,2016,1
+Mahé,2015,1
+Jarabacoa,2012,2
+Jarabacoa,2008,1
+Jarabacoa,2017,2
+South Padre Island Drive,2011,1
+Oranjestad,2009,1
+Oranjestad,2016,3
+Oranjestad,2006,1
+Oranjestad,2005,1
+Oranjestad,2018,1
+Ouanaminthe Arrondissement,2008,1
+Durango,2008,1
+Durango,2016,1
+Durango,2017,1
+Dunedin,2015,1
+Dunedin,2014,1
+Dunedin,2017,2
+Dunedin,2018,1
+Apia,2015,1
+Nicoya,2014,1
+Concepción,2017,1
+Concepción,2018,1
+Ribes de Freser,2017,1
+Shikoku Kawabejinnai,2017,1
+Lapland,2016,1
+Taman Negara National Park Malaysia,2015,1
+Pangkor Island,2014,1
+Pangkor Island,2015,2
+Ipoh,2014,1
+Ipoh,2015,1
+Ipoh,2016,1
+Ipoh,2017,1
+Ipoh,2018,1
+Ipoh,2006,1
+Pihtipudas,2014,1
+Poitiers,2014,1
+Poitiers,2015,1
+Šibenik,2018,1
+Bielefeld,2018,2
+Bielefeld,2015,1
+Bielefeld,2014,1
+Münster,2018,1
+Münster,1991,1
+Münster,2016,1
+Münster,2002,1
+Niagara Falls,2018,2
+Niagara Falls,1998,1
+Niagara Falls,2014,1
+Niagara Falls,1987,1
+Niagara Falls,2017,2
+Niagara Falls,2015,2
+Campeche,2018,1
+San Miguel de Cozumel,2018,1
+San Miguel de Cozumel,2015,1
+Usedom,2017,1
+Agadir,2015,1
+Agadir,2017,2
+Agadir,2016,1
+Gold Coast,2012,2
+Gold Coast,2016,7
+Gold Coast,2018,6
+Gold Coast,2017,7
+Gold Coast,2015,2
+Gold Coast,2013,1
+Noosa Heads,2012,1
+Noosa Heads,2016,1
+Noosa Heads,2018,1
+Noosa Heads,2015,1
+Hervey Bay,2012,1
+Hervey Bay,2017,1
+Airlie Beach,2012,1
+Airlie Beach,2016,1
+Airlie Beach,2004,1
+Waukesha,2016,1
+Chapel Hill,2016,2
+Chapel Hill,2017,1
+Les Marécottes,2017,2
+Les Marécottes,2016,2
+Albania,2016,2
+Albania,2015,1
+Albania,2017,1
+Kosovo,2016,2
+Kosovo,2015,1
+La Serena,2015,2
+La Serena,2017,1
+La Serena,2016,1
+La Serena,2014,1
+Antofagasta,2015,2
+Antofagasta,2017,1
+Washington,2013,1
+Washington,2015,1
+Oregon,2013,1
+Idaho,2013,1
+Montana,2013,1
+Wyoming,2013,1
+North Dakota,2013,1
+North Dakota,2016,1
+Mount Rushmore National Memorial,2013,1
+Estevan,2013,1
+Truckee,2010,1
+Truckee,2012,1
+Truckee,2001,1
+Fort McMurray,2010,1
+Chon Buri,2018,1
+Ban Amphoe,2018,1
+Ubon Ratchathani,2018,1
+Pakse,2018,1
+Pakse,2016,1
+Pakse,2015,1
+Pakse,2014,1
+Tad tayicsua,2018,1
+Tad Lo Village,2018,1
+PakBeng,2018,1
+Huay Xai,2018,1
+Onjuku,2017,1
+Kalpitiya,2017,2
+Syracuse,2016,2
+Syracuse,2015,2
+Syracuse,2017,1
+Sámara,2014,2
+Sámara,2018,1
+Esbjerg,2012,1
+Herning,2012,1
+Ringkobing,2011,1
+Odense,2010,1
+Odense,2016,1
+Odense,2015,1
+Odense,2014,1
+Oceanside,2018,1
+Oceanside,2007,1
+Tehachapi,2018,1
+Dunsmuir,2018,1
+São José dos Campos,2017,1
+São José dos Campos,2014,1
+Rarotonga,2017,1
+Rarotonga,2016,1
+Fishers,2017,1
+Bayeux,2017,1
+Klosters Dorf,2017,1
+Chetumal,2016,1
+Cabo Pulmo National Park,2016,1
+Ripon,2015,1
+Aspen,2017,3
+Aspen,2016,1
+Panama,2017,1
+Panama,2014,2
+Panama,2015,4
+Panama,2013,1
+Panama,2016,1
+Arles,2016,1
+Barèges,2016,1
+Walt Disney World Resort,2015,1
+Baguio,2018,2
+Baguio,2013,1
+Baguio,2016,1
+Baguio,2014,1
+Angeles,2018,1
+Angeles,2016,1
+Angeles,2017,1
+Angeles,2014,1
+Kasimov,2016,1
+Anjuna,2017,1
+Anjuna,2014,1
+Santa Eulària des Riu,2017,1
+Benalmádena,2017,1
+Sweden,2016,1
+Sweden,2018,1
+Siquijor,2016,1
+Siquijor,2017,1
+Azores,2017,3
+Ziro,2016,1
+Canet de Mar,2017,1
+Inverness,2016,3
+Inverness,2015,1
+Inverness,2017,1
+Inverness,2018,1
+Huldenberg,2016,1
+Blenheim,2016,1
+Blenheim,2006,1
+Blenheim,2005,1
+Beloi,2018,1
+Borgarnes,2013,1
+Destin,2016,1
+Destin,2018,1
+Kuantan,2018,1
+Haleiwa,2017,1
+Israel,2017,2
+Israel,1919,1
+Israel,2012,1
+Frederick,2018,1
+Frederick,2017,1
+Komiža,2018,1
+Komiža,2017,1
+Guaimaca,2018,1
+Whangarei,2017,1
+Whangarei,2016,1
+Whangarei,2014,1
+Ischgl,2017,1
+Fondo,2012,1
+Fribourg,2013,2
+Fribourg,2016,1
+Fribourg,2014,1
+Nancy,2011,1
+Nancy,2015,1
+Uppsala,2009,1
+Uppsala,2015,1
+Uppsala,2018,1
+Aurillac,2005,1
+Apt,2005,1
+Apt,1996,1
+Apt,1990,1
+N'Djamena,1990,1
+Port-au-Prince,1986,1
+Spokane,2017,2
+Spokane,2016,1
+Spokane,2015,1
+Spokane,2013,1
+Holland,2017,1
+Holland,2011,1
+Holland,2001,1
+Grand Forks,2017,1
+Grand Forks,2015,1
+Grand Forks,2013,1
+Grand Forks,2011,1
+Grand Forks,2005,1
+Kobe,2015,1
+Kobe,2016,1
+Kobe,2012,1
+Kobe,2017,1
+Kobe,2018,1
+Grand Rapids,2015,4
+Grand Rapids,2016,1
+Grand Rapids,2014,1
+Subic Bay,2012,1
+Swan Lake,2012,1
+Rancho Mirage,2011,1
+Scotts Valley,2008,1
+Böblingen,2001,1
+Neuschwanstein Castle,2001,1
+Ulm,2001,1
+Ulm,2015,1
+Sanremo,2017,1
+Koyasan,2015,1
+Koyasan,2016,1
+Koyasan,2017,1
+Miyajima Island,2015,1
+Miyajima Island,2016,1
+Taganrog,2015,1
+Loket,2015,1
+"TaganrogRostov Oblast, Russia",2015,1
+San Pedro Sula,2017,1
+Ringe,2016,1
+Jiquilillo,2016,1
+South Beach,2016,1
+Rusutsu,2018,1
+Rusutsu,2016,1
+Rusutsu,2015,1
+Chitose,2018,1
+Poughkeepsie,2017,1
+Poughkeepsie,2016,1
+Poughkeepsie,2009,1
+Poughkeepsie,2005,1
+Poughkeepsie,1984,1
+Bodo,2017,2
+Bodo,2016,1
+Lahinch,2017,1
+Lahinch,2016,1
+Bundoran,2017,1
+Bundoran,2015,1
+St. John's,2017,3
+St. John's,2016,2
+St. John's,2018,1
+Glacier National Park of Canada,2017,1
+Big White Mountain,2017,1
+Revelstoke,2017,2
+Kelowna,2017,2
+Kelowna,2015,2
+Kelowna,2016,2
+Kelowna,2018,1
+Colón Island,2017,1
+Charlottesville,2017,2
+playa buen hombre,2017,1
+"CabaretePuerto Plata Province, Dominican Republic",2017,1
+Verbier,2017,1
+Cemoro Lawang,2016,1
+Mont-Tremblant,2016,1
+Rosario,2016,1
+Rosario,2013,1
+Cappadocia,2015,1
+Zanzibar Town,2013,1
+Erg Chebbi,2008,1
+Lafayette,2017,1
+Lafayette,2018,1
+Lafayette,2014,1
+Lafayette,2012,1
+Lafayette,2011,1
+Napier,2017,3
+Napier,2015,2
+Napier,2016,1
+Shreveport,2017,1
+Brunswick,2017,2
+Brunswick,2016,1
+Forest,2017,1
+Pāhoa,2016,1
+Princeville,2016,1
+Princeville,2013,1
+Apple Valley,2004,1
+Scottsdale,2004,1
+Scottsdale,2016,3
+Scottsdale,2017,1
+Scottsdale,2015,1
+Krušetnica,2017,1
+Playas de Tijuana,2017,1
+Hat Yai,2017,2
+Bandung,2016,5
+Bandung,2010,1
+Bandung,2018,2
+Bandung,2017,1
+Bandung,2015,1
+Bandung,2014,1
+"Mataram, Lombok",2015,1
+Vieques,2015,1
+Vieques,2017,1
+Ranong,2018,1
+Banlung,2018,1
+Padangbai,2018,1
+Wissembourg,2018,1
+Wissembourg,2017,1
+Kronplatz,2018,1
+Châtel,2018,1
+Kilkenny,2017,3
+Zgornje Gorje,2017,1
+Palolem Beach,2016,1
+Furtwangen im Schwarzwald,2003,1
+Vama,2018,1
+Oradea,2018,1
+Banská Bystrica,2018,1
+Banská Bystrica,2016,1
+Budens,2016,1
+Sleaford,1919,1
+Sleaford,2018,1
+Sleaford,2017,1
+Delray Beach,1919,1
+Delray Beach,2018,1
+Delray Beach,2015,1
+Oakham,2018,1
+Ewerby,2018,1
+Folkestone,2018,1
+Bury Saint Edmunds,2017,1
+Milton Keynes,2017,1
+Milton Keynes,2018,1
+Valrico,2017,1
+"Kansas City, MO",2017,5
+"Kansas City, MO",2015,2
+"Kansas City, MO",2018,2
+"Kansas City, MO",2016,2
+"Kansas City, MO",2008,1
+Louny,2017,1
+Karlovy Vary,2017,1
+Ischia,2015,1
+Ischia,2016,1
+Providenciales,2018,1
+Preston,2015,1
+Lancaster,2015,1
+Lancaster,2017,1
+Lancaster,2016,1
+Andalusia,2017,1
+Fukuoka Prefecture,2010,1
+Fukuoka Prefecture,2017,1
+Rizhao,2014,1
+Guararema,2018,1
+Rochester Hills,2017,1
+Gotland,2017,1
+Ko Lanta Yai,2018,1
+Ko Lanta Yai,2017,1
+Amman Governorate,2018,1
+Loulé,2017,1
+Tauranga,2017,2
+Tekapo,2017,1
+Nazca,2016,1
+Easter Island,2016,2
+Easter Island,1919,1
+Easter Island,2007,1
+Easter Island,2014,1
+Pichilemu,2016,1
+Pampanga,2015,1
+Uzès,2014,1
+Uzès,2017,1
+Höllviken,2013,1
+Cavite City,2013,1
+Banaue,2013,1
+Sagada,2013,1
+Jelsa,2016,1
+Palma,2017,1
+Nevada,2017,1
+Takayama,2017,2
+Takayama,2016,1
+Syros,2016,1
+Tortola,2015,2
+Chaweng Beach,2018,1
+Karon Beach,2018,1
+Arkhangelsk,2017,1
+Talamanca,2018,1
+Bluefields,2018,1
+Sonoma County,2017,1
+Pocono Mountains,2017,1
+Death Valley National Park,2017,1
+Rosenheim,2015,1
+Laholm,2015,1
+Locarno,2015,1
+Visalia,2017,1
+Tomorrowland,2016,1
+Port d'Alcúdia,2015,1
+Alkmaar,2016,1
+Cornwall,2016,1
+Cornwall,2017,1
+"Princeton, NJ",2000,1
+"Princeton, NJ",2017,1
+Mirissa Beach,2017,2
+"Hilo, Hawaii",2014,1
+Pocono Laurel Lake,2016,1
+Kassel,2018,1
+Kassel,2017,2
+Bolton-Est,2017,1
+Geilo,2017,1
+Annecy,2016,2
+Annecy,2015,1
+Kokkola,2016,1
+Kokkola,2015,1
+Tampere,2016,3
+Tampere,2018,1
+Tampere,2015,1
+Tampere,2014,1
+Modena,2017,1
+Modena,1996,1
+Manzanillo,2017,2
+Manzanillo,2015,1
+Comala,2017,1
+Colima,2017,1
+Naousa,2016,1
+Gais,2014,1
+East London,2017,1
+Port Alfred,2017,1
+Grahamstown,2017,1
+Grahamstown,2013,1
+Jeffreys Bay,2017,2
+South Cape DC,2017,1
+Sedgefield,2017,1
+Swellendam,2017,1
+Still Bay,2017,1
+Saint Helena,2017,1
+Saint Helena,2016,1
+Uluwatu Temple,2017,2
+Uluwatu Temple,2016,1
+Nizhny,2018,1
+Nizhny,2017,1
+Kharkiv,2017,3
+Kharkiv,2016,3
+Kharkiv,2015,1
+Kharkiv,2018,2
+Oryol,2017,1
+Oryol,2016,2
+Tivat,2014,1
+Tivat,2017,1
+Calella de Palafrugell,2018,1
+Calella de Palafrugell,2016,1
+Bonn,2018,2
+Bonn,2015,1
+Puerto Aventuras,2017,1
+Puerto Aventuras,2015,1
+Polignano a Mare,2005,1
+Polignano a Mare,2016,1
+Huelva,2017,1
+Siurana,2017,1
+Kure Beach,2016,1
+Kailua,2016,2
+Kailua,2015,3
+Allenspark,2014,1
+Corfu,2013,1
+Corfu,1994,1
+Corfu,2016,4
+Corfu,2017,1
+Berat,2017,1
+Berat,2018,1
+Berat,2016,1
+Kiel,2016,1
+Jekyll Island,2018,1
+Marfa,2017,1
+Marfa,2015,1
+White Stone,2018,1
+Potomac,2018,1
+Versano,2016,1
+Negrar,2016,1
+Province of Imperia,2016,1
+Cáceres,2016,1
+Jerez,2016,1
+Long Island,2017,1
+Long Island,2016,1
+Dingle,2015,1
+Dingle,2016,1
+Varkala Beach,2016,1
+Hampi,2016,1
+Hampi,2014,2
+Ajanta caves,2016,1
+Ellora,2016,1
+Aurangabad,2016,1
+Apulia,2013,1
+Apulia,2016,1
+Mauthausen,2006,1
+Corsica,2000,1
+Corsica,2017,1
+Ayacucho,2018,1
+Ayacucho,2016,1
+Pisco,2018,1
+Varadero,2018,1
+Varadero,2015,1
+Varadero,2016,1
+Rivas,2018,1
+Sierpe,2018,1
+Mérida,2018,1
+Mérida,2016,1
+Mérida,2015,1
+Matagalpa,2018,1
+Bijagua,2018,1
+La Fortuna,2018,2
+La Fortuna,2016,1
+La Fortuna,2017,1
+Alajuela,2018,1
+Isla Holbox,2018,2
+Palenque,2018,1
+Palenque,2017,3
+Palenque,2014,1
+Tuxtla Gutiérrez,2018,1
+Punta Zicatela,2018,1
+Playa Zipolite,2018,1
+Bakersfield,2017,1
+Lake Havasu City,2017,1
+Seligman,2017,1
+Oljato-Monument Valley,2017,1
+Oljato-Monument Valley,2015,1
+Wahweap,2017,1
+Bryce Canyon,2017,1
+Qualicum Beach,2017,1
+Tofino,2017,2
+Tofino,2016,2
+Port Alberni,2017,1
+Canmore,2017,1
+Enderby,2017,1
+Golden,2017,1
+Sievershausen,2017,1
+Plakias,2017,1
+Plakias,2015,1
+Mathes,2017,1
+Abela,2017,1
+Meteora,2017,1
+Saarbrücken,2017,1
+Lacanau,2017,1
+Liencres,2017,1
+Cangas de Onís,2017,1
+Grazalema,2017,1
+Ronda,2017,2
+Ronda,2016,1
+Zagora,2017,1
+Erg Chigaga,2017,1
+Mhamid,2017,1
+Tafraoute,2017,1
+Mirleft,2017,1
+La Aldea de San Nicolás,2017,1
+Arinaga,2017,1
+Almáciga,2017,1
+Agulo,2017,1
+Opua,2016,1
+Upper Moutere,2016,1
+Murchison,2016,1
+Punakaiki,2016,1
+Hokitika,2016,1
+Hokitika,2017,1
+Fox Glacier,2016,1
+Lumsden,2016,1
+Milford Sound,2016,1
+Monowai,2016,1
+Owaka,2016,1
+Herbert,2016,1
+Pigeon Bay,2016,1
+Woodchester,2016,1
+Mount Gambier,2016,1
+Port Campbell,2016,1
+Devonport,2016,1
+Newcastle,2016,2
+Newcastle,2018,1
+Newcastle,2017,1
+Coffs Harbour,2016,1
+Coffs Harbour,2017,1
+Coffs Harbour,2012,1
+Mount Coolum,2016,1
+Mackay,2016,1
+Townsville,2016,1
+Culik,2016,1
+Hu'u,2016,1
+Senggigi,2016,1
+Singaraja,2016,1
+Sandakan,2016,1
+Sandakan,2018,1
+Sandakan,2017,2
+Kinabatangan River,2016,1
+Sepilok,2016,1
+Sepilok,2017,1
+Mount Kinabalu,2016,1
+Gunung Mulu National Park,2016,1
+Ban Krut,2016,1
+Ko Kut,2016,1
+Battambang,2016,2
+Battambang,2015,1
+Kratie,2016,1
+Don Khon,2016,1
+Phong Nha-Ke Bang National Park,2016,1
+Port Barton,2016,1
+Nagasaki,2016,1
+Iki Island,2015,1
+Kamikawa,2015,1
+Minobu,2015,1
+Chigasaki,2015,1
+Digne,2017,1
+Digne,2016,1
+Nevers,2017,1
+Nevers,2016,1
+NeversFrance,2016,1
+Nowy Sacz,2017,1
+Nowy Sacz,2016,1
+Nowy Sacz,2015,1
+Nowy Sacz,2014,1
+Nowy Sacz,2011,1
+Nowy Sacz,2010,1
+Nowy Sacz,2008,1
+Nowy Sacz,1989,1
+Crimea,2017,1
+Astrakhan,2017,1
+Krasnodar,2017,2
+Krasnodar,2016,2
+Krasnodar,2018,1
+Krasnodar,2015,1
+Krasnodar,2014,1
+Stantsiya Roza Khutor,2016,1
+Gelendzhik,2016,1
+Zheleznogorsk,2016,1
+Abkhazia,2016,1
+Sumter,2016,1
+Sumter,2014,1
+Sumter,1993,1
+"AlbuquerqueNM, United States",2016,1
+Iasi,2014,1
+Iasi,2016,1
+Iasi,2018,1
+Wengen,2018,1
+Lauterbrunnen,2018,1
+Vernazza,2017,2
+Vernazza,2015,1
+Vernazza,2010,1
+Hallstatt,2017,1
+Cao Bang,2017,1
+Bắc Kạn Province,2017,1
+We Island,2015,1
+We Island,2017,1
+Banda Aceh,2014,1
+Banda Aceh,2017,1
+Shangri-La City,2014,1
+Mount Fuji,2014,1
+Phan Rí Cửa,2013,1
+Jiuzhai Valley National Park,2013,1
+Emeishan,2013,1
+Hạ Long,2013,1
+Lang Co Beach,2013,1
+Ayutthaya Historical Park,2012,1
+Vũng Tàu,2011,1
+Vũng Tàu,2018,1
+Vũng Tàu,2017,1
+Cần Giờ,2010,1
+Vevey,2007,1
+Dieng,2017,1
+Jember Regency,2017,1
+Decatur Island,2016,1
+Redmond,2016,1
+Xiamen,2016,3
+Xiamen,2015,1
+Xiamen,2014,1
+Surakarta,2015,1
+Lanzhou,2018,1
+Lanzhou,2016,1
+Wuhu,2018,1
+Wollongong,2015,1
+Nilai,2014,1
+Nilai,2013,1
+El Salvador,2017,1
+San Salvador,2016,4
+San Salvador,2014,1
+San Salvador,2017,1
+Guangdong,2017,1
+Jericoacoara,2017,2
+Kyiv International Airport (Zhuliany),2016,1
+Beijing Capital International Airport,2016,1
+Ningbo,2016,1
+Yiwu,2016,1
+Yiwu,2017,1
+Fuengirola,2016,1
+Mol,2016,1
+Tagbilaran,2018,1
+Cochabamba,2017,3
+Cochabamba,2016,1
+Burlington,2013,1
+Burlington,2016,2
+Burlington,2017,1
+Burlington,2018,1
+Shenyang,2017,1
+Sinuiju,2017,1
+Pyŏngsŏng,2017,1
+Harbin,2017,1
+Harbin,2013,1
+Queretaro,2017,4
+Queretaro,2018,1
+Queretaro,2016,1
+Queretaro,2008,1
+Lakeland,2017,1
+Guiyang,2016,1
+Gurgaon,2015,1
+Gurgaon,2018,1
+Urumqi,2015,1
+Urumqi,2016,1
+Algeciras,2018,1
+Algeciras,2017,1
+Motril,2018,1
+San Juan de los Terreros,2018,1
+Molinell,2018,1
+Oropesa del Mar,2018,1
+Tortosa,2018,1
+Province of Girona,2018,1
+Roses,2018,1
+Roses,2016,1
+Perpignan,2018,2
+Perpignan,2014,1
+Perpignan,2011,1
+Béziers,2018,2
+Béziers,2017,1
+Sète,2018,1
+Sète,2016,1
+Alassio,2018,1
+Puerto Plata,2018,1
+Puerto Plata,2005,1
+Puerto Plata,1990,1
+Puerto Plata,2016,1
+Sosúa,2018,1
+Santo Domingo,2018,1
+Santo Domingo,2017,2
+Santo Domingo,2014,1
+Santo Domingo,2016,3
+Santo Domingo,2011,1
+Santo Domingo,2015,1
+Santo Domingo,2013,1
+Bad Kleinkirchheim,2018,1
+Subotica,2017,1
+Bar,2017,1
+Bar,2016,3
+Bar,2018,1
+Jablanica,2017,1
+Vicenza,2016,1
+Cinque Terre Point,2016,1
+Scalea,2016,1
+Paola,2016,1
+Marinella,2016,1
+San Ferdinando,2016,1
+Messina,2016,1
+Acireale,2016,1
+Catania,2016,1
+Catania,2018,2
+Villa San Giovanni,2016,1
+Taranto,2016,1
+Alberobello,2016,1
+Monopoli,2016,1
+Monopoli,2015,1
+Mola di Bari,2016,1
+Jimera de Líbar,2018,1
+La Codosera,2018,1
+Guatapé,2017,2
+Guatapé,2018,1
+Guatapé,2015,1
+Connecticut,2017,1
+Black Forest,2016,1
+Chiang MaiRoi Et Thailand,2017,1
+Albstadt-Ebingen,2017,1
+Albstadt,2017,1
+Portree,2016,1
+Isle of Islay,2015,1
+Isle of Mull,2015,1
+Kaohsiung City,2018,1
+Chillicothe,2017,1
+Ikebukuro,2016,1
+Trumbull,2015,1
+St. Thomas,2017,1
+Batangas,2017,1
+Lian,2016,1
+Parañaque,2016,1
+Atimonan,2016,1
+Camarines Norte,2015,1
+Brides-les-Bains,2018,1
+Livigno,2016,1
+Livigno,2018,1
+Vale de Telhas,2015,1
+Tisno,2015,1
+Tisno,2017,1
+Province of Ancona,2015,1
+Province of Ancona,2017,1
+Bra,2015,1
+Switzerland,2015,1
+Switzerland,2016,2
+Switzerland,2003,1
+Duluth,2011,1
+Daytona Beach,2011,1
+Myrtle Beach,2009,1
+Myrtle Beach,2003,1
+Tavistock,2018,1
+Tavistock,1999,1
+Salou,2010,1
+Limassol,2001,1
+Limassol,2015,2
+Limassol,2017,1
+Limassol,2016,2
+Southport,1992,1
+Deventer,2016,3
+Deventer,2014,1
+Deventer,2015,2
+Deventer,2018,1
+Deventer,2017,1
+Laag Zuthem,2013,1
+Laag Zuthem,2011,1
+Amberg,2016,1
+Amberg,2015,1
+Szczecin,2015,1
+Szczecin,2017,1
+Tashkent,2011,1
+Tashkent,2016,2
+México,1919,1
+México,2016,1
+Marrakesh-Tensift-El Haouz,2018,1
+Marrakesh-Tensift-El Haouz,2016,1
+Benidorm,2015,2
+Mancelona,2018,1
+Harmony,2018,1
+Oklahoma City,2015,2
+Oklahoma City,2014,1
+North Shore Oahu Hawaii,2015,1
+Pasto,2017,1
+Pasto,2016,1
+Ibarra,2017,1
+Máncora District,2017,2
+Puerto Maldonado,2017,1
+Guanacaste Province,2014,1
+Guanacaste Province,2018,1
+'s Hertogenbosch,2010,1
+Saint Barthélemy,2001,1
+Saint Martin,2001,1
+Saint Martin,2016,1
+Faro Municipality,2018,1
+Farmington,2017,1
+Farmington,1999,1
+Farmington,1992,1
+Providence,2016,1
+Providence,2012,1
+Providence,2015,1
+Providence,2017,1
+"Providence, RI",2016,1
+Wuhan,2014,1
+Wuhan,2015,1
+Wuhan,2009,1
+Presidente Prudente,2016,1
+Presidente Prudente,2015,1
+Indonesia,2017,1
+Indonesia,2016,1
+Indonesia,2015,1
+Bukovel,2017,2
+Herräng,2012,1
+Herräng,2009,1
+Herräng,2017,1
+Czechia,2017,1
+Koh Lanta District,2017,1
+Java,2016,1
+Java,2014,1
+Vaitape,1919,1
+Tahiti,1919,1
+Tahiti,2016,1
+Suva,1919,1
+Suva,2016,1
+Suva,2015,1
+Suva,2009,1
+Hokkaidō,1919,1
+Tasmania,2018,1
+Tasmania,2017,1
+Australian Capital Territory,2018,1
+Lucainena de las Torres,2017,1
+Los Dolses,2017,1
+Padang Padang Beach,2017,1
+Padang Padang Beach,2015,1
+Lembongan island,2017,2
+Lembongan island,2016,2
+Sea Bright,2017,1
+Fort Worth,2017,2
+Fort Worth,2014,1
+Ciudad Juarez,2017,1
+Ciudad Juarez,2016,1
+Salinas,2017,1
+Islay,2016,1
+Chulilla,2016,1
+Garderen,2016,1
+Guéthary,2017,1
+Saint-Gilles,2017,2
+Voronezh,2018,1
+Voronezh,2017,1
+Voronezh,2015,1
+Kaliningrad,2018,1
+Kaliningrad,2015,1
+Gudauri Ski Resort,2016,1
+Dakhla,2013,1
+Aluthgama,2012,1
+Rovinj,2016,2
+Rovinj,2018,2
+Rovinj,2017,1
+Thiruvananthapuram,2016,1
+Thiruvananthapuram,2018,1
+Thiruvananthapuram,2017,1
+Los Gatos,2013,1
+Paderborn,2016,1
+Province of Palermo,2017,2
+Passau,2017,2
+Turku,2017,1
+Taormina,2016,1
+Taormina,2017,1
+Taormina,2018,1
+Mendon,2017,1
+"La Fortuna, Costa Rica",2017,1
+Europe,2007,1
+Anápolis,2007,1
+Zanzibar Urban/West Region,2018,1
+Lawrence,2003,1
+Norman,1984,1
+Norway,2017,1
+Norway,2016,1
+Norway,1919,1
+Vosges,2017,1
+Vosges,2018,1
+Cabo Verde,2017,1
+Santa Cruz de Tenerife,2017,2
+Santa Cruz de Tenerife,2016,1
+"Corralejo, Fuerteventura",2016,1
+Soo,2016,1
+El Arenal,2016,1
+Königsleiten,2016,1
+Rodrigues District,2015,1
+Cocos (Keeling) Islands,2015,1
+St. Julian's,2018,1
+Zhangye,2017,1
+"Dunhuang, Jiuquan, Gansu, China",2017,1
+Morro de São Paulo,2015,1
+Lovina,2018,1
+Paoay,2018,2
+Kalmar,2017,2
+South Woodstock,2017,1
+Busselton,2017,1
+Rishikesh,2017,4
+Rishikesh,2016,4
+Rishikesh,2015,2
+Rishikesh,2018,1
+Rishikesh,2013,1
+Roydon,2017,1
+Blarney,2015,1
+La Altagracia Province,2012,1
+United States Virgin Islands,2011,1
+Santa Ana,2017,1
+Napa,2015,1
+Napa,2014,2
+Napa,2013,1
+Napa,2016,2
+Napa,2018,1
+Napa,2017,1
+Patong,2010,1
+Patong,2015,2
+Patong,2016,1
+Lombok,2006,1
+Lombok,2017,2
+Lombok,2016,3
+Lombok,2018,1
+Leicester,2017,2
+Leicester,2016,1
+Marano di Valpolicella,2017,1
+Marano di Valpolicella,2015,1
+Via Roncofreddo,2017,1
+Lake Iseo,2017,1
+Trentino-Alto Adige/South Tyrol,2017,1
+Trentino-Alto Adige/South Tyrol,2016,1
+Alsace,2016,1
+Badenweiler,2016,1
+St. Gallen,2016,2
+St. Gallen,2018,2
+St. Gallen,2017,1
+St. Gallen,2015,1
+St. Gallen,2014,1
+St. Gallen,2012,1
+St. Gallen,2011,1
+St. Gallen,2010,1
+St. Gallen,2009,1
+Monselice,2016,1
+Monselice,2017,1
+Azabujuban,2015,1
+Mori,2015,1
+Montefioralle,2015,1
+Montefioralle,2014,1
+Montefioralle,2013,1
+Montefioralle,2012,1
+Sonoma,2014,1
+Sonoma,2017,1
+Blaye,2013,1
+Nérac,2013,1
+Roussillon,2013,1
+Moustiers-Sainte-Marie,2013,1
+Albenga,2013,1
+Montepulciano,2013,1
+Montepulciano,2012,1
+Ojai,2013,1
+Ojai,2012,1
+Ojai,2016,1
+Biograd na Moru,2018,2
+Veliko Tarnovo,2017,1
+Veliko Tarnovo,2016,1
+Trosa,2017,1
+Texel,2017,1
+Horst,2017,1
+Horst,2016,1
+Horst,2015,1
+Horst,2014,1
+Radio Kootwijk,2017,1
+Breivikbotn,2016,1
+Alta,2016,1
+Honningsvåg,2016,1
+Kampeerterrein de Lievelinge,2015,1
+Lund,2015,1
+Lund,2014,1
+Lund,2016,1
+Aalst,2015,1
+Gol,2015,1
+Træna,2014,1
+Etten-Leur,2014,1
+Suwon-si,2014,1
+Islamorada,2015,1
+Haridwar,2016,1
+Pristina,2009,1
+Galapagos Islands,2012,1
+"Máncora DistrictPiura, Peru",2011,1
+Panevėžys,2018,1
+Panevėžys,2017,1
+Nafplion,2018,1
+Mediterranean Sea,2018,1
+Bejuco,2018,1
+Bejuco,2016,1
+Legnica,2016,1
+Nakhon Si Thammarat,2014,1
+United States,1995,1
+United States,2016,1
+United States,2015,1
+Biloxi,2018,1
+Great Falls,2018,1
+Augusta,2018,1
+Augusta,2011,1
+Augusta,2014,1
+Goldsboro,2018,1
+Goldsboro,2016,1
+Keszthely,2017,1
+Armidale,2017,1
+Scone,2017,1
+Ohau,2017,1
+National Park,2017,1
+Cape Foulwind,2017,1
+Lake Tekapo,2017,1
+Barrys Bay,2017,1
+Motueka,2017,1
+Motueka,2009,1
+Tapachula,2017,1
+Uxmal,2017,1
+Uxmal,2012,1
+Pisté,2017,1
+Resistencia,2016,1
+Punta del Diablo,2016,2
+Fayetteville,2016,1
+Fayetteville,2015,1
+San Martino di Castrozza,2016,1
+Chojnice,2016,1
+Batam City,2015,1
+Probolinggo,2015,1
+Probolinggo,2014,1
+Nicosia,2018,3
+Nicosia,2012,1
+Örnsköldsvik,2015,1
+Racine,2015,1
+Laurencekirk,2016,1
+Tingsryd,2016,1
+Tingsryd,2015,1
+Saint George,2015,1
+Villeneuvette,2015,1
+Tatti,2015,1
+Evora,2017,2
+Fermoy,2017,1
+Fermoy,2016,1
+Pushkar,2016,1
+Pushkar,2015,1
+Kulebaki,2015,1
+Whittier,2018,1
+Whittier,2017,1
+Whittier,2016,1
+Panglao,2018,2
+Olongapo,2018,1
+Onomichi,2016,1
+Onomichi,2017,1
+"Lake AtitlánSololá Department, Guatemala",2016,1
+Mobile,2017,1
+"Flagstaff, AZ",2017,1
+"Flagstaff, AZ",2010,1
+Telluride,2016,1
+Westhampton,2016,1
+Kabul,2016,1
+Kabul,2008,1
+Yokosuka,2016,1
+Leverkusen,2016,1
+Göttingen,2016,2
+Göttingen,2018,1
+Göttingen,2017,1
+Tanzania,2017,1
+Tanzania,2016,1
+Thoddoo,2017,1
+Ica District,2018,1
+David,2018,1
+San Carlos,2018,1
+Abu Simbel Temples,2017,1
+Aswan Governorate,2017,1
+Kashmir,2017,1
+Limerick,2017,1
+Valle de Bravo,2017,1
+Las Vegas,2016,1
+Atlanta,2016,1
+Boston,2016,1
+New York,2016,2
+New York,2018,4
+New York,2015,1
+New York,1919,1
+Hong Kong Island,2016,1
+Bustarviejo,2016,1
+Santa Cruz Department,2015,1
+Mwanza,2017,1
+Mwanza,2012,1
+Tylösand,2017,1
+Charlotte,2016,5
+Charlotte,2014,1
+Charlotte,2017,1
+Orange Beach,2016,1
+Orange Beach,2017,1
+Acapulco,2008,1
+Acapulco,2018,2
+Alvdal,2017,1
+Iqaluit,2017,1
+"Kauai, HI",2016,1
+Galveston,2018,1
+Galveston,2017,1
+Galveston,2016,1
+Galveston,2015,1
+Dillon,2017,1
+Dillon,2016,1
+Bloomington,2017,1
+Bloomington,2016,1
+Setagaya,2017,1
+Soyaniquilpan de Juárez,2018,1
+St. Petersburg,2018,1
+St. Petersburg,2017,1
+Cedar Key,2017,1
+"Gainesville, FL",2016,2
+"Gainesville, FL",2018,2
+"Gainesville, FL",2017,2
+"Gainesville, FL",2015,1
+"Gainesville, FL",2014,1
+"Gainesville, FL",2013,2
+"Gainesville, FL",2012,1
+Windermere,2015,1
+Avoriaz,2015,1
+MaastrichtNetherlands,2016,1
+MaastrichtNetherlands,2015,1
+Vail Ski Resort,2017,1
+"Boca Raton, FL",2016,1
+Playa de las Américas,2017,1
+Kortrijk,2016,1
+Kortrijk,2014,1
+Kortrijk,2013,1
+Kortrijk,2002,1
+Kortrijk,2017,1
+Fort Portal,2016,1
+Amalfi Coast,2015,1
+Amalfi Coast,2016,1
+Davis,2015,1
+Davis,2012,1
+Kalibo,2015,1
+Zlatar,2017,1
+Altai Krai,2016,1
+Novokuznetsk,2016,1
+Lichada,2014,1
+Glace Bay,2003,1
+Dorset,1992,1
+Dorset,2015,1
+Margarita Island Venezuela,1991,1
+Bournemouth,2017,1
+Bournemouth,2016,1
+Bridgwater,2015,1
+Alghero,2015,1
+Jeffrey's Bay,2014,1
+Jeffrey's Bay,2006,1
+Kehl,2013,1
+Zimbabwe,2013,1
+Gaschurn,2012,1
+Romans-sur-Isère,2012,1
+Cape Verde,2011,1
+Cape Verde,2017,1
+Maseru,2010,1
+Western Cape,2010,1
+Mundaka,2009,1
+Reunion Island,2008,1
+Reunion Island,2015,1
+Blankenberge,2007,1
+Hourtin,2005,1
+Stein am Rhein,2003,1
+New Jersey,2017,2
+New Jersey,2016,1
+Faro District,2017,1
+Faro District,2018,1
+Faro District,2016,1
+Rijeka,2017,3
+Rijeka,2014,1
+Rijeka,2015,1
+Jaco,2017,1
+Pisac,2017,1
+Svay Rieng Province,2016,1
+Saskatoon,2016,1
+Saskatoon,2010,1
+Kavala,2017,1
+Senj,2018,1
+Shkodër,2018,3
+Shkodër,2015,2
+Shkodër,2016,1
+Ahangama,2016,2
+Brunei,2016,1
+Siem Reap Province,2017,1
+Chiclayo,2016,1
+Tumbes,2015,1
+Steamboat Springs,2018,1
+Huémoz,2017,1
+Ko Lan,2017,1
+Kigali City,2016,1
+Tri Trang beach,2016,1
+Chambéry,2017,1
+Chambéry,2016,1
+Chambéry,2015,1
+Tongariro National Park,2017,1
+Tamblingan Lake,2017,1
+Surin,2017,1
+Fujikawaguchiko,2016,1
+Atacama,2016,1
+Pucón,2016,1
+Pucón,2018,1
+Pucón,2015,1
+Orange County,2017,2
+Orange County,2016,2
+Orange County,2015,1
+"Bellingham, WA",2017,2
+"Bellingham, WA",2015,1
+"Bellingham, WA",2009,1
+"Bellingham, WA",2016,1
+Fire Island Pines,2017,1
+Sithonia,2016,1
+Sithonia,2015,1
+Kalamata,2016,2
+Eggenfelden,2017,1
+Kaiserslautern,2017,1
+Skala Sikamineas,2018,1
+Rapallo,2017,1
+Brattleboro,2017,1
+Canton of Zürich,2018,1
+Lincoln,2017,1
+Lincoln,2016,1
+Lincoln,2013,1
+Bayan Lepas,2015,1
+Comares,2015,1
+Hamois,2015,1
+Cần Thơ,2017,1
+Huacachi,2017,1
+Jardín,2017,1
+Fès-Boulemane,2016,1
+San Andrés,2017,1
+San Andrés,2016,1
+Mbabane,2015,1
+Mbabane,2014,1
+Mbabane,2017,1
+Arcata,2011,1
+Lacanau Océan,2017,1
+Doboj,2017,1
+Doboj,2015,1
+Kragujevac,2017,1
+Čačak,2017,1
+Vrnjačka Banja,2017,1
+Vrnjačka Banja,2018,1
+Kraljevo,2017,1
+Novi Pazar,2017,1
+Sardinia,2016,1
+Ring of Kerry,2016,1
+Bourdeaux,2015,1
+Glastonbury,2015,1
+Ballycotton,2015,1
+Río Cuarto,2017,1
+"Malang, East Java",2017,1
+Kampot Province,2017,1
+Kampot Province,2016,1
+Kampot Province,2018,1
+Aktau,2016,1
+Rygge,2015,1
+Patti,2018,1
+Patti,2016,1
+Villach,2010,1
+Villach,2017,1
+Cyprus,2016,1
+Cyprus,2015,1
+Cyprus,2017,1
+San Giustino,2015,1
+Silicon Valley,2014,1
+Silicon Valley,2016,1
+Zlatibor,2017,1
+Finland,2016,1
+Latvia,2016,1
+Lithuania,2016,1
+Slovakia,2016,1
+Slovakia,2015,1
+Hungary,2016,1
+Maryland,2017,1
+Maryland,2016,1
+Brooklyn,2016,1
+Brooklyn,2017,1
+British Columbia,2014,1
+Broadstairs,2017,1
+Quetzaltenango,2017,1
+Quetzaltenango,2015,1
+Santo Domingo Province,2014,1
+Arabba,2015,1
+Chopok,2015,1
+Trieste – Friuli Venezia Giulia Airport,2015,1
+Hitler's Tea House,2015,1
+Mildenberg,2015,1
+Crown Heights,2016,1
+Garwood,2016,1
+Milos,2016,1
+Calfosch,2016,1
+Ringwood,2016,1
+Odenton,2017,1
+Toowoomba,2017,2
+Mississippi,2017,1
+Coron Island,2016,1
+Mount Katahdin,2018,1
+Faizabad,2017,1
+Kanpur,2017,1
+Godhra,2016,1
+Malvan,2016,1
+Benaulim,2016,1
+Thakhek,2016,1
+Kong Lor Eco Lodge,2016,1
+Thakhek Travel Lodge,2016,1
+Batu Feringghi,2016,1
+Kozhikode,2016,1
+Kozhikode,2015,1
+Samoëns,2016,1
+"Cincinnati, OH",2015,1
+U.S. Virgin Islands,2014,1
+Nouméa,2017,1
+Viña del Mar,2017,1
+Farnborough,2015,1
+Oloron-Sainte-Marie,2017,1
+Montezuma,2016,1
+Estonia,2017,1
+Estonia,2014,1
+Estonia,2018,1
+Pokhara Lakeside,2012,1
+Pokhara Lakeside,2013,1
+Los Altos,2015,1
+Ghana,2008,1
+"Chengdu, Sichuan, China",2006,1
+Winchester,2016,2
+Winchester,2018,1
+Winchester,2017,2
+Mikkeli,2016,1
+Armonk,2016,1
+Évoramonte,2016,1
+Belitung,2014,1
+Batam,2013,1
+Labuan Bajo,2013,1
+Labuan Bajo,2015,2
+Labuan Bajo,2017,1
+Ende Sub-District,2013,1
+Kelimutu,2013,1
+Maumere,2013,1
+Palembang,2012,1
+Geelong,2009,1
+Ludwigsburg,2018,1
+Ludwigsburg,2017,1
+Lady Elliot Island,2018,1
+Konstanz,2017,1
+Baden-Baden,2017,1
+Reims,2017,1
+Castelo Branco,2018,1
+Castelo Branco,2017,1
+Castelo Branco,2015,1
+Cambados,2018,1
+Cambados,2017,1
+Cambados,2015,1
+Ponte de Lima,2018,1
+Aveiro,2018,1
+Terengganu,2017,1
+Rạch Giá,2016,2
+Senaru,2016,1
+Kupang,2016,1
+Timor-Leste,2016,1
+La Manga,2015,1
+Miravet,2015,1
+Zorritos,2015,1
+Vilnius County,2016,1
+Akyaka,2016,1
+Avanos,2016,1
+Växjö,2017,1
+Weipa,2017,1
+Kalaw,2016,1
+Kalaw,2014,1
+Oslob,2015,1
+Oslob,2018,1
+Ospitaletto,2010,1
+Arad,1988,1
+Bahlingen,2017,1
+Bahlingen,2016,1
+Bahlingen,2015,1
+Grainau,2017,1
+Grainau,2015,1
+Costa Teguise,2015,1
+Corralejo,2015,1
+Corralejo,2013,1
+"Ithaca, NY",2017,3
+"Ithaca, NY",2013,1
+"Ithaca, NY",2018,1
+Bayville,2017,1
+Cinque Terre,2017,1
+Michigan,2016,1
+Michigan,2018,1
+Marsaxlokk,2018,1
+L'Escala,2017,1
+Ooty,2016,1
+Montanita,2017,1
+Villahermosa,2017,2
+Villahermosa,2016,1
+Villahermosa,2014,1
+Bjursås,2017,2
+Brescia,2016,2
+Serbia,2015,1
+Serbia,2014,1
+Macedonia (FYROM),2015,1
+Georgia,2014,1
+Georgia,2012,1
+Mokrin House,2017,1
+Dead Sea,2017,1
+Merzouga,2017,1
+Inca Trail,2017,1
+Turks and Caicos Islands,2012,1
+Turks and Caicos Islands,2014,1
+Mantua,2017,1
+Dornbirn,2017,3
+Dornbirn,2018,1
+Balearic Islands,2018,1
+Punta Maroma,2017,1
+Chichén Itzá,2017,1
+Arcosanti,2017,1
+Cashmere,2017,1
+Kühlungsborn,2017,1
+Puerto Rico de Gran Canaria,2018,1
+Yakutsk,2017,1
+Sechelt,2018,1
+Sechelt,2016,1
+Phong Natural Heritage Area,2017,1
+Kaesong,2016,1
+Kaesong,2009,1
+Monterosso,2013,1
+La Spezia,2018,1
+"Santa Barbara, CA",2017,1
+El Jadida,2017,1
+Oualidia,2017,1
+Oualidia,2014,1
+Bayamón,2017,1
+Szczyrk,2014,1
+Cailungo,2011,1
+Livorno,2011,1
+New Paltz,2017,1
+New Paltz,2015,1
+Le Mans,2017,1
+Adeje,2014,1
+Sauternes,2017,1
+Province of Bergamo,2016,1
+Bjursas,2016,1
+Bjursas,2015,1
+Riksgränsen,2016,1
+Val Thorens,2016,2
+Val Thorens,2017,2
+Val Thorens,2018,1
+Lund University,2015,1
+Phayao,2016,1
+Horsham,2016,1
+Horsham,2015,1
+Solsona,2018,1
+Gresse-en-Vercors,2018,1
+Sarlat-la-Canéda,2018,1
+Briançon,2018,1
+Yunnan,2018,1
+Jining,2017,1
+Qingdao,2017,1
+Qingdao,2016,1
+Qingdao,2018,1
+Roldanillo,2015,1
+Marysville,2015,1
+Marysville,2014,1
+Tena,2015,1
+Banos,2014,1
+Banos,2017,1
+Caceres,2017,1
+Kaeo,2016,1
+Myanmar (Burma),2017,1
+Myanmar (Burma),2018,1
+PyeongChang Olympic Stadium,2018,1
+Woodstock,2017,2
+Woodstock,2012,1
+Hudson,2017,2
+Jiufen,2017,1
+Shui She,2017,1
+Wenwu Temple,2017,1
+Yidashao Lakeside Trail,2017,1
+Xuanguang Temple,2017,1
+向山行政中心 Xiangshan Visitor Center,2017,1
+Zhengzhou,2016,2
+Zhengzhou,2013,1
+Jiaozuo,2016,2
+Tongyeong-si,2016,1
+Bonda,2016,2
+Pereira,2015,2
+Pereira,2016,1
+Pereira,2017,1
+Abiansemal,2014,1
+Batubulan,2014,1
+Kinosaki Onsen,2014,2
+"Amed, Bali",2014,1
+Baker,2012,1
+Hoover Dam,2012,1
+Eastmont Hills,2012,1
+Sausalito,2012,1
+Ferropolis,2011,2
+Leuven,2010,1
+Leuven,2017,1
+Leuven,2016,1
+Leuven,2015,1
+Bort-les-Orgues,2002,1
+Umbria,2000,1
+Lefkada,1995,1
+Larissa,2018,1
+Larissa,2017,1
+Chania,2016,2
+Huesca,2017,1
+Manuel Antonio,2016,1
+Sanary-sur-Mer,2017,1
+Himeji,2016,2
+Shibu Onsen,2016,1
+Kawaguchi,2016,1
+Kawaguchi,2017,1
+Royan,2016,1
+Royan,2014,1
+Mazerolles,2015,1
+Mazerolles,2014,1
+Ajaccio,2015,1
+Bourges,2014,1
+Civitavecchia,2016,1
+Murata,2016,1
+Frankfurt Airport,2016,1
+Seattle-Tacoma International Airport,2016,1
+Kalispell,2016,2
+Kalispell,2018,1
+Columbia Falls,2016,1
+Whitefish,2016,1
+Whitefish,2018,1
+Whitefish,2014,1
+Grand Beach,2015,1
+Grand Beach,2014,1
+Grand Beach,2013,1
+Grand Marais,2015,1
+Copper Harbor,2013,1
+Northfield,2013,1
+San José del Cabo,2010,1
+San José del Cabo,2015,1
+San José del Cabo,2016,1
+San José del Cabo,2017,1
+West Lafayette,2007,1
+West Lafayette,2003,1
+Tumbabiro,2006,1
+Corsham,2004,1
+"Mountain View, CA",2015,1
+Freetown,2009,1
+Freetown,2012,1
+Eaton Rapids,1996,1
+Paraguay,1919,2
+Uruguay,1919,1
+Egypt,2018,1
+Chapala,2017,1
+"Zipolite, Oaxaca",2017,1
+"Zipolite, Oaxaca",2016,1
+Playa El Tunco,2016,1
+Jemez Springs,2018,1
+North Platte,2017,1
+Kissimmee,2017,1
+Cuautla,2017,1
+Dixon,2015,1
+Ketchikan,2014,1
+Ketchikan,2013,1
+San Ignacio,2013,1
+Tikal,2013,1
+Lamanai Alley,2012,1
+Corozal District,2012,1
+Kohunlich,2012,1
+Tinum,2012,1
+Telchaquillo,2012,1
+Asturias,2012,1
+Asturias,2016,1
+Orange Walk District,2011,1
+Monterey Bay,2010,1
+Monterey Bay,2016,1
+Jamaica,2009,1
+Jamaica,2013,1
+Jamaica,1919,1
+Jamaica,2005,1
+Canton,1992,1
+Thera,2016,1
+Protaras,2017,1
+Samara,2017,1
+Mari El Republic,2017,1
+Paralimni,2016,1
+Paralimni,2017,1
+Callao Salvaje,2016,1
+Miri,2018,1
+Miri,1997,1
+Miri,2017,1
+Otago Region,2013,1
+Otago Region,2018,1
+City of Kisumu,2010,1
+Uganda,2015,1
+Ypres,2017,1
+Westvleteren,2017,1
+Fuzhou,2015,1
+Fuzhou,2016,1
+Sundsvall,2017,1
+George,2017,1
+Woodbury,2017,1
+Newquay,2017,2
+Thredbo,2017,1
+Tigerton,2017,1
+Orange City,2016,1
+Castelnuovo di Val di Cecina,2018,1
+Tagbilaran City,2016,2
+Taitung City,2014,1
+Taitung City,2016,1
+Neunkirchen,2016,1
+Lahr,2016,1
+Great Stirrup Cay,2016,1
+Courtenay,2016,1
+Praia do Rosa,2016,1
+Massachusetts,2000,1
+Entebbe,2018,1
+Viernheim,2017,1
+Luton Airport,2013,1
+Cotonou,2005,1
+Bamberg,2015,1
+Jungfraujoch,2014,1
+Royal Leamington Spa,2015,1
+Royal Leamington Spa,2014,1
+Mons,2013,1
+Kajaani,2013,1
+Nowy Sącz,2018,1
+Sant Llorenç de Morunys,2018,1
+Matera,2018,1
+Panjim,2015,1
+Panjim,2016,1
+Baler,2016,1
+Gorakhpur,2016,1
+Maharajganj,2016,1
+Tofo Beach,2018,1
+Tofo Beach,2016,1
+Tofo Beach,2013,1
+Davao,2016,2
+Davao,2017,1
+Val-David,2018,1
+Val-David,2017,1
+Turks Islands,2008,1
+Jurerê Internacional,2017,1
+Bayonne,2015,1
+Bayonne,2014,1
+Pau,2015,1
+Rochegude,2015,1
+Casteljaloux,2015,1
+Futuroscope,2015,1
+Soltau,2015,1
+Colmar,2015,1
+Munster,2015,1
+Turckheim,2015,1
+Mulhouse,2015,1
+Potsdam,2015,1
+Rieupeyroux,2015,1
+Disneyland Paris,2015,1
+Raleigh,2014,1
+Gundershoffen,2012,1
+Le Pouliguen,2012,1
+Dharamkot,2018,1
+Karlskrona,2017,1
+Juicy Oasis Retreat & Spa,2015,1
+Krk,2017,1
+Krk,2002,1
+Krk,2001,1
+Krk,2015,1
+Le Grazie,2017,1
+Haugesund,2016,1
+Hermosillo,2016,1
+Daytona Beach Shores,2016,1
+"Chattanooga, TN",2018,2
+"Chattanooga, TN",2014,1
+Ormond Beach,2017,1
+West Jefferson,2016,1
+St. Augustine,2016,1
+St. Augustine,2018,1
+"Bastimentos, Bocas del Toro Province",2018,1
+Jaco Beach,2018,1
+Bejuco Beach,2018,1
+Holetown,2016,1
+Holetown,2017,1
+Flamingo,2015,1
+Monterosso al Mare,2015,1
+Exuma,2012,1
+Hernicourt,2016,1
+Jena,2013,1
+Palm Bay,2017,1
+Kongsberg,2017,1
+Fjellværsøya,2017,1
+Fillan,2016,1
+Linköping,2015,1
+Hitra,2015,1
+Province of Lecco,2016,1
+Denpasar City,2016,1
+Bowen Island,2016,1
+Ulu Watu Beach,2016,1
+Dösselbuschberg,2015,1
+Province of Trieste,2015,1
+San Clemente,2014,1
+Playa d'en Bossa (Ibiza),2017,1
+Ranthambore Tiger Reserve,2016,1
+Hucknall,2015,1
+Hucknall,2014,1
+Hucknall,2013,1
+Olhos de Água,2014,1
+Mansfield,2013,1
+Mansfield,2012,1
+Mansfield,2011,1
+Pissouri,2012,1
+Boroy,2011,1
+Tvedestrand,2011,1
+Hastings,2017,1
+Hastings,2005,1
+Hastings,2016,1
+Vitoria-Gasteiz,2016,1
+Vitoria-Gasteiz,2017,1
+Greensboro,2017,2
+Cresco,2016,1
+Arches National Park,2014,1
+Seneca Rocks,2012,1
+Delmar,2017,1
+Delmar,2016,1
+Izamal,2016,1
+Poprad,2017,1
+Poprad,2016,1
+Uvita,2016,1
+Dominical Costa Rica Real Estate,2016,1
+Tarapoto,2015,1
+"RurrenabaqueBeni Department, Bolivia",2015,1
+Alto Paraíso de Goiás,2015,1
+Liptovský Mikuláš,2013,1
+Hévíz,2013,1
+Nananu-i-Ra Island,2004,1
+Alstonville,2016,1
+Charleroi,2015,1
+Charleroi,2018,1
+Airport Kiev (IEV),2016,1
+Drammen,2016,1
+Rawdon,2014,1
+Zihuatanejo,2017,1
+Salar de Uyuni,2017,1
+Santa Cruz de la Sierra,2017,1
+Santa Cruz de la Sierra,2016,2
+Santa Cruz de la Sierra,2015,1
+"El Nido, Palawan",2018,1
+Temple,2018,1
+Franklin,2018,1
+La Valle,2016,1
+La Valle,2013,1
+Iragocho,2014,1
+Topton,2013,1
+Ahakista,2012,1
+Manarola,2012,1
+Durnal,2017,1
+Brenta group,2017,1
+Namibia,2018,1
+Morzine,2018,1
+Miaoli,2016,1
+Ballenstedt,2017,1
+Magdeburg,2016,1
+Algiers,2017,1
+Puebla City,2009,1
+Labin,2018,1
+Labin,2017,1
+Labin,2016,1
+Labin,2015,1
+Zeist,2016,1
+Incheon,2016,1
+Suwon,2015,1
+Füssen,2016,2
+Füssen,2012,1
+Samaná,2014,1
+Samaná,2015,1
+Aarau,2017,1
+Miyazaki,2017,1
+Miyazaki,2016,1
+Mactan,2017,1
+Udawalawa,2018,1
+Ambalangoda,2018,1
+Ja-Ela,2017,1
+Gampola,2016,1
+Badulla,2016,1
+Tychy,2016,1
+Cieszyn,2016,1
+Cieszyn,2015,1
+Grimaud,2016,1
+Gliwice,2016,1
+Labadee,2017,1
+AnnecyFrance,2016,1
+Puntarenas,2016,1
+El Castillo,2016,1
+Moldova,2017,1
+Brindisi,2017,1
+Saint-Martin-de-Belleville,2015,1
+Marigot,2015,1
+Maplewood,2018,1
+Hope,2017,1
+River Falls,2017,1
+Constanta,2018,2
+Teignmouth,2018,1
+Teignmouth,2017,1
+Teignmouth,2016,1
+Wolverhampton,2018,1
+Guildford,2018,1
+Guildford,2017,1
+Bagni di Lucca,2017,1
+Newton Abbot,2017,1
+Borgue,2016,1
+Céret,2016,1
+Lampang Luang,2015,1
+Uthai,2015,1
+Trang,2015,1
+Trang,2016,1
+Kaikoura,2015,1
+Kaikoura,2005,1
+"Hartford, CT",2017,1
+"Hartford, CT",2016,1
+"Hartford, CT",2015,1
+Crete Region,2016,1
+Crete Region,2013,1
+Crete Region,2008,1
+Phong Nha - Ke Bang National Park Headquarter,2016,1
+KuchingSarawak Malaysia,2016,1
+Jammu,2018,1
+Jhansi,2018,1
+Dádpuszta,2017,1
+La Tour-du-Pin,2013,1
+Kumamoto,2012,1
+Fukushima,2012,1
+Blackpool,2015,1
+"Glencoe, United Kingdom",2015,1
+Ponce,2017,1
+Ein Tamar,2018,1
+Burning Man Festival,2017,1
+Kyoto Prefecture,2016,2
+Saurimo,1999,1
+Stoneham,1991,1
+Balatonfüred,2016,1
+Tiraspol,2013,1
+Tiraspol,2012,1
+Tiraspol,2011,1
+Tiraspol,2010,1
+Tiraspol,1993,1
+Jinchuan,2018,1
+Cephalonia,2012,2
+Ticao Island,2016,1
+Okinawa Island,2011,1
+Iloilo,2018,1
+Nadi,2017,2
+Timaru,2017,1
+Oamaru,2017,1
+Cavinti,2016,1
+Oskarshamn,2017,1
+Gimmelwald,2017,1
+Khao Yai National Park,2017,1
+Gig Harbor,2017,1
+Gig Harbor,2003,1
+Hopfgarten-Markt,2016,1
+Würzburg,2015,1
+Würzburg,2017,1
+Ena,2017,1
+Montevideo Department,2016,1
+Greenville,2016,1
+Greenville,2013,1
+Sarp,2017,1
+San Cristóbal de La Laguna,2017,2
+San Cristóbal de La Laguna,2014,1
+Stevenson,2014,1
+Yachats,2014,1
+Kalama,2014,1
+Nathrop,2017,1
+Nathrop,2016,1
+Panama City Beach,2017,1
+Panama City Beach,2016,1
+Gleneden Beach,2017,1
+Alaska,2016,1
+Alaska,2006,1
+Rothenburg ob der Tauber,2016,1
+Worcester,2018,1
+Worcester,2016,1
+Discovery Bay,2015,1
+AschaffenburgGermany,2016,1
+Aschaffenburg,2016,1
+Otres Beach,2015,1
+Chachoengsao,2015,1
+Kasar Devi,2014,1
+Kasar Devi,2013,1
+Kasar Devi,2012,1
+Tangier-Tetouan,2018,1
+"Arrecife, Lanzarote",2017,1
+Ciudad del Este,2017,1
+Agde,2016,1
+Udon Thani,2018,1
+Udon Thani,2014,1
+Udon Thani,2017,1
+Udon Thani,2011,1
+Nong Khai,2018,1
+Nong Khai,2017,2
+Nong Khai,2015,1
+Bolikhamsai Province,2018,1
+Aegina,2017,1
+Netze,2017,1
+Rakhiv,2017,1
+Mukachevo,2017,1
+Nakijin Son,2017,1
+Nago,2017,1
+Shymkent,2016,1
+Uzbekistan,2016,1
+Cholpon-Ata,2016,1
+Karakol,2016,1
+Candolim,2016,1
+Bagan,2016,1
+Ngwesaung Beach,2016,1
+Hà Tiến,2016,1
+Hualien County,2016,1
+關子嶺溫泉,2016,1
+Tainan CityTaiwan,2016,1
+Jhihben,2016,1
+Guangfu Township,2015,1
+Ruisui Township,2015,1
+Hengchun Township,2015,1
+Kep,2015,1
+Chiang Khong,2014,1
+Subic,2014,1
+Asin Hotspring,2014,1
+Rajasthan,2011,1
+Rajasthan,2015,1
+Orachha,2011,1
+Khajuraho,2011,1
+Sunshine Coast Regional,2017,1
+Koror,2016,1
+Darlington,2016,1
+Fontana Dam,2016,1
+Dahlonega,2016,1
+"Rochester, NH",2018,1
+"Rochester, NH",2017,1
+Malibu,2017,1
+Malibu,2012,1
+Daejeon,2016,2
+Gianyar,2017,1
+Gianyar,2016,1
+Olympiaki Akti,2016,1
+Cyclades,2016,1
+Jomtien,2016,1
+Puerto Ayora,2015,1
+Puerto Ayora,2016,1
+Dzaoudzi,2017,1
+Balangan Beach,2016,1
+Pulukan,2016,1
+Baqueira Beret SA,2015,1
+Porto Viro,2017,1
+Mae Nam,2017,1
+Summerside,2016,1
+LangkawiKedah Malaysia,2016,1
+Benoa,2015,1
+Benoa,2014,1
+Sanya,2014,1
+Sanya,2016,1
+Sanya,2013,1
+Sanya,2017,1
+Dunsborough,2011,1
+Dunsborough,2010,1
+Jyvaskyla,2014,1
+Cagliari,2016,1
+Redwood City,2015,1
+"Foster City, CA, United States",2016,1
+Arco,2015,1
+West Glacier,2015,1
+Fernie,2015,1
+Pray,2015,1
+Mitchell,2015,1
+Rincón,2015,1
+Rincón,2018,1
+Heredia Province,2017,1
+Tahoe City,2016,1
+Tahoe City,2010,1
+Tahoe City,2017,1
+Bibione,2016,1
+Bochum,2016,1
+Schönberg-Lachtal,2015,1
+Okrug Gornji,2015,1
+Kuchl,2015,1
+Lakota,2016,1
+Mount Hood,2016,1
+Yangon Region,2016,1
+Neuchâtel,2015,1
+Puerto Montt,2015,1
+Concepcion,2015,1
+Tullamore,2016,1
+Tullamore,2015,1
+Scottburgh,2017,1
+Scottburgh,2002,1
+Kruger Park,2017,1
+Komatipoort,2015,1
+Kang,2014,1
+Maputo,2007,1
+Maputo,2005,1
+Maputo,2013,1
+Heilbron,1995,1
+Port Elizaberth,2018,1
+Helsingborg,2018,1
+Helsingborg,2016,1
+Thame,2018,1
+tp. Châu Đốc,2016,1
+Apeldoorn,2015,1
+Apeldoorn,2018,1
+Parque Nacional Manuel Antonio,2017,1
+Playa Blanca,2017,1
+San Gerardo de Dota,2017,1
+Yingkou,2017,1
+Bozman,2014,1
+George Town,2012,1
+La Thuile,2018,1
+Bormio,2018,1
+St. Moritz,2018,1
+Courmayeur,2018,1
+Gressoney-Saint-Jean,2017,1
+Mont Blanc,2017,1
+Mont Blanc,2016,1
+Waianae,2015,1
+Kihei,2015,1
+Conway,2015,1
+Province of Messina,2017,1
+Dongguan,2017,1
+Dongguan,2016,1
+Jervis Bay,2017,1
+Guizhou,2017,1
+Townsville City,2016,1
+Townsville City,2015,1
+Mount Isa City,2016,1
+Albury,2016,1
+Tulamben,2016,1
+GALA Yuzawa Snow Resort ガーラ湯沢スノーリゾート,2016,1
+Gili Islands,2015,1
+Gili Islands,2017,1
+Coeur d'Alene,2018,1
+Sioux Falls,2018,2
+Aberystwyth,2016,1
+Aberystwyth,2015,1
+Aberystwyth,2008,1
+Silves,2018,1
+Valloire,2017,1
+Punta Hermosa,2016,1
+PhuketThailand,2015,1
+Salt Lake City,2016,1
+Salt Lake City,2009,1
+Salt Lake City,2007,1
+"San FranciscoCA, United States",2008,1
+Teriberka,2018,1
+Teriberka,2017,1
+Phan Thiet,2017,1
+Serfaus,2017,1
+Saalbach-Hinterglemm,2015,1
+Keflavík,2013,1
+Santa Cristina Valgardena,2012,1
+La Digue,2011,1
+Praslin,2011,1
+Karlštejn,2010,1
+Vicksburg,2018,1
+Quebec,2011,1
+Quebec,2005,1
+Trinidad and Tobago,2010,1
+Trinidad and Tobago,2017,1
+Akron,2015,1
+Akron,2018,1
+Akron,2017,1
+Akron,2014,1
+Puerto Peñasco,2015,1
+Puerto Peñasco,2012,1
+Belden,2012,1
+Termes,2016,1
+Telford,2016,1
+Chiang Mai Thailand,2016,1
+Gustavus,2016,1
+"Canguu, Bali",2018,1
+Tioman Island,2017,2
+Ungasan,2016,1
+Dalian,2016,1
+Dalian,2014,1
+Tandil,2015,1
+Seogwipo-si,2015,1
+Saint Louis,2017,1
+Saint Louis,2013,1
+Eskişehir,2015,1
+Užice,2018,1
+Sighișoara,2018,1
+Burgas,2018,1
+Ulcinj,2018,1
+La Loupe,2016,1
+Lombok Utara,2018,2
+Kruger National Park,2016,1
+Ko Panyi,2016,1
+Herceg Novi,2014,1
+Herceg Novi,2015,1
+Cupertino,2017,1
+Cupertino,2016,1
+Province of Salerno,2016,1
+El Prodigio,2017,1
+Rio Claro,2017,1
+Ceduna,2017,1
+Santa Cruz de León Cortés,2017,1
+Osa Peninsula,2017,1
+Progreso,2018,1
+Pelotas,2017,1
+Colonia del Sacramento,2017,1
+Colonia del Sacramento,2014,1
+Colonia del Sacramento,2015,1
+Weinheim,2017,1
+Herford,2017,1
+Ferrel,2016,1
+Supetar,2015,1
+Kroměříž,2015,1
+Tacoma,2017,1
+ThaKhek,2018,1
+San Luis Province,2017,1
+"KazanTatarstan, Russia",2016,1
+Benares,2015,1
+Arezzo,2017,1
+Pátzcuaro,2015,1
+Perak,2018,1
+Kota Bharu,2018,1
+Torrevieja,2016,1
+Torrevieja,2015,1
+Okinawa Prefecture,2014,1
+Takamatsu,2014,1
+Miyajima,2014,1
+Shizuoka,2014,1
+Atami,2014,1
+Annapurna,2014,1
+Nyaung-U,2014,1
+Sunrise Beach,2017,1
+Lake ComoItaly,2015,1
+Whitsundays,2016,1
+"BentotaSouthern Province, Sri Lanka",2016,1
+Bentota,2016,1
+"Santa Margherita LigureMetropolitan City of Genoa, Italy",2015,1
+"Santa Margherita LigureMetropolitan City of Genoa, Italy",2014,1
+Gorgona Island,2017,1
+Gorgona Island,2015,1
+Manzanares,2015,1
+Manizales,2015,1
+Leticia,2014,1
+Monòver,2016,1
+Salina,2014,1
+Salina,2013,1
+Salina,2012,1
+Salina,2011,1
+Salina,2010,1
+Artemas,2014,1
+Artemas,2013,1
+Manakau,2014,1
+Manakau,2007,1
+Manakau,2006,1
+Manakau,2005,1
+Summertown,2013,1
+Decorah,2013,1
+Gin Gin,2012,1
+Childers,2012,1
+Kaslo,2007,1
+Parihaka Gate,2006,1
+Kopu,2006,1
+Thames,2006,1
+Waikanae,2006,1
+Waikanae,2005,1
+Maungakaramea,2006,1
+Ngaruawahia,2006,1
+Ashburton,2006,1
+Ashburton,2017,1
+Patons Rock,2006,1
+Gisborne,2005,1
+Kaiwaka,2005,1
+Oneriri Road,2005,1
+Levin,2005,1
+Shannon,2005,1
+Te Horo,2005,1
+Upper Hutt,2005,1
+Waikawa,2005,1
+Hedensted,2002,1
+Hedensted,2000,1
+Hedensted,1994,1
+Hedensted,1985,1
+Hedensted,1981,1
+Ontario,1996,1
+Ontario,1995,1
+Ontario,1994,1
+Ontario,1991,1
+Ontario,1985,1
+Ontario,1984,1
+Ontario,1982,1
+Ontario,1981,1
+Ontario,1979,1
+Ontario,1978,1
+Cayo Santa María,1996,1
+Aviemore,2015,1
+Troy,2016,1
+Troy,2007,1
+Doolin,2017,1
+Ube,2014,1
+Cozumel Island,2016,1
+Grand Turk Island,2015,1
+Abidjan,2018,1
+Romerée,2017,1
+Douala,2017,1
+Sandpoint,2016,1
+Montbazens,2016,1
+Collines de Niassam,2013,1
+Désert de Lompoul,2013,1
+Podor,2013,1
+Clinton,2010,1
+Joplin,2010,1
+Springfield,2010,1
+Bomono,2008,1
+Ivalo,2002,1
+Playa de las Americas,2017,1
+Baja California Sur,2018,1
+Tallahassee,2018,1
+Tallahassee,2017,1
+Pensacola,2018,1
+Pensacola,2017,1
+Castries City,2016,2
+Saint John's,2016,2
+Philipsburg,2016,2
+Tuscany,2016,1
+"Chico, CA",2017,1
+Cassis,2018,1
+Iguazú Department,2017,1
+Mataró,2016,1
+Bar Municipality,2018,1
+Alfta,2018,1
+Alfta,2017,1
+Otaru,2017,1
+Lake Akan,2017,1
+Kushiro,2017,1
+Abashiri,2017,1
+Nakafurano,2017,1
+Naoshima,2017,1
+Nusa Dua,2017,1
+Mijas,2016,1
+Mijas,2015,1
+Lichfield,2016,1
+Lichfield,2015,1
+Lichfield,2014,1
+Cogolin,2016,1
+Hiroshima Prefecture,2016,1
+Baleal,2015,1
+Maria Alm,2014,1
+Kitzbuhel,2014,1
+Kitzbuhel,2000,1
+Saint Lucia,2018,1
+Saint Lucia,2017,1
+Grenada,2017,2
+Evrenseki,2016,1
+Hombrechtikon,2016,1
+EisfeldGermany,2016,1
+Trubschachen,2016,1
+Bethel,2016,1
+Brownfield,2016,1
+Granada Hills,2016,1
+Granada Hills,2013,1
+St. Croix,2016,1
+Coral Springs,2016,1
+Mesa,2015,1
+Lake Worth,2014,1
+Vista,2014,1
+Vista,2013,1
+Vista,2006,1
+Saratoga Springs,2015,1
+Rutland,2014,1
+Ithaca,2014,2
+Ithaca,2015,1
+Ithaca,2013,1
+Sea Island,2013,1
+Kendwa,2013,1
+Adirondack,2012,1
+Skaneateles,2012,1
+Coco,2010,1
+Coco,2009,1
+Jay,2010,1
+Yeoford,2016,1
+Lemnos,2017,1
+Lemnos,2016,1
+Hirafu,2017,1
+Asahidake Onsen,2017,1
+Furano,2016,1
+"Knoxville, TN",2016,1
+"Knoxville, TN",2015,1
+Mandeville,2015,1
+Treasure Beach,2015,1
+Miyako-jima,2015,1
+Tarama Island,2015,1
+Tuy Hòa,2015,1
+Ohakune,2015,1
+Ohakune,2018,1
+Turangi,2015,1
+Polhena Beach,2015,1
+Irvine,2018,1
+Irvine,2004,1
+Western Division,2015,1
+Tuttlingen,2017,1
+Cazenovia,2017,1
+Tübingen,2016,1
+Espoo,2015,1
+Tobago,2014,1
+Tully,2011,1
+Hikkaduwa Beach,2017,1
+Kitesurfing Lanka,2017,1
+Dammam,2015,1
+Pachuca,2018,1
+Toluca,2018,1
+Lerma,2017,1
+Huatulco,2017,1
+San Cristóbal,2017,1
+Quarteira,2016,1
+Phalaborwa,2014,1
+Calabria,2014,1
+Erfurt,2018,1
+Lake Baikal,2018,1
+Truro,2018,1
+Camborne,2018,1
+Yamanouchi Machi,2018,1
+East Nusa Tenggara Province,2015,1
+Utah,2018,1
+Hof,2017,1
+Hof,2016,1
+Hof,2015,1
+Hittisau,2017,1
+Berghotel Rudolfshütte,2017,1
+Erlangen,2017,1
+Erlangen,2016,2
+Erlangen,2015,1
+Augsburg,2017,1
+Hoher Dachstein,2017,1
+Boca de Yuma,2017,1
+TarifaSpain,2016,1
+Starigrad,2016,1
+Coburg,2016,1
+Erding,2016,1
+Vejprty,2016,1
+Kühtai,2016,1
+Bad Steben,2011,1
+Bad Steben,2010,1
+Bad Steben,2009,1
+Bad Steben,2008,1
+Bad Steben,2002,1
+Bad Steben,2001,1
+Bad Steben,1998,1
+Bad Steben,1997,1
+Bad Steben,1995,1
+Alcúdia,2011,1
+Alónnisos,2009,1
+Alónnisos,2008,1
+Alónnisos,1998,1
+Alónnisos,1997,1
+Arendal,2018,1
+Arendal,2017,1
+Arendal,2016,1
+Arendal,2015,1
+Arendal,2014,1
+Fujiyoshida Shi,2018,1
+Tasman District,2018,1
+Westport,2018,1
+Westport,2017,1
+West Coast Region,2018,1
+Southland Region,2018,1
+Kollam,2018,1
+Madurai,2018,1
+Qormi,2017,1
+Skiathos,2017,1
+Puerto Villamil,2016,1
+Panama CityPanama,2015,1
+Bastasi,2015,1
+Plužine,2015,1
+Erez,2015,1
+Chattahoochee Hills,2014,1
+Sandefjord,2014,1
+Abang,2014,1
+Díli,2014,1
+Karangasem Sub-District,2014,1
+Ban Tai,2014,1
+Thai Mueang,2014,1
+Takua Pa,2014,1
+Satna,2014,1
+Narita,2013,1
+Legian,2016,1
+Petaling Jaya,2018,1
+Sungkai,2018,1
+Taiping,2018,1
+Kuala Selangor,2018,1
+Twizel,2017,1
+Twizel,2018,1
+Motupipi,2017,1
+Kelana Jaya,2017,1
+Damansara Utama,2017,1
+Cyberjaya,2017,1
+New Bagan,2017,1
+Pforzheim,2015,1
+Huarilihue,2016,1
+Lärz,2018,1
+Mühlhausen/Thüringen,2018,1
+Baden-Württemberg,2018,1
+Lower Austria,2018,1
+Černá Hora,2018,1
+Andaman Sea,2018,1
+Borlänge,2017,1
+Borlänge,2016,1
+Willemstad,2014,1
+Papeete,2014,1
+Piatra Neamț,2018,1
+Piatra Neamț,1991,1
+Port Aransas,2012,1
+Port Aransas,2011,1
+Krong Siem Reap,2016,1
+Uluru-Kata Tjuta National Park,2015,1
+Kazanlak,2018,1
+Puerto Colombia,2018,1
+Lázaro Cárdenas,2018,1
+Lázaro Cárdenas,2016,1
+Cham,2015,1
+George TownPenang Malaysia,2015,1
+Ibusuki,2015,1
+Nantou County,2016,1
+Rottnest Island,2016,1
+Koh Thmei,2016,1
+Nan,2018,1
+Santiago del Compostela,2017,1
+Mathura,2018,1
+Localita' Marilleva 1400,2018,1
+Akumal,2016,1
+Elche,2016,1
+Les Orres,2014,1
+Druskininkai municipality,2013,1
+Pearl Harbor,2018,1
+"Okinawa, Okinawa",2018,1
+Yokohoma,2018,1
+Iwakuni,2018,1
+Armadale,2018,1
+Fort Augustus,2018,1
+Almere,2017,1
+Drachten,2017,1
+Drachten,2016,1
+Guerneville,2018,1
+Kinlochleven,2017,1
+Isle of Eigg,2017,1
+Mallaig,2017,1
+Posola,2017,1
+Flensburg,2016,1
+Trassenheide,2016,1
+Alcoutim,2015,1
+Ballarat,2015,1
+Coroico,2014,1
+Myitkyina,2014,1
+Indawgyi Lake,2014,1
+Annapurna Circuit,2013,1
+Zuidwolde,2016,1
+Estoniya,2015,1
+"KawaihaeHI, United States",2013,1
+Nagarkot,2016,1
+Odemira,2016,1
+Faial Island,2016,1
+Ruse,2016,1
+Lesbos Prefecture,2016,1
+Forest of Dean,2015,1
+Dordogne,2015,1
+Los Gigantes,2017,1
+Nida,2017,1
+Marsala,2018,1
+Porto Seguro,2016,1
+Porto Seguro,2002,1
+São Mateus,2016,1
+Altenburg,2016,1
+Sierra Nevada,2015,1
+Upper Bavaria,2014,1
+Asbury Park,2012,1
+Coachella,2012,1
+Caerleon,2011,1
+Caldicot,2011,1
+Nagpur,2017,1
+Kanha Tiger Reserve,2017,1
+Marari Beach Alappuzha,2017,1
+Saint Vincent and the Grenadines,2017,1
+Martinique,2017,1
+Castello Tesino,2017,1
+Castello Tesino,2016,1
+Las Terrenas,2016,1
+La Romana,2016,1
+Wismar,2016,1
+Liepen,2015,1
+Petoskey,2017,1
+Port Antonio,2017,1
+Bohus-malmön,2012,1
+Bohus-malmön,2001,1
+Bohus-malmön,2000,1
+Lethbridge,2017,1
+Lethbridge,2016,1
+Kimberley,2017,1
+United Arab Emirates,2017,1
+Bruchsal,2017,1
+Bruchsal,2016,1
+Krong Poi Pet,2015,1
+Capital Region,2018,1
+Brea,2017,1
+Point Pleasant,2016,1
+Point Pleasant,2015,1
+Point Pleasant,2014,1
+Point Pleasant,2013,1
+Borough of Point Pleasant,2016,1
+Dijon,2016,1
+Newport Beach,2015,1
+Danbury,2015,1
+Danbury,2014,1
+Danbury,2013,1
+Zama,2013,1
+Laie,2016,1
+Alushta,2013,1
+Tusayan,2015,1
+Mariposa,2017,1
+Paia,2016,1
+Placencia,2018,1
+Barnstable County,2017,1
+Jacksonville,2015,1
+Jericoacoara Beach,2016,1
+Jericoacoara Beach,2015,1
+Memmingen,2018,1
+Cabo Frio,2018,1
+Pireas,2016,1
+Frigiliana,2016,1
+Piano di Sorrento,2018,1
+Alexandria Governorate,2017,1
+Waregem,2016,1
+Alona Beach,2017,1
+Alona Beach,2016,1
+Togian Islands,2016,1
+Ampana Kota,2016,1
+Seaside,2017,1
+Siargao Island,2017,1
+Yamba,2016,1
+Yamba,2015,1
+Preah Sihanouk,2016,1
+Canoa Quebrada,2014,1
+Phitsanulok,2016,1
+Niigata Prefecture,2016,1
+Qatar,2016,1
+Swinoujscie,2016,1
+Austria,2003,1
+Fairgrove,2017,1
+Fairgrove,2016,1
+Fairgrove,2015,1
+Sacramento,2015,2
+Närpes,2016,1
+Chom Thong District,2016,1
+Khao Lak Thailand,2015,1
+Reggio Emilia,2016,1
+Khon Kaen,2016,1
+Besisahar,2014,1
+Cherating,2014,1
+Ufa,2018,1
+Ufa,2017,1
+Neftekamsk,2017,1
+Solms,2017,1
+Solms,2016,1
+Solms,2015,1
+Solms,2014,1
+Solms,2013,1
+Solms,2004,1
+Solms,1998,1
+Braunfels,2002,1
+Lajatico,2018,1
+Osijek,2017,1
+Londrina,2017,1
+La Ventana,2017,1
+Bahía Asunción,2016,1
+Rico,2016,1
+Salmon Arm,2016,1
+Pemberton,2016,1
+Poulsbo,2016,1
+Palm Desert,2016,1
+El Pescadero,2016,1
+Creston,2015,1
+Whangamata,2015,1
+New Plymouth,2015,1
+Gnarabup,2015,1
+Lancelin,2015,1
+Vernon,2016,1
+Vernon,2015,1
+Port Townsend,2016,1
+Port Townsend,2015,1
+Candidasa,2017,1
+Ferragudo,2016,1
+Rainbow Beach,2015,1
+Val di Fassa,2014,1
+Pamporovo,2014,1
+Cape Cod,2005,1
+Niagara,2004,1
+Latchi,2003,1
+Latchi,2002,1
+Stoupa,2003,1
+Forks,2017,1
+Forks,2016,1
+Kinabatangan,2017,1
+Rosendale,2016,1
+"Colonia Del SacramentoColonia, Uruguay",2016,1
+Côn Đảo,2015,1
+Carbost,2014,1
+Champaign,2014,1
+Skagway,2013,1
+Naperville,1995,1
+San Ramon,1989,1
+Gloucester,2016,1
+Harrisburg,2014,1
+Sarpsborg,2007,1
+Rhinebeck,2003,1
+Port St. Lucie,2003,1
+Wappingers Falls,2001,1
+Pleasant Valley,1999,1
+Clermont,1998,1
+Queens,1981,1
+St Andrews,2018,1
+Paysandú,2017,1
+Sarandì,2017,1
+Durazno,2017,1
+Durazno,2014,1
+Drogheda,2017,1
+Laytown,2017,1
+tt. Cần Thạnh,2017,1
+Ba Ria - Vung Tau,2017,1
+Hồ Trị An,2017,1
+Encarnacion,2017,1
+Menlo Park,2016,1
+Khách Sạn Thiên Kim,2016,1
+tp. Vũng Tàu,2015,1
+Durazno Department,2014,1
+Carlos Casares,2014,1
+General Roca,2014,1
+Esquel,2014,1
+Perito Moreno,2014,1
+Bajo Caracoles,2014,1
+Río Gallegos,2014,1
+Puerto San Julián,2014,1
+Comodoro Rivadavia,2014,1
+Bahía Blanca,2014,1
+Santana do Livramento,2014,1
+Marietta,2014,1
+Jamestown,2014,1
+Oglesby,2014,1
+Bedford,2014,2
+Bedford,2013,1
+Shaoxing,2013,1
+Yongkang,2013,1
+Qiandaohu,2013,1
+Dexing,2013,1
+Huangshan,2013,1
+Huangshan,2011,1
+Citrusdal,2013,1
+Klawer,2013,1
+Seeheim,2013,1
+Lüderitz,2013,1
+Solitaire,2013,1
+Usakos,2013,1
+Grootfontein,2013,1
+Rundu,2013,1
+Gweta,2013,1
+Nata,2013,1
+Kasane,2013,1
+Binga,2013,1
+Kariba,2013,1
+Lusaka,2013,1
+Serenje,2013,1
+Isoka,2013,1
+Mbuyuni,2013,1
+Mkwaja,2013,1
+Tanga,2013,1
+Kibosho,2013,1
+Namanga,2013,1
+Voi,2013,1
+Tiwi,2013,1
+Hale,2013,1
+Iringa,2013,1
+Karonga,2013,1
+Bana,2013,1
+Chirombo,2013,1
+Blantyre,2013,1
+Tete,2013,1
+Chimoio,2013,1
+Macia,2013,1
+Piet Retief,2013,1
+Clarens,2013,1
+Rafolatsane,2013,1
+Roma,2013,1
+Aliwal North,2013,1
+Ouplaas,2013,1
+Betty's Bay,2013,1
+Xishanzhen,2012,1
+Talek,2012,1
+Musoma,2012,1
+Muyinga,2012,1
+Bujumbura,2012,1
+Mbarara,2012,1
+Kisumu,2012,1
+Hohhot,2012,1
+Erenhot,2012,1
+Zhangjiakou,2012,1
+Binzhou,2012,1
+Huai'an,2012,1
+Xishuangbanna,2011,1
+Luang Namtha,2011,1
+Pak Prieo,2011,1
+Chumphon,2011,1
+Don Sak,2011,1
+Ang Thong,2011,1
+Tak Ok,2011,1
+Phu Sang,2011,1
+Pu'er,2011,1
+Honghe,2011,1
+Bose,2011,1
+Nanning,2011,1
+Hengyang,2011,1
+Nanchang,2011,1
+Nanchang,2009,1
+Changsha,2009,1
+Monastir,2005,1
+Kuala Terengganu,2005,1
+Kuala Terengganu,2017,1
+Starrucca,2017,1
+Netiv HaLamed He,2017,1
+Netiv HaLamed He,2015,1
+Zichron Yaakov,2016,1
+Braamt,2013,1
+Lublin,2012,1
+Ukraine,2016,1
+Rostov Oblast,2016,1
+Nara Shi,2018,2
+Xalapa,2017,1
+Loreto,2017,1
+Riverside,2015,1
+San Pedro La Laguna,2018,1
+Santa Marianita,2014,1
+Iquique,2014,1
+Arica,2014,1
+French Riviera,2017,1
+Hanover,2015,1
+Albufeira/Lisbon,2016,1
+Province of Syracuse,2016,1
+Cinqueterre,2014,1
+Ios,2014,1
+São José do Rio Preto,2013,1
+Yverdon-les-Bains,2015,1
+Slovenj Gradec,2017,1
+Tidewater,2016,1
+Squamish,2016,1
+Driftpile,2016,1
+Fort MacLeod,2016,1
+Bradley,2016,1
+Aix-les-Bains,2018,1
+Aix-les-Bains,2017,1
+Laàs,2018,1
+Hermanus,2017,1
+Kenton-on-Sea,2017,1
+Stellenbosch,2017,1
+Okanagan Lake,2016,1
+Wagrain,2016,1
+Buenos Aires Province,2018,1
+Ko Muk,2018,1
+Bucaramanga,2017,1
+Ramallah,2008,1
+Erbil,2008,1
+Sana'a,2008,1
+Roseville,2016,1
+Pacifica,2016,1
+Garberville,2016,1
+Kahuku,2016,1
+Bowie,2018,1
+Bowie,2017,1
+Bowie,2016,1
+Bowie,2013,1
+Bowie,2011,1
+Bowie,2010,1
+Bowie,2009,1
+Terre Haute,2017,1
+Guadalcanal,2017,1
+Dunnellon,2017,1
+Hampstead,2017,1
+Oswego,2017,1
+North Royalton,2016,1
+Nashua,2016,1
+Nashua,2015,1
+Nashua,2010,1
+Marlborough,2016,1
+Gerlach,2015,1
+Gerlach,2014,1
+Gerlach,2013,1
+Gerlach,2012,1
+Gerlach,2011,1
+Wichita,2015,1
+Lebanon,2014,1
+Glens Falls,2014,1
+Charmey,2014,1
+Farrell,2014,1
+Cabourg,2014,1
+Lemmon,2014,1
+Hartford,2014,1
+Hartford,2013,1
+Hartford,2012,1
+Ipatinga,2014,1
+Piscataway Township,2013,1
+Wisconsin Rapids,2012,1
+Ludlow,2012,1
+Alpharetta,2012,1
+McKinney,2012,1
+Malvern,2012,1
+Churchill,2011,1
+Gillam,2011,1
+Springville,2011,1
+Needham,2011,1
+Saguenay,2010,1
+Hyde Park,2010,1
+Gilbert,2010,1
+North Reading,2010,1
+Woburn,2009,1
+Hammond,2009,1
+Nürburg,2018,1
+Te Anau,2018,1
+Te Anau,2017,1
+Lower Shotover,2018,1
+Karangarua,2018,1
+Barrytown,2018,1
+Riwaka,2018,1
+Glenduan,2018,1
+Tairua,2018,1
+Paihia,2018,1
+Saint Paul's Bay,2015,1
+Coventry,2018,1
+Coventry,2017,1
+Brioude,2017,1
+Brioude,2016,1
+Mersing,2017,1
+Lembang,2017,1
+Sighnaghi,2016,1
+Dimitsana,2016,1
+Nafplio,2016,1
+Fira,2016,1
+Kalabaka,2016,1
+Gjirokaster,2016,1
+Mali Losinj,2016,1
+Pašman,2016,1
+Octopus Resort,2016,1
+Province of Lucca,2016,1
+Province of Lucca,2015,1
+Nara Prefecture,2016,1
+Daanbantayan,2015,1
+Kirkwall,2016,1
+Oban,2016,1
+Grand Haven,2015,1
+Molde,2016,1
+Røros,2016,1
+Røros,2015,1
+Paxos,2017,1
+Mazet-Saint-Voy,2017,1
+Las Vegas Strip,2017,1
+Taroko National Park,2017,1
+"LiberiaGuanacaste, Costa Rica",2016,1
+Jinju-si,2017,1
+Arluno,1989,1
+Monte Carlo,2012,1
+Wadi Musa,2016,1
+Acre,2016,1
+Rosh HaNikra,2016,1
+Empuriabrava,2016,1
+Empuriabrava,2015,1
+Figueres,2015,1
+Dharmashala,2017,1
+Essex,2015,1
+Hebron,2016,1
+Wausau,2015,1
+Banyalbufar,2018,1
+Pollença,2018,1
+Newport,2017,1
+Monteverde,2017,1
+Copan Ruinas,2016,1
+Concord,2011,1
+Big Bear Lake,2011,1
+Livingston,2011,1
+Redondo Beach,2011,1
+Lushan,2007,1
+Pécs,2016,1
+Pécs,2015,1
+Rabat-Salé-Kénitra,2016,1
+Arturo Merino Benítez International Airport,2017,1
+Sao Paulo International Airport,2017,1
+Mont Salève,2016,1
+Sassenheim,2016,1
+Lang Tengah Island,2017,1
+Gerik,2017,1
+Tam Kỳ,2017,1
+Saratov,2016,1
+Lidk�ping,2016,1
+Da NangVietnam,2016,1
+Ko Phayam,2016,1
+Rhodope Mountains,2016,1
+Lewes,2016,1
+"Bristol, TN, United States",2016,1
+"Frankfurt, Germany",2016,1
+Stowe,2016,1
+Bridgeton,2015,1
+Slade,2015,1
+Saint Johnsbury,2015,1
+Franconia,2015,1
+Giessen,2015,1
+Pag,2015,1
+Komodo Island,2017,1
+Billings,2016,1
+Billings,2015,1
+Leavenworth,2015,1
+Praia Massarandupio,2015,1
+Osasco,2015,1
+Belgorod,2018,1
+Hajdúszoboszló,2009,1
+Basingstoke,2017,1
+Šiauliai,2017,1
+Šiauliai,2015,1
+Hradec Králové,2015,1
+Trnava,2015,1
+Trnava,2012,1
+Girne,2015,1
+NicosiaCyprus,2015,1
+Siedlce,2014,1
+Administrative unit Maribor,2014,1
+Rēzekne Municipality,2012,1
+Kranjska Gora,2011,1
+Trabzon,2008,1
+Bayburt,2008,1
+Bang Lamung ตำบล บางละมุง,2016,1
+Gornja Nugla,2016,1
+Muggia,2016,1
+"MontanitaSanta Elena, Ecuador",2016,1
+Inčukalns,2015,1
+"SapporoHokkaido Prefecture, Japan",2016,1
+Yass,2012,1
+Coolangatta,2012,1
+Crescent Head,2012,1
+North Haven,2012,1
+Tamworth,2012,1
+Monschau,2016,1
+Katoomba,2018,1
+Mystery Bay,2017,1
+Mount Cook,2017,1
+Semporna,2017,1
+Fujiyoshida,2017,1
+Andaz Maui at Wailea Resort,2017,1
