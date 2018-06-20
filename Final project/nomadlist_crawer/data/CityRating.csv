@@ -1,0 +1,987 @@
+,city,country,continent,ac_availability,adult_nightlife,air_qiality,cost,english_speaking,fragile_states_index_score,happiness_score,healthcare_score,internet,leisure_quality,lgbt_friendly,life_score,nightlife,nomad_score,places_to_work_score,press_freedom_index_score,road_traffic_score,safety_level,startup_score,walkScore_score,weather,wifi_availability
+0,Bratislava,Slovakia,Europe,2,3,5,4,3,4,4,3,4,3,2,4,3,3.6,3,4,5,4,4,5,5,3
+1,Kosice,Slovakia,Europe,3,3,5,4,3,4,4,3,4,4,1,4,2,3.52,3,4,5,4,4,5,4,3
+2,Vienna,Austria,Europe,4,4,5,3,4,5,4,5,4,3,4,4,4,4.12,4,4,5,5,4,5,5,5
+3,Osijek,Croatia,Europe,4,3,5,4,3,4,3,4,3,2,3,4,2,2.67,3,3,5,4,4,5,1,3
+4,Novi Sad,Serbia,Europe,3,3,5,4,3,3,3,0,4,3,3,4,4,3.95,3,3,5,4,4,5,5,5
+5,Timisoara,Romania,Europe,4,3,5,4,5,4,3,3,4,4,2,4,4,4.1,5,3,5,4,4,5,5,5
+6,Brno,Czechia,Europe,3,3,5,4,3,4,0,4,4,3,3,4,3,3.07,3,3,5,5,4,5,4,3
+7,Graz,Austria,Europe,2,3,5,3,3,5,4,5,4,3,4,4,3,3.11,3,4,5,5,4,5,4,3
+8,Kraków,Poland,Europe,3,3,4,4,4,4,3,4,4,5,3,4,4,3.59,3,3,5,4,4,5,3,4
+9,Zagreb,Croatia,Europe,5,3,4,4,4,4,3,4,3,3,2,4,3,3.89,4,3,5,5,4,5,5,4
+10,Katowice,Poland,Europe,5,3,4,4,3,4,3,4,4,3,3,4,3,2.92,3,3,5,4,4,5,4,3
+11,Belgrade,Serbia,Europe,5,3,4,4,4,3,3,0,4,4,1,4,5,4.54,3,3,5,4,4,5,5,4
+12,Prague,Czechia,Europe,4,4,5,3,3,4,0,4,4,5,4,4,5,4.32,3,3,5,4,4,5,3,4
+13,Vienna,Austria,Europe,4,4,5,3,4,5,4,5,4,3,4,4,4,4.12,4,4,5,5,4,5,5,5
+14,Berlin,Germany,Europe,3,4,5,3,4,5,4,4,3,4,5,4,4,4.09,5,4,5,5,4,5,3,3
+15,Bratislava,Slovakia,Europe,2,3,5,4,3,4,4,3,4,3,2,4,3,3.6,3,4,5,4,4,5,5,3
+16,Lisbon,Portugal,Europe,3,4,5,3,4,5,3,5,4,4,4,4,4,4.05,3,4,5,5,4,5,3,3
+17,Zagreb,Croatia,Europe,5,3,4,4,4,4,3,4,3,3,2,4,3,3.89,4,3,5,5,4,5,5,4
+18,Paris,France,Europe,5,4,5,2,3,4,4,5,4,4,4,4,5,3.55,4,3,5,4,4,5,3,3
+19,London,United Kingdom,Europe,3,4,5,2,5,4,4,3,4,5,4,4,5,4.13,5,3,5,4,5,5,2,4
+20,Amsterdam,Netherlands,Europe,3,5,5,2,5,5,5,5,4,4,5,4,4,3.84,4,5,5,5,4,5,3,4
+21,Belgrade,Serbia,Europe,5,3,4,4,4,3,3,0,4,4,1,4,5,4.54,3,3,5,4,4,5,5,4
+22,Barcelona,Spain,Europe,3,4,5,2,3,4,4,5,5,4,4,4,4,4.98,5,4,5,4,4,5,4,3
+23,Rome,Italy,Europe,2,3,5,1,2,4,3,5,4,5,2,4,4,1.07,1,3,5,4,4,5,5,1
+24,"Canggu, Bali",Indonesia,Asia,3,3,5,4,3,3,3,3,3,4,3,4,3,4.77,3,1,4,4,4,3,5,4
+25,Budapest,Hungary,Europe,3,3,5,3,3,4,3,3,5,4,2,4,4,4.98,5,3,5,4,4,5,5,3
+26,Barcelona,Spain,Europe,3,4,5,2,3,4,4,5,5,4,4,4,4,4.98,5,4,5,4,4,5,4,3
+27,Bangkok,Thailand,Asia,5,5,4,4,3,2,4,1,4,4,4,4,5,5,5,1,2,4,4,5,4,3
+28,Chiang Mai,Thailand,Asia,3,3,4,4,3,2,4,1,4,4,3,4,3,4.86,4,1,2,4,3,5,4,4
+29,Ho Chi Minh Ci,Vietnam,Asia,3,3,4,4,3,3,2,1,4,4,3,4,4,4.71,4,1,4,4,4,5,4,4
+30,Kiev,Ukraine,Europe,3,4,5,4,3,2,1,1,4,4,2,4,3,4.46,5,2,5,3,4,5,4,4
+31,Belgrade,Serbia,Europe,5,3,4,4,4,3,3,0,4,4,1,4,5,4.54,3,3,5,4,4,5,5,4
+32,Kuala Lumpur,Malaysia,Asia,4,5,4,4,4,3,4,4,3,3,2,4,3,4.45,4,1,2,4,4,5,3,4
+33,Medellín,Colombia,Latin America,3,3,4,4,2,2,4,4,3,4,3,4,4,4.3,4,1,4,2,4,5,3,4
+34,Buenos Aires,Argentina,Latin America,3,4,5,4,3,4,4,3,3,5,5,4,5,4.18,4,3,5,3,4,5,2,4
+35,Prague,Czechia,Europe,4,4,5,3,3,4,0,4,4,5,4,4,5,4.32,3,3,5,4,4,5,3,4
+36,Frankfurt,Germany,Europe,3,3,5,2,4,5,4,4,4,4,5,4,4,3.9,5,4,5,5,4,5,3,3
+37,Moscow,Russia,Europe,3,4,5,2,3,2,3,2,4,4,2,4,5,4.12,5,1,5,3,4,5,4,5
+38,"Ubud, Bali",Indonesia,Asia,3,3,2,4,3,3,3,3,3,4,4,4,2,3.75,4,1,4,4,3,5,5,3
+39,Timisoara,Romania,Europe,4,3,5,4,5,4,3,3,4,4,2,4,4,4.1,5,3,5,4,4,5,5,5
+40,Valencia,Spain,Europe,5,3,5,3,3,4,4,5,4,4,4,4,4,4.12,3,4,5,5,4,5,4,4
+41,Berlin,Germany,Europe,3,4,5,3,4,5,4,4,3,4,5,4,4,4.09,5,4,5,5,4,5,3,3
+42,"Richmond, VA",United States,North America,4,3,5,3,5,4,4,4,4,3,4,4,4,3.91,5,3,5,4,4,5,3,5
+43,Stockholm,Sweden,Europe,3,4,5,1,5,5,5,4,4,4,5,4,4,4.12,5,4,5,4,5,5,3,4
+44,data_city_name,data_city_country,data_city_continent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Seoul,South Korea,Asia,5,4,4,3,3,4,3,4,3,4,3,4,5,4.31,4,3,5,5,4,5,5,5
+46,Daejeon,South Korea,Asia,5,3,4,4,1,4,3,4,4,3,2,4,3,4.35,5,3,5,5,5,5,5,5
+47,Lviv,Ukraine,Europe,3,3,5,4,3,2,1,1,4,4,2,4,4,3.9,5,2,5,3,4,5,4,3
+48,Phuket,Thailand,Asia,4,4,5,4,3,2,4,1,4,3,4,4,4,3.99,4,1,2,4,4,3,3,4
+49,"Chattanooga, T",United States,North America,5,3,5,3,5,4,4,4,5,3,4,4,3,3.9,5,3,5,4,4,5,4,5
+50,"Dallas, TX",United States,North America,4,4,5,2,5,4,4,4,5,3,4,4,3,4,4,3,5,4,4,5,4,4
+51,"Los Angeles, C",United States,North America,5,4,5,2,5,4,4,4,4,4,4,4,4,4.25,5,3,5,4,5,5,4,4
+52,Cluj,Romania,Europe,3,3,5,4,5,4,3,3,5,4,2,4,3,3.95,5,3,5,4,4,5,4,4
+53,"Knoxville, TN",United States,North America,3,3,5,3,5,4,4,4,4,3,3,4,2,4.21,5,3,5,4,5,5,4,4
+54,"Raleigh, NC",United States,North America,4,3,5,3,5,4,4,4,4,3,3,4,3,4.02,5,3,5,4,5,5,3,5
+55,Daegu,South Korea,Asia,5,3,4,4,1,4,3,4,4,4,2,4,3,4.18,5,3,5,5,4,1,5,5
+56,Cancun,Mexico,Latin America,4,4,5,4,3,3,4,3,4,5,3,4,4,4.3,3,1,5,3,4,5,5,5
+57,Ploiesti,Romania,Europe,5,3,5,4,5,4,3,3,4,2,1,4,2,4.38,5,3,5,4,4,5,5,5
+58,Bern,Switzerland,Europe,5,3,5,2,4,5,5,5,4,4,5,4,3,4.05,5,4,5,5,5,5,3,5
+59,Kraków,Poland,Europe,3,3,4,4,4,4,3,4,4,5,3,4,4,3.59,3,3,5,4,4,5,3,4
+60,Vancouver,Canada,North America,3,5,5,2,5,5,5,4,4,3,5,4,3,3.98,4,4,5,4,4,5,3,5
+61,Padova,Italy,Europe,4,3,5,2,4,4,3,5,3,4,4,4,3,4.08,5,3,5,4,4,5,5,5
+62,Gdansk,Poland,Europe,2,3,5,4,4,4,3,4,4,4,3,4,4,3.81,5,3,5,5,4,5,3,5
+63,Toronto,Canada,North America,4,3,5,2,5,5,5,4,4,4,5,4,5,3.74,4,4,5,4,5,5,3,4
+64,Plovdiv,Bulgaria,Europe,5,3,3,4,3,4,2,2,4,3,2,4,3,3.96,5,2,5,4,4,5,4,4
+65,Singapore,Malaysia,Asia,5,4,5,3,5,4,4,5,5,4,3,4,3,4.11,3,1,5,5,5,5,3,4
+66,Lisbon,Portugal,Europe,3,4,5,3,4,5,3,5,4,4,4,4,4,4.05,3,4,5,5,4,5,3,3
+67,"Seattle, WA",United States,North America,3,3,5,2,5,4,4,4,4,4,4,4,4,3.73,5,3,5,4,5,5,3,5
+68,Vienna,Austria,Europe,4,4,5,3,4,5,4,5,4,3,4,4,4,4.12,4,4,5,5,4,5,5,5
+69,Busan,South Korea,Asia,5,3,4,4,1,4,3,4,4,4,2,4,3,4.19,5,3,5,5,4,1,4,5
+70,"Flagstaff, AZ",United States,North America,4,3,5,2,5,4,4,4,4,4,3,4,4,3.93,5,3,5,4,4,5,3,4
+71,Porto,Portugal,Europe,5,4,5,3,4,5,3,5,4,3,4,4,4,3.95,3,4,5,4,4,5,3,4
+72,"Albuquerque, N",United States,North America,4,3,5,3,5,4,4,4,4,4,3,4,4,4.03,4,3,5,4,4,3,4,4
+73,"Palma, Mallorc",Spain,Europe,4,3,5,1,3,4,4,5,4,5,5,4,4,3.87,4,4,5,5,4,5,4,4
+74,Gwangju,South Korea,Asia,4,3,4,3,1,4,3,4,4,3,2,4,3,4,5,3,5,5,4,1,5,5
+75,Sydney,Australia,Oceania,5,3,5,1,5,5,5,4,4,3,5,4,2,4.04,4,4,5,5,5,5,4,5
+76,"Miami, FL",United States,North America,5,4,5,1,4,4,4,4,4,4,5,4,4,4.14,5,3,5,4,5,5,5,5
+77,Saint Petersbu,Russia,Europe,3,3,5,3,3,2,3,2,4,4,2,4,3,3.76,4,1,5,2,4,5,3,4
+78,Jeju Island,South Korea,Asia,5,3,5,4,2,4,3,4,5,4,3,4,3,4.19,5,3,5,5,4,5,4,5
+79,Chisinau,Moldova,Europe,3,3,5,4,3,3,3,2,4,3,2,4,3,4.12,5,3,5,3,4,3,5,5
+80,London,United Kingdom,Europe,3,4,5,2,5,4,4,3,4,5,4,4,5,4.13,5,3,5,4,5,5,2,4
+81,Kitchener,Canada,North America,4,3,5,3,5,5,5,4,4,4,5,4,2,3.92,4,4,5,4,5,5,2,5
+82,Treviso,Italy,Europe,4,3,5,3,3,4,3,5,4,4,2,4,4,4.14,4,3,5,4,4,5,5,5
+83,"New York City,",United States,North America,3,3,5,2,5,4,4,4,4,5,5,4,5,4.12,5,3,5,4,5,5,2,5
+84,"Syracuse, NY",United States,North America,4,3,5,3,5,4,4,4,4,3,3,4,4,3.84,5,3,5,4,5,2,2,4
+85,"Fresno, CA",United States,North America,4,3,5,2,5,4,4,4,5,2,4,4,2,4.08,5,3,5,4,5,5,5,5
+86,Sofia,Bulgaria,Europe,5,3,4,4,3,4,2,2,4,4,1,4,4,3.78,3,2,5,4,4,5,4,4
+87,Bucharest,Romania,Europe,3,3,5,4,3,4,3,3,5,4,2,4,4,3.86,4,3,5,4,4,5,5,4
+88,Antalya,Turkey,Europe,4,3,4,4,3,2,3,1,3,5,3,4,4,4.21,2,1,5,4,4,5,4,5
+89,Pisa,Italy,Europe,4,3,5,2,4,4,3,5,4,4,3,4,4,3.87,5,3,5,4,4,5,4,5
+90,Abbotsford,Canada,North America,2,3,5,3,5,5,5,4,4,4,4,4,4,3.97,5,4,5,4,4,5,2,5
+91,"Las Vegas, NV",United States,North America,5,4,5,2,5,4,4,4,4,5,4,4,5,4.19,3,3,5,4,5,5,4,5
+92,Yerevan,Armenia,Europe,3,3,4,4,3,3,2,2,3,3,2,4,4,3.73,5,3,5,4,4,5,4,5
+93,Hoi An,Vietnam,Asia,5,3,5,4,3,3,2,1,4,4,3,4,3,3.8,4,1,4,4,4,5,3,4
+94,Cannes,France,Europe,4,3,5,1,4,4,4,5,4,5,3,4,4,3.99,4,3,5,4,4,2,4,4
+95,"San Francisco,",United States,North America,5,4,5,2,5,4,4,4,4,5,4,4,5,3.95,4,3,5,4,5,5,3,5
+96,"San Diego, CA",United States,North America,3,3,5,2,5,4,4,4,5,4,4,4,3,3.73,5,3,5,4,5,5,4,4
+97,Da Lat,Vietnam,Asia,2,3,5,4,2,3,2,1,3,3,2,4,2,3.96,5,1,4,4,3,2,5,5
+98,Amman,Jordan,Middle East,3,3,3,4,4,2,3,3,3,3,1,4,3,3.86,5,1,2,4,4,2,4,4
+99,Newcastle Upon,United Kingdom,Europe,4,3,5,2,5,4,4,3,4,3,5,4,3,3.98,5,3,5,4,5,5,2,5
+100,"New Haven, CT",United States,North America,4,3,5,2,5,4,4,4,4,4,4,4,4,3.75,4,3,5,4,4,1,2,4
+101,Copenhagen,Denmark,Europe,3,3,5,2,5,5,5,4,4,4,4,4,4,3.74,4,5,5,5,4,5,3,4
+102,Cardiff,United Kingdom,Europe,2,3,5,1,5,4,4,3,4,3,3,4,3,3.96,5,3,5,4,5,5,3,5
+103,Vilnius,Lithuania,Europe,3,3,5,3,3,4,3,3,4,5,3,4,4,3.52,3,4,5,4,4,5,3,5
+104,Shanghai,China,Asia,4,3,2,3,3,3,3,1,3,4,3,3,5,3.56,4,1,4,4,4,5,4,4
+105,Montreal,Canada,North America,5,3,5,3,4,5,5,4,4,4,5,4,4,4.06,4,4,5,4,4,5,3,4
+106,"Sacramento, CA",United States,North America,3,3,5,2,5,4,4,4,4,3,4,4,3,3.89,4,3,5,4,5,5,4,5
+107,Zagreb,Croatia,Europe,5,3,4,4,4,4,3,4,3,3,2,4,3,3.89,4,3,5,5,4,5,5,4
+108,Izmir,Turkey,Europe,4,3,4,4,3,2,3,1,3,4,3,4,3,3.78,3,1,5,4,4,5,5,5
+109,Tel Aviv,Israel,Middle East,5,4,5,2,4,3,5,4,4,4,5,4,4,4,5,2,5,4,4,5,5,4
+110,"Chico, CA",United States,North America,5,3,5,3,5,4,4,4,4,3,4,4,2,4.05,4,3,5,4,4,5,5,5
+111,"Gainesville, F",United States,North America,4,3,5,3,5,4,4,4,4,3,3,4,3,4,0,3,5,4,5,5,5,4
+112,"Ann Arbor, MI",United States,North America,4,3,5,2,5,4,4,4,4,3,4,4,3,4.03,5,3,5,4,5,5,4,4
+113,Tallinn,Estonia,Europe,3,3,5,3,5,4,3,3,4,4,4,4,4,3.62,4,4,5,4,5,5,3,5
+114,Fort Lauderdal,United States,North America,4,3,5,1,5,4,4,4,3,4,4,4,3,3.87,5,3,5,4,4,5,5,4
+115,Groningen,Netherlands,Europe,3,3,5,3,5,5,5,5,4,4,5,4,4,4.04,4,5,5,5,4,5,3,5
+116,Kaunas,Lithuania,Europe,3,3,5,4,3,4,3,3,4,3,2,4,3,3.65,3,4,5,3,4,5,3,4
+117,Limassol,Cyprus,Europe,5,3,4,2,4,3,3,4,3,5,4,4,3,4.06,3,4,5,4,4,2,5,4
+118,Ljubljana,Slovenia,Europe,5,3,5,3,5,4,3,4,5,4,4,4,4,3.75,4,3,5,4,4,5,4,4
+119,Tainan,Taiwan,Asia,3,3,5,4,1,3,4,5,4,4,3,4,3,3.87,3,3,5,4,4,5,4,4
+120,Taipei,Taiwan,Asia,5,4,5,4,3,3,4,5,4,3,5,4,4,3.7,3,3,5,4,4,5,3,5
+121,Port Louis,Mauritius,Africa,3,3,5,4,3,4,3,3,3,4,2,4,3,3.76,4,3,5,4,4,5,5,4
+122,"Jacksonville, ",United States,North America,4,3,5,3,5,4,4,4,4,4,3,4,3,3.81,4,3,5,4,4,5,5,5
+123,Brasov,Romania,Europe,2,3,5,4,5,4,3,3,4,3,1,4,3,4.02,3,3,5,4,4,2,4,4
+124,"Tampa, FL",United States,North America,5,3,5,3,5,4,4,4,4,4,4,4,4,3.71,3,3,5,4,5,5,5,4
+125,Amsterdam,Netherlands,Europe,3,5,5,2,5,5,5,5,4,4,5,4,4,3.84,4,5,5,5,4,5,3,4
+126,Oxford,United Kingdom,Europe,4,3,5,1,5,4,4,3,4,4,5,4,4,3.91,4,3,5,4,5,5,3,5
+127,Toulouse,France,Europe,4,3,5,3,2,4,4,5,4,4,4,4,4,3.77,4,3,5,4,4,5,3,5
+128,Marseille,France,Europe,4,3,5,3,2,4,4,5,5,3,4,4,4,3.84,4,3,5,3,4,5,4,4
+129,"Oklahoma City,",United States,North America,4,3,5,3,5,4,4,4,4,3,3,4,3,3.98,4,3,5,4,5,5,5,5
+130,Lugano,Switzerland,Europe,4,3,5,2,4,5,5,5,4,3,4,4,4,3.89,5,4,5,5,5,5,4,4
+131,Taghazout,Morocco,Africa,3,3,4,4,4,3,3,4,3,3,3,4,2,3.88,5,1,4,4,3,2,3,3
+132,"Funchal, Madei",Portugal,Europe,3,3,4,4,3,5,3,5,4,3,3,4,3,3.93,5,4,5,5,4,2,4,5
+133,Zurich,Switzerland,Europe,3,3,5,2,4,5,5,5,4,4,4,4,4,3.7,4,4,5,5,5,5,3,5
+134,"Tucson, AZ",United States,North America,5,3,5,3,5,4,4,4,4,2,4,4,2,3.85,3,3,5,4,4,5,4,4
+135,"San Antonio, T",United States,North America,4,3,5,3,5,4,4,4,4,3,4,4,4,3.77,3,3,5,4,5,5,5,4
+136,Trento,Italy,Europe,4,3,5,3,3,4,3,5,4,4,3,4,3,4.03,4,3,5,4,5,5,3,4
+137,"Oakland, CA",United States,North America,3,3,5,2,5,4,4,4,4,3,3,4,4,3.66,4,3,5,3,4,5,3,4
+138,Tartu,Estonia,Europe,3,3,5,3,5,4,3,3,4,2,4,4,2,3.67,4,4,5,4,4,5,3,5
+139,"Key West, FL",United States,North America,4,3,5,2,4,4,4,4,4,5,4,4,2,3.94,4,3,5,4,4,1,5,4
+140,"Charlotte, NC",United States,North America,5,3,5,3,5,4,4,4,4,3,4,4,4,3.76,4,3,5,4,5,5,4,4
+141,Oshawa,Canada,North America,3,3,5,3,5,5,5,4,4,3,5,4,3,3.72,4,4,5,4,4,5,2,4
+142,Athens,Greece,Europe,3,4,4,3,4,4,3,5,3,5,3,4,4,3.9,4,2,5,5,4,5,4,3
+143,"Philadelphia, ",United States,North America,3,3,5,2,4,4,4,4,4,4,4,4,3,3.78,4,3,5,3,5,5,2,5
+144,"Phoenix, AZ",United States,North America,4,3,5,2,5,4,4,4,4,3,3,4,3,3.9,3,3,5,4,5,5,4,5
+145,Da Nang,Vietnam,Asia,3,3,5,4,2,3,2,1,3,3,2,4,2,3.56,3,1,4,4,4,3,3,4
+146,"Austin, TX",United States,North America,0,3,5,2,5,4,4,4,5,4,4,4,4,3.56,3,3,5,4,4,5,5,4
+147,Novi Sad,Serbia,Europe,3,3,5,4,3,3,3,0,4,3,3,4,4,3.95,3,3,5,4,4,5,5,5
+148,Szczecin,Poland,Europe,2,3,5,4,5,4,3,4,4,2,3,4,3,3.85,4,3,5,5,4,5,3,4
+149,Hangzhou,China,Asia,4,3,1,4,1,3,3,1,3,3,3,3,3,3.62,4,1,4,4,3,5,3,5
+150,Bordeaux,France,Europe,5,3,5,2,2,4,4,5,4,3,4,4,3,3.74,3,3,5,4,4,5,3,4
+151,"Asheville, NC",United States,North America,4,3,5,2,5,4,4,4,4,3,3,4,3,3.73,4,3,5,5,5,5,4,4
+152,Lethbridge,Canada,North America,5,3,5,2,5,5,5,4,4,5,5,4,4,3.63,4,4,5,4,4,5,2,4
+153,Davao,Philippines,Asia,0,3,5,4,5,2,3,4,3,4,3,4,3,3.97,3,1,5,3,4,5,3,3
+154,Trieste,Italy,Europe,4,3,5,3,3,4,3,5,3,3,2,4,3,3.92,4,3,5,4,4,5,5,5
+155,Riga,Latvia,Europe,3,3,5,3,3,4,3,2,4,3,3,4,3,3.72,3,4,5,4,4,5,3,5
+156,Bratislava,Slovakia,Europe,2,3,5,4,3,4,4,3,4,3,2,4,3,3.6,3,4,5,4,4,5,5,3
+157,Lyon,France,Europe,3,3,5,2,3,4,4,5,5,4,4,4,4,3.66,4,3,5,4,4,5,3,4
+158,Warsaw,Poland,Europe,3,3,5,4,4,4,3,4,4,5,3,4,4,3.46,4,3,5,5,4,5,4,5
+159,"Memphis, TN",United States,North America,3,3,5,3,5,4,4,4,4,2,3,4,3,3.88,4,3,5,4,4,5,5,4
+160,Coimbra,Portugal,Europe,5,3,5,4,5,5,3,5,4,3,3,4,3,3.92,3,4,5,4,4,5,3,3
+161,Braga,Portugal,Europe,3,3,5,4,3,5,3,5,4,3,3,4,3,3.91,2,4,5,5,4,5,3,5
+162,"Louisville, KY",United States,North America,3,3,5,3,5,4,4,4,4,3,4,4,3,3.82,4,3,5,4,5,5,4,4
+163,Antwerp,Belgium,Europe,4,4,5,2,4,5,4,4,4,4,4,4,4,3.53,4,4,5,4,4,5,3,4
+164,Guadalajara,Mexico,Latin America,3,5,4,4,3,3,4,3,4,3,3,4,3,3.49,3,1,5,2,4,5,4,4
+165,Leicester,United Kingdom,Europe,3,3,5,3,5,4,4,3,4,4,3,4,4,3.8,4,3,5,4,4,5,3,3
+166,Zadar,Croatia,Europe,4,3,5,3,3,4,3,4,4,2,2,4,2,3.6,4,3,5,5,4,5,5,4
+167,Ibiza,Spain,Europe,4,3,5,2,3,4,4,5,4,5,4,4,5,3.63,4,4,5,5,4,5,4,4
+168,San Salvador,El Salvador,Latin America,3,3,2,4,1,3,3,2,2,3,2,4,4,3.49,3,3,2,1,3,3,5,4
+169,"Boise, ID",United States,North America,3,3,5,3,5,4,4,4,4,3,3,4,2,3.51,4,3,5,4,4,5,2,4
+170,Leipzig,Germany,Europe,4,3,5,3,3,5,4,4,4,3,5,4,3,3.6,4,4,5,5,4,5,3,0
+171,"Pittsburgh, PA",United States,North America,5,3,5,3,5,4,4,4,4,4,4,4,4,3.71,4,3,5,4,5,5,3,4
+172,"Cincinnati, OH",United States,North America,5,3,5,3,5,4,4,4,4,3,3,4,4,3.79,4,3,5,4,5,1,4,4
+173,Tokyo,Japan,Asia,3,4,5,1,2,4,3,5,4,4,4,4,5,3.43,3,3,5,5,5,5,5,2
+174,Rotterdam,Netherlands,Europe,3,3,5,2,5,5,5,5,5,4,4,4,4,3.71,4,5,5,4,4,5,3,4
+175,Antigua,Guatemala,Latin America,2,3,4,4,3,2,4,3,2,5,1,4,3,3.81,5,2,5,2,3,5,4,3
+176,Guelph,Canada,North America,3,3,5,3,5,5,5,4,4,3,3,4,3,3.39,4,4,5,4,4,2,1,4
+177,"Scottsdale, AZ",United States,North America,4,3,5,2,5,4,4,4,4,3,4,4,4,3.69,3,3,5,4,4,1,4,4
+178,Nice,France,Europe,4,3,5,1,3,4,4,5,4,5,5,4,3,3.8,4,3,5,4,4,5,4,5
+179,San José,Costa Rica,Latin America,2,3,5,3,3,4,5,4,3,3,3,4,4,3.53,3,4,5,2,4,5,4,4
+180,Strasbourg,France,Europe,3,3,5,1,3,4,4,5,4,3,3,4,3,3.19,4,3,5,4,4,3,1,4
+181,"Buffalo, NY",United States,North America,4,3,5,3,5,4,4,4,4,4,4,4,4,3.69,5,3,5,4,4,5,3,4
+182,Kaohsiung,Taiwan,Asia,5,3,5,4,2,3,4,5,4,3,4,4,3,3.83,3,3,5,4,4,5,4,5
+183,Alicante,Spain,Europe,3,3,5,3,3,4,4,5,4,4,3,4,4,3.78,3,4,5,5,4,5,4,4
+184,"Denpasar, Bali",Indonesia,Asia,4,3,2,4,3,3,3,3,3,1,1,4,2,3.48,4,1,4,4,3,5,5,4
+185,Taichung,Taiwan,Asia,4,3,4,4,1,3,4,5,4,3,3,4,2,3.8,3,3,5,4,4,5,4,5
+186,Bremen,Germany,Europe,4,3,5,3,3,5,4,4,4,3,5,4,3,3.74,4,4,5,5,4,5,3,3
+187,Shenzhen,China,Asia,4,3,3,4,2,3,3,1,3,3,1,4,3,3.74,3,1,4,4,4,5,4,4
+188,Lille,France,Europe,4,3,5,2,3,4,4,5,4,5,4,4,4,3.68,5,3,5,4,4,5,3,3
+189,Varna,Bulgaria,Europe,4,3,4,4,3,4,2,2,4,4,3,4,3,3.84,3,2,5,4,4,5,5,4
+190,Alanya,Turkey,Europe,3,3,5,4,3,2,3,1,3,3,1,4,3,3.77,4,1,5,3,4,5,4,4
+191,Virginia Beach,United States,North America,4,3,5,1,5,4,4,4,4,4,3,4,4,3.71,3,3,5,4,4,1,4,4
+192,Rijeka,Croatia,Europe,4,3,5,4,3,4,3,4,3,2,3,4,2,3.78,2,3,5,5,4,5,5,4
+193,"Madison, WI",United States,North America,3,3,5,3,5,4,4,4,4,4,3,4,3,3.87,4,3,5,4,5,5,4,4
+194,Dortmund,Germany,Europe,4,3,5,2,3,5,4,4,4,4,3,4,3,3.25,4,4,5,5,4,2,1,4
+195,Burgas,Bulgaria,Europe,4,3,4,4,5,4,2,2,4,3,2,4,2,3.77,2,2,5,4,4,5,5,5
+196,Breda,Netherlands,Europe,3,3,5,1,3,5,5,5,4,4,4,4,3,3.74,4,5,5,5,4,5,3,4
+197,Salt Lake City,United States,North America,5,3,5,3,5,4,4,4,4,3,4,4,3,3.68,3,3,5,4,4,5,4,5
+198,Paris,France,Europe,5,4,5,2,3,4,4,5,4,4,4,4,5,3.55,4,3,5,4,4,5,3,3
+199,Luanda,Angola,Africa,3,3,4,1,4,1,1,0,1,4,3,4,3,3.69,5,2,2,2,3,5,4,3
+200,Lodz,Poland,Europe,3,3,4,4,2,4,3,4,4,4,2,4,3,3.69,3,3,5,5,4,5,3,0
+201,West Palm Beac,United States,North America,4,3,5,1,5,4,4,4,3,4,4,4,1,3.62,3,3,5,4,4,5,5,4
+202,Wollongong,Australia,Oceania,5,3,5,3,5,5,5,4,4,2,5,4,3,3.81,4,4,5,5,5,5,3,5
+203,Tirana,Albania,Europe,3,3,5,4,2,3,2,4,3,3,2,4,4,3.58,3,3,5,4,4,5,5,4
+204,"Honolulu, Hawa",United States,Oceania,5,3,5,2,4,4,4,4,3,5,4,4,4,3.64,4,3,5,5,4,5,5,3
+205,"Wichita, KS",United States,North America,4,3,5,3,5,4,4,4,4,3,3,4,3,3.71,3,3,5,4,4,5,5,4
+206,Cologne,Germany,Europe,4,4,5,3,3,5,4,4,4,4,5,4,4,3.58,2,4,5,5,4,5,3,4
+207,"Washington, DC",United States,North America,5,3,5,2,5,4,4,4,4,4,4,4,3,3.38,4,3,5,3,5,5,3,5
+208,"Omaha, NE",United States,North America,5,3,5,3,5,4,4,4,4,2,3,4,2,3.77,4,3,5,4,4,3,4,0
+209,Ottawa,Canada,North America,3,3,5,3,5,5,5,4,4,3,3,4,2,3.64,3,4,5,4,4,5,3,3
+210,Playa del Carm,Mexico,Latin America,5,3,5,4,3,3,4,3,4,4,3,4,3,3.69,4,1,5,2,4,5,5,3
+211,Quito,Ecuador,Latin America,3,3,4,4,3,2,3,2,3,3,3,4,3,3.4,3,2,2,3,4,3,2,4
+212,Victoria,Canada,North America,4,3,5,3,5,5,5,4,4,2,5,4,3,3.74,4,4,5,4,5,5,2,5
+213,Surrey,Canada,North America,5,3,5,3,5,5,5,4,4,3,5,4,2,3.69,4,4,5,4,5,5,3,5
+214,Bishkek,Kyrgyzstan,Asia,3,3,4,4,2,3,2,1,2,3,3,4,3,3.56,5,2,4,3,3,5,2,5
+215,Kelowna,Canada,North America,4,3,5,2,5,5,5,4,4,5,4,4,3,3.62,4,4,5,4,4,5,2,4
+216,Rethymno,Greece,Europe,5,3,5,2,3,4,3,5,3,2,3,4,2,3.81,5,2,5,4,4,5,5,5
+217,"Ashland, OR",United States,North America,4,3,5,3,5,4,4,4,4,3,3,4,3,3.82,3,3,5,4,5,3,5,4
+218,Krasnodar,Russia,Europe,4,3,5,4,3,2,3,2,4,2,3,4,4,3.5,4,1,5,2,4,5,4,3
+219,"Ogden, UT",United States,North America,5,3,5,3,5,4,4,4,4,2,3,4,4,3.63,3,3,5,4,5,5,3,0
+220,Turku,Finland,Europe,3,3,5,1,4,5,5,4,4,3,3,4,3,3.7,4,5,5,4,5,5,3,5
+221,La Plata,Argentina,Latin America,5,3,5,4,3,4,4,3,3,5,4,4,3,3.87,2,3,5,3,3,5,2,5
+222,Hermosillo,Mexico,Latin America,5,3,5,4,3,3,4,3,4,3,3,4,3,3.42,5,1,5,3,4,5,4,3
+223,El Gouna,Egypt,Middle East,5,3,4,4,5,1,2,3,3,5,5,4,4,3.46,4,1,5,4,4,5,4,3
+224,Windsor,Canada,North America,4,4,5,1,5,5,5,4,4,3,4,4,3,3.64,4,4,5,4,5,5,4,4
+225,Darwin,Australia,Oceania,5,3,5,2,5,5,5,4,4,2,4,4,4,3.72,4,4,5,5,4,5,4,4
+226,Brussels,Belgium,Europe,5,3,5,2,4,5,4,4,5,3,3,4,3,3.32,3,4,5,3,4,5,3,4
+227,Wellington,New Zealand,Oceania,3,3,5,3,5,5,5,4,4,3,5,4,4,3.6,3,4,5,5,4,5,2,5
+228,"Kansas City, M",United States,North America,5,3,5,3,5,4,4,4,5,4,4,4,3,3.67,3,3,5,3,4,5,4,4
+229,"Grand Rapids, ",United States,North America,4,3,5,3,5,4,4,4,5,3,3,4,4,3.75,4,3,5,4,5,5,4,4
+230,Utrecht,Netherlands,Europe,3,3,5,2,5,5,5,5,4,4,5,4,3,3.55,4,5,5,5,4,5,3,4
+231,"Cleveland, OH",United States,North America,5,3,5,3,5,4,4,4,4,3,3,4,4,3.49,3,3,5,4,4,5,3,0
+232,"Huntsville, AL",United States,North America,4,3,5,2,5,4,4,4,4,2,3,4,3,3.8,4,3,5,4,4,3,4,4
+233,Eindhoven,Netherlands,Europe,3,3,5,2,5,5,5,5,5,3,5,4,3,3.57,3,5,5,5,4,5,3,4
+234,Espoo,Finland,Europe,2,3,5,2,4,5,5,4,4,4,4,4,4,3.46,4,5,5,4,4,5,3,4
+235,"St. Louis, MO",United States,North America,4,3,5,3,5,4,4,4,4,2,5,4,2,3.74,3,3,5,3,5,5,5,4
+236,Montevideo,Uruguay,Latin America,3,3,5,3,2,4,4,3,4,3,4,4,3,3.8,3,4,4,3,4,5,3,5
+237,Bogota,Colombia,Latin America,2,4,4,4,2,2,4,4,3,4,3,4,3,3.17,3,1,4,2,4,5,2,4
+238,Nottingham,United Kingdom,Europe,2,3,5,3,5,4,4,3,4,3,4,4,4,3.55,3,3,5,4,4,5,3,3
+239,Auckland,New Zealand,Oceania,3,5,5,2,5,5,5,4,4,3,5,4,3,3.38,3,4,5,5,5,5,3,4
+240,Aachen,Germany,Europe,2,3,5,3,4,5,4,4,4,3,4,4,4,3.59,3,4,5,5,4,5,3,4
+241,Luxembourg,Germany,Europe,4,3,5,2,3,5,4,5,4,3,3,4,3,3.6,5,4,5,5,4,5,3,4
+242,"Bridgeport, CT",United States,North America,4,3,5,1,5,4,4,4,4,4,4,4,3,3.59,3,3,5,4,4,5,2,4
+243,Canberra,Australia,Oceania,5,3,5,2,5,5,5,4,4,2,4,4,2,3.55,4,4,5,5,5,5,2,5
+244,Bocas del Toro,Panama,Latin America,2,3,2,4,3,4,4,3,4,5,4,4,4,3.4,3,2,5,2,3,3,5,4
+245,Cairns,Australia,Oceania,5,4,5,3,5,5,5,4,4,2,4,4,2,3.71,4,4,5,5,4,5,5,4
+246,"Providence, RI",United States,North America,4,3,5,2,5,4,4,4,4,4,3,4,3,3.55,3,3,5,4,4,1,2,4
+247,Madrid,Spain,Europe,5,3,5,3,3,4,4,5,4,4,5,4,4,3.78,3,4,5,5,4,5,3,4
+248,Tampere,Finland,Europe,3,3,5,1,4,5,5,4,4,4,4,4,4,3.67,4,5,5,4,5,5,3,5
+249,Kuwait City,Kuwait,Middle East,3,3,3,4,3,4,4,4,2,4,1,4,2,3.75,3,2,5,4,3,5,2,4
+250,Hobart,Australia,Oceania,5,3,5,2,5,5,5,4,4,3,4,4,3,3.59,4,4,5,5,4,5,2,5
+251,Helsinki,Finland,Europe,3,3,5,2,4,5,5,4,4,4,5,4,4,3.52,4,5,5,4,4,5,3,5
+252,"San Jose, CA",United States,North America,4,3,5,1,5,4,4,4,4,2,5,4,3,3.67,4,3,5,4,5,5,3,4
+253,Brighton,United Kingdom,Europe,3,3,5,1,4,4,4,3,4,3,4,4,4,3.5,3,3,5,4,5,5,3,4
+254,Tilburg,Netherlands,Europe,3,3,5,1,3,5,5,5,4,4,4,4,3,3.24,4,5,5,5,4,5,1,4
+255,Natal,Brazil,Latin America,4,3,5,4,2,3,4,2,3,4,5,4,5,3.61,2,2,2,2,4,5,4,4
+256,Oulu,Finland,Europe,3,3,5,3,4,5,5,4,4,3,4,4,2,3.66,2,5,5,4,4,5,2,5
+257,Bologna,Italy,Europe,3,3,5,1,2,4,3,5,4,3,3,4,3,3.71,3,3,5,4,4,5,5,5
+258,Tbilisi,Georgia,Europe,3,3,4,4,3,2,2,2,3,4,2,4,3,3.49,3,3,5,4,3,3,3,3
+259,"Santa Fe, NM",United States,North America,4,3,5,1,4,4,4,4,4,4,3,4,4,3.64,4,3,5,4,4,5,4,4
+260,"Princeton, NJ",United States,North America,4,3,5,2,5,4,4,4,3,3,3,4,4,3.51,5,3,5,4,4,2,2,4
+261,Yangon,Myanmar,Asia,4,3,4,4,3,1,2,0,2,5,2,3,2,3.42,3,3,5,3,3,3,4,4
+262,Hong Kong,China,Asia,5,3,4,2,3,3,3,1,4,5,4,4,5,3.46,2,1,4,4,4,5,4,4
+263,"Bellingham, WA",United States,North America,2,3,5,3,5,4,4,4,4,3,4,4,2,3.66,3,3,5,4,4,5,2,4
+264,"Anchorage, AK",United States,North America,2,3,5,2,5,4,4,4,3,3,3,4,3,3.62,5,3,5,4,4,5,2,4
+265,"Kauai, Hawaii",United States,Oceania,4,3,5,2,5,4,4,4,5,5,3,4,4,3.44,3,3,5,4,4,3,5,4
+266,Adelaide,Australia,Oceania,5,5,5,2,5,5,5,4,3,2,5,4,4,3.34,4,4,5,5,4,5,3,4
+267,Grande Prairie,Canada,North America,3,3,5,2,5,5,5,4,4,3,3,4,3,3.5,4,4,5,4,5,5,2,4
+268,"Ciutadella, Me",Spain,Europe,3,3,5,2,3,4,4,5,4,5,3,4,1,3.68,3,4,5,5,4,5,4,5
+269,"Dayton, OH",United States,North America,5,3,5,1,5,4,4,4,4,3,3,4,3,3.6,3,3,5,4,4,5,4,5
+270,"Hartford, CT",United States,North America,4,3,5,2,5,4,4,4,4,2,4,4,2,3.52,4,3,5,4,5,5,2,5
+271,"Denver, CO",United States,North America,3,3,5,1,5,4,4,4,4,4,4,4,3,3.31,3,3,5,4,5,5,3,3
+272,Winnipeg,Canada,North America,4,3,5,3,5,5,5,4,4,3,5,4,2,3.54,3,4,5,4,5,5,2,4
+273,"Sanur, Bali",Indonesia,Asia,0,3,2,4,3,3,3,3,2,3,1,4,1,3.16,2,1,4,4,3,5,5,0
+274,Verona,Italy,Europe,4,3,5,1,3,4,3,5,3,3,2,4,3,3.71,4,3,5,4,4,5,5,4
+275,Queretaro,Mexico,Latin America,3,3,5,4,2,3,4,3,4,4,3,4,2,3.45,2,1,5,3,4,5,3,3
+276,Nanaimo,Canada,North America,3,3,5,3,5,5,5,4,4,3,5,4,2,3.6,3,4,5,4,4,5,2,4
+277,"Norfolk, VA",United States,North America,5,3,5,3,5,4,4,4,4,3,3,4,2,3.5,2,3,5,4,4,5,4,0
+278,"Boston, MA",United States,North America,5,3,5,2,5,4,4,4,4,4,4,4,3,3.25,4,3,5,4,5,5,2,4
+279,"Cagliari, Sard",Italy,Europe,3,3,5,2,2,4,3,5,4,3,2,4,4,3.21,3,3,5,5,4,1,1,5
+280,Malmo,Sweden,Europe,3,3,5,3,4,5,5,4,5,4,3,4,4,3.51,4,4,5,4,5,5,3,3
+281,Barranquilla,Colombia,Latin America,3,3,4,4,2,2,4,4,3,3,3,4,4,3.44,2,1,4,2,3,5,5,0
+282,Galway,Ireland,Europe,2,3,5,1,5,5,4,5,4,4,3,4,4,3.57,4,4,5,5,5,5,3,4
+283,Chengdu,China,Asia,4,3,1,4,1,3,3,1,2,3,3,3,3,3.51,3,1,4,4,3,5,3,3
+284,Gothenburg,Sweden,Europe,3,3,5,2,4,5,5,4,4,5,4,4,3,3.4,4,4,5,4,4,5,3,4
+285,Bergen,Norway,Europe,2,3,5,2,4,5,5,5,4,4,4,4,3,3.43,4,5,5,5,5,5,2,4
+286,Chongqing,China,Asia,4,3,1,4,1,3,3,1,3,3,3,3,3,3.68,3,1,4,4,3,5,5,4
+287,Haarlem,Netherlands,Europe,3,3,5,1,3,5,5,5,4,4,5,4,3,3.47,4,5,5,5,4,5,3,4
+288,Marbella,Spain,Europe,4,3,5,1,3,4,4,5,4,4,4,4,4,3.48,4,4,5,5,4,2,4,4
+289,Yogyakarta,Indonesia,Asia,2,3,2,4,2,3,3,3,2,3,1,4,3,3.44,3,1,4,4,3,5,4,4
+290,Bristol,United Kingdom,Europe,2,3,5,2,5,4,4,3,4,5,5,4,4,3.41,3,3,5,5,4,5,3,3
+291,Aalborg,Denmark,Europe,2,3,5,1,4,5,5,4,4,3,4,4,4,3.57,3,5,5,5,4,5,4,4
+292,Nis,Serbia,Europe,5,3,5,4,3,3,3,0,4,3,1,4,3,3.45,5,3,5,4,4,5,5,3
+293,"Minneapolis, M",United States,North America,5,3,5,1,5,4,4,4,4,4,4,4,3,3.68,5,3,5,4,4,5,4,3
+294,Byron Bay,Australia,Oceania,3,3,5,1,5,5,5,4,4,4,3,4,3,3.63,3,4,5,4,4,1,4,4
+295,"Palo Alto, CA",United States,North America,4,3,5,2,5,4,4,4,4,3,5,4,2,3.51,5,3,5,4,5,3,3,4
+296,Salzburg,Austria,Europe,3,3,5,1,3,5,4,5,4,3,3,4,2,3.55,3,4,5,5,4,5,4,6
+297,Leiden,Netherlands,Europe,5,3,5,2,5,5,5,5,5,4,5,4,3,3.47,3,5,5,5,5,5,3,4
+298,Curitiba,Brazil,Latin America,0,3,5,4,2,3,4,2,3,4,3,4,3,3.62,4,2,2,2,4,5,4,3
+299,Javea,Spain,Europe,4,3,5,2,3,4,4,5,4,4,4,4,3,3.58,4,4,5,5,4,2,4,5
+300,Kathmandu,Nepal,Asia,3,3,2,4,5,1,2,1,2,5,3,3,3,3.53,2,2,4,4,3,5,4,4
+301,Hanoi,Vietnam,Asia,3,3,5,4,2,3,2,1,2,3,2,4,2,3.19,4,1,4,4,3,5,3,3
+302,Essaouira,Morocco,Africa,0,3,4,4,0,3,3,4,3,0,0,4,0,3.35,0,1,4,3,3,5,3,0
+303,"Battle Creek, ",United States,North America,4,3,5,3,5,4,4,4,4,3,3,4,3,3.48,3,3,5,4,4,5,4,4
+304,Manchester,United Kingdom,Europe,5,3,5,2,5,4,4,3,4,4,4,4,4,3.21,4,3,5,4,4,5,3,3
+305,Grenoble,France,Europe,3,3,5,3,3,4,4,5,4,3,4,4,2,3.6,3,3,5,4,4,5,4,5
+306,Qingdao,China,Asia,4,3,1,4,1,3,3,1,2,3,3,3,3,3.44,3,1,4,4,3,5,4,4
+307,Dresden,Germany,Europe,2,3,5,3,4,5,4,4,4,3,4,4,4,3.45,2,4,5,5,4,5,3,4
+308,Nijmegen,Netherlands,Europe,3,3,5,1,5,5,5,5,4,3,3,4,3,3.49,3,5,5,5,4,5,3,4
+309,Kosice,Slovakia,Europe,3,3,5,4,3,4,4,3,4,4,1,4,2,3.52,3,4,5,4,4,5,4,3
+310,Liverpool,United Kingdom,Europe,3,3,5,3,5,4,4,3,4,4,3,4,4,3.39,4,3,5,5,5,5,3,3
+311,Tromso,Norway,Europe,3,3,5,1,4,5,5,5,4,4,3,4,4,3.54,3,5,5,5,4,5,1,4
+312,Dunedin,New Zealand,Oceania,4,3,5,3,5,5,5,4,4,3,3,4,4,3.56,4,4,5,5,4,5,1,4
+313,"Hilo, Hawaii",United States,Oceania,4,3,5,2,5,4,4,4,3,4,4,4,3,3.54,4,3,5,5,4,5,5,3
+314,Chiang Rai,Thailand,Asia,3,3,4,4,3,2,4,1,4,4,2,4,3,3.36,3,1,2,3,4,5,5,3
+315,Moncton,Canada,North America,5,3,5,3,5,5,5,4,4,3,4,4,3,3.5,4,4,5,4,4,5,1,4
+316,Nha Trang,Vietnam,Asia,2,3,5,4,2,3,2,1,4,4,3,4,3,3.29,3,1,4,4,4,3,4,3
+317,The Hague,Netherlands,Europe,3,3,5,1,5,5,5,5,5,4,5,4,3,3.4,4,5,5,5,4,5,3,4
+318,"Baltimore, MD",United States,North America,4,4,5,1,5,4,4,4,4,3,2,4,3,3.4,4,3,5,3,4,5,3,4
+319,Manama,Bahrain,Middle East,4,3,0,3,4,3,4,4,3,4,1,4,4,3.39,4,1,5,4,3,5,2,4
+320,Bansko,Bulgaria,Europe,3,3,5,4,3,4,2,2,4,5,3,4,3,3.52,2,2,5,4,4,3,4,4
+321,Basel,Switzerland,Europe,3,3,5,2,3,5,5,5,4,3,3,4,3,3.02,5,4,5,5,4,5,3,3
+322,"Charleston, SC",United States,North America,5,3,5,2,5,4,4,4,4,3,4,4,3,3.32,3,3,5,4,4,5,4,5
+323,Aarhus,Denmark,Europe,2,3,5,2,4,5,5,4,4,4,4,4,4,3.34,4,5,5,5,4,5,3,4
+324,Mexico City,Mexico,Latin America,5,5,4,4,3,3,4,3,4,4,3,4,4,3.25,3,1,5,2,4,5,3,3
+325,El Jadida,Morocco,Africa,5,3,4,4,3,3,3,4,3,3,1,4,3,2.92,3,1,4,4,3,3,1,5
+326,"Tenerife, Cana",Spain,Europe,4,3,4,4,3,4,4,5,4,5,4,4,4,3.13,3,4,5,5,4,5,3,3
+327,Bucaramanga,Colombia,Latin America,3,3,4,4,2,2,4,4,2,3,3,4,4,3.46,2,1,4,2,3,5,3,0
+328,Kaliningrad,Russia,Europe,2,3,5,4,3,2,3,2,4,2,1,4,2,2.86,1,1,5,2,4,5,1,4
+329,Jerusalem,Israel,Middle East,4,3,4,2,4,3,5,4,4,3,4,4,5,3.47,2,2,5,4,5,5,5,3
+330,Zwolle,Netherlands,Europe,4,3,5,1,4,5,5,5,4,2,4,4,2,3.45,4,5,5,5,4,5,3,4
+331,Abu Dhabi,United Arab Emira,Middle East,5,3,1,1,5,4,4,1,3,5,1,3,3,3.49,4,2,5,5,3,5,2,4
+332,"Bedford, OH",United States,North America,4,3,5,2,5,4,4,4,4,3,3,4,3,3.42,3,3,5,4,4,2,4,4
+333,"Riverside, CA",United States,North America,4,3,5,2,5,4,4,4,4,4,3,4,3,2.9,2,3,5,5,4,1,1,4
+334,Sharjah,United Arab Emira,Middle East,5,3,2,3,5,4,4,1,3,2,1,4,1,3.79,4,2,5,4,3,5,3,4
+335,"Park City, UT",United States,North America,5,3,5,2,5,4,4,4,4,3,3,4,1,3.46,4,3,5,4,4,3,3,5
+336,Aalesund,Norway,Europe,3,3,5,1,3,5,5,5,5,3,4,4,3,3.36,3,5,5,5,4,5,2,0
+337,Luton,United Kingdom,Europe,4,3,5,2,5,4,4,3,4,4,4,4,3,3.31,4,3,5,5,4,3,2,4
+338,Guayaquil,Ecuador,Latin America,3,3,4,4,2,2,3,2,3,3,3,4,3,2.7,2,2,2,3,3,5,1,0
+339,Sheffield,United Kingdom,Europe,4,3,5,2,5,4,4,3,4,3,3,4,3,3.24,4,3,5,5,4,5,3,4
+340,Pretoria,South Africa,Africa,4,3,1,4,5,3,2,1,2,4,4,3,4,2.99,4,3,2,2,3,5,1,4
+341,Milan,Italy,Europe,3,3,5,1,3,4,3,5,4,4,3,4,4,3.11,1,3,5,4,4,5,4,4
+342,Edinburgh,United Kingdom,Europe,4,3,5,2,5,4,4,3,4,4,4,4,4,3.34,4,3,5,5,5,5,2,4
+343,Halifax,Canada,North America,1,3,5,3,5,5,5,4,4,3,3,4,2,3.41,3,4,5,4,4,5,1,3
+344,"Stamford, CT",United States,North America,3,3,5,2,5,4,4,4,3,3,5,4,2,3.32,4,3,5,2,4,5,2,5
+345,Leuven,Belgium,Europe,3,3,5,3,3,5,4,4,5,3,3,4,3,3.45,4,4,5,4,4,1,3,4
+346,Nanchang,China,Asia,4,3,0,4,1,3,3,1,2,2,2,3,3,3.33,2,1,4,4,3,5,4,4
+347,Brampton,Canada,North America,5,3,5,2,5,5,5,4,4,3,3,4,4,3.24,5,4,5,4,4,5,2,3
+348,"Atlanta, GA",United States,North America,5,3,5,3,5,4,4,4,4,4,4,4,3,3.14,3,3,5,3,4,5,4,3
+349,Regina,Canada,North America,5,3,5,3,5,5,5,4,3,3,5,4,3,3.37,2,4,5,4,4,5,2,3
+350,Bandung,Indonesia,Asia,3,3,3,4,2,3,3,3,3,3,2,4,3,2.72,4,1,4,4,4,5,1,3
+351,Split,Croatia,Europe,3,3,5,1,3,4,3,4,3,3,3,4,3,3.48,2,3,5,4,3,5,5,3
+352,Merida,Mexico,Latin America,3,3,5,4,1,3,4,3,4,3,3,4,2,3.41,1,1,5,3,4,5,5,4
+353,"Santa Barbara,",United States,North America,4,3,5,2,5,4,4,4,4,4,4,4,4,3.43,2,3,5,4,4,1,3,4
+354,Cairo,Egypt,Middle East,3,3,5,4,2,1,2,3,2,3,1,4,3,3.1,4,1,5,3,3,5,5,3
+355,"Nashville, TN",United States,North America,5,3,5,2,5,4,4,4,4,4,3,4,4,3.44,5,3,5,4,4,5,5,3
+356,"Boulder, CO",United States,North America,3,3,5,1,5,4,4,4,4,4,4,5,4,3.37,4,3,5,4,5,5,3,3
+357,Jarabacoa,Dominican Republi,Latin America,1,3,4,3,2,3,3,4,3,3,2,4,3,3.31,2,3,2,2,3,3,5,5
+358,São Paulo,Brazil,Latin America,4,4,4,4,2,3,4,2,3,5,4,4,5,3.25,3,2,2,2,4,5,4,4
+359,Modena,Italy,Europe,5,3,5,2,4,4,3,5,4,4,4,4,3,3.35,4,3,5,4,4,5,4,3
+360,Reykjavik,Iceland,Europe,5,3,5,2,4,5,5,5,4,3,5,4,3,3.08,4,4,5,5,4,3,1,5
+361,"Ajaccio, Corsi",France,Europe,3,3,5,2,2,4,4,5,4,3,3,4,2,3.38,3,3,5,4,4,5,5,4
+362,Bilbao,Spain,Europe,5,3,5,3,2,4,4,5,4,3,4,4,3,3.3,1,4,5,4,4,5,3,3
+363,Goa,India,Asia,2,3,5,4,3,2,2,2,3,5,3,4,5,3.07,2,1,4,3,4,2,5,3
+364,Kralendijk,Bonaire,Latin America,3,3,4,4,3,3,0,0,4,4,3,4,4,2.66,3,3,5,3,4,5,1,3
+365,A Coruna,Spain,Europe,2,3,5,3,2,4,4,5,4,3,3,4,3,3.32,5,4,5,5,4,5,3,3
+366,Thessaloniki,Greece,Europe,3,3,5,3,3,4,3,5,3,4,4,4,3,3.28,4,2,5,4,4,5,5,3
+367,Kazan,Russia,Europe,3,3,5,3,1,2,3,2,4,3,1,4,3,3.24,2,1,5,2,4,5,3,4
+368,Cheltenham,United Kingdom,Europe,3,3,5,2,5,4,4,3,4,3,3,4,3,3.24,3,3,5,4,4,1,3,4
+369,Istanbul,Turkey,Europe,4,3,4,4,3,2,3,1,3,4,2,4,5,2.73,4,1,5,4,4,5,1,3
+370,Marrakesh,Morocco,Africa,3,3,4,4,3,3,3,4,3,5,3,4,4,3.4,4,1,4,3,4,5,3,3
+371,Lelystad,Netherlands,Europe,3,3,5,2,3,5,5,5,5,3,4,4,1,3.26,4,5,5,5,4,5,3,4
+372,Oslo,Norway,Europe,3,3,5,2,4,5,5,5,4,4,4,4,3,2.88,3,5,5,5,4,2,3,3
+373,Arnhem,Netherlands,Europe,3,3,5,2,3,5,5,5,5,2,4,4,1,2.94,3,5,5,5,4,1,1,4
+374,Caye Caulker,Belize,Latin America,2,3,5,3,5,3,3,3,3,4,1,4,1,3.15,1,3,4,2,3,1,4,0
+375,Whistler,Canada,North America,4,3,5,3,5,5,5,4,5,3,3,4,3,3.16,4,4,5,4,4,2,0,4
+376,Poznan,Poland,Europe,5,3,5,4,3,4,3,4,4,3,2,4,3,3.18,2,3,5,4,4,5,3,3
+377,Kuching,Malaysia,Asia,3,3,5,4,3,3,4,4,3,3,2,4,2,3.27,3,1,2,4,4,5,3,3
+378,Lima,Peru,Latin America,2,3,2,4,2,3,3,2,3,4,2,3,3,2.86,4,3,5,3,3,5,2,2
+379,Leeuwarden,Netherlands,Europe,3,3,5,2,3,5,5,5,5,3,2,4,2,2.89,3,5,5,5,4,5,1,4
+380,Osijek,Croatia,Europe,4,3,5,4,3,4,3,4,3,2,3,4,2,2.67,3,3,5,4,4,5,1,3
+381,"Chicago, IL",United States,North America,3,3,5,1,5,4,4,4,4,3,3,4,3,3.29,4,3,5,3,4,5,4,3
+382,Craiova,Romania,Europe,3,3,5,4,2,4,3,3,4,2,2,4,3,3.14,3,3,5,4,4,2,5,3
+383,"Ithaca, NY",United States,North America,4,3,5,2,5,4,4,4,4,3,3,4,3,3.23,3,3,5,4,4,5,2,4
+384,Jakarta,Indonesia,Asia,3,4,1,4,3,3,3,3,3,3,1,4,3,2.58,5,1,4,4,3,5,1,3
+385,Dubai,United Arab Emira,Middle East,5,4,2,1,4,4,4,1,3,4,1,4,3,3.48,4,2,5,5,4,5,3,3
+386,"Fairfax, VA",United States,North America,3,3,5,1,5,4,4,4,4,2,4,4,4,3.23,4,3,5,4,4,5,3,4
+387,York,United Kingdom,Europe,2,3,5,2,5,4,4,3,4,3,3,4,3,3.27,3,3,5,4,5,1,3,4
+388,Thiruvananthap,India,Asia,2,3,4,4,3,2,2,2,2,3,2,4,1,2.98,2,1,4,3,3,3,4,2
+389,"Philipsburg, S",Sint Maarten,Latin America,4,3,4,2,4,3,0,0,3,3,2,3,3,3.12,3,3,5,2,3,3,5,4
+390,Kingston,Jamaica,Latin America,2,3,4,4,5,3,3,4,3,5,1,4,4,3.28,3,4,5,2,4,2,4,3
+391,Stuttgart,Germany,Europe,3,3,5,3,4,5,4,4,4,4,5,4,4,3.12,2,4,5,5,4,5,4,3
+392,Colombo,Sri Lanka,Asia,4,3,3,4,4,2,2,3,3,4,2,4,2,3.1,3,1,5,4,3,5,4,3
+393,Malaga,Spain,Europe,5,3,5,3,3,4,4,5,4,4,3,4,3,3.12,3,4,5,5,4,5,4,2
+394,Bruges,Belgium,Europe,3,3,5,1,3,5,4,4,5,3,3,4,4,2.87,4,4,5,4,4,1,1,4
+395,"Salem, MA",United States,North America,4,3,5,2,5,4,4,4,5,3,3,4,3,3.25,3,3,5,4,4,2,2,4
+396,Brno,Czechia,Europe,3,3,5,4,3,4,0,4,4,3,3,4,3,3.07,3,3,5,5,4,5,4,3
+397,Cirebon,Indonesia,Asia,3,3,2,4,2,3,3,3,3,3,1,4,2,2.97,4,1,4,4,3,3,4,3
+398,Bournemouth,United Kingdom,Europe,1,3,5,2,5,4,4,3,4,3,4,4,4,3.09,4,3,5,5,4,5,3,3
+399,Kampala,Uganda,Africa,2,3,1,4,3,1,1,5,1,3,2,3,2,2.7,4,2,2,2,2,5,1,0
+400,Surabaya,Indonesia,Asia,3,3,0,4,3,3,3,3,3,3,2,4,1,2.93,1,1,4,4,3,5,3,3
+401,Nantes,France,Europe,2,3,5,3,3,4,4,5,4,3,4,4,3,3.07,3,3,5,4,4,5,3,2
+402,Konya,Turkey,Europe,4,3,3,4,0,2,3,1,3,3,1,4,0,3.1,0,1,5,4,3,3,4,3
+403,Khartoum,Sudan,Africa,3,3,4,4,3,1,1,2,1,2,1,4,2,3.12,2,1,2,2,3,1,3,5
+404,Fortaleza,Brazil,Latin America,3,3,5,4,3,3,4,2,4,4,3,4,2,3.09,3,2,2,2,4,5,5,3
+405,Venice,Italy,Europe,5,3,4,2,3,4,3,5,4,5,4,4,4,2.71,4,3,5,4,4,3,1,4
+406,Leeds,United Kingdom,Europe,5,3,5,3,5,4,4,3,4,5,3,4,4,3.07,4,3,5,4,4,5,3,3
+407,Tabriz,Iran,Middle East,3,3,3,5,3,2,2,3,2,3,2,4,2,3.08,1,1,2,3,3,5,5,5
+408,Salvador,Brazil,Latin America,3,3,5,4,2,3,4,2,3,3,4,4,4,3.06,3,2,2,2,4,3,5,3
+409,"Portland, OR",United States,North America,5,3,5,2,5,4,4,4,4,5,4,4,3,3.17,4,3,5,4,4,5,3,3
+410,Siem Reap,Cambodia,Asia,1,4,4,4,3,2,2,1,3,3,3,3,2,3.09,3,1,5,4,3,5,4,2
+411,Mysore,India,Asia,2,3,5,4,4,2,2,2,2,3,2,4,3,3.06,3,1,4,3,3,1,5,3
+412,Campinas,Brazil,Latin America,3,3,5,4,2,3,4,2,4,3,3,4,2,3.11,3,2,2,2,4,5,4,3
+413,Deventer,Netherlands,Europe,3,3,5,2,3,5,5,5,5,2,4,4,2,3.03,3,5,5,5,4,1,3,4
+414,Cape Town,South Africa,Africa,3,4,1,4,5,3,2,1,2,4,4,3,4,3.02,4,3,2,2,3,5,3,4
+415,"Tulsa, OK",United States,North America,4,3,5,4,5,4,4,4,4,4,3,4,3,2.67,2,3,5,4,4,5,1,3
+416,Quebec City,Canada,North America,5,3,5,3,3,5,5,4,4,3,5,4,2,2.94,4,4,5,4,5,5,1,3
+417,Haifa,Israel,Middle East,4,3,5,1,4,3,5,4,4,4,3,4,3,3.06,3,2,5,4,4,5,5,3
+418,Dublin,Ireland,Europe,2,3,5,2,5,5,4,5,4,3,4,4,4,2.92,3,4,5,5,4,5,1,2
+419,Odesa,Ukraine,Europe,3,3,5,4,2,2,1,1,4,3,1,4,2,3.04,3,2,5,3,4,5,4,3
+420,Graz,Austria,Europe,2,3,5,3,3,5,4,5,4,3,4,4,3,3.11,3,4,5,5,4,5,4,3
+421,Edmonton,Canada,North America,2,3,5,3,5,5,5,4,3,2,3,4,2,2.93,3,4,5,4,4,5,2,2
+422,Puerto Vallart,Mexico,Latin America,2,3,5,4,5,3,4,3,4,4,4,4,3,3.1,3,1,5,3,4,5,5,3
+423,"George Town, P",Malaysia,Asia,3,3,5,4,3,3,4,4,2,3,1,4,2,3.12,3,1,2,4,3,5,3,3
+424,Wrocław,Poland,Europe,0,3,4,4,3,4,3,4,4,4,3,4,3,2.97,2,3,5,4,4,5,3,3
+425,Calgary,Canada,North America,1,3,5,3,5,5,5,4,4,3,3,4,3,2.95,3,4,5,4,4,5,2,3
+426,Mui Ne,Vietnam,Asia,3,3,5,4,2,3,2,1,4,3,2,4,2,2.97,3,1,4,4,4,2,4,3
+427,Chatham,Canada,North America,5,3,5,4,5,5,5,4,4,2,3,4,2,2.98,3,4,5,4,4,5,3,3
+428,Bandar Seri Be,Brunei,Asia,3,3,4,4,2,3,0,4,3,2,1,4,2,3.13,4,1,5,4,4,3,3,3
+429,General Santos,Philippines,Asia,2,3,4,4,4,2,3,4,3,3,3,4,3,3.03,4,1,5,3,4,3,4,3
+430,"Oxnard, CA",United States,North America,4,3,5,3,5,4,4,4,4,4,3,4,3,3.18,3,3,5,5,4,5,3,3
+431,"Provo, UT",United States,North America,5,3,5,3,5,4,4,4,4,2,3,5,4,3.13,3,3,5,4,5,5,3,3
+432,Cartagena,Colombia,Latin America,2,4,5,4,1,2,4,4,3,5,2,4,4,3.05,3,1,4,2,4,5,5,3
+433,Shantou,China,Asia,3,3,3,4,1,3,3,1,2,3,2,4,2,3.01,3,1,4,4,3,5,4,3
+434,Paphos,Cyprus,Europe,4,3,5,3,4,3,3,4,3,4,3,4,4,3.11,2,4,5,4,4,3,5,3
+435,Phnom Penh,Cambodia,Asia,3,4,4,4,3,2,2,1,2,3,3,3,2,2.98,3,1,5,3,3,3,4,3
+436,"Indianapolis, ",United States,North America,5,3,5,3,5,4,4,4,4,3,4,4,2,3.09,3,3,5,4,4,5,4,3
+437,"Columbus, OH",United States,North America,5,3,5,2,5,4,4,4,4,3,4,4,3,3.04,3,3,5,4,4,5,4,3
+438,Luang Prabang,Laos,Asia,3,3,4,4,2,2,0,1,3,4,2,4,3,3.18,3,1,4,3,3,5,4,2
+439,Montpellier,France,Europe,4,3,5,2,2,4,4,5,4,3,4,4,3,3.02,3,3,5,4,4,3,4,3
+440,McLeod Ganj,India,Asia,3,3,5,4,3,2,2,2,3,2,1,4,2,3,3,1,4,3,4,1,5,3
+441,Darmstadt,Germany,Europe,3,3,5,3,3,5,4,4,4,3,3,4,3,2.91,3,4,5,5,4,5,3,3
+442,Fukuoka,Japan,Asia,4,3,5,3,2,4,3,5,4,4,3,4,3,3.07,1,3,5,5,4,2,5,3
+443,Ivano-Frankivs,Ukraine,Europe,3,3,5,4,2,2,1,1,4,2,1,4,3,3.13,3,2,5,3,4,5,5,3
+444,Avignon,France,Europe,3,3,5,2,2,4,4,5,5,3,3,4,3,2.99,4,3,5,4,4,1,4,3
+445,Kandy,Sri Lanka,Asia,2,3,5,4,3,2,2,3,3,4,2,4,3,3.21,3,1,5,4,4,1,5,3
+446,Conakry,Guinea,Africa,3,3,4,3,2,1,1,1,1,2,1,3,1,2.89,2,2,4,3,3,5,5,0
+447,Kharkiv,Ukraine,Europe,3,3,5,4,2,2,1,1,4,2,1,4,4,3.12,3,2,5,3,4,5,4,3
+448,"Houston, TX",United States,North America,5,3,5,2,5,4,4,4,4,3,3,4,4,3.02,3,3,5,3,4,5,5,3
+449,"Fargo, ND",United States,North America,5,3,5,3,5,4,4,4,4,3,3,4,3,3.01,3,3,5,4,4,5,2,3
+450,Rhodes,Greece,Europe,3,3,5,2,3,4,3,5,3,4,2,4,4,2.96,3,2,5,4,3,3,5,3
+451,Guangzhou,China,Asia,4,3,3,4,1,3,3,1,3,4,2,3,3,3.09,2,1,4,4,3,5,5,2
+452,George Town,Cayman Islands,Latin America,0,3,5,2,5,3,0,0,3,2,3,4,2,3.09,4,3,5,4,4,2,4,4
+453,St. Catharines,Canada,North America,4,3,5,4,5,5,5,4,4,2,5,4,2,3.05,3,4,5,4,4,5,3,3
+454,Fes,Morocco,Africa,3,3,4,4,2,3,3,4,3,4,2,4,2,3.09,3,1,4,3,4,5,3,3
+455,Bangalore,India,Asia,2,3,0,4,5,2,2,2,3,3,2,3,3,3.03,3,1,4,3,3,5,4,3
+456,Ulaanbaatar,Mongolia,Asia,2,3,1,4,2,4,2,1,2,3,2,3,2,3.04,1,3,5,3,3,5,3,4
+457,Birmingham,United Kingdom,Europe,2,3,5,1,5,4,4,3,4,4,5,4,3,2.88,3,3,5,5,4,5,3,3
+458,"Santa Monica, ",United States,North America,5,3,5,2,5,4,4,4,4,3,3,4,2,3.01,4,3,5,4,4,5,4,5
+459,Khulna,Bangladesh,Asia,3,3,1,4,4,1,2,3,1,4,2,3,2,2.83,2,1,5,3,3,5,3,2
+460,Saskatoon,Canada,North America,5,3,5,3,5,5,5,4,4,3,5,4,2,3.02,3,4,5,4,5,5,2,3
+461,Santa Marta,Colombia,Latin America,2,3,4,4,1,2,4,4,3,3,3,4,2,2.95,1,1,4,2,3,5,4,3
+462,Norwich,United Kingdom,Europe,3,3,5,2,5,4,4,3,3,3,5,4,4,3,4,3,5,4,4,5,3,3
+463,Giza,Egypt,Middle East,3,3,5,4,3,1,2,3,3,3,1,4,4,3.08,3,1,5,3,4,1,5,3
+464,San Juan,Puerto Rico,Latin America,5,3,4,2,5,3,0,0,3,4,4,4,2,2.96,4,3,5,3,3,3,5,3
+465,Heidelberg,Germany,Europe,3,3,5,3,3,5,4,4,4,3,2,4,3,2.86,3,4,5,5,4,3,3,3
+466,Kollam,India,Asia,4,3,4,4,4,2,2,2,3,3,2,4,1,2.97,3,1,4,3,4,1,4,3
+467,Christchurch,New Zealand,Oceania,3,4,5,3,5,5,5,4,5,4,3,4,3,2.89,2,4,5,5,4,5,2,3
+468,Munich,Germany,Europe,5,3,5,1,5,5,4,4,4,4,5,4,5,2.93,3,4,5,5,4,5,4,3
+469,Katowice,Poland,Europe,5,3,4,4,3,4,3,4,4,3,3,4,3,2.92,3,3,5,4,4,5,4,3
+470,Arequipa,Peru,Latin America,5,3,5,4,2,3,3,2,3,3,2,4,3,2.87,3,3,5,3,4,5,2,2
+471,Rimini,Italy,Europe,3,3,5,1,3,4,3,5,4,3,2,4,3,3.02,3,3,5,4,4,1,5,3
+472,Hagen,Germany,Europe,3,3,5,4,3,5,4,4,4,3,2,4,3,2.8,3,4,5,5,4,1,3,3
+473,Jyvaskyla,Finland,Europe,4,3,5,1,4,5,5,4,4,1,5,4,4,3.05,4,5,5,4,5,5,3,3
+474,Florence,Italy,Europe,3,3,5,1,3,4,3,5,4,5,3,4,2,2.97,4,3,5,4,4,5,5,3
+475,"Detroit, MI",United States,North America,5,3,5,2,5,4,4,4,4,3,3,4,3,3.05,3,3,5,3,4,5,4,3
+476,Monaco,France,Europe,4,4,5,2,4,3,0,5,4,5,3,5,4,3.08,4,3,5,5,5,5,4,3
+477,Bielefeld,Germany,Europe,3,3,5,3,3,5,4,4,4,3,3,4,3,2.87,3,4,5,5,4,2,3,3
+478,"Lake Tahoe, CA",United States,North America,4,3,5,2,5,4,4,4,5,4,4,4,4,2.98,2,3,5,4,4,5,3,4
+479,Joao Pessoa,Brazil,Latin America,2,3,4,4,1,3,4,2,3,2,2,4,4,2.88,3,2,2,2,3,2,4,3
+480,Trondheim,Norway,Europe,3,3,5,2,4,5,5,5,4,4,3,4,4,3.02,3,5,5,5,4,5,2,3
+481,San Pedro,Belize,Latin America,4,3,5,3,3,3,3,3,3,5,1,4,1,2.9,4,3,4,2,3,3,4,2
+482,"Uluwatu, Bali",Indonesia,Asia,3,3,2,4,3,3,3,3,3,3,3,4,2,2.92,3,1,4,4,3,2,5,3
+483,Casablanca,Morocco,Africa,3,3,3,4,2,3,3,4,3,4,2,4,5,3.08,3,1,4,4,4,5,3,2
+484,Paramaribo,Suriname,Latin America,3,3,4,4,4,3,0,2,2,4,1,3,3,2.92,3,3,4,2,3,1,5,3
+485,Bodrum,Turkey,Europe,3,3,5,4,3,2,3,1,3,3,3,4,3,2.92,3,1,5,3,4,5,5,3
+486,Southampton,United Kingdom,Europe,4,3,5,1,5,4,4,3,4,4,4,4,2,2.97,3,3,5,4,4,5,3,3
+487,Lublin,Poland,Europe,2,3,5,4,3,4,3,4,4,3,3,4,3,3.14,2,3,5,5,4,5,4,3
+488,Podgorica,Montenegro,Europe,3,3,5,4,2,4,3,0,4,3,3,4,2,2.97,2,2,5,4,4,5,5,3
+489,Skopje,Macedonia,Europe,3,3,3,4,3,3,3,3,4,3,2,4,3,2.95,2,2,5,4,4,5,4,3
+490,Malacca,Malaysia,Asia,3,3,5,3,3,3,4,4,4,3,2,4,2,2.96,3,1,2,3,4,1,4,2
+491,Annecy,France,Europe,3,3,5,3,2,4,4,5,4,3,3,4,3,3.02,3,3,5,4,4,3,4,3
+492,San Miguel de ,Mexico,Latin America,3,3,5,4,3,3,4,3,4,3,3,4,3,2.97,4,1,5,3,4,5,3,3
+493,Nairobi,Kenya,Africa,3,3,5,4,5,1,2,2,2,3,3,4,4,3.05,3,2,2,3,4,5,3,3
+494,Gaziantep,Turkey,Europe,3,3,1,4,3,2,3,1,3,3,1,3,3,2.96,3,1,5,4,4,2,5,3
+495,Quanzhou,China,Asia,1,3,4,4,1,3,3,1,2,3,2,4,2,2.88,2,1,4,4,3,5,4,3
+496,Monza,Italy,Europe,3,3,4,2,2,4,3,5,4,3,2,4,3,3.04,3,3,5,4,4,2,4,3
+497,Tarifa,Spain,Europe,3,3,5,4,3,4,4,5,4,3,3,4,3,2.88,3,4,5,5,4,2,4,3
+498,Cali,Colombia,Latin America,2,4,4,4,1,2,4,4,3,3,2,4,3,3,3,1,4,1,4,5,4,3
+499,Cebu,Philippines,Asia,4,3,4,4,4,2,3,4,3,4,3,4,3,2.89,2,1,5,3,3,5,4,3
+500,Pattaya,Thailand,Asia,4,4,5,4,2,2,4,1,4,4,5,4,4,3.04,3,1,2,3,4,5,4,3
+501,"Mountain View,",United States,North America,4,3,5,2,5,4,4,4,4,4,3,4,4,3.08,2,3,5,4,4,2,3,4
+502,Portsmouth,United Kingdom,Europe,4,3,5,3,5,4,4,3,4,3,3,4,3,2.94,3,3,5,5,4,3,3,3
+503,Sao Luis,Brazil,Latin America,2,3,5,4,2,3,4,2,3,3,4,4,3,2.84,2,2,2,2,3,5,5,3
+504,"Seminyak, Bali",Indonesia,Asia,3,3,2,4,3,3,3,3,2,4,2,4,4,2.55,4,1,4,4,3,1,5,2
+505,Saint Helier,Jersey,Europe,2,3,4,2,5,3,0,0,4,3,5,4,2,2.95,4,3,5,4,4,5,3,4
+506,Barrie,Canada,North America,5,3,5,3,5,5,5,4,4,1,4,4,3,2.79,3,4,5,4,5,5,2,3
+507,Pristina,Kosovo,Europe,3,3,5,4,3,3,3,0,1,3,2,4,2,3.06,3,2,5,4,4,5,4,3
+508,Genoa,Italy,Europe,4,3,5,3,4,4,3,5,3,4,5,4,2,2.98,4,3,5,4,4,5,5,3
+509,Astana,Kazakhstan,Asia,0,3,4,4,3,3,3,3,3,2,2,4,2,3.09,3,1,4,4,3,3,4,2
+510,Visakhapatnam,India,Asia,3,3,3,4,3,2,2,2,3,3,2,4,3,3,3,1,4,4,3,5,4,3
+511,"Monterey, CA",United States,North America,4,3,5,2,5,4,4,4,4,3,3,4,3,2.99,2,3,5,4,4,2,3,4
+512,Port of Spain,Trinidad and Toba,Latin America,2,3,4,3,3,3,4,4,4,4,3,4,4,2.89,2,3,5,2,3,2,5,3
+513,Road Town,British Virgin Is,Latin America,3,3,4,2,5,3,0,0,2,3,0,4,2,2.87,3,3,5,4,3,5,5,4
+514,Mexicali,Mexico,Latin America,2,3,5,4,3,3,4,3,3,3,2,4,1,2.88,2,1,5,2,3,1,4,2
+515,"Menlo Park, CA",United States,North America,4,3,5,2,5,4,4,4,4,3,3,4,3,3.04,2,3,5,4,4,3,4,4
+516,Nassau,The Bahamas,Latin America,3,3,5,2,4,4,0,3,4,4,3,4,4,2.89,3,3,5,3,4,1,5,3
+517,Belfast,United Kingdom,Europe,3,3,5,3,4,4,4,3,4,3,4,4,4,2.81,2,3,5,4,4,5,3,2
+518,Makati,Philippines,Asia,5,3,4,3,4,2,3,4,3,5,4,4,4,2.88,4,1,5,3,4,5,5,3
+519,Karlsruhe,Germany,Europe,1,3,5,2,3,5,4,4,4,3,3,4,2,2.89,2,4,5,5,4,5,3,3
+520,Chamonix,France,Europe,3,3,5,3,2,4,4,5,4,3,3,4,3,2.87,3,3,5,4,4,1,4,3
+521,"Malang, East J",Indonesia,Asia,2,3,2,4,3,3,3,3,3,4,2,4,3,2.82,3,1,4,4,3,1,5,3
+522,Osaka,Japan,Asia,2,3,5,3,1,4,3,5,4,3,4,4,4,2.82,2,3,5,5,4,5,5,1
+523,Como,Italy,Europe,0,3,5,1,2,4,3,5,4,3,2,4,3,2.9,3,3,5,4,4,5,4,3
+524,Hull,United Kingdom,Europe,4,3,5,3,5,4,4,3,3,3,3,4,2,2.83,3,3,5,5,4,5,3,3
+525,Innsbruck,Austria,Europe,3,3,5,2,3,5,4,5,4,3,3,4,3,2.95,3,4,5,5,4,5,4,3
+526,"Palermo, Sicil",Italy,Europe,3,3,5,3,3,4,3,5,4,3,1,4,3,2.83,3,3,5,4,4,1,5,3
+527,Beijing,China,Asia,4,3,1,3,1,3,3,1,3,3,1,3,2,2.74,3,1,4,4,3,5,4,3
+528,Macau,China,Asia,4,4,5,3,3,3,3,1,3,5,2,4,3,2.88,2,1,4,4,4,5,5,3
+529,Dushanbe,Tajikistan,Asia,3,3,4,4,2,2,2,1,1,3,2,4,4,2.82,3,1,4,3,3,1,4,3
+530,Ferrara,Italy,Europe,3,3,5,1,3,4,3,5,3,0,2,4,3,2.81,3,3,5,4,4,1,5,3
+531,Geneva,Switzerland,Europe,3,3,5,2,3,5,5,5,4,4,4,4,3,2.83,4,4,5,5,4,5,4,3
+532,Santorini,Greece,Europe,4,3,5,2,3,4,3,5,3,4,2,4,4,2.79,3,2,5,4,3,2,5,3
+533,"San Mateo, CA",United States,North America,4,3,5,2,5,4,4,4,4,3,3,4,3,2.96,2,3,5,4,4,1,3,4
+534,"Des Moines, IA",United States,North America,5,3,5,3,5,4,4,4,3,3,3,4,3,3.03,2,3,5,4,4,5,4,3
+535,Fredericton,Canada,North America,3,3,5,3,5,5,5,4,4,2,4,4,2,2.94,4,4,5,4,4,5,1,3
+536,Colorado Sprin,United States,North America,4,3,5,2,5,4,4,4,4,3,3,4,3,3.05,3,3,5,4,5,5,4,3
+537,"Corralejo, Can",Spain,Europe,1,3,4,3,3,4,4,5,4,5,4,4,2,2.87,4,4,5,5,3,5,4,2
+538,Sliema,Malta,Europe,2,3,5,2,4,4,4,5,4,4,4,4,4,2.89,2,3,5,5,4,5,5,3
+539,Bareilly,India,Asia,3,3,3,5,4,2,2,2,2,3,1,4,1,2.74,2,1,4,3,3,5,2,3
+540,Tangier,Morocco,Africa,3,3,4,4,3,3,3,4,2,3,1,4,2,2.91,4,1,4,3,3,5,4,3
+541,Kozhikode,India,Asia,2,3,3,4,3,2,2,2,3,3,2,4,2,2.95,2,1,4,3,3,5,4,2
+542,Abidjan,Ivory Coast,Africa,3,3,2,3,2,3,2,2,1,3,2,4,4,2.69,3,2,5,2,3,1,4,3
+543,Jodhpur,India,Asia,4,3,1,4,5,2,2,2,2,5,2,2,3,2.26,3,1,4,4,2,1,1,3
+544,"Arrecife, Lanz",Spain,Europe,3,3,5,3,2,4,4,5,4,3,3,4,3,2.75,2,4,5,5,4,1,4,3
+545,Banja Luka,Bosnia,Europe,2,3,4,4,3,3,0,3,3,2,2,4,3,2.99,3,3,5,4,4,5,5,3
+546,Hamburg,Germany,Europe,2,4,5,2,4,5,4,4,4,5,4,4,4,2.91,2,4,5,5,4,5,3,3
+547,Minsk,Belarus,Europe,5,3,4,4,2,3,3,3,3,3,2,4,3,2.73,2,1,5,4,3,5,4,2
+548,Lucca,Italy,Europe,3,3,5,2,3,4,3,5,4,3,2,4,3,2.9,3,3,5,4,4,1,4,3
+549,Erlangen,Germany,Europe,3,3,5,3,3,5,4,4,4,3,3,4,3,2.8,3,4,5,5,4,1,3,3
+550,Belize City,Belize,Latin America,3,3,5,4,3,3,3,3,3,2,1,4,3,2.77,2,3,4,2,3,3,4,3
+551,Kigali,Rwanda,Africa,0,3,4,2,4,1,1,1,1,3,2,3,3,2.9,3,1,2,3,3,5,4,4
+552,Malappuram,India,Asia,2,3,3,4,3,2,2,2,2,3,2,4,2,2.83,2,1,4,3,3,2,4,3
+553,Coimbatore,India,Asia,3,3,3,4,2,2,2,2,3,3,1,4,1,2.93,2,1,4,3,3,5,4,2
+554,Dusseldorf,Germany,Europe,5,3,5,2,3,5,4,4,4,3,5,4,3,2.67,3,4,5,5,4,5,3,1
+555,São José dos C,Brazil,Latin America,2,3,5,4,2,3,4,2,3,3,4,4,3,2.76,2,2,2,2,4,1,4,3
+556,Cordoba,Argentina,Latin America,3,3,5,4,3,4,4,3,3,4,4,4,3,2.74,3,3,5,3,4,5,1,3
+557,Oranjestad,Aruba,Latin America,3,3,4,2,5,3,0,0,4,3,2,4,2,2.86,3,3,5,4,4,1,5,3
+558,Tianjin,China,Asia,4,3,1,4,1,3,3,1,4,3,2,3,2,2.73,3,1,4,4,3,5,3,3
+559,Hof,Germany,Europe,3,3,5,3,3,5,4,4,4,3,2,4,3,2.65,3,4,5,5,4,1,3,3
+560,Seville,Spain,Europe,3,3,5,3,3,4,4,5,4,4,4,4,3,2.8,2,4,5,5,4,5,4,3
+561,Reading,United Kingdom,Europe,4,3,5,2,5,4,4,3,4,3,4,4,4,2.82,3,3,5,4,4,5,3,3
+562,San Luis Potos,Mexico,Latin America,2,3,5,4,2,3,4,3,3,2,1,4,3,2.8,2,1,5,2,3,5,3,3
+563,Constanta,Romania,Europe,3,3,4,3,3,4,3,3,5,5,2,4,3,2.95,2,3,5,4,4,5,5,3
+564,Doha,Qatar,Middle East,5,3,1,2,3,4,4,4,3,4,1,3,3,2.81,4,2,5,4,3,3,0,4
+565,Pamplona,Spain,Europe,2,3,5,2,3,4,4,5,4,3,3,4,3,2.74,3,4,5,5,4,1,3,3
+566,Xiamen,China,Asia,3,3,3,4,1,3,3,1,2,2,2,3,2,2.74,2,1,4,4,3,5,4,2
+567,Patras,Greece,Europe,3,3,5,2,3,4,3,5,3,3,3,4,2,2.74,2,2,5,4,3,5,5,2
+568,Krasnoyarsk,Russia,Asia,4,3,4,4,3,2,3,2,4,4,3,4,3,2.91,2,1,5,2,4,3,4,3
+569,Ningbo,China,Asia,1,3,2,4,2,3,3,1,3,2,2,3,1,2.73,2,1,4,4,3,1,4,3
+570,Tijuana,Mexico,Latin America,0,4,5,4,3,3,4,3,3,5,3,4,2,2.89,3,1,5,2,4,5,4,2
+571,"Baton Rouge, L",United States,North America,3,3,5,2,5,4,4,4,4,1,3,4,2,2.77,2,3,5,3,4,1,5,3
+572,Salento,Colombia,Latin America,1,3,5,4,1,2,4,4,3,3,3,4,1,2.84,4,1,4,2,3,2,4,3
+573,Black Rock Cit,United States,North America,5,4,5,4,5,4,4,4,5,4,3,4,2,2.55,1,3,5,5,4,1,2,3
+574,Kota Kinabalu,Malaysia,Asia,3,3,5,4,3,3,4,4,2,4,3,4,1,2.86,3,1,2,4,3,5,3,2
+575,Klaipeda,Lithuania,Europe,2,3,5,3,2,4,3,3,4,3,2,4,2,2.69,2,4,5,3,4,5,3,2
+576,Vasai,India,Asia,3,3,3,4,3,2,2,2,2,2,2,4,2,2.71,2,1,4,3,3,2,3,2
+577,Samara,Russia,Europe,2,3,5,3,2,2,3,2,4,2,1,4,1,2.58,2,1,5,2,4,5,3,3
+578,"Las Palmas, Ca",Spain,Europe,3,3,4,3,3,4,4,5,4,4,4,4,4,2.67,3,4,5,5,4,5,4,3
+579,Tunis,Tunisia,Africa,3,3,2,4,2,3,2,3,2,5,1,3,3,2.74,2,2,4,3,3,5,4,2
+580,Jiaxing,China,Asia,2,3,2,4,2,3,3,1,2,2,3,3,3,2.69,2,1,4,4,3,1,4,2
+581,Dubrovnik,Croatia,Europe,2,3,4,1,2,4,3,4,3,3,1,4,2,2.67,3,3,5,5,3,5,5,3
+582,Constantine,Algeria,Africa,2,3,4,5,3,2,3,3,1,3,1,4,2,2.73,2,1,4,3,3,5,4,3
+583,Durg,India,Asia,3,3,1,4,4,2,2,2,2,3,1,4,1,2.58,2,1,4,4,3,1,4,3
+584,Pai,Thailand,Asia,1,3,5,4,1,2,4,1,3,2,3,4,1,2.92,3,1,2,4,4,5,5,2
+585,Jamshedpur,India,Asia,3,3,1,4,4,2,2,2,2,3,1,4,1,2.55,2,1,4,3,3,2,3,3
+586,Haikou,China,Asia,2,3,4,4,3,3,3,1,2,4,3,4,3,2.61,2,1,4,4,4,1,3,2
+587,"Milwaukee, WI",United States,North America,3,3,5,2,5,4,4,4,4,4,3,4,3,2.83,4,3,5,4,4,5,3,3
+588,Almaty,Kazakhstan,Asia,3,3,4,4,3,3,3,3,3,3,2,4,2,2.96,3,1,4,4,3,2,5,3
+589,Rabat,Morocco,Africa,3,3,4,2,2,3,3,4,3,4,2,4,3,2.72,3,1,4,3,3,5,4,2
+590,"Kuta, Bali",Indonesia,Asia,3,3,2,4,3,3,3,3,3,2,1,4,3,2.43,4,1,4,4,3,5,5,2
+591,Interlaken,Switzerland,Europe,4,3,5,2,3,5,5,5,5,4,3,4,3,2.66,3,4,5,5,4,1,4,3
+592,Nuku'alofa,Tonga,Oceania,0,3,4,3,3,3,0,3,4,2,1,4,1,2.67,2,3,5,5,3,3,5,2
+593,Maracay,Venezuela,Latin America,2,3,5,4,2,2,3,4,1,3,2,4,2,2.62,2,1,2,1,3,1,4,3
+594,Campo Grande,Brazil,Latin America,2,3,5,4,2,3,4,2,4,3,4,4,3,2.81,2,2,2,2,4,1,4,2
+595,Aberdeen,United Kingdom,Europe,1,3,5,1,5,4,4,3,4,3,4,4,3,2.8,3,3,5,4,4,5,2,3
+596,"Beacon, NY",United States,North America,5,3,5,3,5,4,4,4,4,3,4,4,2,2.73,3,3,5,4,4,5,2,3
+597,Amalfi,Italy,Europe,3,3,5,3,3,4,3,5,4,3,2,4,3,2.66,2,3,5,4,4,1,5,3
+598,Northampton,United Kingdom,Europe,3,3,5,2,5,4,4,3,4,2,5,4,2,2.72,4,3,5,4,4,5,3,3
+599,Amritsar,India,Asia,4,3,1,4,4,2,2,2,2,4,2,2,3,2.58,4,1,4,4,2,5,0,3
+600,Hannover,Germany,Europe,5,3,5,2,3,5,4,4,4,3,2,4,3,2.71,3,4,5,5,4,5,3,3
+601,Palermo,Italy,Europe,3,3,5,3,3,4,3,5,4,3,2,4,3,2.65,2,3,5,4,4,1,4,3
+602,Ghent,Belgium,Europe,3,3,5,1,4,5,4,4,4,4,4,4,3,2.68,3,4,5,4,4,5,3,3
+603,Xian,China,Asia,3,3,1,4,1,3,3,1,3,3,2,3,2,2.53,2,1,4,4,3,1,1,3
+604,Chittagong,Bangladesh,Asia,3,3,1,4,4,1,2,3,2,3,2,3,2,2.61,2,1,5,3,3,3,4,3
+605,"Chania, Crete",Greece,Europe,4,3,5,1,3,4,3,5,3,3,3,4,2,2.57,2,2,5,4,3,5,5,2
+606,Ko Tao,Thailand,Asia,3,3,5,4,2,2,4,1,4,3,4,4,2,2.63,1,1,2,3,4,3,4,2
+607,"Orlando, FL",United States,North America,5,3,5,2,5,4,4,4,4,3,3,4,3,2.65,3,3,5,4,4,5,5,2
+608,Varanasi,India,Asia,4,3,1,4,3,2,2,2,2,3,2,3,3,2.51,4,1,4,4,2,5,2,3
+609,Monterrey,Mexico,Latin America,5,4,2,4,3,3,4,3,4,3,2,4,3,2.65,3,1,5,2,4,5,5,2
+610,Makassar,Indonesia,Asia,2,3,5,4,2,3,3,3,3,3,2,4,3,2.8,3,1,4,4,4,1,4,2
+611,Jabalpur,India,Asia,3,3,2,4,4,2,2,2,2,3,1,4,1,2.58,2,1,4,3,3,5,3,2
+612,Nanjing,China,Asia,4,3,1,3,1,3,3,1,2,4,3,3,4,2.57,3,1,4,4,3,5,2,3
+613,Rosario,Argentina,Latin America,3,3,5,4,2,4,4,3,3,3,5,4,3,2.69,3,3,5,3,4,1,2,3
+614,Port Elizabeth,South Africa,Africa,4,3,3,4,5,3,2,1,2,3,4,4,2,2.66,3,3,2,2,3,5,3,3
+615,Coventry,United Kingdom,Europe,2,3,5,2,5,4,4,3,4,2,4,4,3,2.63,3,3,5,5,4,5,3,3
+616,Beirut,Lebanon,Middle East,5,4,4,3,4,2,3,3,1,5,3,4,5,2.57,4,2,4,3,3,5,5,2
+617,Mumbai,India,Asia,2,3,0,4,4,2,2,2,3,3,1,3,3,2.54,2,1,4,3,3,5,3,3
+618,Agra,India,Asia,4,3,1,4,5,2,2,2,2,4,1,2,3,1.85,3,1,4,3,1,5,1,3
+619,Perth,Australia,Oceania,5,5,5,2,5,5,5,4,4,3,4,4,3,2.84,3,4,5,5,4,5,4,2
+620,Nuremberg,Germany,Europe,2,3,5,3,4,5,4,4,4,4,5,4,3,2.56,3,4,5,5,4,5,3,2
+621,"Reno, NV",United States,North America,5,4,5,3,5,4,4,4,4,3,3,4,2,2.58,1,3,5,4,4,5,3,3
+622,Santiago,Chile,Latin America,4,5,3,4,2,4,4,4,3,3,2,4,3,2.79,2,4,5,4,3,5,0,3
+623,"Bloomington, I",United States,North America,3,3,5,3,5,4,4,4,4,3,4,4,3,2.72,3,3,5,4,4,5,4,2
+624,Nanyang,China,Asia,4,3,5,5,1,3,3,1,3,2,2,4,3,2.48,3,1,4,4,3,1,3,2
+625,Praia,Cape Verde,Africa,3,3,4,1,2,3,0,2,3,4,0,4,3,2.54,2,4,4,3,3,3,4,3
+626,"New Orleans, L",United States,North America,5,4,5,1,5,4,4,4,4,4,4,4,5,2.48,3,3,5,3,4,5,5,2
+627,Yangshuo,China,Asia,2,3,5,4,1,3,3,1,2,4,2,4,3,2.46,2,1,4,5,3,5,4,2
+628,Johor Bahru,Malaysia,Asia,2,3,5,4,3,3,4,4,3,2,3,4,2,2.57,3,1,2,3,4,5,4,2
+629,Siena,Italy,Europe,3,3,5,2,2,4,3,5,4,2,2,4,3,2.61,2,3,5,4,4,1,5,3
+630,Surakarta,Indonesia,Asia,2,3,2,4,3,3,3,3,3,2,1,4,1,2.35,1,1,4,4,3,5,4,3
+631,"Palembang, Sum",Indonesia,Asia,2,3,2,4,3,3,3,3,3,3,2,4,3,2.25,3,1,4,4,3,1,3,2
+632,Dnipro,Ukraine,Europe,2,3,5,4,2,2,1,1,4,1,1,4,3,2.52,3,2,5,3,4,5,5,1
+633,Tripoli,Libya,Africa,3,3,4,4,1,1,3,3,2,2,1,4,1,2.59,2,1,2,3,3,5,5,2
+634,Cuenca,Ecuador,Latin America,3,3,5,4,5,2,3,2,3,4,3,4,2,2.47,3,2,2,3,4,5,2,2
+635,Glasgow,United Kingdom,Europe,1,3,5,2,5,4,4,3,4,4,4,4,4,2.5,4,3,5,5,4,5,3,2
+636,Nicosia,Cyprus,Europe,4,3,4,2,4,3,3,4,3,4,3,4,4,2.62,2,4,5,4,4,5,4,2
+637,Victoria,Seychelles,Africa,3,3,4,1,3,3,0,4,2,3,2,3,3,2.47,3,2,5,2,3,1,4,3
+638,Ko Chang,Thailand,Asia,3,3,5,4,2,2,4,1,4,3,2,4,3,2.53,2,1,2,3,4,5,4,2
+639,Hyderabad,India,Asia,2,3,2,4,3,2,2,2,3,3,1,3,3,2.37,2,1,4,3,3,5,4,1
+640,Aurangabad,India,Asia,2,3,2,4,4,2,2,2,2,3,1,3,1,2.37,2,1,4,3,3,1,4,2
+641,Accra,Ghana,Africa,3,3,4,3,3,3,1,2,2,4,1,4,4,2.4,1,4,2,3,3,3,5,2
+642,Thrissur,India,Asia,2,3,4,4,3,2,2,2,2,4,2,4,1,2.53,2,1,4,3,3,1,5,2
+643,Pune,India,Asia,3,3,2,4,4,2,2,2,3,3,2,3,3,2.54,2,1,4,3,3,5,4,2
+644,Brasilia,Brazil,Latin America,3,3,5,4,2,3,4,2,3,3,2,4,2,2.7,3,2,2,2,3,5,3,3
+645,Boracay,Philippines,Asia,3,3,4,4,3,2,3,4,3,2,3,4,3,2.65,4,1,5,3,3,5,4,2
+646,Madurai,India,Asia,2,3,4,4,4,2,2,2,3,3,2,4,2,2.55,3,1,4,3,4,1,3,2
+647,Krabi,Thailand,Asia,2,3,5,4,2,2,4,1,4,3,2,4,3,2.51,2,1,2,3,4,5,4,2
+648,Ko Samui,Thailand,Asia,3,3,5,4,3,2,4,1,4,4,4,4,4,2.5,2,1,2,4,4,1,4,2
+649,Sulaymaniyah,Kurdistan,Middle East,2,3,5,4,3,3,0,0,1,4,2,4,3,2.38,2,3,5,2,3,1,3,2
+650,Rio de Janeiro,Brazil,Latin America,4,4,2,3,2,3,4,2,4,5,4,4,5,2.41,1,2,2,2,4,5,4,2
+651,Gili Air,Indonesia,Asia,2,3,2,4,3,3,3,3,3,2,1,4,2,2.22,2,1,4,4,3,1,4,2
+652,Naples,Italy,Europe,4,3,5,2,1,4,3,5,4,4,2,4,3,2.54,2,3,5,4,4,5,5,2
+653,Zhangjiakou,China,Asia,2,3,4,4,1,3,3,1,2,2,2,4,2,2.35,2,1,4,4,3,5,5,2
+654,Queenstown,New Zealand,Oceania,3,3,5,1,5,5,5,4,4,4,3,4,3,2.54,4,4,5,5,4,1,0,3
+655,Mendoza,Argentina,Latin America,2,3,5,4,2,4,4,3,2,2,3,4,3,2.6,3,3,5,3,3,1,1,3
+656,"Mataram, Lombo",Indonesia,Asia,2,3,2,4,3,3,3,3,3,2,1,4,2,2.17,2,1,4,4,3,5,4,2
+657,Panama City,Panama,Latin America,5,3,5,3,3,4,4,3,4,4,3,4,3,2.51,4,2,5,3,4,5,5,2
+658,Nagoya,Japan,Asia,4,3,5,3,1,4,3,5,4,4,3,4,3,2.55,1,3,5,5,4,5,5,1
+659,Granada,Spain,Europe,3,3,5,3,2,4,4,5,4,3,3,4,2,2.38,3,4,5,4,4,5,3,1
+660,Dalian,China,Asia,2,3,2,4,1,3,3,1,3,3,1,3,2,2.39,3,1,4,4,3,5,5,2
+661,Mar del Plata,Argentina,Latin America,3,3,5,4,1,4,4,3,3,4,4,4,2,2.52,2,3,5,3,3,5,2,2
+662,Faisalabad,Pakistan,Asia,3,3,2,5,3,1,3,2,2,1,1,3,1,2.53,2,1,4,2,3,1,2,2
+663,Datong,China,Asia,2,3,3,3,2,3,3,1,2,4,3,4,3,2.33,2,1,4,4,3,1,4,2
+664,Shiraz,Iran,Middle East,3,3,1,4,3,2,2,3,2,3,1,3,2,1.97,1,1,2,3,2,5,3,3
+665,Qiqihar,China,Asia,1,3,4,4,1,3,3,1,3,2,2,4,2,2.26,2,1,4,4,4,2,4,2
+666,Ramallah,Palestine,Middle East,3,3,5,4,3,3,0,0,3,2,1,4,4,2.49,2,1,5,4,3,2,5,2
+667,Saratov,Russia,Europe,2,3,5,4,1,2,3,2,4,3,1,4,2,2.83,2,1,5,2,4,5,4,3
+668,Guatemala City,Guatemala,Latin America,2,3,3,4,2,2,4,3,2,3,1,4,2,2.34,2,2,5,1,3,3,4,2
+669,Durban,South Africa,Africa,2,3,1,4,3,3,2,1,2,3,3,3,2,2.11,3,3,2,2,3,5,4,2
+670,Mikonos,Greece,Europe,4,3,4,2,3,4,3,5,3,4,3,4,4,2.33,3,2,5,4,3,5,5,3
+671,"Bridgeton, MO",United States,North America,4,3,5,2,5,4,4,4,4,3,3,4,3,2.33,3,3,5,4,4,1,2,4
+672,Vitória,Brazil,Latin America,2,3,4,4,2,3,4,2,3,3,3,4,3,2.36,2,2,2,2,3,5,5,2
+673,Dongguan,China,Asia,2,4,3,4,2,3,3,1,2,2,3,3,3,2.43,2,1,4,4,3,2,4,2
+674,Huddersfield,United Kingdom,Europe,2,3,5,3,5,4,4,3,4,3,3,4,3,2.7,3,3,5,4,4,1,3,3
+675,Hamilton,Bermuda,North America,3,3,4,2,4,3,0,0,3,3,2,4,4,2.37,2,3,5,4,3,5,5,3
+676,Gurgaon,India,Asia,3,3,1,4,2,2,2,2,3,5,1,3,2,1.14,2,1,4,3,1,5,1,2
+677,Rzeszow,Poland,Europe,2,3,5,4,2,4,3,4,4,1,1,4,1,2.36,2,3,5,4,4,1,4,2
+678,Alexandria,Egypt,Middle East,4,3,5,4,3,1,2,3,2,4,1,4,2,2.38,2,1,5,3,3,5,5,2
+679,Fushun,China,Asia,2,3,2,4,2,3,3,1,3,2,3,3,3,2.21,2,1,4,4,3,1,5,2
+680,"Sengigi, Lombo",Indonesia,Asia,2,3,2,4,3,3,3,3,3,2,1,4,2,2.1,2,1,4,4,3,2,4,2
+681,Zhuhai,China,Asia,2,3,3,4,1,3,3,1,3,2,2,4,2,2.38,2,1,4,4,3,5,5,2
+682,Zhoukou,China,Asia,4,3,5,4,1,3,3,1,4,3,2,4,3,2.4,2,1,4,4,4,2,3,2
+683,Dahab,Egypt,Middle East,3,3,4,4,2,1,2,3,3,2,1,4,1,2.28,2,1,5,3,3,5,5,2
+684,Gibraltar,Spain,Europe,3,3,5,3,5,3,0,0,4,3,2,4,3,2.41,3,3,5,3,4,5,4,2
+685,Muscat,Oman,Middle East,5,3,2,4,2,4,0,5,3,4,2,4,2,2.41,3,1,2,4,4,5,3,2
+686,Campos dos Goy,Brazil,Latin America,2,3,4,4,2,3,4,2,4,3,3,4,3,2.2,2,2,2,2,4,5,4,2
+687,Belo Horizonte,Brazil,Latin America,2,3,3,4,1,3,4,2,3,3,3,4,3,2.25,2,2,2,2,3,5,3,2
+688,Aguascalientes,Mexico,Latin America,3,3,5,4,2,3,4,3,3,2,3,4,2,2.39,2,1,5,2,3,5,3,2
+689,Ko Lipe,Thailand,Asia,2,3,5,4,2,2,4,1,4,3,2,4,3,2.38,2,1,2,3,4,5,3,2
+690,Jiangmen,China,Asia,2,3,2,4,2,3,3,1,2,2,3,3,3,2.24,2,1,4,4,3,5,5,2
+691,Kannur,India,Asia,4,3,5,4,4,2,2,2,2,3,2,4,1,2.25,2,1,4,3,3,2,5,2
+692,Ankara,Turkey,Europe,2,3,2,3,3,2,3,1,3,2,1,3,2,2.38,3,1,5,4,4,5,4,2
+693,Ipoh,Malaysia,Asia,2,3,5,4,2,3,4,4,2,3,2,4,2,2.39,2,1,2,3,3,5,3,2
+694,Pasto,Colombia,Latin America,2,3,5,4,3,2,4,4,3,3,2,4,3,2.28,2,1,4,2,4,5,2,2
+695,Chachapoyas,Peru,Latin America,1,3,5,4,1,3,3,2,3,1,1,4,2,2.35,2,3,5,3,4,3,3,2
+696,Huizhou,China,Asia,2,3,3,4,2,3,3,1,3,2,3,3,3,2.33,2,1,4,4,3,5,4,2
+697,Douala,Cameroon,Africa,4,3,2,4,1,1,2,1,1,4,1,3,4,2.16,2,1,4,3,3,1,5,2
+698,Jundiaí,Brazil,Latin America,2,3,5,4,2,3,4,2,4,3,3,4,3,2.36,2,2,2,2,4,1,4,2
+699,Tamarindo,Costa Rica,Latin America,5,3,4,3,3,4,5,4,3,3,2,4,1,2.26,2,4,5,3,3,5,5,2
+700,Foshan,China,Asia,1,3,2,4,1,3,3,1,2,3,2,3,2,2.29,2,1,4,4,3,1,5,2
+701,Anshan,China,Asia,2,3,1,4,1,3,3,1,2,2,3,3,2,2.13,2,1,4,4,3,1,5,2
+702,Georgetown,Guyana,Latin America,0,3,5,4,4,3,0,2,2,3,1,4,3,2.26,2,3,2,2,3,1,5,2
+703,Tulum,Mexico,Latin America,2,3,5,4,3,3,4,3,4,3,2,4,3,2.42,2,1,5,2,4,2,5,2
+704,Cixi,China,Asia,2,3,4,4,2,3,3,1,3,3,3,4,3,2.24,2,1,4,4,3,5,4,2
+705,Weifang,China,Asia,4,3,3,4,1,3,3,1,3,2,2,3,3,2.24,2,1,4,4,3,5,3,2
+706,Port Said,Egypt,Middle East,2,3,5,4,2,1,2,3,3,2,1,4,2,2.27,2,1,5,3,3,5,5,2
+707,Itapema,Brazil,Latin America,3,3,5,4,2,3,4,2,4,3,2,4,3,2.43,3,2,2,2,4,5,5,2
+708,Jena,Germany,Europe,1,3,5,4,3,5,4,4,5,3,5,4,2,2.15,2,4,5,5,4,5,3,1
+709,Asuncion,Paraguay,Latin America,4,3,5,4,0,3,3,4,3,3,1,4,0,2.76,0,2,2,3,3,3,4,2
+710,Yekaterinburg,Russia,Europe,3,3,5,4,1,2,3,2,4,3,1,4,3,2.38,3,1,5,2,4,5,2,2
+711,Zibo,China,Asia,3,3,2,4,1,3,3,1,3,2,2,3,2,2.22,2,1,4,4,3,5,3,2
+712,Johannesburg,South Africa,Africa,3,3,2,4,5,3,2,1,2,3,3,3,2,1.98,3,3,2,2,2,5,1,2
+713,Lahore,Pakistan,Asia,3,3,1,4,3,1,3,2,2,4,2,2,2,2.18,2,1,4,3,2,3,0,3
+714,Sorocaba,Brazil,Latin America,2,3,4,4,2,3,4,2,3,3,3,4,3,2.29,2,2,2,2,4,1,4,2
+715,Tengzhou,China,Asia,2,3,5,4,1,3,3,1,2,2,2,4,2,2.2,2,1,4,4,3,5,3,2
+716,Okayama,Japan,Asia,4,3,5,4,1,4,3,5,4,3,3,4,3,2.23,1,3,5,4,4,1,5,1
+717,Raipur,India,Asia,2,3,1,4,3,2,2,2,2,4,2,2,1,2.19,2,1,4,3,1,1,0,3
+718,Guilin,China,Asia,2,3,2,4,1,3,3,1,2,2,2,3,2,2.17,2,1,4,4,3,5,4,2
+719,"Rochester, NY",United States,North America,2,3,5,3,5,4,4,4,4,3,4,4,3,2.26,2,3,5,4,4,5,2,2
+720,Rostov-on-Don,Russia,Europe,2,3,5,3,1,2,3,2,3,2,1,4,1,2.29,1,1,5,2,3,5,5,2
+721,Jiamusi,China,Asia,2,3,5,4,2,3,3,1,3,2,3,4,3,2.19,2,1,4,4,3,1,4,2
+722,Ko Pha Ngan,Thailand,Asia,3,3,5,4,2,2,4,1,4,3,4,4,3,2.29,1,1,2,3,4,1,4,1
+723,Boumerdas,Algeria,Africa,2,3,5,4,2,2,3,3,2,2,1,4,1,2.23,2,1,4,3,3,5,4,2
+724,Wenling,China,Asia,2,3,4,4,1,3,3,1,3,2,2,4,2,2.27,2,1,4,4,3,3,5,2
+725,Varkala,India,Asia,2,3,4,4,3,2,2,2,2,2,1,4,2,2.24,2,1,4,3,3,5,4,2
+726,Duhok,Kurdistan,Middle East,3,3,4,4,3,3,0,0,3,3,2,4,2,2.22,2,3,5,3,3,2,4,2
+727,Wuhu,China,Asia,2,3,2,4,1,3,3,1,3,2,2,3,2,2.16,2,1,4,4,3,2,4,2
+728,Anyang,China,Asia,2,3,0,4,2,3,3,1,3,3,3,3,3,2.21,2,1,4,4,3,1,3,2
+729,Portimão,Portugal,Europe,3,3,5,3,2,5,3,5,3,3,2,4,3,2.19,3,4,5,5,3,5,3,2
+730,Taiyuan,China,Asia,2,3,1,4,1,3,3,1,3,3,2,3,2,2.08,2,1,4,4,3,1,3,2
+731,Yangzhou,China,Asia,3,3,1,4,1,3,3,1,2,2,2,3,2,2.13,2,1,4,4,3,5,3,2
+732,Bhubaneswar,India,Asia,4,3,1,4,2,2,2,2,2,3,1,4,1,2.18,1,1,4,3,3,5,4,1
+733,Zhangjiagang,China,Asia,2,3,2,4,1,3,3,1,3,2,2,3,2,2.23,2,1,4,4,3,3,3,2
+734,Yinchuan,China,Asia,3,3,0,4,1,3,3,1,3,2,2,3,2,2.16,2,1,4,4,3,2,3,2
+735,Toluca,Mexico,Latin America,2,3,2,4,3,3,4,3,3,3,2,4,3,2.26,2,1,5,2,3,3,3,2
+736,Wenzhou,China,Asia,4,3,2,4,1,3,3,1,3,2,2,3,2,2.25,2,1,4,4,3,5,5,1
+737,Krivoy-Rog,Ukraine,Europe,3,3,5,4,1,2,1,1,4,2,1,4,2,2.3,2,2,5,3,4,5,4,2
+738,Mecca,Saudi Arabia,Middle East,3,3,3,4,2,3,4,4,3,3,1,4,1,2.18,2,1,2,3,3,5,3,2
+739,Kunshan,China,Asia,1,3,3,4,2,3,3,1,2,2,2,3,1,2.27,2,1,4,4,3,2,3,2
+740,Ulyanovsk,Russia,Europe,2,3,5,4,2,2,3,2,3,2,1,4,1,2.09,2,1,5,2,3,5,3,2
+741,Santo Domingo,Dominican Republi,Latin America,3,3,4,4,2,3,3,4,3,5,2,4,3,2.3,2,3,2,2,3,5,5,2
+742,Zhangzhou,China,Asia,3,3,5,4,1,3,3,1,3,2,2,4,2,2.27,2,1,4,4,3,5,4,2
+743,Shenyang,China,Asia,1,3,1,4,1,3,3,1,2,2,2,3,2,2.06,2,1,4,4,3,5,4,2
+744,Puebla,Mexico,Latin America,2,3,5,4,2,3,4,3,3,3,1,4,3,2.03,2,1,5,2,3,5,2,2
+745,Huai'an,China,Asia,2,3,1,4,2,3,3,1,2,2,3,3,3,2.15,2,1,4,4,3,3,3,2
+746,Novosibirsk,Russia,Asia,2,3,4,4,2,2,3,2,3,1,1,4,3,2.74,2,1,5,2,3,5,5,3
+747,Beersheba,Israel,Middle East,4,3,5,3,4,3,5,4,3,3,3,4,2,2.31,3,2,5,4,4,5,5,2
+748,Agadir,Morocco,Africa,5,3,4,4,2,3,3,4,3,3,1,4,3,2.16,3,1,4,3,3,5,3,2
+749,Cusco,Peru,Latin America,2,3,5,4,3,3,3,2,4,2,2,4,2,2.26,3,3,5,3,4,5,1,2
+750,Aveiro,Portugal,Europe,3,3,5,3,3,5,3,5,4,5,3,4,3,2.56,3,4,5,5,4,5,3,2
+751,Changsha,China,Asia,2,3,2,4,2,3,3,1,2,2,3,3,3,2.28,2,1,4,4,3,5,4,2
+752,Cork,Ireland,Europe,1,3,5,2,5,5,4,5,4,4,4,4,3,2.26,3,4,5,5,4,5,3,2
+753,Weihai,China,Asia,2,3,4,4,1,3,3,1,2,2,2,4,2,2.18,2,1,4,4,3,5,4,2
+754,Putian,China,Asia,1,3,5,3,1,3,3,1,2,2,2,4,2,2.15,2,1,4,4,3,5,4,2
+755,Dili,East Timor,Oceania,0,3,4,4,2,3,0,0,1,2,4,4,1,2.16,2,2,5,3,3,3,5,2
+756,Basse-Terre,Guadeloupe,Latin America,3,3,4,3,1,3,0,0,3,3,2,4,2,2.16,2,3,5,3,3,1,5,2
+757,Nantong,China,Asia,1,3,2,4,2,3,3,1,2,2,2,3,1,2.12,2,1,4,4,3,1,3,2
+758,Shaoxing,China,Asia,1,3,1,4,1,3,3,1,2,2,2,3,2,2.09,2,1,4,4,3,5,4,2
+759,Vadodara,India,Asia,2,3,1,4,4,2,2,2,3,4,2,3,3,2.22,2,1,4,3,3,5,3,1
+760,Uberlandia,Brazil,Latin America,2,3,5,4,2,3,4,2,3,2,3,4,3,2.08,2,2,2,2,3,5,3,2
+761,Budva,Montenegro,Europe,3,3,3,3,1,4,3,0,4,3,2,4,1,2.14,2,2,5,4,3,5,5,2
+762,Nashik,India,Asia,2,3,2,4,3,2,2,2,2,3,1,3,2,2.07,2,1,4,3,3,2,5,2
+763,Rajkot,India,Asia,2,3,1,4,3,2,2,2,2,3,2,3,1,2.06,2,1,4,3,3,1,4,2
+764,Suzhou,China,Asia,4,3,1,4,1,3,3,1,2,3,2,3,3,2.17,2,1,4,4,3,5,4,2
+765,Kisangani,DR Congo,Africa,2,3,2,4,3,3,0,0,3,2,1,3,3,2.05,2,3,4,2,3,5,5,2
+766,Qinhuangdao,China,Asia,1,3,2,3,1,3,3,1,3,2,2,3,2,2.07,2,1,4,4,3,1,5,2
+767,Guiyang,China,Asia,2,3,2,4,2,3,3,1,3,2,3,3,3,2.21,2,1,4,4,3,1,4,2
+768,Xiangtan,China,Asia,2,3,1,4,1,3,3,1,3,2,2,3,2,2.21,2,1,4,4,3,2,4,2
+769,Yiwu,China,Asia,2,3,2,4,1,3,3,1,3,2,2,3,2,2.31,2,1,4,4,3,5,4,2
+770,Bar,Montenegro,Europe,2,3,5,3,2,4,3,0,3,3,3,4,3,2.07,1,2,5,4,3,5,5,1
+771,Yichang,China,Asia,2,3,1,4,1,3,3,1,2,2,2,3,2,2.25,2,1,4,4,3,5,4,2
+772,Omsk,Russia,Asia,2,3,5,4,1,2,3,2,4,1,1,4,1,2.51,4,1,5,2,4,3,5,2
+773,Zhuzhou,China,Asia,3,3,1,4,1,3,3,1,2,2,2,3,2,2.18,2,1,4,4,3,5,4,2
+774,Cochabamba,Bolivia,Latin America,5,3,3,4,1,2,3,2,1,3,3,3,3,2.34,4,2,4,3,3,5,1,2
+775,Moradabad,India,Asia,2,3,0,5,3,2,2,2,2,3,1,4,2,2.05,2,1,4,3,3,5,2,2
+776,Suva,Fiji,Oceania,3,3,4,4,5,2,0,3,2,3,2,4,2,2.22,2,3,5,4,3,5,5,2
+777,Asansol,India,Asia,3,3,1,4,4,2,2,2,2,3,1,4,1,2.03,2,1,4,3,3,2,3,2
+778,Hefei,China,Asia,2,3,1,4,2,3,3,1,2,2,3,3,3,2.11,2,1,4,4,3,1,3,2
+779,Meerut,India,Asia,2,3,1,4,4,2,2,2,2,3,2,3,2,2.09,3,1,4,3,3,5,1,2
+780,Apia,Samoa,Oceania,0,3,3,3,4,3,0,2,1,3,1,4,2,2.1,2,4,5,4,3,2,4,2
+781,Cambridge,United Kingdom,Europe,3,3,5,1,5,4,4,3,4,2,4,4,2,2.18,3,3,5,5,4,5,3,2
+782,Changchun,China,Asia,2,3,1,4,2,3,3,1,3,2,3,3,3,2.06,2,1,4,4,3,5,4,2
+783,Juarez,Mexico,Latin America,2,3,5,4,2,3,4,3,4,1,1,4,1,2.22,1,1,5,2,3,3,5,2
+784,Harbin,China,Asia,4,3,0,4,1,3,3,1,3,2,2,3,2,2.22,2,1,4,4,3,5,4,2
+785,Wuxi,China,Asia,2,3,1,4,1,3,3,1,3,2,2,3,2,2.07,2,1,4,4,3,5,3,2
+786,Manaus,Brazil,Latin America,1,3,5,4,2,3,4,2,3,3,3,4,3,2.54,3,2,2,1,4,5,5,2
+787,Melbourne,Australia,Oceania,5,5,5,2,5,5,5,4,4,5,4,4,4,2.07,3,4,5,5,4,5,3,1
+788,Jaipur,India,Asia,3,3,1,4,5,2,2,2,2,2,2,2,3,2.19,2,1,4,3,2,5,1,2
+789,Baku,Azerbaijan,Europe,3,4,5,4,2,2,3,2,2,3,2,4,1,2,1,1,5,3,3,5,5,2
+790,Recife,Brazil,Latin America,0,3,4,4,2,3,4,2,3,5,3,4,2,2.55,1,2,2,2,3,5,5,2
+791,Funafuti,Tuvalu,Oceania,0,3,5,2,3,3,0,4,1,2,1,4,1,2.15,2,3,5,3,3,1,4,2
+792,Vijayawada,India,Asia,2,3,4,4,3,2,2,2,3,2,2,4,2,2.42,3,1,4,3,3,5,4,2
+793,Vientiane,Laos,Asia,1,3,4,4,1,2,0,1,2,2,3,3,2,2.07,1,1,4,3,3,5,4,1
+794,Srinagar,India,Asia,2,3,3,4,3,2,2,2,3,2,1,4,1,1.89,1,1,4,3,3,1,5,2
+795,Fort McMurray,Canada,North America,3,3,5,1,5,5,5,4,5,1,2,4,3,2.06,3,4,5,4,4,3,2,2
+796,Guwahati,India,Asia,3,3,2,4,2,2,2,2,2,3,1,3,2,2.18,2,1,4,3,3,2,4,2
+797,Algiers,Algeria,Africa,3,3,4,4,3,2,3,3,2,3,1,4,2,2.07,1,1,4,3,3,5,4,2
+798,Semarang,Indonesia,Asia,2,3,2,4,3,3,3,3,3,2,1,4,1,1.92,1,1,4,4,3,1,4,2
+799,Monrovia,Liberia,Africa,2,3,4,4,2,1,1,0,3,2,2,3,3,2.04,2,2,2,3,3,2,5,2
+800,Kunming,China,Asia,1,3,2,4,2,3,3,1,2,2,2,3,1,2.15,2,1,4,4,3,5,4,2
+801,Lausanne,Switzerland,Europe,3,3,5,2,3,5,5,5,4,3,4,4,3,2.36,4,4,5,5,4,5,3,2
+802,Iasi,Romania,Europe,2,3,4,4,3,4,3,3,4,3,2,4,3,2.57,2,3,5,4,4,5,5,2
+803,Chandigarh,India,Asia,4,3,1,4,3,2,2,2,2,3,1,3,2,2.09,2,1,4,3,2,5,2,2
+804,Windhoek,Namibia,Africa,2,3,5,4,3,3,2,1,2,3,2,4,2,1.97,2,4,4,3,3,5,1,2
+805,Changshu,China,Asia,2,3,3,3,2,3,3,1,2,2,3,3,3,2,2,1,4,4,3,1,3,2
+806,Ouagadougou,Burkina Faso,Africa,2,3,5,3,2,2,1,2,1,2,1,4,1,2.05,1,3,2,4,3,5,4,1
+807,Maputo,Mozambique,Africa,3,3,4,3,3,2,2,0,1,3,2,3,2,1.96,2,2,4,3,3,5,4,2
+808,Bridgetown,Barbados,Latin America,2,3,4,1,3,4,0,4,3,3,0,4,2,2.08,2,3,5,2,3,5,5,2
+809,Anápolis,Brazil,Latin America,2,3,4,3,2,3,4,2,3,2,3,4,3,1.93,2,2,2,2,3,5,4,2
+810,La Paz,Bolivia,Latin America,5,3,2,4,2,2,3,2,2,3,2,3,3,1.94,2,2,4,2,3,2,1,2
+811,Dakar,Senegal,Africa,0,3,1,4,2,2,2,4,3,5,2,3,2,2.02,2,3,2,3,3,2,3,2
+812,Port Vila,Vanuatu,Oceania,2,3,5,2,3,3,0,2,1,2,2,4,1,2.07,2,3,5,4,3,1,5,2
+813,Brazzaville,Congo,Africa,2,3,2,4,3,3,0,1,1,2,1,3,3,1.8,1,3,4,2,3,3,4,2
+814,Antananarivo,Madagascar,Africa,4,3,4,4,1,2,1,1,1,2,1,4,1,1.99,2,3,4,4,3,1,4,2
+815,Kalyan,India,Asia,4,3,3,2,4,2,2,2,2,3,1,4,1,1.96,2,1,4,3,3,5,3,2
+816,Hohhot,China,Asia,2,3,1,4,2,3,3,1,2,2,3,3,3,2.04,2,1,4,4,3,3,3,2
+817,Puerto Viejo,Costa Rica,Latin America,2,3,4,3,3,4,5,4,3,4,4,4,2,1.83,2,4,5,3,3,3,5,2
+818,Linyi,China,Asia,4,3,2,4,1,3,3,1,2,2,2,3,1,1.99,1,1,4,4,3,5,3,2
+819,Zhengzhou,China,Asia,4,3,1,4,1,3,3,1,2,3,3,3,3,1.98,2,1,4,4,2,1,1,2
+820,Ufa,Russia,Europe,2,3,5,3,2,2,3,2,4,2,1,4,1,1.93,2,1,5,2,4,3,3,2
+821,Ko Lanta,Thailand,Asia,3,3,5,4,3,2,4,1,4,3,4,4,2,2,5,1,2,4,4,2,3,1
+822,Rishikesh,India,Asia,2,3,1,5,2,2,2,2,2,2,1,3,2,1.9,2,1,4,3,2,1,3,2
+823,Riyadh,Saudi Arabia,Middle East,3,3,1,4,2,3,4,4,3,2,1,1,3,2,5,1,2,3,1,5,1,3
+824,Zhanjiang,China,Asia,2,3,4,4,1,3,3,1,2,2,2,4,2,2.48,2,1,4,4,3,5,4,2
+825,Hua Hin,Thailand,Asia,2,3,5,4,2,2,4,1,4,3,2,4,3,2.49,2,1,2,3,4,1,3,2
+826,Honiara,Solomon Islands,Oceania,0,3,4,2,3,2,0,3,1,2,1,4,3,1.89,2,3,4,4,3,1,4,2
+827,Chaoyang,China,Asia,2,3,2,4,2,3,3,1,2,2,3,4,3,2.28,2,1,4,4,3,5,4,2
+828,Jinan,China,Asia,3,3,1,4,2,3,3,1,2,2,3,3,3,1.82,2,1,4,4,2,5,1,2
+829,Ao Nang,Thailand,Asia,2,3,5,4,2,2,4,1,4,3,2,4,2,2.46,2,1,2,3,4,3,3,2
+830,Cayenne,French Guiana,Latin America,0,3,4,1,1,3,0,0,2,2,3,4,2,1.86,2,3,5,3,3,1,5,2
+831,Hubli,India,Asia,3,3,5,4,4,2,2,2,2,3,1,4,1,2.4,2,1,4,3,3,1,5,2
+832,Aligarh,India,Asia,3,3,1,5,4,2,2,2,2,2,2,3,1,1.52,1,1,4,4,2,3,0,2
+833,La Serena,Chile,Latin America,3,3,4,4,2,4,4,4,3,0,2,4,3,1.97,2,4,5,4,3,5,2,2
+834,Torreon,Mexico,Latin America,2,3,5,4,3,3,4,3,4,3,2,4,3,2.37,2,1,5,2,4,1,5,2
+835,Belem,Brazil,Latin America,2,3,5,4,3,3,4,2,3,4,2,4,3,1.84,4,2,2,2,4,2,5,1
+836,Chelyabinsk,Russia,Europe,2,3,4,4,1,2,3,2,4,2,1,4,2,2.39,2,1,5,2,4,5,3,3
+837,Ranchi,India,Asia,2,3,0,4,3,2,2,2,2,2,2,4,1,1.81,2,1,4,3,2,5,3,2
+838,Fuzhou,China,Asia,2,3,3,4,2,3,3,1,2,2,3,3,3,2.42,2,1,4,4,3,3,4,2
+839,Lucknow,India,Asia,2,3,1,4,4,2,2,2,3,3,3,2,3,1.84,3,1,4,3,2,5,1,2
+840,Dar es Salaam,Tanzania,Africa,3,3,2,4,1,2,1,4,2,2,1,4,2,1.74,1,3,2,3,3,3,5,2
+841,Urumqi,China,Asia,2,3,1,4,1,3,3,1,4,2,2,3,2,2.08,2,1,4,4,3,3,3,2
+842,Tirupur,India,Asia,2,3,3,4,3,2,2,2,3,1,2,4,1,2.38,2,1,4,3,3,1,4,2
+843,Zhongshan,China,Asia,2,3,3,4,1,3,3,1,4,2,2,3,2,2.34,2,1,4,4,4,5,5,2
+844,Taizhou,China,Asia,1,3,2,2,1,3,3,1,2,3,2,3,2,1.85,2,1,4,4,3,1,4,3
+845,Xiangyang,China,Asia,2,3,5,4,1,3,3,1,4,2,2,4,2,2.32,2,1,4,4,4,3,3,2
+846,Yaounde,Cameroon,Africa,2,3,2,4,3,1,2,1,1,1,1,3,2,1.72,2,1,4,2,3,5,4,2
+847,Erbil,Kurdistan,Middle East,3,3,4,3,3,3,0,0,3,2,1,4,2,2.3,2,3,5,2,3,5,3,2
+848,Baoding,China,Asia,4,3,1,4,1,3,3,1,3,2,2,3,2,1.77,1,1,4,4,3,5,2,2
+849,Patna,India,Asia,2,3,1,4,3,2,2,2,2,4,2,3,1,1.74,2,1,4,3,2,5,1,2
+850,Gujranwala,Pakistan,Asia,2,3,1,5,3,1,3,2,1,1,1,3,1,1.78,2,1,4,2,2,1,2,2
+851,Kanpur,India,Asia,4,3,1,4,4,2,2,2,2,3,2,2,1,1.53,3,1,4,3,2,1,1,2
+852,Dhanbad,India,Asia,3,3,1,5,4,2,2,2,2,3,1,3,1,1.67,2,1,4,3,2,1,2,2
+853,Punta del Este,Uruguay,Latin America,3,3,5,2,2,4,4,3,4,3,2,4,2,2.03,2,4,4,3,4,1,3,2
+854,Chennai,India,Asia,2,3,3,4,3,2,2,2,3,3,1,4,3,1.67,2,1,4,3,3,5,3,1
+855,Handan,China,Asia,4,3,1,4,1,3,3,1,2,2,2,3,3,1.75,2,1,4,4,2,1,2,2
+856,Tangshan,China,Asia,1,3,1,3,1,3,3,1,2,2,2,3,2,1.84,2,1,4,4,3,5,3,2
+857,Nouméa,New Caledonia,Oceania,2,3,5,2,1,3,0,0,2,3,2,4,1,1.84,2,3,5,4,3,2,4,2
+858,Xining,China,Asia,2,3,1,4,1,3,3,1,2,2,2,3,2,1.89,2,1,4,4,2,5,4,2
+859,"Pekanbaru, Sum",Indonesia,Asia,2,3,4,2,3,3,3,3,3,3,1,4,1,1.67,1,1,4,4,3,1,4,2
+860,Huainan,China,Asia,2,3,5,4,2,3,3,1,3,3,3,4,3,2.35,2,1,4,4,3,5,3,2
+861,Changzhou,China,Asia,3,3,1,2,3,3,3,1,2,3,3,3,3,1.75,2,1,4,4,3,1,3,2
+862,Manila,Philippines,Asia,5,3,4,4,5,2,3,4,3,3,3,4,4,1.77,3,1,5,3,3,5,5,1
+863,Jeddah,Saudi Arabia,Middle East,5,3,1,2,2,3,4,4,3,2,1,3,2,1.75,2,1,2,3,3,3,2,1
+864,Yantai,China,Asia,2,3,4,4,1,3,3,1,2,2,2,4,2,2.33,2,1,4,4,3,2,4,2
+865,Sarajevo,Bosnia,Europe,2,3,4,4,3,3,0,3,4,2,1,4,4,1.88,5,3,5,4,4,5,4,1
+866,Ludhiana,India,Asia,3,3,1,4,3,2,2,2,3,3,3,2,3,1.7,3,1,4,3,2,5,1,2
+867,Addis Ababa,Ethiopia,Africa,3,3,5,4,2,1,2,1,2,3,1,4,2,1.91,1,1,4,3,3,2,4,2
+868,Vladivostok,Russia,Asia,2,3,4,3,2,2,3,2,4,2,1,4,3,1.63,1,1,5,2,3,5,4,2
+869,Lubumbashi,DR Congo,Africa,2,3,2,3,3,3,0,0,1,1,1,3,1,1.46,2,3,4,2,2,5,3,2
+870,Zhucheng,China,Asia,2,3,4,4,1,3,3,1,2,2,2,4,2,2.23,2,1,4,4,3,5,4,2
+871,Delhi,India,Asia,2,3,1,4,5,2,2,2,3,3,1,2,3,1.06,2,1,4,3,1,3,1,1
+872,Adana,Turkey,Europe,4,3,4,4,2,2,3,1,3,3,1,4,3,1.68,3,1,5,3,4,5,4,1
+873,Yokohama,Japan,Asia,3,3,5,3,1,4,3,5,4,4,2,4,3,1.53,1,3,5,5,4,3,5,1
+874,Benghazi,Libya,Africa,3,3,4,3,1,1,3,3,2,2,1,4,1,1.65,1,1,2,3,3,3,5,2
+875,Quetta,Pakistan,Asia,2,3,1,4,2,1,3,2,2,2,1,3,1,1.69,1,1,4,2,2,5,3,2
+876,"Okinawa, Okina",Japan,Asia,4,3,5,3,1,4,3,5,3,5,3,4,4,1.58,1,3,5,5,4,5,4,1
+877,Tehran,Iran,Middle East,4,3,2,4,3,2,2,3,3,3,1,3,2,2.22,1,1,2,3,3,5,5,2
+878,Shijiazhuang,China,Asia,4,3,1,4,1,3,3,1,3,3,2,2,2,1.47,2,1,4,4,2,5,1,2
+879,Qom,Iran,Middle East,2,3,4,5,2,2,2,3,3,2,2,4,1,2,1,1,2,3,3,1,5,2
+880,Huambo,Angola,Africa,2,3,2,3,2,1,1,0,1,2,1,3,3,1.23,1,2,2,2,3,3,2,2
+881,Izhevsk,Russia,Europe,4,3,5,4,2,2,3,2,3,1,1,4,3,1.72,1,1,5,2,4,3,3,2
+882,Surat,India,Asia,2,3,1,4,4,2,2,2,3,4,2,3,2,1.46,2,1,4,3,3,5,4,1
+883,Karachi,Pakistan,Asia,3,3,1,4,3,1,3,2,2,2,1,2,2,1.39,3,1,4,2,1,5,1,2
+884,Bahawalpur,Pakistan,Asia,2,3,1,4,3,1,3,2,2,1,1,3,1,1.74,2,1,4,2,2,1,1,2
+885,Oaxaca,Mexico,Latin America,2,3,5,4,2,3,4,3,3,3,3,4,3,1.59,4,1,5,3,3,5,3,0
+886,Managua,Nicaragua,Latin America,3,3,5,4,2,2,3,3,2,2,3,4,2,1.51,3,3,4,2,3,3,5,1
+887,Thane,India,Asia,2,3,3,4,4,2,2,2,3,4,2,4,3,1.58,2,1,4,3,3,5,3,1
+888,Nasik,India,Asia,2,3,3,4,4,2,2,2,2,3,2,4,4,1.37,3,1,4,3,3,5,5,1
+889,Tomsk,Russia,Asia,2,3,4,4,1,2,3,2,4,1,1,4,2,1.86,1,1,5,2,3,5,4,2
+890,Bursa,Turkey,Europe,3,3,4,4,2,2,3,1,3,3,2,4,2,1.57,3,1,5,3,4,3,4,1
+891,León,Nicaragua,Latin America,1,3,5,4,3,2,3,3,3,2,2,4,2,1.41,3,3,4,2,3,5,5,1
+892,Allahabad,India,Asia,3,3,1,4,4,2,2,2,2,2,1,2,1,1.31,1,1,4,3,1,5,1,2
+893,Palawan,Philippines,Asia,4,3,4,4,5,2,3,4,4,5,2,4,3,1.52,1,1,5,3,3,1,4,1
+894,Wonsan,North Korea,Asia,3,3,4,4,1,1,0,1,1,5,1,4,2,1.32,2,1,5,3,3,3,4,1
+895,Sapporo,Japan,Asia,4,3,5,3,1,4,3,5,4,4,3,4,3,1.27,1,3,5,5,4,5,2,1
+896,Kobe,Japan,Asia,4,3,5,2,1,4,3,5,4,5,3,4,2,1.45,1,3,5,5,4,2,5,1
+897,Hamamatsu,Japan,Asia,4,3,5,4,1,4,3,5,4,4,3,4,3,1.41,1,3,5,5,4,5,5,1
+898,Kota,India,Asia,2,3,1,4,4,2,2,2,2,2,1,3,1,1.4,1,1,4,3,2,5,1,2
+899,Sendai,Japan,Asia,4,3,5,4,1,4,3,5,4,3,3,4,2,1.33,1,3,5,5,4,3,4,1
+900,Kyoto,Japan,Asia,4,3,5,3,1,4,3,5,4,5,3,4,4,1.28,1,3,5,5,4,5,5,1
+901,Ibadan,Nigeria,Africa,4,3,5,4,4,1,2,0,2,2,2,4,2,1.33,2,2,2,2,3,1,5,1
+902,Avellino,Italy,Europe,5,3,5,4,1,4,3,5,4,2,2,4,2,1.33,2,3,5,4,4,5,5,1
+903,Goiania,Brazil,Latin America,4,3,4,4,3,3,4,2,3,2,3,4,4,1.34,3,2,2,2,3,5,4,1
+904,Ahmedabad,India,Asia,4,3,2,4,3,2,2,2,3,4,1,3,2,1.2,1,1,4,3,3,5,2,1
+905,Santa Cruz,Bolivia,Latin America,3,3,4,4,2,2,3,2,2,5,3,4,2,1.54,2,2,4,2,3,1,5,1
+906,Porto Alegre,Brazil,Latin America,2,3,4,4,1,3,4,2,3,5,2,4,3,1.83,2,2,2,2,4,5,4,1
+907,Lomé,Togo,Africa,1,3,5,4,2,2,1,2,1,2,2,4,2,1.31,2,2,4,3,3,1,5,1
+908,Kinshasa,DR Congo,Africa,2,3,2,5,2,3,0,0,3,3,2,3,3,1.15,2,3,4,2,3,3,5,1
+909,Havana,Cuba,Latin America,3,3,4,4,3,3,0,4,1,5,3,4,4,1.19,3,1,5,4,3,1,4,0
+910,Indore,India,Asia,2,3,1,4,2,2,2,2,3,4,1,3,2,1.24,2,1,4,3,2,5,3,1
+911,Lagos,Nigeria,Africa,1,3,5,4,5,1,2,0,3,3,1,4,4,1.36,1,2,2,3,3,5,5,1
+912,Niamey,Niger,Africa,1,3,5,4,3,1,1,1,1,2,1,4,1,1.3,2,3,2,3,3,5,4,1
+913,Nizhny,Russia,Europe,2,3,5,2,2,2,3,2,4,2,1,4,4,1.47,1,1,5,2,4,5,3,2
+914,Aleppo,Syria,Middle East,2,3,4,5,2,1,1,2,3,1,1,4,1,1.22,2,1,4,2,3,5,4,1
+915,Kaesong,North Korea,Asia,3,3,4,4,1,1,0,1,1,4,1,3,1,1.23,2,1,5,3,3,5,5,1
+916,Nagpur,India,Asia,2,3,1,4,4,2,2,2,2,4,2,3,2,1.02,2,1,4,3,2,5,3,1
+917,Tashkent,Uzbekistan,Asia,2,3,1,4,2,2,3,2,1,3,1,4,3,2.17,2,1,5,3,3,2,4,1
+918,Hiroshima,Japan,Asia,4,3,5,4,1,4,3,5,4,3,3,4,4,1.22,1,3,5,4,4,2,4,1
+919,Gwalior,India,Asia,3,3,1,4,4,2,2,2,2,3,1,1,1,1.01,2,1,4,3,1,5,1,2
+920,Lusaka,Zambia,Africa,1,3,5,4,2,2,2,0,2,2,2,4,2,1.1,2,2,2,3,3,5,3,1
+921,Dorobō,Japan,Asia,1,3,5,4,1,4,3,5,4,3,2,4,1,0.93,1,3,5,4,4,3,2,1
+922,Turin,Italy,Europe,3,3,5,2,1,4,3,5,4,4,2,4,3,1.19,2,3,5,4,4,5,4,1
+923,Tebessa,Algeria,Africa,2,3,4,4,2,2,3,3,2,2,1,4,1,1.16,2,1,4,3,3,5,4,1
+924,Kirkuk,Kurdistan,Middle East,1,3,5,4,3,3,0,0,3,2,2,3,1,1.14,2,3,5,1,3,5,3,1
+925,"Naha, Okinawa",Japan,Asia,4,3,5,3,1,4,3,5,4,3,3,4,2,1.15,1,3,5,5,4,5,4,1
+926,Ko Phi Phi,Thailand,Asia,3,3,5,4,2,2,4,1,4,3,3,4,3,1.09,1,1,2,4,3,2,3,1
+927,Pyongyang,North Korea,Asia,3,3,4,4,3,1,0,1,1,3,2,3,2,1.07,2,1,5,3,3,1,4,1
+928,Xuzhou,China,Asia,3,3,1,4,1,3,3,1,3,2,3,3,2,1.12,2,1,4,4,3,2,3,1
+929,Damascus,Syria,Middle East,4,3,4,5,2,1,1,2,2,2,1,4,1,1.12,2,1,4,3,3,5,5,1
+930,Kolkata,India,Asia,2,3,1,4,3,2,2,2,3,3,2,3,1,0.97,2,1,4,3,2,5,2,1
+931,Kitakyushu,Japan,Asia,4,3,5,3,1,4,3,5,4,3,3,4,3,1.11,1,3,5,5,4,2,5,1
+932,Benin City,Nigeria,Africa,2,3,2,4,4,1,2,0,2,2,1,3,2,0.86,2,2,2,3,3,2,5,1
+933,Tegucigalpa,Honduras,Latin America,3,3,3,4,2,2,3,2,2,2,1,4,1,1.08,1,1,4,1,3,5,4,1
+934,Lilongwe,Malawi,Africa,2,3,2,4,2,2,1,0,1,2,1,3,1,0.8,2,3,4,3,2,2,3,1
+935,Kochi,India,Asia,2,3,3,4,3,2,2,2,2,2,1,4,3,1.2,1,1,4,3,3,5,5,1
+936,Asmara,Eritrea,Africa,2,3,2,4,2,1,0,1,3,1,1,3,1,0.94,2,1,2,2,3,2,3,1
+937,Hama,Syria,Middle East,2,3,4,5,2,1,1,2,3,1,1,4,1,1.03,2,1,4,2,3,3,5,1
+938,Dammam,Saudi Arabia,Middle East,5,3,1,3,2,3,4,4,2,2,1,2,1,0.96,2,1,2,3,1,5,1,2
+939,Freetown,Sierra Leone,Africa,2,3,5,3,3,1,2,0,1,1,1,3,1,0.89,2,3,2,3,3,3,5,1
+940,Caracas,Venezuela,Latin America,3,4,4,4,1,2,3,4,2,2,2,4,3,1.06,1,1,2,1,3,2,4,0
+941,Kumasi,Ghana,Africa,1,3,5,4,2,3,1,2,2,2,1,4,1,1.03,1,4,2,3,3,5,4,1
+942,St John's,Antigua and Barbu,Latin America,3,3,4,3,4,3,0,3,2,0,1,3,2,0.98,2,3,5,2,3,3,5,1
+943,Rome,Italy,Europe,2,3,5,1,2,4,3,5,4,5,2,4,4,1.07,1,3,5,4,4,5,5,1
+944,Banjul,Gambia,Africa,1,3,5,5,2,2,0,1,1,2,1,4,1,1.02,1,1,2,3,3,3,5,1
+945,Brisbane,Australia,Oceania,3,5,5,1,5,5,5,4,4,2,4,4,3,1.42,3,4,5,5,4,5,4,1
+946,Sana'a,Yemen,Middle East,2,3,2,4,2,1,1,2,1,2,1,4,1,0.88,2,1,2,2,2,2,5,1
+947,Wuhan,China,Asia,4,3,0,4,1,3,3,1,2,3,2,3,2,0.87,1,1,4,4,3,5,3,1
+948,Bamako,Mali,Africa,3,3,4,3,2,1,2,1,1,2,1,3,1,0.9,2,2,2,2,3,5,5,1
+949,Male,Maldives,Asia,3,3,5,4,3,3,0,1,2,5,1,4,1,1.21,1,2,5,4,3,5,4,1
+950,Baghdad,Iraq,Middle East,2,3,1,2,2,1,2,2,2,2,1,3,2,0.93,2,1,2,2,2,2,1,2
+951,Obninsk,Russia,Europe,1,3,5,3,1,2,3,2,4,1,1,4,1,0.98,1,1,5,2,4,5,4,1
+952,Gold Coast,Australia,Oceania,1,3,5,2,3,5,5,4,4,3,4,4,3,0.99,1,4,5,4,4,3,4,1
+953,Port Harcourt,Nigeria,Africa,2,3,2,3,3,1,2,0,3,2,1,3,1,0.73,2,2,2,2,3,1,5,1
+954,Avarua,Cook Islands,Oceania,2,3,3,1,3,3,0,2,1,4,3,4,1,0.79,1,3,5,4,3,2,4,1
+955,Bhopal,India,Asia,2,3,1,4,2,2,2,2,2,4,1,3,1,0.79,1,1,4,3,2,5,2,1
+956,Sariwon,North Korea,Asia,3,3,5,4,1,1,0,1,1,2,1,4,1,0.86,1,1,5,3,3,2,4,1
+957,Oran,Algeria,Africa,2,3,4,2,2,2,3,3,1,2,1,4,1,0.77,2,1,4,3,3,2,4,1
+958,Noida,India,Asia,2,3,1,4,4,2,2,2,3,3,2,2,4,0.65,2,1,4,3,2,5,1,1
+959,Kano,Nigeria,Africa,3,3,4,4,4,1,2,0,2,2,2,3,1,0.7,1,2,2,2,3,2,5,1
+960,Mogadishu,Somalia,Africa,2,3,2,4,1,1,3,1,1,2,1,3,2,0.67,1,1,4,2,2,1,4,1
+961,Abuja,Nigeria,Africa,2,3,2,4,4,1,2,0,3,2,1,3,2,0.72,1,2,2,2,3,2,5,1
+962,Port Moresby,Papua New Guinea,Asia,2,3,4,3,2,2,0,1,1,2,1,4,1,0.78,1,3,5,2,3,2,4,1
+963,Nampo,North Korea,Asia,3,3,4,4,1,1,0,1,1,2,1,3,1,0.73,1,1,5,3,3,2,4,1
+964,Dhaka,Bangladesh,Asia,2,3,1,4,3,1,2,3,2,2,2,3,2,0.67,1,1,5,3,2,3,2,1
+965,Sinuiju,North Korea,Asia,3,3,4,4,1,1,0,1,1,2,1,3,1,0.72,1,1,5,3,3,5,5,1
+966,Chongjin,North Korea,Asia,3,3,4,4,1,1,0,1,1,2,1,3,1,0.63,1,1,5,3,3,2,3,1
+967,Ushuaia,Argentina,Latin America,2,3,5,4,2,4,4,3,2,4,3,4,1,0.52,1,3,5,3,3,5,1,1
+968,Harare,Zimbabwe,Africa,4,3,5,3,5,1,1,1,1,3,1,4,2,0.59,1,1,5,3,3,2,2,1
+969,Sialkot,Pakistan,Asia,2,3,1,4,2,1,3,2,1,2,1,3,1,0.6,1,1,4,2,2,1,2,1
+970,Tanchon,North Korea,Asia,3,3,4,4,1,1,0,1,1,2,1,3,1,0.57,1,1,5,3,3,2,3,1
+971,Kananga,DR Congo,Africa,2,3,2,4,2,3,0,0,3,1,1,3,3,0.5,1,3,4,2,3,1,4,1
+972,Kaechon,North Korea,Asia,3,3,2,4,1,1,0,1,1,2,1,3,1,0.52,1,1,5,3,2,5,4,1
+973,Florianopolis,Brazil,Latin America,2,3,5,4,2,3,4,2,3,5,4,4,3,1.13,4,2,2,2,3,5,5,1
+974,Hamhung,North Korea,Asia,3,3,4,3,1,1,0,1,1,2,1,3,1,0.41,1,1,5,3,3,2,3,1
+975,Port-au-Prince,Haiti,Latin America,1,3,5,3,2,1,1,2,2,3,1,4,1,0.64,1,3,5,2,3,1,4,1
+976,Sargodha,Pakistan,Asia,2,3,0,5,2,1,3,2,1,2,1,3,1,0.59,1,1,4,2,2,2,1,1
+977,Stanley,Falkland Islands,Latin America,3,3,4,3,0,3,0,0,1,2,4,4,1,0.39,1,3,5,5,3,1,1,1
+978,Isfahan,Iran,Middle East,2,3,1,4,2,2,2,3,2,2,1,3,1,0.7,1,1,2,3,2,2,4,1
+979,Rawalpindi,Pakistan,Asia,3,3,1,5,2,1,3,2,2,1,1,0,2,0.43,1,1,4,2,0,5,1,2
+980,Islamabad,Pakistan,Asia,1,3,1,4,2,1,3,2,2,2,1,2,1,0.65,2,1,4,3,2,2,1,1
+981,King Edward Po,South Georgia and,Latin America,0,3,5,2,4,3,0,0,3,1,4,4,1,0.23,1,3,5,5,3,2,1,1
+982,Ahvaz,Iran,Middle East,3,3,1,4,1,2,2,3,3,2,1,2,1,0.44,1,1,2,3,2,3,1,1
+983,Basra,Iraq,Middle East,1,3,1,2,2,1,2,2,1,2,1,3,1,0,1,1,2,2,2,5,2,1
+984,Peshawar,Pakistan,Asia,3,3,1,4,2,1,3,2,1,3,1,1,1,0.27,1,1,4,2,1,3,1,2
+985,Kabul,Afghanistan,Asia,2,3,1,4,1,1,1,1,2,2,1,2,1,0.26,1,2,2,2,1,5,1,1

@@ -22,7 +22,7 @@ class Crawler:
 		f.close()
 		print("Output city clug to citylist.txt")
 
-	def crawlProfile(self):
+	def crawlTrips(self):
 		print("Crawl nomadlist people profile")
 		with open("allPeopleList.txt", "r") as f:
 			people_list = f.readlines()
@@ -59,6 +59,67 @@ class Crawler:
 					writer_trip.writerow([uid, trip_start, trip_end, trip_city, trip_country])
 				except:
 					pass
+	def crawlTags(self):
+		print("Crawl nomadlist people tags")
+		with open("allPeopleList.txt", "r") as f:
+			people_list = f.readlines()
+		f.close()
+
+		f_user = open('UserTags.csv', 'w')
+		writer_user = csv.writer(f_user)
+		writer_user.writerow(['user', 'Web Dev','Software Dev','Mobile Dev','UI/UX Design','Game Dev','VR Dev','Startup Founder','Finance','Crypto','Product Manager','Education','Medical','Politics',	'Creative','Law','Journalism','Blogging','Coach','Data','Fitness','Community','Marketing','Sales','Ecommerce','SaaS','Support','Geo','Sports','Logistics','Architecture','Hospitality'])
+
+		tag_dic = {
+		'Web Dev':0,
+		'Software Dev':1,
+		'Mobile Dev':2,
+		'UI/UX Design':3,
+		'Game Dev':4,
+		'VR Dev':5,
+		'Startup Founder':6,
+		'Finance':7,
+		'Crypto':8,
+		'Product Manager':9,
+		'Education':10,
+		'Medical':11,
+		'Politics':12,
+		'Creative':13,
+		'Law':14,
+		'Journalism':15,
+		'Blogging':16,
+		'Coach':17,
+		'Data':18,
+		'Fitness':19,
+		'Community':20,
+		'Marketing':21,
+		'Sales':22,
+		'Ecommerce':23,
+		'SaaS':24,
+		'Support':25,
+		'Geo':26,
+		'Sports':27,
+		'Logistics':28,
+		'Architecture':29,
+		'Hospitality':30		
+		}
+		for people in people_list:
+			resp = requests.get("https://nomadlist.com"+people)
+			soup = BeautifulSoup(resp.text, 'html.parser')
+			print(people)
+			try:
+				uid = people[2:]
+			except:
+				continue
+			user_job_tags = np.zeros([31])
+			job_tags = soup.find_all('span', attrs={"data-category": "work"})
+			for tag in job_tags:
+				if(tag['class'][0]=='active' or tag['class'][1]=='active'):
+					tagType = tag['data-key']
+					user_job_tags[tag_dic[tagType]] = 1
+
+			row = np.concatenate(([uid],user_job_tags))
+
+			writer_user.writerow(row)
 
 	def crawlPeople(self):
 		print("Crawl nomadlist people")
@@ -73,6 +134,26 @@ class Crawler:
 			blocks = soup.find_all('a', attrs={"class":re.compile(r'avatar'), "href":re.compile(r'@')})
 			for p in blocks:
 				people_list.append(p['href'])
+		people_bag = set(people_list)
+
+		with open("peoplelist.txt", "w") as f:
+			for p in people_bag:
+				f.write(p+'\n')
+		f.close()
+
+	def crawlPeopleInCity(self, city_slug):
+		print("Crawl nomadlist people")
+		people_list = []
+		with open("citylist.txt", "r") as f:
+			city_slugs = f.readlines()
+		f.close()
+		
+		print(city_slug)
+		resp = requests.get("https://nomadlist.com/trips/"+city_slug)
+		soup = BeautifulSoup(resp.text, 'html.parser')
+		blocks = soup.find_all('a', attrs={"class":re.compile(r'avatar'), "href":re.compile(r'@')})
+		for p in blocks:
+			people_list.append(p['href'])
 		people_bag = set(people_list)
 
 		with open("peoplelist.txt", "w") as f:
